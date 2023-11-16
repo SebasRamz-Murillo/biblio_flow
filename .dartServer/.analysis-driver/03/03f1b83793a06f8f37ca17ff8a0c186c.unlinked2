@@ -1,0 +1,1880 @@
+nametoStringlabelhintactionhashCode==_nextId_actions_idsgetIdentifier	getActionstring
+attributes+showWhenEmptyisInterestingvalueToStringflagsactionsattributedLabelvalueattributedValueincreasedValueattributedIncreasedValuedecreasedValueattributedDecreasedValueattributedHinttooltiptextDirectiontextSelectionscrollChildCountscrollIndexscrollPositionscrollExtentMaxscrollExtentMinplatformViewIdmaxValueLengthcurrentValueLengthrecttags	transform	elevation	thicknesscustomSemanticsActionIdshasFlag	hasActiontoStringShortdebugFillProperties_sortedListsEqual
+childOrdergetChildren	onTapHintonLongPressHint
+isNotEmptyenabledcheckedmixedtoggledselectedbuttonlinkheader	textFieldsliderkeyboardKeyreadOnly	focusablefocusedinMutuallyExclusiveGrouphiddenobscured	multilinescopesRoute
+namesRouteimage
+liveRegionhintOverridessortKeytagForChildrenonTaponLongPressonScrollLeftonScrollRight
+onScrollUponScrollDown
+onIncrease
+onDecreaseonCopyonCutonPasteonMoveCursorForwardByCharacteronMoveCursorBackwardByCharacteronMoveCursorForwardByWordonMoveCursorBackwardByWordonSetSelection	onSetTextonDidGainAccessibilityFocusonDidLoseAccessibilityFocus	onDismisscustomSemanticsActions$_maxFrameworkAccessibilityIdentifier_lastIdentifier_generateNewIdkeyid_id_showOnScreen
+_transform_rectparentSemanticsClipRectparentPaintClipRectelevationAdjustmentindexInParentisInvisibleisMergedIntoParent_isMergedIntoParentisPartOfNodeMergingmergeAllDescendantsIntoThisNode _mergeAllDescendantsIntoThisNode	_children_debugPreviousSnapshot_replaceChildrenhasChildren_deadchildrenCountvisitChildren_visitDescendantsownerparentredepthChildrenattachdetach_dirty
+_markDirty)_isDifferentFromCurrentSemanticAnnotation_customSemanticsActions_actionsAsBitsisTagged_flags_attributedLabel_attributedValue_attributedIncreasedValue_attributedDecreasedValue_attributedHint_tooltip
+_elevation
+_thickness_hintOverrides_textDirection_sortKey_textSelectionisMultiline_isMultiline_scrollChildCount_scrollIndex_scrollPosition_scrollExtentMax_scrollExtentMin_platformViewId_maxValueLength_currentValueLength_canPerformAction_kEmptyConfig
+updateWithgetSemanticsData_initIdentityTransform_kEmptyChildList!_kEmptyCustomSemanticsActionsList_kIdentityTransform_addToUpdate_childrenInTraversalOrder	sendEventtoStringDeeptoDiagnosticsNodedebugDescribeChildrendebugListChildrenInOrderisLeadingEdgeoffsetnode	compareTostartOffsetnodessortedWithinVerticalGroupsortedWithinKnotpositiononSemanticsUpdate_dirtyNodes_nodes_detachedNodesrootSemanticsNodedisposesendSemanticsUpdate_getSemanticsActionHandlerForIdperformAction%_getSemanticsActionHandlerForPositionperformActionAtisSemanticBoundary_isSemanticBoundaryexplicitChildNodes+isBlockingSemanticsOfPreviouslyPaintedNodeshasBeenAnnotated_hasBeenAnnotated
+_addAction_addArgumentlessAction_onTap_onLongPress_onScrollLeft
+_onDismiss_onScrollRight_onScrollUp_onScrollDown_onIncrease_onDecrease_onCopy_onCut_onPasteonShowOnScreen_onShowOnScreen_onMoveCursorForwardByCharacter _onMoveCursorBackwardByCharacter_onMoveCursorForwardByWord_onMoveCursorBackwardByWord_onSetSelection
+_onSetText_onDidGainAccessibilityFocus_onDidLoseAccessibilityFocusgetActionHandler_indexInParentisMergingSemanticsOfDescendants _isMergingSemanticsOfDescendants_onCustomSemanticsActionisImage
+isSelected	isEnabled	isCheckedisCheckStateMixed	isToggledisInMutuallyExclusiveGroupisFocusable	isFocusedisButtonisLinkisHeaderisSliderisKeyboardKeyisHiddenisTextField
+isReadOnly
+isObscuredhasImplicitScrollingtagsForChildren_tagsForChildrenaddTagForChildren_setFlag_hasFlagisCompatibleWithabsorbcopyinverseHitTesttraversalOrder	doCompareorderSemanticsNodeVisitorMoveCursorHandlerSetSelectionHandlerSetTextHandlerSemanticsActionHandlerSemanticsUpdateCallbackSemanticsTagCustomSemanticsActionAttributedStringAttributedStringPropertySemanticsData_SemanticsDiagnosticableNodeSemanticsHintOverridesSemanticsPropertiesdebugResetSemanticsIdCounterSemanticsNode_BoxEdge_SemanticsSortGroup_pointInParentCoordinates_childrenInDefaultOrder_TraversalSortNodeSemanticsOwnerSemanticsConfigurationDebugSemanticsDumpOrder_concatAttributedStringSemanticsSortKeyOrdinalSortKey”OffsetRectSemanticsActionSemanticsFlagStringAttributeTextDirectionMatrixUtilsTransformPropertySemanticsBindingVoidCallbackDiagnosticLevelDiagnosticPropertiesBuilderDiagnosticsNodeDiagnosticsTreeStyleKeyTextTreeConfigurationTextSelectionMatrix4SemanticsEventvisitChildrenboolvoidsetSelectionsetTextStringgetActionHandlerObjectonSemanticsUpdateSemanticsUpdateRenderSemanticsGestureHandleroverrideobjectRuntimeType	immutableinthashruntimeTypelabelhintactionMap	TextRange
+isNotEmptyisEmptylength	attributerangestartendListstringof
+attributescopyadd
+listEqualsDiagnosticsPropertyshowNamelevelvaluedefaultValueisInterestingparentConfigurationlineBreakProperties
+replaceAllmergeAllDescendantsIntoThisNodegetSemanticsDataDiagnosticableincreasedecreaseScrollPositionpixelsdoublemaxScrollExtentminScrollExtentAndroidView	UiKitViewisTextFieldSet	elevation	thicknessindexdebugFillPropertiesDoublePropertyvaluesdescribeEnummap	getActionactionIdtoListIterablePropertyifEmptyflagStringPropertyEnumPropertyisValidMessagePropertyIntPropertyflagsactionsattributedLabelattributedValueattributedIncreasedValueattributedDecreasedValueattributedHinttooltiptextDirectionrect	setEqualstagsscrollChildCountscrollIndextextSelectionscrollPositionscrollExtentMaxscrollExtentMinplatformViewIdmaxValueLengthcurrentValueLength	transformcustomSemanticsActionIdshashAlliDiagnosticableNodedebugDescribeChildren
+childOrderDiagnosticableTree	onTapHintonLongPressHintCheckboxtristateexplicitChildNodesscopesRoute
+namesRouteisImageSnackBarisLiveRegion
+liveRegionDirectionalityincreasedValuedecreasedValueRenderObjectaddTagForChildrentap	longPress
+scrollLeftscrollRightscrollUp
+scrollDowncutpastemoveCursorForwardByCharactermoveCursorBackwardByCharactermoveCursorForwardByWordmoveCursorBackwardByWorddidGainAccessibilityFocus	FocusNode
+FocusScopeFocusManagerdidLoseAccessibilityFocusdismisscustomActionid_lastIdentifierPipelineOwnerflushSemanticsAbstractNodeDiagnosticableTreeMixinshowOnScreenmatrixEquals
+isIdentityzeroisFiniteisMergingSemanticsOfDescendantsanychild	identicalErrorDescriptionErrorSpacertoDiagnosticsNodenamestyle
+singleLineFlutterError	fromPartsErrorSummary	ErrorHintnodeisMergedIntoParentparent_deadisInvisible	dropChildattached
+adoptChild_visitDescendantsownerforEachredepthChildattach_nodescontainsKey_detachedNodesremovecontainsdetach_dirtyNodes_flags_sortKey_textSelection_scrollPosition_scrollExtentMax_scrollExtentMin_actionsAsBitsindexInParent_maxValueLength_currentValueLength_actions_customSemanticsActionsPhysicalModelAconfigchildrenInInversePaintOrderhintOverridessortKeyisMultiline_platformViewIdkeysgetIdentifieroverridingAction_textDirection_scrollChildCount_scrollIndex_attributedValue_attributedIncreasedValue_attributedDecreasedValue_tooltipaddAllthisAttributedStringthisTextDirectionotherAttributedString_attributedLabelotherTextDirection_attributedHintmax
+_thickness
+_elevationsortFloat64Listidentitystorage	Int32ListSemanticsUpdateBuilder
+updateNodelabelAttributesvalueAttributesincreasedValueAttributesdecreasedValueAttributeshintAttributestextSelectionBase
+baseOffsettextSelectionExtentextentOffsetscrollChildrennanchildrenInTraversalOrderchildrenInHitTestOrderadditionalActionspositionclearsortNodeSystemChannelsaccessibilitysendtoMapnodeIdFlagPropertyifTrueifFalsehiddeninfogetAsTranslationshift
+getAsScaletoStringAsFixedtoStringsplittakeline	substringjoindescriptiontagwhereisHiddendebugtraversalOrdertoStringDeepprefixLineOneprefixOtherLinesminLevelsparseinverseHitTest
+Comparable	compareTooffsetstartOffsetdeflateisLeadingEdgetopLeftdxbottomRightedgenodesrtlreversedexpandsortedWithinKnot	directioncenternextNodeltrpiabdyVector3
+transform3xysortedWithinVerticalGroupensureSemanticsSemanticsHandleChangeNotifierFlutterViewdisposedepth_dirtyisPartOfNodeMerging
+_markDirtyinstancecreateSemanticsUpdateBuilder_addToUpdateupdateCustomAction
+overrideIdbuildnotifyListeners_canPerformActionargs_showOnScreencopyInversetransformPointhasChildren	_childrendescribeIdentityvisitChildrenForSemantics	addActionGestureDetectordynamiccastListTileselected
+isSelectedExcludeSemanticshasEnabledState	isEnabledhasCheckedState	isCheckedisCheckStateMixedhasToggledState	isToggledRadioisInMutuallyExclusiveGroupisFocusable	isFocusedisButtonisLinkisHeaderisSliderisKeyboardKey
+isReadOnly
+isObscuredListViewTabBarhasImplicitScrollingIterableRenderViewportexcludeFromScrollinghasBeenAnnotated_hintOverrides_hasBeenAnnotated_isSemanticBoundary+isBlockingSemanticsOfPreviouslyPaintedNodes _isMergingSemanticsOfDescendants_tagsForChildren_indexInParentdebugDumpSemanticsTreeUnicodeRLEPDFLRE	protectedinfinitynegativeInfinityorder	DiagnosticsPropertyDiagnosticableDiagnosticableNodeDiagnosticableTreeAbstractNodeDiagnosticableTreeMixin
+ComparableChangeNotifierSemanticsSortKeysHØòå¦.%»E ´  ‚m‚ÌOffsetRectSemanticsActionSemanticsFlagStringAttributeTextDirectionVoidCallback ‚\dart:ui‚øƒlDiagnosticLevelDiagnosticPropertiesBuilderDiagnosticsNodeDiagnosticsTreeStyleKeyTextTreeConfiguration ‚Ïpackage:flutter/foundation.dartƒ•ƒ§TextSelection ƒnpackage:flutter/services.dartƒÚƒæMatrix4 ƒ©'package:vector_math/vector_math_64.dart„„SemanticsEvent ƒésemantics_event.dart
+  €¦  €¸math€»	dart:math  €Â  €Òui€Õdart:ui€ê;OffsetRectSemanticsActionSemanticsFlagStringAttributeTextDirection €Ú  dart:ui  ?  package:flutter/foundation.dart²MatrixUtilsTransformProperty i  package:flutter/painting.dart  µ  package:flutter/services.dart  İ  'package:vector_math/vector_math_64.dart‚%‚:SemanticsBinding ‚  binding.dart  ‚=  semantics_event.dart    	dart:coreÀÖ“ ÀŞQ’³ <€†€¤€¥€Á€Ù=>h´Ü‚‚‚<‚[‚\‚Î‚Ïƒnƒ©ƒèƒé„„„c„g„„”„¿………=…A……Ş†† †l†«†ñ†ò‡:‡b‡—‡˜‡Ì‡ĞˆˆIˆJˆŸˆ£ˆÓ‰‰ ‰A‰E‰„‰ÑŠŠ!ŠoŠ¼ŠÊŠÎ‹‹j‹¸‹Ç‹Ü‹üŒŒRŒ¢Œò$%bh®ÃÄĞOS•İ%m¼l ¤ó‘‘
+‘R‘}‘‘‘“‘ä‘ï’’:’@’x’´’Ñ’ì’ÿ“““e“s“y“°”"”>”X”v”Š”‹”É”à”á••3•4•n•••œ•Ô•Õ•á––0–D–J–t–”–²–Õ–Ù–Ú–æ–ü—Y—]—^—§—À—Ú˜4˜Š˜‹˜º˜õ™™/™I™f™‡™™ ™¤™¥™Ôšš!š%š'š(š`škš„š§š­šø›››X›g›{››¿›÷œ
+œHœZœœÂ
+!6BC{’“½Ã/0syÊŸŸKŸeŸyŸŸŸŸ²Ÿ¸Ÿ¹ŸŞ  h  · ù¡'¡X¡…¡¡ã¢¢¢¢b¢f¢g¢³¢¿¢â££3£U£›£Ÿ£ £¬£ä£å£ñ¤¤h¤l¤n¤o¤¹¤÷¥F¥Œ¥’¥Ï¥ë¦¦¦)¦I¦a¦r¦‰¦ª¦È¦É§§Q§W§|§˜§™§¥¨¨¨%¨l¨…¨š¨ ¨Á¨è©©W©‚©ˆ©­©Å©Ëª8ª<ª>ª?ªwª{ªÇ««h«z«~«¼«Ç«ñ¬¬¬l¬r¬½¬Ï¬è­­&­I­u­¡­Ã­Ş­ÿ®®4®Q®r®‘®µ®×®ú¯¯?¯a¯‡¯–¯ª¯Í¯ë°°3°[°Œ°½°ä±g²²©³e´!´¿´Ü´İµµ/µ0µqµ†µ‡µÆµÌ¶¶¶E¶s¶t¶µ¶Ö¶Ü···T·~··¾·Ä·ı¸¸=¸k¸l¸­¸Î¸Ô¹¹¹L¹v¹w¹³¹Ü¹âºº!ºdº¤º¥ºá»'»-»f»l»®»á»â¼¼G¼M¼†¼Œ¼Ï½½½L½’½˜½Ñ½×¾¾L¾M¾›¾¡¾Ú¾à¿¿E¿F¿“¿·¿½¿ö¿üÀ @4À @]À @^À @“À @™À @ÒÀ @êÀ @ëÀ A)À A_À A…À A†À A×À BÀ B)À B*À BvÀ B|À BÉÀ BÕÀ BôÀ BõÀ C;À CUÀ CVÀ C¦À C¸À C¾À DÀ DZÀ D À D¦À D¶À D¼À EÀ E&À E'À EvÀ EˆÀ EÀ EÉÀ EÏÀ EßÀ EåÀ F8À FYÀ FZÀ F©À F»À FÁÀ FüÀ GÀ GÀ GÀ GkÀ GŒÀ GÀ G×À GôÀ GúÀ HHÀ H’À H§À H­À H½À HÃÀ IÀ I=À IZÀ I[À I§À I¹À I¿À JÀ J À J&À JvÀ J¸À JÕÀ JÖÀ K%À K7À K=À KŠÀ KÀ K¤À KõÀ L À LAÀ LBÀ LÀ L”À L•À LÑÀ LòÀ LóÀ MMÀ MSÀ MšÀ MëÀ MúÀ NÀ NÀ N_À NeÀ NuÀ N{À NËÀ NíÀ OÀ OÀ ONÀ OTÀ OdÀ OjÀ O¶À OĞÀ OÑÀ PÀ P;À PAÀ PtÀ PzÀ PŠÀ PÀ PØÀ QÀ QÀ Q5À QvÀ QwÀ QªÀ QõÀ QöÀ RÀ RHÀ RIÀ RUÀ RšÀ RÅÀ SÀ SwÀ SÆÀ TÀ TFÀ TÀ T»À TÛÀ TâÀ U3À U‹À UœÀ UóÀ V`À VaÀ VÀ VÔÀ VûÀ WÀ W À WsÀ W»À XÀ X]À X·À XıÀ YGÀ Y¬À Y×À ZCÀ ZIÀ Z À Z÷À [VÀ [¯À \ À \\À \¶À ]À ]À ]À ]#À ]FÀ ]hÀ ]ˆÀ ]¬À ]àÀ ^À ^ZÀ ^ À ^ÒÀ ^öÀ _&À _DÀ _kÀ _¡À _ÍÀ _ıÀ `/À `cÀ `—À `ÉÀ `ûÀ a5À a]À a…À a­À bÀ b	À b
+À bÀ b9À bDÀ bQÀ bfÀ b{À b™À b·À bËÀ bØÀ bëÀ bõÀ bÿÀ cÀ c(À c9À cMÀ cbÀ cwÀ c‹À cŸÀ c°À cÊÀ cÛÀ cìÀ cıÀ dXÀ d_À ddÀ deÀ dªÀ dÓÀ dæÀ dìÀ eÀ e>À eTÀ e\À eŠÀ e­À eÅÀ eÍÀ e×À eêÀ eğÀ fÀ fÀ fÀ f	À fXÀ fyÀ f‰À f£À f½À fÛÀ fáÀ fâÀ gÀ gÀ gÀ gyÀ g{À g|À gÃÀ gÒÀ gÖÀ hÀ hÀ hHÀ hrÀ h“À h§À hÁÀ háÀ iÀ iÀ i.À i4À ifÀ ilÀ i³À iàÀ iæÀ jÀ j)À jDÀ jEÀ jrÀ jxÀ jªÀ j°À júÀ k4À k:À klÀ kˆÀ k©À kªÀ kÜÀ l#À l$À l0À loÀ lpÀ l|À lŸÀ lËÀ lßÀ låÀ mÀ m8À mmÀ mqÀ mrÀ m~À mÃÀ mîÀ n>À nšÀ nÀ n À n¡À nğÀ oÀ o	À oYÀ omÀ oxÀ o¯À oÔÀ oòÀ pÀ pÀ p&À p9À pKÀ p\À pkÀ p|À pÀ p¡À p·À pÊÀ pŞÀ pğÀ qÀ q$À q7À qKÀ qaÀ qvÀ q†À q›À q´À qÑÀ qáÀ qûÀ rÀ r%À r>À raÀ rzÀ rÀ r¬À r¾À r×À rïÀ sÀ sÀ s2À sBÀ sXÀ soÀ s‡À sœÀ s³À sÈÀ sİÀ sîÀ sşÀ tÀ t9À tcÀ t‡À t¬À tÅÀ tÙÀ tÿÀ u%À u9À uZÀ uÎÀ vBÀ vÚÀ wrÀ wâÀ wãÀ x3À xZÀ x`À x®À xùÀ y+À yBÀ yCÀ yˆÀ yÍÀ yİÀ yãÀ z#À zgÀ z‰À zÀ zÌÀ zãÀ zäÀ {)À {mÀ {§À {­À {ëÀ |$À |`À |pÀ |vÀ |µÀ |ÊÀ |ËÀ }À }VÀ }fÀ }lÀ }©À }ÀÀ }ÁÀ ~À ~XÀ ~^À ~®À ~ÓÀ ~ëÀ ~ìÀ 0À 6À ƒÀ •À «À ¬À îÀ ôÀ €DÀ €À €œÀ €°À €±À €õÀ €ûÀ JÀ ˜À ½À ÓÀ ÔÀ ‚À ‚"À ‚lÀ ‚~À ‚—À ‚˜À ‚ÜÀ ‚âÀ ƒ)À ƒBÀ ƒXÀ ƒYÀ ƒ£À ƒ¾À ƒ¿À ƒüÀ „À „2À „8À „{À „“À „”À „ÕÀ „ÛÀ …"À …(À …zÀ …ÄÀ †À †TÀ †mÀ †nÀ †¯À †µÀ ‡À ‡FÀ ‡LÀ ‡À ‡èÀ ˆ9À ˆxÀ ˆÀ ˆÀ ˆİÀ ˆãÀ ‰3À ‰tÀ ‰œÀ ‰À ‰×À ‰İÀ Š,À Š}À ŠƒÀ ŠÓÀ ‹ À ‹2À ‹8À ‹ˆÀ ‹§À ‹­À ‹şÀ ŒLÀ Œ™À ŒÑÀ ŒçÀ ŒèÀ À %À rÀ ÂÀ À À  À nÀ }À ƒÀ ÍÀ À À BÀ [À \À ©À ×À İÀ À \À ’À ˜À ¨À ®À úÀ ‘À ‘1À ‘2À ‘À ‘…À ‘•À ‘›À ‘êÀ ’À ’À ’>À ’DÀ ’TÀ ’ZÀ ’ À ’µÀ ’¶À ’şÀ “À “PÀ “À “ĞÀ “ÖÀ ”$À ”rÀ ”ÀÀ •À •TÀ •~À •„À •”À •šÀ •ëÀ –BÀ –\À –]À –©À –»À –ÁÀ —À —"À —(À —rÀ —«À —ÈÀ —ÉÀ ˜À ˜*À ˜0À ˜}À ˜‘À ˜—À ˜àÀ ˜ÿÀ ™ À ™!À ™UÀ ™[À ™ªÀ ™ãÀ ™éÀ š8À šLÀ šRÀ šbÀ šhÀ š¹À šİÀ ›,À ›CÀ ›DÀ ›—À ›À ›çÀ œ1À œ7À œ†À œšÀ œ À œ°À œ¶À À 5À sÀ À ŸÀ àÀ æÀ 5À nÀ tÀ ÃÀ ×À İÀ íÀ óÀ ŸDÀ ŸhÀ Ÿ·À ŸÎÀ ŸÏÀ   À  5À  ;À  …À  ÏÀ  ÕÀ ¡$À ¡8À ¡>À ¡NÀ ¡TÀ ¡¤À ¡ÓÀ ¢À ¢<À ¢=À ¢ƒÀ ¢ÎÀ ¢ÔÀ £À £jÀ £‚À £ˆÀ £ÁÀ £ıÀ ¤À ¤À ¤À ¤hÀ ¤—À ¤åÀ ¤øÀ ¥À ¥À ¥jÀ ¥·À ¥½À ¦À ¦XÀ ¦€À ¦†À ¦¿À ¦ûÀ §À §À §À §gÀ §ŸÀ §æÀ ¨À ¨À ¨aÀ ¨¬À ¨²À ¨ıÀ ©HÀ ©`À ©fÀ ©ŸÀ ©ÛÀ ©áÀ ©ñÀ ©÷À ªFÀ ªuÀ ªÃÀ ªÖÀ ªöÀ ª÷À «HÀ «•À «›À «ìÀ ¬6À ¬^À ¬dÀ ¬À ¬åÀ ¬ëÀ ¬ûÀ ­À ­QÀ ­‰À ­ĞÀ ®À ®À ®UÀ ®jÀ ®pÀ ®¾À ®÷À ®ıÀ ¯JÀ ¯^À ¯dÀ ¯tÀ ¯zÀ ¯ÊÀ ¯îÀ °<À °RÀ °SÀ °¤À °×À °İÀ ±&À ±pÀ ±vÀ ±ÃÀ ±×À ±İÀ ±íÀ ±óÀ ²BÀ ²qÀ ²®À ²ØÀ ²ÙÀ ³À ³À ³nÀ ³¨À ³ÛÀ ³áÀ ´#À ´mÀ ´†À ´‡À ´ĞÀ ´áÀ ´çÀ µ3À µ‚À µ¹À µ¿À ¶À ¶=À ¶>À ¶…À ¶©À ¶¯À ¶ßÀ ·À ·À ·UÀ ·gÀ ·mÀ ·»À ¸	À ¸0À ¸SÀ ¸TÀ ¸œÀ ¸¢À ¸íÀ ¹<À ¹]À ¹cÀ ¹­À ¹şÀ ºGÀ ºMÀ º]À ºcÀ º³À ºÑÀ º÷À ºøÀ »%À »+À »{À »ËÀ »ÙÀ »ßÀ ¼+À ¼rÀ ¼À ¼À ¼ÃÀ ¼ÉÀ ½À ½TÀ ½ZÀ ½¦À ½õÀ ¾À ¾*À ¾+À ¾_À ¾eÀ ¾´À ¿À ¿!À ¿'À ¿wÀ ¿ÃÀ ÀÀ À]À ÀpÀ À”À À•À ÀÊÀ ÀĞÀ ÁÀ ÁmÀ ÁŒÀ Á’À ÁãÀ Â/À Â|À ÂÌÀ ÂßÀ ÃÀ ÃÀ Ã7À Ã=À ÃŒÀ ÃÚÀ Ã÷À ÃıÀ ÄKÀ Ä—À ÄâÀ Å1À ÅDÀ ÅfÀ ÅgÀ Å›À Å¡À ÅğÀ Æ>À Æ[À ÆaÀ Æ±À ÆıÀ ÇJÀ ÇšÀ Ç­À ÇÑÀ ÇÒÀ ÈÀ È
+À ÈWÀ È›À È¡À ÈçÀ É4À É:À É†À ÉÖÀ ÉîÀ ÊÀ ÊÀ ÊCÀ ÊIÀ Ê–À ÊÚÀ ÊàÀ Ë&À ËsÀ ËyÀ ËÇÀ ÌÀ Ì1À ÌSÀ ÌTÀ Ì‚À ÌˆÀ ÌĞÀ ÌÖÀ Í%À ÍNÀ ÍlÀ ÍmÀ ÍšÀ Í À ÍéÀ ÍúÀ Î À ÎOÀ ÎxÀ Î•À Î–À ÎÅÀ ÎËÀ ÏÀ ÏÀ ÏgÀ ÏÀ Ï¯À Ï°À ÏöÀ ÏüÀ ĞFÀ ĞqÀ ĞwÀ ĞÅÀ ĞëÀ Ñ&À Ñ'À ÑnÀ ÑtÀ Ñ¾À ÑêÀ ÑğÀ Ò@À ÒfÀ Ò¢À Ò£À ÒäÀ ÒêÀ Ó4À Ó[À ÓaÀ Ó±À Ó×À ÔÀ ÔÀ ÔPÀ ÔVÀ Ô À ÔÇÀ ÔÍÀ ÕÀ ÕCÀ ÕzÀ Õ{À Õ±À Õ·À ÖÀ ÖRÀ ÖXÀ Ö£À ÖåÀ ×À ×À ×DÀ ×JÀ ×›À ×ÁÀ ×ÇÀ ØÀ Ø3À ØVÀ ØWÀ ØšÀ Ø À ØîÀ Ù,À ÙtÀ Ù¾À ÙèÀ ÙîÀ Ú?À ÚÀ ÚŞÀ ÚäÀ ÚôÀ ÚúÀ ÛJÀ ÛsÀ ÛÅÀ ÛøÀ ÛùÀ Ü<À ÜBÀ ÜŠÀ ÜÊÀ İÀ İ`À İŠÀ İÀ İáÀ Ş2À Ş€À Ş†À Ş–À ŞœÀ ŞéÀ ßÀ ßYÀ ßŒÀ ßÀ ß¾À ßÄÀ àÀ à	À àVÀ à¥À àÃÀ àäÀ àåÀ á4À á:À á„À áÓÀ â!À ârÀ âxÀ âˆÀ âÀ âÖÀ ã À ã!À ã-À ãrÀ ãÀ ãôÀ äGÀ ä À äèÀ åNÀ å–À åüÀ æMÀ æÅÀ çÀ çÀ çÔÀ è8À èpÀ èÕÀ é8À é­À é±À é²À é¾À ê@À êBÀ êCÀ êˆÀ ê À êÆÀ êëÀ êíÀ êîÀ ëÀ ë!À ëqÀ ë¸À ìÀ ì"À ìjÀ ì‰À ìÀ ìßÀ ìñÀ íÀ íÀ í1À íPÀ íuÀ ívÀ íÁÀ íÇÀ íşÀ îÀ î#À îCÀ îfÀ îvÀ îœÀ î¯À î³À î´À îµÀ îûÀ ï À ïcÀ ïÅÀ ïöÀ ğ=À ğ>À ğ`À ğ€À ğÔÀ ğğÀ ğôÀ ğõÀ ñ7À ñ=À ñÀ ñ®À ñÀÀ ñÁÀ ñìÀ ñòÀ ò;À ò‹À ò¹À ò¿À óÀ óSÀ óÀ ó¢À ó­À ó®À óÓÀ óÔÀ óâÀ óãÀ ô=À ôCÀ ôŠÀ ôÛÀ ôêÀ õÀ õ)À õKÀ õƒÀ õÕÀ õéÀ õïÀ õóÀ õôÀ ö3À öMÀ ögÀ ö€À ö›À öîÀ ÷À ÷À ÷1À ÷7À ÷;À ÷<À ÷„À ÷ŠÀ ÷ÛÀ ÷ïÀ ÷õÀ øEÀ ø•À øåÀ ù3À ùbÀ ùhÀ ù¯À ùëÀ ùñÀ ú-À ú|À úÀ ú®À ú¯À úôÀ úúÀ ûKÀ û_À ûeÀ ûµÀ üÀ üSÀ ü“À ü™À üŞÀ üäÀ ı.À ıKÀ ıLÀ ı‘À ı—À ıáÀ ş+À şsÀ ş½À ÿÀ ÿÀ ÿ À ÿmÀ ÿµÀ ÿ»À ÿËÀ ÿÑÀ À 4À 5À À ‡À ÏÀÀnÀ À¶À·ÀÜÀâÀ1ÀÀÅÀáÀçÀ4ÀƒÀ¤ÀãÀäÀñÀòÀAÀwÀ›ÀÂÀİÀÀÀÀ:ÀLÀPÀQÀœÀ¢ÀóÀ#À)À9À?À]ÀˆÀáÀâÀ>ÀÀçÀèÀéÀ÷ÀøÀBÀdÀeÀ´À	À	À	IÀ	JÀ	…À	ËÀ	ÛÀ
+
+À
+TÀ
+—À
+ÆÀÀBÀPÀaÀšÀãÀÀEÀUÀ´À8ÀÂÀĞÀÜÀæÀÀIÀÀÀ<ÀlÀ‹À™À£À«ÀÀÀXÀYÀ~À¯ÀÔÀÜÀ(À;ÀEÀUÀ–ÀÍÀöÀÀ-À7À8ÀpÀÀÃÀßÀçÀíÀ"ÀÀ©À¯ÀËÀèÀÀ9À_À¤ÀÜÀúÀÀ"À,À4À:ÀoÀ‘ÀµÀÀJÀÀØÀÀ:ÀDÀeÀ€ÀšÀ¢À¨ÀÓÀöÀ-ÀLÀ€ÀµÀÑÀâÀìÀôÀúÀÀ,À@ÀFÀJÀKÀ†ÀÀÀÖÀ×ÀÀCÀDÀvÀ|ÀÍÀÀ.ÀcÀ€À¶ÀÕÀçÀñÀùÀÿÀÀÀ2À8À‡ÀĞÀşÀ7ÀTÀŠÀÎÀæÀğÀøÀşÀÀÀÀ0À1À=À|À}À‰ÀÈÀÉÀÕÀğÀÀÀÀ'ÀMÀfÀ‘ÀâÀ &À DÀ JÀ gÀ À  À ¶À ÊÀ ĞÀ íÀ!#À!@À!HÀ!NÀ!RÀ!SÀ!_À!qÀ!œÀ!ÏÀ!íÀ"À"&À"AÀ"^À"”À"áÀ#À#5À#OÀ#YÀ#aÀ#gÀ#«À#ìÀ$À$ À$$À$%À$;À$<À$SÀ$iÀ${À$‰À$À$¢À$¶À$ëÀ%À%À%À%À%lÀ%¢À%ÖÀ& À&*À&`À&¨À&ğÀ'À'9À'kÀ'’À'ÅÀ'úÀ(1À(hÀ(›À(ÌÀ(ÿÀ)4À)qÀ)ÈÀ)ÌÀ)ÍÀ)èÀ)éÀ*;À*§À*¨À*İÀ*ŞÀ+À+À+hÀ+‰À+¤À+¥À+ÓÀ,À,À,CÀ,DÀ,ƒÀ,ÃÀ,ÄÀ,îÀ,ôÀ--À-3À-mÀ-œÀ-À-äÀ-êÀ.#À.)À.bÀ.À.ãÀ.äÀ/#À/)À/bÀ/hÀ/¢À/ÑÀ/ÒÀ0À04À0:À0sÀ0yÀ0²À0îÀ13À14À1…À1ŸÀ1¥À1óÀ2À2À2PÀ2VÀ2™À2ÚÀ2ÛÀ3*À3xÀ3~À3ÌÀ3êÀ3ğÀ4)À4/À4qÀ4¿À5À5À5hÀ5‚À5ˆÀ5ÖÀ5ôÀ5úÀ63À69À6|À6½À6¾À7À7[À7aÀ7¯À7ÍÀ7ÓÀ8À8À8TÀ8¢À8ùÀ8úÀ9HÀ9NÀ9‡À9À9ÆÀ9óÀ9ôÀ:AÀ:eÀ:kÀ:¤À:ªÀ:âÀ;À;_À;`À;•À;›À;ÔÀ;öÀ<!À<"À<sÀ<–À<œÀ<äÀ=4À=]À=cÀ=sÀ=yÀ=ÂÀ>À>OÀ>uÀ>¤À>¥À>óÀ>ùÀ?CÀ?À?ßÀ@(À@xÀ@ÁÀ@ÇÀ@İÀA)ÀAQÀAWÀA§ÀAìÀBÀBÀBhÀBéÀBïÀC?ÀCŒÀCÙÀCıÀDÀD%ÀDBÀD\ÀD€ÀD«ÀDÌÀDèÀEÀE1ÀEPÀEtÀEƒÀEÀE›ÀE£ÀE­ÀE¿ÀEÅÀEÕÀEÛÀF%ÀFuÀF›ÀFÊÀFËÀGÀG%ÀGdÀGÀGÀGßÀG÷ÀH-ÀHlÀHmÀH¼ÀHÎÀHÔÀI"ÀIpÀI—ÀIÄÀIâÀIãÀJ4ÀJ`ÀJ–ÀJ·ÀJ¸ÀKÀK%ÀKNÀKdÀKeÀK±ÀK·ÀLÀLÀLBÀL\ÀL]ÀL£ÀLËÀLàÀLáÀM1ÀMCÀMIÀM™ÀMåÀN+ÀN1ÀNAÀNGÀN‘ÀNÂÀNİÀNŞÀO-ÀO?ÀOEÀO€ÀO†ÀO–ÀOœÀOïÀP"ÀP>ÀP?ÀPÀP ÀP¦ÀPáÀPçÀP÷ÀPıÀQOÀQ‚ÀQÀQŸÀQéÀRÀRÀRZÀR¤ÀR¹ÀR¿ÀRÏÀRÕÀSÀSOÀS}ÀS•ÀS–ÀSâÀSôÀSúÀTGÀT[ÀTaÀT±ÀTóÀU!ÀU9ÀU:ÀU‰ÀU›ÀU¡ÀUîÀVÀVÀVWÀVÀVµÀVÑÀVÒÀW$ÀW%ÀWuÀWvÀWÅÀXÀX:ÀX@ÀXÀX»ÀXÁÀYÀY`ÀYtÀY¡ÀY×ÀYŞÀYüÀZ9ÀZMÀZSÀZTÀZ`ÀZÓÀ[À[#À[$À[SÀ[‚À[ÃÀ\À\1À\PÀ\{À\À\ÁÀ\İÀ]À]'À]xÀ]ãÀ^À^;À^bÀ^À^ÀÀ^ğÀ_?À_pÀ_—À_ÁÀ_ïÀ`À`SÀ`¡À`¢À`®ÀaÀaŒÀa“ÀaŸÀaşÀb}Àb„ÀbˆÀb‰ÀbŠÀbÂÀbÈÀcÀceÀc˜Àc½ÀcÕÀc÷Àd0ÀdiÀd´ÀdÿÀe6ÀeUÀeˆÀeßÀfÀfAÀffÀf”ÀfÄÀfôÀgÀgJÀg}Àg¦ÀgÉÀh ÀhOÀh Àh¦ÀhÇÀhõÀiJÀiuÀiœÀi§ÀiúÀjÀj6Àj‹Àj¼ÀjéÀjôÀkGÀkOÀkUÀkVÀkÀk°ÀkÙÀk÷ÀlÀlNÀl}Àl²ÀlİÀmÀmAÀmtÀm¥ÀmÖÀnÀnVÀn‰Àn“ÀnìÀo1Ào;Ào”ÀoÙÀoãÀp Àp#Àp-ÀpNÀpyÀp£Àp­Àq ÀqUÀq_Àq‰ÀqÀÀrÀrMÀrxÀr‡ÀrŞÀrêÀs'Às€ÀsºÀsëÀsúÀtQÀt]ÀtgÀtšÀtËÀt÷Àu/ÀubÀumÀuŸÀuÏÀuûÀv2ÀveÀvpÀvqÀv½Àv¾ÀvÓÀvİÀvãÀväÀvşÀwÀw*ÀwRÀwzÀw´ÀwîÀxÀx,ÀxPÀxbÀx~ÀxšÀx¶ÀxÎÀxòÀyÀy<ÀybÀyŠÀy²ÀyØÀyşÀz,ÀzwÀz~Àz‚ÀzƒÀz³ÀzÚÀzŞÀzßÀ{À{dÀ{¯À{°À|À|&À|YÀ|‡À|³À|îÀ}!À}RÀ}_À}À}İÀ~À~EÀ~À~‰À~ÚÀ~êÀ ÀUÀœÀ¤ÀªÀÓÀ€À€dÀ€¬À€õÀDÀLÀRÀjÀxÀ‘À®ÀÅÀïÀ‚'À‚QÀ‚‰À‚ÅÀƒÀƒKÀƒ•Àƒ½ÀƒóÀ„À„9À„”À„óÀ…$À…UÀ…À…ÀÀ…ëÀ†$À†_À†šÀ†ÛÀ†üÀ‡À‡WÀ‡À‡åÀ‡ìÀˆ ÀˆÀˆÀˆUÀˆ‰ÀˆÄÀˆêÀ‰+À‰bÀ‰„À‰ŠÀ‰‹À‰¼À‰æÀŠBÀŠOÀŠ‘ÀŠ»ÀŠÁÀŠÂÀ‹À‹`À‹­À‹ôÀŒBÀŒ‰ÀŒ¬ÀÀGÀ~ÀŸÀØÀêÀ.ÀjÀ¬ÀòÀBÀbÀ…À¡À«À×ÀòÀúÀûÀ#À8ÀRÀnÀxÀ~ÀÀËÀçÀ‘À‘À‘$À‘LÀ‘MÀ‘iÀ‘³À‘ÄÀ‘ÈÀ‘ÉÀ’À’À’]À’®À’×À’ìÀ’úÀ“ À“@À“DÀ“EÀ“QÀ“ À“¡À“­À“òÀ”À”8À”JÀ”À•
+À•*À•0À•»À–&À–°À—À—*À—ˆÀ—•À—ğÀ˜À˜&À˜lÀ˜¹À™<À™tÀ™|À™æÀ™ìÀšaÀšàÀ›.À›rÀ›ƒÀ›ÔÀœ;ÀœıÀJÀ¤ÀÀUÀÀùÀŸTÀŸ›ÀŸæÀ LÀ ¯À ÛÀ¡JÀ¡PÀ¡§À¡şÀ¢]À¢¶À£À£cÀ£½À¤À¤hÀ¤·À¤»À¤¼À¥À¥
+À¥ZÀ¥ŠÀ¥–À¥®À¥ÍÀ¥ëÀ¦!À¦rÀ¦yÀ¦™À§2À§6À§7À§CÀ§iÀ§{À§ºÀ¨À¨À¨;À¨MÀ¨`À¨tÀ¨’À¨™À¨À¨À¨ªÀ©+À©[À©¿À©ĞÀ©ÔÀ©ÕÀª$ÀªyÀª™Àª¶ÀªÜÀªâÀªãÀªıÀ«0À«KÀ«~À«ªÀ«°À«´À«¶À«·À¬À¬?À¬CÀ¬“À¬àÀ­9À­‰À­ÔÀ®À®À®3À®MÀ®eÀ®‹À®ªÀ®ÊÀ®çÀ®èÀ¯1À¯WÀ¯]À¯}À¯ƒÀ¯×À°)À°yÀ°À°©À°ªÀ°ôÀ±À±-À±.À±UÀ±qÀ±rÀ±~À± À±ËÀ±ÏÀ±ÑÀ±ÒÀ²!À²WÀ²[À²¤À²èÀ³ À³À³@À³dÀ³eÀ³¯À³ÑÀ³×À´#À´HÀ´dÀ´eÀ´ŠÀ´‹À´½À´ôÀ´õÀµÀµ.ÀµcÀµgÀµhÀµ¸Àµ¾À¶À¶<À¶pÀ¶ŸÀ¶ÎÀ·À·RÀ·lÀ·‰À·ÑÀ·æÀ·ğÀ¸
+À¸(À¸tÀ¸‰À¸“À¸™À¸«À¸¬À¸öÀ¹À¹)À¹RÀ¹rÀ¹†À¹­À¹ÑÀ¹ùÀºÀº(Àº7ÀºKÀºSÀºkÀº‘Àº§Àº¯ÀºµÀºÒÀºÓÀ»À»>À»DÀ»EÀ»aÀ»¨À»¹À»½À»¾À¼
+À¼À¼_À¼€À¼†À¼ÔÀ½!À½qÀ½˜À½À½éÀ¾9À¾‡À¾ÖÀ¿À¿-À¿JÀ¿pÀ¿„À¿ŠÀ¿ÎÀ¿üÀÀ*ÀÀIÀÀ˜ÀÀÌÀÁÀÁbÀÁ‡ÀÁ›ÀÁ¥ÀÁ¦ÀÂÀÂ;ÀÂoÀÂ§ÀÂòÀÃ7ÀÃ‚ÀÃÍÀÃÿÀÄ'ÀÄ1ÀÄ9ÀÄ?ÀÄ@ÀÄiÀÄ’ÀÄ÷ÀÅCÀÅÀÅÒÀÅñÀÆÀÆÀÆIÀÆQÀÆRÀÆlÀÆ‘ÀÆ¡ÀÆ©ÀÆÃÀÆæÀÇÀÇ
+ÀÇ#ÀÇ)ÀÇ*ÀÇtÀÇÒÀÇÖÀÇØÀÇÙÀÈÀÈ_ÀÈÀÈ‘ÀÈ•ÀÈĞÀÈöÀÉÀÉÀÉÀÉnÀÉ|ÀÉ€ÀÉÎÀÊÀÊYÀÊ]ÀÊÀÊÄÀÊÈÀËÀË‡ÀË´ÀËäÀÌÀÌQÀÌ…ÀÌÀÌ¸ÀÌşÀÍÀÍÀÍ1ÀÍMÀÍ—ÀÍªÀÍ²ÀÍ¶ÀÍÆÀÍÇÀÎÀÎ1ÀÎBÀÎiÀÎ‡ÀÎ™ÀÎ¾ÀÎàÀÏÀÏÀÏ1ÀÏ>ÀÏPÀÏVÀÏlÀÏÀÏ¢ÀÏ¨ÀÏ¬ÀÏÅÀÏÆÀÏŞÀĞ,ÀĞ;ÀĞ=ÀĞ>ÀĞ…ÀĞºÀĞ¾ÀÑÀÑÀÑ[ÀÑ£ÀÑèÀÑÿÀÒÀÒ)ÀÒEÀÒJÀÒfÀÒ†ÀÒ‡ÀÒÀÀÒÜÀÒİÀÓÀÓ"ÀÓaÀÓsÀÓ–ÀÓ—ÀÓäÀÓñÀÔÀÔÀÔÀÔ@ÀÔtÀÔœÀÔ¢ÀÔÑÀÔÕÀÔ×ÀÔØÀÕ"ÀÕ=ÀÕAÀÕÀÕÔÀÕãÀÖÀÖeÀÖxÀÖÀÖ£ÀÖ¤ÀÖöÀ×EÀ×]À×cÀ×³ÀØÀØ+ÀØ^ÀØšÀØÛÀÙÀÙÀÙNÀÙTÀÙˆÀÙ½ÀÙ¾ÀÙÊÀÙİÀÙöÀÚ
+ÀÚ&ÀÚ;ÀÚ?ÀÚ@ÀÚvÀÚ•ÀÚ´ÀÚÂÀÚÈÀÚÿÀÛ?ÀÛdÀÛêÀÜÀÜ#ÀÜxÀÜ¤ÀÜŞÀÜûÀİ`ÀİˆÀİ×ÀŞ5ÀŞ~ÀŞĞÀß Àß,Àß6Àß>ÀßDÀß”ÀßüÀà1ÀàÀàĞÀáÀá[ÀáœÀáÀÀâÀâDÀâŠÀâÎÀâãÀãÀãKÀãSÀãYÀãrÀã­ÀäÀä„ÀäŠÀä²ÀäÉÀäÍÀäÎÀå*ÀåRÀå¯ÀååÀæÀæ,Àæ^ÀæhÀæÀæ˜ÀæÀæŞÀæñÀæ÷ÀçÀç Àç!ÀçoÀçuÀçÄÀçæÀçìÀè9ÀèUÀèÀèºÀéÀé.ÀéCÀéQÀéWÀéXÀéÀéäÀêÀêÀêÀêÀê’Àê´ÀêæÀëÀë4Àë<Àë|Àë‚Àë«Àë¾ÀëÄÀëôÀìÀìFÀìuÀìÀì§Àì±ÀìÆÀìĞÀì÷ÀìıÀíÀí]ÀíÍÀíìÀîÀîÀîÀîÀî@ÀîDÀîEÀî—ÀîÀîìÀïÀïÀïaÀï}ÀïÑÀïíÀğ Àğ8ÀğFÀğLÀğ·ÀğÒÀğçÀğíÀğñÀğòÀğşÀñ-Àñ/Àñ0ÀñrÀñ†ÀñŠÀñÔÀñèÀòÀòÀò(Àò)ÀòwÀò’Àò˜ÀòçÀó6Àó‚Àó›Àó¡ÀóïÀô9ÀôfÀôlÀô¹ÀôïÀõÀõ:ÀõqÀõ’Àõ–Àõ—ÀõèÀö7ÀöjÀöpÀö½À÷À÷?À÷À÷ÛÀøÀøÀø_Àø®ÀøÑÀøÒÀù!ÀùoÀùÀù…ÀùÔÀú ÀúoÀúšÀú ÀúğÀû>Àû…Àû‹ÀûÛÀüÀüRÀüSÀümÀü§ÀüÇÀüÈÀüóÀüùÀıGÀıxÀıªÀıÌÀıÍÀşÀşOÀşUÀşeÀşkÀş’ÀşÿÀÿ ÀÿÀÿÀÿIÀÿOÀÿ—Àÿ§ÀÿóÀ À 0À TÀ rÀ vÀ wÀ ÅÀ ÚÀ àÀ(À8À†À£ÀËÀçÀøÀ ÀÀÀ2À8ÀˆÀØÀæÀìÀ8ÀÀ…ÀĞÀÀoÀ½ÀÀ^À©À÷À?ÀÀĞÀõÀÀ0ÀiÀ}ÀÀ‚ÀµÀ»ÀÀFÀLÀ˜ÀçÀùÀ	*À	HÀ	qÀ	°À	ÊÀ	ÎÀ	ÏÀ
+À
+	À
+XÀ
+¦À
+ÅÀ
+ËÀÀgÀ²ÀÀÀGÀfÀÀĞÀëÀïÀğÀ!À'ÀfÀlÀ¹ÀÀ&ÀSÀoÀ–ÀÓÀëÀïÀğÀ%À+ÀzÀÈÀçÀíÀ>ÀŠÀ×À'À:ÀoÀÀºÀûÀÀÀÀNÀTÀ£ÀñÀÀÀbÀ®ÀùÀHÀ[ÀŠÀ§ÀÏÀÀ&À*À+À_ÀeÀ´ÀÀÀ%ÀuÀÁÀÀ^ÀqÀ¤ÀÃÀíÀ-ÀHÀLÀMÀÀ…ÀÒÀÀÀeÀ¥À½ÀÃÀÀ_ÀwÀ¦ÀÃÀëÀ)ÀBÀFÀGÀyÀÀÌÀÀÀ_ÀŸÀ·À½ÀÀ[ÀuÀ¤ÀÁÀéÀ'À@ÀDÀEÀsÀyÀÁÀÇÀÀ?ÀfÀÀ£ÀİÀòÀöÀ÷À $À *À sÀ „À ŠÀ ÙÀ!À!'À!?À!bÀ!›À!¯À!³À!´À!ãÀ!éÀ"0À"6À"…À"®À"×À"ñÀ#À#QÀ#gÀ#kÀ#lÀ#¢À#¨À#öÀ$FÀ$jÀ$pÀ$¹À%À%#À%ZÀ%{À%§À%éÀ&À&
+À&À&QÀ&WÀ&¡À&ÌÀ&ÒÀ' À'FÀ'¢À'ØÀ(À(4À(‚À(´À(ÓÀ(ÛÀ)À)À)À)TÀ)ZÀ)¤À)ĞÀ)ÖÀ*&À*LÀ*ªÀ*áÀ+#À+>À+À+¿À+ŞÀ+æÀ,À,À,À,ZÀ,`À,ªÀ,ÑÀ,×À-'À-MÀ-ŸÀ-ĞÀ.À.'À.pÀ.¢À.ÁÀ.ÉÀ.öÀ.úÀ.ûÀ/=À/CÀ/À/´À/ºÀ0
+À00À0„À0¶À0óÀ1À1XÀ1ŠÀ1©À1±À1ßÀ1ãÀ1äÀ2À2 À2qÀ2»À2ÁÀ3À3NÀ3ŒÀ3´À3çÀ4À4@À4kÀ4ÊÀ5'À5CÀ5kÀ5—À5¡À5©À5ÆÀ5ÊÀ5ËÀ5üÀ6À6SÀ6yÀ6À6ÎÀ6ëÀ7À78À7aÀ7|À7µÀ7ãÀ8À8"À8*À8BÀ8FÀ8GÀ8ŠÀ8À8ŞÀ9À9dÀ9®À9ØÀ9ŞÀ:/À:€À:ÎÀ:ÔÀ:äÀ:êÀ;:À;cÀ;µÀ<À<4À<mÀ<¼À<æÀ<êÀ<ëÀ=.À=4À=|À=¼À>À>RÀ>|À>‚À>ÓÀ?$À?rÀ?xÀ?ˆÀ?À?ÛÀ?ùÀ@KÀ@œÀ@ÊÀAÀARÀA|ÀA€ÀAÀAÎÀAàÀB8ÀB9ÀBˆÀBšÀB ÀBîÀC<ÀCcÀCiÀC¸ÀDÀDIÀDqÀDÀD¼ÀDåÀE ÀEÀE4ÀE8ÀE9ÀE…ÀE‹ÀEÓÀF"ÀFrÀF¤ÀFĞÀFçÀG	ÀG%ÀGCÀGGÀGHÀG”ÀGšÀGçÀGóÀH%ÀH?ÀHdÀH‰ÀH—ÀHÀH¼ÀHÚÀHŞÀHßÀI)ÀI:ÀIbÀIwÀI—ÀI·ÀIÅÀIËÀIåÀJÀJÀJÀJRÀJoÀJÀJµÀJØÀJûÀK	ÀKÀK,ÀKJÀKNÀKOÀK›ÀK­ÀK³ÀL ÀLÀLÀLfÀLŸÀLÍÀLåÀMÀM+ÀM9ÀM?ÀM\ÀMzÀM~ÀMÀMÎÀMàÀMæÀN3ÀNGÀNMÀN˜ÀN·ÀNíÀO	ÀO0ÀOWÀOeÀOkÀOŒÀOªÀO®ÀO¯ÀP ÀPFÀPLÀP‘ÀPÖÀQÀQÀQfÀQ¶ÀQçÀRÀR;ÀRiÀR‡ÀR‹ÀRŒÀRËÀRÑÀSÀSgÀS°ÀSçÀTIÀT·ÀUÀU$ÀU^ÀUƒÀUÊÀUÎÀUÏÀUÿÀVXÀVrÀV€ÀV†ÀVÊÀVæÀVøÀVşÀWÀWÀW=ÀWCÀW…ÀW‹ÀWÄÀWÊÀWÚÀWàÀX.ÀX]ÀXyÀX”ÀXÄÀXâÀXæÀXçÀY6ÀYDÀYJÀY”ÀYãÀZ/ÀZxÀZ¹ÀZ¿ÀZøÀZşÀ[À[À[NÀ[ŠÀ[ÆÀ\ À\(À\FÀ\JÀ\KÀ\›À\¡À\ãÀ\éÀ]"À](À]8À]>À]ŒÀ]ÚÀ^ À^nÀ^´À^ãÀ^ÿÀ_À_JÀ_hÀ_lÀ_mÀ_¼À_àÀ_æÀ`0À`À`ËÀaÀaUÀa[Àa”ÀašÀaªÀa°ÀaêÀb:ÀbjÀbºÀbêÀc&ÀcbÀcœÀcÄÀcâÀcæÀcçÀd!ÀdJÀdPÀd›Àd¡ÀdğÀe:ÀeeÀekÀe¤ÀeªÀeºÀeÀÀfÀfXÀf†ÀfªÀfìÀg
+ÀgÀgÀgIÀgÀg•ÀgäÀh.ÀhYÀh_Àh˜ÀhÀh®Àh´Àh÷ÀiEÀiŠÀiÖÀjÀj.Àj2Àj3ÀjmÀj–ÀjœÀjçÀjíÀk<Àk†Àk±Àk·ÀkğÀköÀlMÀlÀl¼ÀlàÀm"Àm@ÀmDÀmEÀmÀmÅÀmËÀnÀndÀnÀn•ÀnÎÀnÔÀnäÀnêÀo-Ào{ÀoÀÀpÀpFÀpdÀphÀpiÀp·Àp½ÀpşÀqÀq=ÀqCÀqSÀqYÀq¦ÀqÓÀqíÀrÀr5ÀrSÀrWÀrXÀr¨ÀrÉÀrÏÀsÀsgÀs´ÀsıÀt>ÀtDÀt}ÀtƒÀt“Àt™ÀtÒÀuÀuGÀuÀu¥ÀuÃÀuÇÀuÈÀuıÀvÀv<Àv^ÀvvÀv–Àv®ÀvÌÀvĞÀvÑÀwÀw+ÀwjÀw”ÀwÉÀwâÀwğÀwöÀxÀx0Àx4Àx5Àx~Àx¤ÀxÊÀxåÀyÀy0ÀyOÀy]ÀycÀy{Ày™ÀyÀyÀyïÀzÀzÀz[ÀzªÀz¾ÀzäÀzÿÀ{À{JÀ{iÀ{wÀ{}À{•À{³À{·À{¸À|À|À|$À|4À|:À|‰À|ÈÀ|èÀ}À}À}À}]À}cÀ}sÀ}yÀ}ÆÀ~À~"À~QÀ~UÀ~VÀ~ŒÀ~ÃÀ~ßÀÀÀÀCÀIÀ•ÀâÀ€À€À€iÀ€·ÀÀJÀ™ÀÃÀÉÀÙÀßÀ‚5À‚tÀ‚“À‚ÄÀ‚ÈÀ‚ÉÀƒÀƒ=ÀƒsÀƒ”ÀƒÈÀƒìÀ„
+À„À„À„ZÀ„`À„­À… À…RÀ…ŠÀ…ÇÀ…æÀ†À†À†À†XÀ†^À†¯À†şÀ‡3À‡9À‡‰À‡­À‡³ÀˆÀˆ/Àˆ5ÀˆˆÀˆŞÀˆìÀ‰YÀ‰xÀ‰«À‰ÚÀ‰ŞÀ‰ßÀŠ0ÀŠ{ÀŠÀŠ•ÀŠæÀ‹-À‹3À‹|À‹›ÀŒÀŒ'ÀŒ_ÀŒ’ÀŒÁÀŒÅÀŒÆÀÀ:À@À‘ÀØÀŞÀ'ÀBÀ¿ÀæÀÀIÀ€À„À…ÀÖÀ$À*À{À·À½À‘À‘À‘‡À‘¦À‘ÙÀ’À’À’À’]À’“À’™À’æÀ“.À“‹À“ºÀ“ùÀ“ıÀ“şÀ”@À”À”ŸÀ”ÏÀ”ÓÀ”ÔÀ•À•XÀ•vÀ•¤À•¨À•©À•ôÀ–-À–JÀ–wÀ–{À–|À–ÅÀ–úÀ—À—@À—DÀ—EÀ—À—ÉÀ—æÀ˜À˜À˜À˜cÀ˜œÀ˜¹À˜æÀ˜êÀ˜ëÀ™3À™@À™ƒÀ™¥À™×À™ÛÀ™ÜÀšÀš ÀšoÀšÀÀšÆÀ›À›cÀ›uÀ›{À›ËÀ›êÀ›ğÀœAÀœÀœÜÀÀMÀjÀ—À›ÀœÀÕÀÀ4ÀdÀhÀiÀŸÀ¥À×ÀŸÀŸ3ÀŸbÀŸfÀŸgÀŸ–ÀŸœÀŸëÀ ;À À ¾À İÀ¡À¡À¡À¡<À¡BÀ¡‘À¡ÊÀ¢	À¢)À¢YÀ¢]À¢^À¢®À¢ÙÀ¢ßÀ£/À£}À£ÈÀ£ùÀ¤JÀ¤sÀ¤¬À¤°À¤±À¤úÀ¥3À¥iÀ¥ŠÀ¥¶À¥ÑÀ¥íÀ¦À¦À¦À¦`À¦rÀ¦xÀ¦ÈÀ§À§ZÀ§`À§pÀ§vÀ§ÀÀ§ñÀ¨À¨2À¨MÀ¨jÀ¨ˆÀ¨ŒÀ¨À¨ÜÀ¨îÀ¨ôÀ©/À©5À©EÀ©KÀ©À©ÑÀ©íÀªÀª/ÀªMÀªkÀªoÀªpÀª¿ÀªÑÀª×À«À«À«(À«.À«À«´À«ĞÀ«÷À¬À¬0À¬NÀ¬RÀ¬SÀ¬]À¬^À¬¦À¬¾À¬ÄÀ¬ÔÀ¬ÚÀ­)À­9À­|À­£À­¤À­óÀ®À®À®[À®¬À®ÊÀ®ĞÀ¯À¯mÀ¯ºÀ¯ÀÀ¯ĞÀ¯ÖÀ°À°3À°`À°‹À°«À°¯À°°À°ÎÀ°ÏÀ°áÀ±À±$À±@À±MÀ±jÀ±pÀ±À±’À±“À±ÖÀ±×À±üÀ±ıÀ²FÀ²[À²aÀ²°À²õÀ³.À³wÀ³ŠÀ³À³ÆÀ³ÚÀ³àÀ´À´À´"À´fÀ´zÀ´€À´ÄÀ´ØÀ´ŞÀµ*Àµ>ÀµDÀµÜÀµğÀµöÀ¶À¶À¶À¶XÀ¶^À¶¬À¶ĞÀ¶ÖÀ·%À·_À·eÀ·¯À¸À¸;À¸iÀ¸ŠÀ¸‹À¸®À¸¼À¸ÂÀ¸ÃÀ¸èÀ¹+À¹WÀ¹sÀ¹ À¹ÏÀº Àº1Àº^ÀºŠÀº³ÀºæÀ»À»DÀ»{À»|À»§À»ÈÀ»øÀ¼&À¼NÀ¼ƒÀ¼²À¼¹À¼şÀ½/À½5À½ŒÀ½ÏÀ½ÕÀ¾,À¾oÀ¾uÀ¾¤À¾ÑÀ¾ùÀ¿-À¿\À¿cÀ¿}À¿À¿¤À¿¥À¿ñÀ¿òÀÀ8ÀÀ<ÀÀ=ÀÀpÀÀ’ÀÀ¶ÀÀèÀÁÀÁzÀÁ¨ÀÁôÀÂÀÂ8ÀÂdÀÂ¢ÀÂÎÀÃÀÃ6ÀÃ^ÀÃzÀÃšÀÃºÀÃÒÀÃşÀÄ&ÀÄPÀÄ|ÀÄ¨ÀÄĞÀÄ÷ÀÅÀÅIÀÅsÀÅÀÅÏÀÅñÀÆ2ÀÆ6ÀÆ8ÀÆ9ÀÆˆÀÆ™ÀÆ¸ÀÆåÀÆëÀÇ8ÀÇ†ÀÇºÀÇÌÀÇÍÀÇüÀÈÀÈQÀÈpÀÈ‚ÀÈ„ÀÈ…ÀÈ°ÀÈâÀÉÀÉBÀÉpÀÉuÀÉ£ÀÉÄÀÉÈÀÊÀÊ9ÀÊWÀÊÎÀÊİÀÊûÀËrÀËÀË‡ÀË‹ÀË¸ÀËÚÀËŞÀËßÀÌ/ÀÌ1ÀÌ2ÀÌƒÀÌ ÀÌ¤ÀÌñÀÍAÀÍ{ÀÍÀÍËÀÍøÀÍüÀÎMÀÎyÀÎ}ÀÎ‹ÀÎÀÎÓÀÏ1ÀÏ‚ÀÏÊÀÏñÀÏòÀĞCÀĞVÀĞ\ÀĞœÀĞ¢ÀĞğÀÑÀÑ5ÀÑ6ÀÑBÀÑlÀÑ¢ÀÒ!ÀÒ"ÀÒqÀÒ’ÀÒ°ÀÒÏÀÒÕÀÒÖÀÓ(ÀÓ7ÀÓeÀÓvÀÓ«ÀÓ»ÀÓÁÀÓÂÀÓëÀÓïÀÓğÀÔÀÔÀÔoÀÔ†ÀÔŒÀÔİÀÕ-ÀÕ{ÀÕˆÀÕ•ÀÕÈÀÕÉÀÕÕÀÖÀÖEÀÖ‹ÀÖÀÖ‘ÀÖ’ÀÖßÀÖêÀÖîÀ×4À×`À×dÀ×´ÀØÀØDÀØ[ÀØ_ÀØ«ÀØØÀØÜÀÙ(ÀÙqÀÙ³ÀÙéÀÚÀÚiÀÚoÀÚ°ÀÚÈÀÚÚÀÚêÀÛÀÛ8ÀÛ`ÀÛaÀÛ¯ÀÛÿÀÜÀÜÀÜcÀÜ°ÀÜÆÀÜÇÀÜÓÀÜûÀİCÀİSÀİYÀİ‚Àİ†Àİ‡Àİ“ÀİØÀŞÀŞKÀŞOÀŞQ    	€¥€¼ €Á€Ö €Ù €ê;>  h ²´  Ü  ‚ ‚%‚:‚<  ‚\‚m‚Ì‚Ï‚øƒlƒnƒ•ƒ§ƒ©ƒÚƒæƒé„„ ‰ „ı‹Í‚¦/// A tag for a [SemanticsNode].
+///
+/// Tags can be interpreted by the parent of a [SemanticsNode]
+/// and depending on the presence of a tag the parent can for example decide
+/// how to add the tagged node as a child. Tags are not sent to the engine.
+///
+/// As an example, the [RenderSemanticsGestureHandler] uses tags to determine
+/// if a child node should be excluded from the scrollable area for semantic
+/// purposes.
+///
+/// The provided [name] is only used for debugging. Two tags created with the
+/// same [name] and the `new` operator are not considered identical. However,
+/// two tags created with the same [name] and the `const` operator are always
+/// identical. ‹ŞE /// Creates a [SemanticsTag].
+///
+/// The provided [name] is only used for debugging. Two tags created with the
+/// same [name] and the `new` operator are not considered identical. However,
+/// two tags created with the same [name] and the `const` operator are always
+/// identical.	   '€š½€‚/// A human-readable name for this tag used for debugging.
+///
+/// This string is not used to determine if two tags are identical.  ÆUÙ   ÆÇ Œ‘õƒÄ/// An identifier of a custom semantics action.
+///
+/// Custom semantics actions can be provided to make complex user
+/// interactions more accessible. For instance, if an application has a
+/// drag-and-drop list that requires the user to press and hold an item
+/// to move it, users interacting with the application using a hardware
+/// switch may have difficulty. This can be made accessible by creating custom
+/// actions and pairing them with handlers that move a list item up or down in
+/// the list.
+///
+/// In Android, these actions are presented in the local context menu. In iOS,
+/// these are presented in the radial context menu.
+///
+/// Localization and text direction do not automatically apply to the provided
+/// label or hint.
+///
+/// Instances of this class should either be instantiated with const or
+/// new instances cached in static fields.
+///
+/// See also:
+///
+///  * [SemanticsProperties], where the handler for a custom action is provided. ’ ’€’•d/// Creates a new [CustomSemanticsAction].
+///
+/// The [label] must not be null or the empty string.’—’­  ’º’À’Î’Ç’Á’Ê’×’İ’é’ä’Ş’ç’÷’ò’ù““““r“Í“Î“Ş€’/// Creates a new [CustomSemanticsAction] that overrides a standard semantics
+/// action.
+///
+/// The [hint] must not be null or the empty string.“à“ö  “û$”  ”(”.”;”4”/”7”D”J”U”P”K”S”^”d”s”l”e”o”‚”|”„”Q”Ù;/// The user readable name of this custom semantics action. ”ãN•-9/// The hint description of this custom semantics action. •6W•‡7/// The standard semantics action this action replaces. —Â—Í —×—ÜV˜	 ˜0˜1˜˜/˜˜˜6R˜c ˜†˜‡˜j˜…˜k˜‚•’A•¦   •’•“•×•ñ  •ô•ü  •×•Ø–Ü€€–ï   –Ü–İ˜˜Ç,/// Get the identifier for a given `action`. ˜Õ˜ì   ™§}™ô,/// Get the `action` for a given identifier. ™şš   ‘ä‘åš(ŠEšq7/// A string that carries a list of [StringAttribute]s. š†‚» ›i›y€Ô/// Creates a attributed string.
+///
+/// The [TextRange] in the [attributes] must be inside the length of the
+/// [string].
+///
+/// The [attributes] must not be changed after the attributed string is
+/// created.››…  ›’+›˜  ›¤›»›¼›ª›º›«›Æ›Ì›ô›ß›Í›Ó›Ô›â›ì›í›şœ?œ<=>EKŠ5/// The plain string stored in the attributed string. •€˜#k/// The attributes this string carries.
+///
+/// The list must not be modified after this string is created. £¢A£¶   £¢££2„3Ÿ/€Ú/// Returns a new [AttributedString] by concatenate the operands
+///
+/// The string attribute list of the returned [AttributedString] will contains
+/// the string attributes from both operands with updated text ranges. Ÿ1ŸC   ¢i5¢ÏI/// Two [AttributedString]s are equal if their string and attributes are. ¢Ò¢Ú  ¢µ¢¶£ç€„£ú   £ç£èš`ša¤o…Î¤ı€‡/// A [DiagnosticsProperty] for [AttributedString]s, which shows a string
+/// when there are no attributes, and more details otherwise. ¥H ¥Ñ¥é€‚/// Create a diagnostics property for an [AttributedString] object.
+///
+/// Such properties are used with [SemanticsData] objects.¥ï¥ı  ¦¦  ¦¦   ¦-¦3  ¦M¦T  ¦e¦l  ¦v¦}  ¦B¦¦–¦§¦ ¦—¦£¦±¦·¦Å¦¾¦¸¦Á¦Ë€Ë§‰€ª/// Whether to show the property when the [value] is an [AttributedString]
+/// whose [AttributedString.string] is the empty string.
+///
+/// This overrides [defaultValue]. §›|§°   §›§œ¨‚ ¨.  ¨=*¨U  ¨¨ ª?»È«Í|/// Summary information about a [SemanticsNode] object.
+///
+/// A semantics node might [SemanticsNode.mergeAllDescendantsIntoThisNode],
+/// which means the individual fields on the semantics node don't fully describe
+/// the semantics at that node. This data structure contains the full semantics
+/// for the node.
+///
+/// Typically obtained from [SemanticsNode.getSemanticsData]. «óˆè ¬¿¬Ì€Á/// Creates a semantics data object.
+///
+/// The [flags], [actions], [label], and [Rect] arguments must not be null.
+///
+/// If [label] is not empty, then [textDirection] must also not be null.¬Ó¬â  ¬ì¬û  ­­  ­*­9  ­M&­\  ­y&­ˆ  ­¥­´  ­Ç­Ö  ­â­ñ  ®®  ®®*  ®8®G  ®U®d  ®v®…  ®•®¤  ®¹®È  ®Û®ê  ®ş¯  ¯!¯0  ¯C¯R  ¯e ¯t  ¯‹	¯‘  ¯š¯   ¯®¯´  €£¯Ô¯Ú¯è¯á¯Û¯ä¯ò¯ø°°¯ù°°°°0°)°°,°:°@°X°Q°A°T°b°h°‰°‚°i°…°“°™°º°³°š°¶°Ä°Ê°á°Ú°Ë°İ°ë°ñ±±d± °ú°ò°ı±±±±±@±A±H±n±t±ª²±’±Œ±u±„±…±±£±•±¦±¬±Ğ±è±Ò±á±â±é²²²K²¦²3²-²²%²&²0²D²6²G²M²q²‰²s²‚²ƒ²Š²°²¶²õ³b²İ²×²·²Ï²Ğ²Ú²î²à²ñ²÷³$³E³&³>³?³F³l³r³±´³™³“³s³‹³Œ³–³ª³œ³­³³³à´³â³ú³û´´(´.´c´¼´K´E´/´=´>´H´\´N´_´e´ˆ´Ÿ´Š´˜´™´ ´Æ´Ì´Ù´Ò´Í´Õ´ßNµ(</// A bit field of [SemanticsFlag]s that apply to this node. µ2Rµ}>/// A bit field of [SemanticsAction]s that apply to this node. ¶v·m€Ó/// A textual description for the current label of the node in
+/// [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [label], which exposes just the raw text. ¸n¹e€Ó/// A textual description for the current value of the node in
+/// [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [value], which exposes just the raw text. º§8»Ç€ü/// The value that [value] will become after performing a
+/// [SemanticsAction.increase] action in [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [increasedValue], which exposes just the raw text. ½8¾2€ü/// The value that [value] will become after performing a
+/// [SemanticsAction.decrease] action in [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [decreasedValue], which exposes just the raw text. ¿HÀ @M€á/// A brief description of the result of performing an action on this node
+/// in [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [hint], which exposes just the raw text. À @`€ˆÀ @ám/// A textual description of the widget's tooltip.
+///
+/// The reading direction is given by [textDirection]. À @í€–À Avo/// The reading direction for the text in [label], [value],
+/// [increasedValue], [decreasedValue], and [hint]. À Aˆ€ŸÀ Bx/// The currently selected text (or the position of the cursor) within [value]
+/// if this node represents a text field. À B,€ÆÀ Bâ€¢/// The total number of scrollable children that contribute to semantics.
+///
+/// If the number of children are unknown or unbounded, this value will be
+/// null. À B÷\À CHC/// The index of the first visible semantic child of a scroll node. À CXÌÀ E›/// Indicates the current scrolling position in logical pixels if the node is
+/// scrollable.
+///
+/// The properties [scrollExtentMin] and [scrollExtentMax] indicate the valid
+/// in-range values for this property. The value for [scrollPosition] may
+/// (temporarily) be outside that range, e.g. during an overscroll.
+///
+/// See also:
+///
+///  * [ScrollPosition.pixels], from where this value is usually taken. À E).À FH /// Indicates the maximum in-range value for [scrollPosition] if the node is
+/// scrollable.
+///
+/// This value may be infinity if the scroll is unbound.
+///
+/// See also:
+///
+///  * [ScrollPosition.maxScrollExtent], from where this value is usually taken. À F\.À G{ /// Indicates the minimum in-range value for [scrollPosition] if the node is
+/// scrollable.
+///
+/// This value may be infinity if the scroll is unbound.
+///
+/// See also:
+///
+///  * [ScrollPosition.minScrollExtent], from where this value is usually taken. À GÉÀ IJ™/// The id of the platform view, whose semantics nodes will be added as
+/// children to this node.
+///
+/// If this value is non-null, the SemanticsNode must not have any children
+/// as those would be replaced by the semantics nodes of the referenced
+/// platform view.
+///
+/// See also:
+///
+///  * [AndroidView], which is the platform view for Android.
+///  * [UiKitView], which is the platform view for iOS. À I]vÀ JÅL/// The maximum number of characters that can be entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [SemanticsFlag.isTextField] is set. Defaults
+/// to null, which means no limit is imposed on the text field. À JØgÀ L-9/// The current number of characters that have been entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [SemanticsFlag.isTextField] is set. This must
+/// be set when [maxValueLength] is set. À LDNÀ L</// The bounding box for this node in its coordinate system. À L—YÀ Lì9/// The set of [SemanticsTag]s associated with this node. À LõÀ N€ü/// The transform from this node's coordinate system to its parent's coordinate system.
+///
+/// By default, the transform is null, which represents the identity
+/// transformation (i.e., that this node has the same coordinate system as its
+/// parent). À N€ìÀ Nü€É/// The elevation of this node relative to the parent semantics node.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.elevation] for a detailed discussion regarding
+///    elevation and semantics. À O
+€ÄÀ OÅ€£/// The extent of this node along the z-axis beyond its [elevation]
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.thickness] for a more detailed definition. À OÓ0À Pë€ö/// The identifiers for the custom semantics actions and standard action
+/// overrides for this node.
+///
+/// The list must be sorted in increasing order.
+///
+/// See also:
+///
+///  * [CustomSemanticsAction], for an explanation of custom actions. µ‰€é¶R€³/// A textual description for the current label of the node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedLabel].   ·€é¸J€³/// A textual description for the current value of the node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedValue].   ¹y*ºq€à/// The value that [value] will become after performing a
+/// [SemanticsAction.increase] action.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedIncreasedValue].   »ä*¼Ü€à/// The value that [value] will become after performing a
+/// [SemanticsAction.decrease] action.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedDecreasedValue].   ¾O€õ¿&€Á/// A brief description of the result of performing an action on this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedHint].   À b‚WÀ b    À bÀ bÀ QmÀ Q<,/// Whether [flags] contains the given flag. À QDÀ QS   À Qy{À Q±0/// Whether [actions] contains the given action. À Q»À QÌ   À QøOÀ R   À QøÀ QùÀ RKŠÊÀ R\  À Rp&À R  À RKÀ RLÀ ]„ïÀ ]3  À ]6À ]>  À ]À ]À dgÀ ds  À d…À d‘  À d–À d¢   «¼«½À f	qÀ f  À fZ€† À fZÀ fv À f}
+À f„  À fÀ f  À f§À f·  À fÁÀ fĞ   À fä(À g   À ggÀ g3   À gÀ g À g|‡#À h€†/// Provides hint values which override the default hints on supported
+/// platforms.
+///
+/// On iOS, these values are always ignored. À hJ€¼ À hzÀ h'/// Creates a semantics hint overrides.À h—À h  À h«À h±  À hÈÀ hÎÀ hŞÀ hÙÀ hÏÀ hÜÀ hèÀ hîÀ iÀ hÿÀ hïÀ iÀ i
+8À j9/// The hint text for a tap action.
+///
+/// If null, the standard hint is used instead.
+///
+/// The hint should describe what happens when a tap occurs, not the
+/// manner in which a tap is accomplished.
+///
+/// Bad: 'Double tap to show movies'.
+/// Good: 'show movies'. À jG`À k˜0/// The hint text for a long press action.
+///
+/// If null, the standard hint is used instead.
+///
+/// The hint should describe what happens when a long press occurs, not
+/// the manner in which the long press is accomplished.
+///
+/// Bad: 'Double tap and hold to show tooltip'.
+/// Good: 'show tooltip'. À k¬vÀ kç//// Whether there are any non-null hint values.   À l&HÀ l:   À l&À l'À lr€şÀ lŒ  À lÀ l—  À lrÀ lsÀ mt)À m…  À m™&À m¶  À mtÀ muÀ hÀ hÀ n¡À { À o~€Ë/// Contains properties used by assistive technologies to make the application
+/// more accessible.
+///
+/// The properties of this class are used to generate a [SemanticsNode]s in the
+/// semantics tree. À o±ˆ0 À oÜÀ oï"/// Creates a semantic annotation.<À oöÀ oü  À pÀ p  À p
+À p   À p*À p0  À p=À pC  À pOÀ pU  À p`	À pf  À poÀ pu  À p€À p†  À p”À pš  À p¥À p«  À p»À pÁ  À pÎÀ pÔ  À pâÀ pè  À pôÀ pú  À qÀ q  À q(À q.  À q;À qA  À qOÀ qU  À qeÀ qk  À qz
+À q€  À qŠÀ q  À qŸÀ q¥  À q¸À q¾  À qÕ
+À qÛ  À qåÀ që  À qÿ
+À r  À rÀ r  À r)À r/  À rBÀ rH  À reÀ rk  À r~À r„  À r¡	À r§  À r°À r¶  À rÂÀ rÈ  À rÛÀ rá  À róÀ rù  À sÀ s  À sÀ s#  À s6
+À s<  À sFÀ sL  À s\À sb  À ssÀ sy  À s‹À s‘  À s À s¦  À s·À s½  À sÌÀ sÒ  À sáÀ sç  À sò
+À sø  À tÀ t  À t#À t  À t=$À tC  À tgÀ tm  À t‹À t‘  À t°À t¶  À tÉÀ tÏ  À tİ À tã  À u À u	  À u)À u/  À u=À uC  <À uaÀ ugÀ uÀ uËÀ uvÀ unÀ uhÀ uqÀ u‰À uyÀ uŒÀ u’À uÕÀ uÛÀ vÀ v?À uêÀ uâÀ uÜÀ uåÀ uıÀ uíÀ v À vÀ vIÀ vOÀ vŠÀ v×À vgÀ v_À vPÀ vbÀ vƒÀ vjÀ v†À vŒÀ váÀ vçÀ w"À woÀ vÿÀ v÷À vèÀ vúÀ wÀ wÀ wÀ w$À wyÀ wÀ w¦À wßÀ wÀ w…À w€À wˆÀ wŸÀ wÀ w¢À w¨<À wå[À y9;/// If non-null, indicates that this subtree represents something that can be
+/// in an enabled or disabled state.
+///
+/// For example, a button that a user can currently interact with would set
+/// this field to true. A button that currently does not respond to user
+/// interactions would set this field to false. À yEœÀ zÚv/// If non-null, indicates that this subtree represents a checkbox
+/// or similar widget with a "checked" state, and what its current
+/// state is.
+///
+/// When the [Checkbox.value] of a tristate Checkbox is null,
+/// indicating a mixed-state, this value shall be false, in which
+/// case, [mixed] will be true.
+///
+/// This is mutually exclusive with [toggled] and [mixed]. À zæâÀ |Ã¼/// If non-null, indicates that this subtree represents a checkbox
+/// or similar widget with a "half-checked" state or similar, and
+/// whether it is currently in this half-checked state.
+///
+/// This must be null when [Checkbox.tristate] is false, or
+/// when the widget is not a checkbox. When a tristate
+/// checkbox is fully unchecked/checked, this value shall
+/// be false.
+///
+/// This is mutually exclusive with [checked] and [toggled]. À |Í€ñÀ }·€Ó/// If non-null, indicates that this subtree represents a toggle switch
+/// or similar widget with an "on" state, and what its current
+/// state is.
+///
+/// This is mutually exclusive with [checked] and [mixed]. À }Ã&À ~á/// If non-null indicates that this subtree represents something that can be
+/// in a selected or unselected state, and what its current state is.
+///
+/// The active tab in a tab bar for example is considered "selected", whereas
+/// all other tabs are unselected. À ~î€»À £€ /// If non-null, indicates that this subtree represents a button.
+///
+/// TalkBack/VoiceOver provides users with the hint "button" when a button
+/// is focused. À ® À €ª€å/// If non-null, indicates that this subtree represents a link.
+///
+/// iOS's VoiceOver provides users with a unique hint when a link is focused.
+/// Android's Talkback will announce a link hint the same way it does a
+/// button. À €³À Ë/// If non-null, indicates that this subtree represents a header.
+///
+/// A header divides into sections. For example, an address book application
+/// might define headers A, B, C, etc. to divide the list of alphabetically
+/// sorted contacts into sections. À Ö€¿À ‚Œ€¡/// If non-null, indicates that this subtree represents a text field.
+///
+/// TalkBack/VoiceOver provide special affordances to enter text into a
+/// text field. À ‚š€¼À ƒP€¡/// If non-null, indicates that this subtree represents a slider.
+///
+/// Talkback/\VoiceOver provides users with the hint "slider" when a
+/// slider is focused. À ƒ[aÀ ƒ±G/// If non-null, indicates that this subtree represents a keyboard key. À ƒÁ€ĞÀ „‰€±/// If non-null, indicates that this subtree is read only.
+///
+/// Only applicable when [textField] is true.
+///
+/// TalkBack/VoiceOver will treat it as non-editable text field. À „–ÕÀ †b¯/// If non-null, whether the node is able to hold input focus.
+///
+/// If [focusable] is set to false, then [focused] must not be true.
+///
+/// Input focus indicates that the node will receive keyboard events. It is not
+/// to be confused with accessibility focus. Accessibility focus is the
+/// green/black rectangular highlight that TalkBack/VoiceOver draws around the
+/// element it is reading, and is separate from input focus. À †p‚À ˆ†÷/// If non-null, whether the node currently holds input focus.
+///
+/// At most one node in the tree should hold input focus at any point in time,
+/// and it should not be set to true if [focusable] is false.
+///
+/// Input focus indicates that the node will receive keyboard events. It is not
+/// to be confused with accessibility focus. Accessibility focus is the
+/// green/black rectangular highlight that TalkBack/VoiceOver draws around the
+/// element it is reading, and is separate from input focus. À ˆ’À ‰‚€Û/// If non-null, whether a semantic node is in a mutually exclusive group.
+///
+/// For example, a radio button is in a mutually exclusive group because only
+/// one radio button in that group can be marked as [checked]. À ‰ŸƒFÀ Œßƒ/// If non-null, whether the node is considered hidden.
+///
+/// Hidden elements are currently not visible on screen. They may be covered
+/// by other elements or positioned outside of the visible area of a viewport.
+///
+/// Hidden elements cannot gain accessibility focus though regular touch. The
+/// only way they can be focused is by moving the focus to them via linear
+/// navigation.
+///
+/// Platforms are free to completely ignore hidden elements and new platforms
+/// are encouraged to do so.
+///
+/// Instead of marking an element as hidden it should usually be excluded from
+/// the semantics tree altogether. Hidden elements are only included in the
+/// semantics tree to work around platform limitations and they are mainly
+/// used to implement accessibility scrolling on iOS. À Œê3À /// If non-null, whether [value] should be obscured.
+///
+/// This option is usually set in combination with [textField] to indicate
+/// that the text field contains a password (or other sensitive information).
+/// Doing so instructs screen readers to not read out the [value]. À "7À P/// Whether the [value] is coming from a field that supports multiline text
+/// editing.
+///
+/// This option is only meaningful when [textField] is true to indicate
+/// whether it's a single-line or multiline text field.
+///
+/// This option is null when [textField] is false. À ^ÑÀ ‘$£/// If non-null, whether the node corresponds to the root of a subtree for
+/// which a route name should be announced.
+///
+/// Generally, this is set in combination with
+/// [SemanticsConfiguration.explicitChildNodes], since nodes with this flag
+/// are not considered focusable by Android or iOS.
+///
+/// See also:
+///
+///  * [SemanticsFlag.scopesRoute] for a description of how the announced
+///    value is selected. À ‘4€ÎÀ ‘ø€­/// If non-null, whether the node contains the semantic label for a route.
+///
+/// See also:
+///
+///  * [SemanticsFlag.namesRoute] for a description of how the name is used. À ’€¬À ’®€/// If non-null, whether the node represents an image.
+///
+/// See also:
+///
+///  * [SemanticsFlag.isImage], for the flag this setting controls. À ’¸ƒ¢À –Pƒi/// If non-null, whether the node should be considered a live region.
+///
+/// A live region indicates that updates to semantics node are important.
+/// Platforms may use this information to make polite announcements to the
+/// user to inform them of updates to this node.
+///
+/// An example of a live region is a [SnackBar] widget. On Android and iOS,
+/// live region causes a polite announcement to be generated automatically,
+/// even if the widget does not have accessibility focus. This announcement
+/// may not be spoken if the OS accessibility services are already
+/// announcing something else, such as reading the label of a focused widget
+/// or providing a system announcement.
+///
+/// See also:
+///
+///  * [SemanticsFlag.isLiveRegion], the semantics flag this setting controls.
+///  * [SemanticsConfiguration.liveRegion], for a full description of a live region. À –_gÀ —¸=/// The maximum number of characters that can be entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [textField] is true. Defaults to null,
+/// which means no limit is imposed on the text field. À —ËSÀ ™%/// The current number of characters that have been entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [textField] is true. Must be set when
+/// [maxValueLength] is set. À ™#‚À ›<ğ/// Provides a textual description of the widget.
+///
+/// If a label is provided, there must either by an ambient [Directionality]
+/// or an explicit [textDirection] should be provided.
+///
+/// Callers must not provide both [label] and [attributedLabel]. One or both
+/// must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.label] for a description of how this is exposed
+///    in TalkBack and VoiceOver.
+///  * [attributedLabel] for an [AttributedString] version of this property. À ›F‚VÀ ‚/// Provides an [AttributedString] version of textual description of the widget.
+///
+/// If a [attributedLabel] is provided, there must either by an ambient
+/// [Directionality] or an explicit [textDirection] should be provided.
+///
+/// Callers must not provide both [label] and [attributedLabel]. One or both
+/// must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.attributedLabel] for a description of how this
+///    is exposed in TalkBack and VoiceOver.
+///  * [label] for a plain string version of this property. À ¡‚+À ŸÇı/// Provides a textual description of the value of the widget.
+///
+/// If a value is provided, there must either by an ambient [Directionality]
+/// or an explicit [textDirection] should be provided.
+///
+/// Callers must not provide both [value] and [attributedValue], One or both
+/// must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.value] for a description of how this is exposed
+///    in TalkBack and VoiceOver.
+///  * [attributedLabel] for an [AttributedString] version of this property. À ŸÑ‚iÀ ¢+‚%/// Provides an [AttributedString] version of textual description of the value
+/// of the widget.
+///
+/// If a [attributedValue] is provided, there must either by an ambient
+/// [Directionality] or an explicit [textDirection] should be provided.
+///
+/// Callers must not provide both [value] and [attributedValue], One or both
+/// must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.attributedValue] for a description of how this
+///    is exposed in TalkBack and VoiceOver.
+///  * [value] for a plain string version of this property. À ¢?‚×À ¥‚š/// The value that [value] or [attributedValue] will become after a
+/// [SemanticsAction.increase] action has been performed on this widget.
+///
+/// If a value is provided, [onIncrease] must also be set and there must
+/// either be an ambient [Directionality] or an explicit [textDirection]
+/// must be provided.
+///
+/// Callers must not provide both [increasedValue] and
+/// [attributedIncreasedValue], One or both must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.increasedValue] for a description of how this
+///    is exposed in TalkBack and VoiceOver.
+///  * [attributedIncreasedValue] for an [AttributedString] version of this
+///    property. À ¥‚ıÀ ¨ ‚®/// The [AttributedString] that [value] or [attributedValue] will become after
+/// a [SemanticsAction.increase] action has been performed on this widget.
+///
+/// If a [attributedIncreasedValue] is provided, [onIncrease] must also be set
+/// and there must either be an ambient [Directionality] or an explicit
+/// [textDirection] must be provided.
+///
+/// Callers must not provide both [increasedValue] and
+/// [attributedIncreasedValue], One or both must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.attributedIncreasedValue] for a description of
+///    how this is exposed in TalkBack and VoiceOver.
+///  * [increasedValue] for a plain string version of this property. À ¨‚×À ªæ‚š/// The value that [value] or [attributedValue] will become after a
+/// [SemanticsAction.decrease] action has been performed on this widget.
+///
+/// If a value is provided, [onDecrease] must also be set and there must
+/// either be an ambient [Directionality] or an explicit [textDirection]
+/// must be provided.
+///
+/// Callers must not provide both [decreasedValue] and
+/// [attributedDecreasedValue], One or both must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.decreasedValue] for a description of how this
+///    is exposed in TalkBack and VoiceOver.
+///  * [attributedDecreasedValue] for an [AttributedString] version of this
+///    property. À ªùƒ	À ­ê‚º/// The [AttributedString] that [value] or [attributedValue] will become after
+/// a [SemanticsAction.decrease] action has been performed on this widget.
+///
+/// If a [attributedDecreasedValue] is provided, [onDecrease] must also be set
+/// and there must either be an ambient [Directionality] or an explicit
+/// [textDirection] must be provided.
+///
+/// Callers must not provide both [decreasedValue] and
+/// [attributedDecreasedValue], One or both must be null/// provided.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.attributedDecreasedValue] for a description of
+///    how this is exposed in TalkBack and VoiceOver.
+///  * [decreasedValue] for a plain string version of this property. À ®‚IÀ °L‚/// Provides a brief textual description of the result of an action performed
+/// on the widget.
+///
+/// If a hint is provided, there must either be an ambient [Directionality]
+/// or an explicit [textDirection] should be provided.
+///
+/// Callers must not provide both [hint] and [attributedHint], One or both
+/// must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.hint] for a description of how this is exposed
+///    in TalkBack and VoiceOver.
+///  * [attributedHint] for an [AttributedString] version of this property. À °U‚À ²È‚>/// Provides an [AttributedString] version of brief textual description of the
+/// result of an action performed on the widget.
+///
+/// If a [attributedHint] is provided, there must either by an ambient
+/// [Directionality] or an explicit [textDirection] should be provided.
+///
+/// Callers must not provide both [hint] and [attributedHint], One or both
+/// must be null.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.attributedHint] for a description of how this
+///    is exposed in TalkBack and VoiceOver.
+///  * [hint] for a plain string version of this property. À ²Û©À ´}ƒ/// Provides a textual description of the widget's tooltip.
+///
+/// In Android, this property sets the `AccessibilityNodeInfo.setTooltipText`.
+/// In iOS, this property is appended to the end of the
+/// `UIAccessibilityElement.accessibilityLabel`.
+///
+/// If a [tooltip] is provided, there must either by an ambient
+/// [Directionality] or an explicit [textDirection] should be provided. À ´‰²À ¶.v/// Provides hint values which override the default hints on supported
+/// platforms.
+///
+/// On Android, If no hint overrides are used then default [hint] will be
+/// combined with the [label]. Otherwise, the [hint] will be ignored as long
+/// as there as at least one non-null hint override.
+///
+/// On iOS, these are always ignored and the default [hint] is used instead. À ¶@€ÃÀ ¶ö€˜/// The reading direction of the [label], [value], [increasedValue],
+/// [decreasedValue], and [hint].
+///
+/// Defaults to the ambient [Directionality]. À ·IÀ ¸J/// Determines the position of this node among its siblings in the traversal
+/// sort order.
+///
+/// This is used to describe the order in which the semantic node should be
+/// traversed by the accessibility services on the platform (e.g. VoiceOver
+/// on iOS and TalkBack on Android). À ¸V‚ŸÀ ºç‚`/// A tag to be applied to the child [SemanticsNode]s of this widget.
+///
+/// The tag is added to all child [SemanticsNode]s that pass through the
+/// [RenderObject] corresponding to this widget while looking to be attached
+/// to a parent SemanticsNode.
+///
+/// Tags are used to communicate to a parent SemanticsNode that a child
+/// SemanticsNode was passed through a particular RenderObject. The parent can
+/// use this information to determine the shape of the semantics tree.
+///
+/// See also:
+///
+///  * [SemanticsConfiguration.addTagForChildren], to which the tags provided
+///    here will be passed. À ºú“À ¼ˆi/// The handler for [SemanticsAction.tap].
+///
+/// This is the semantic equivalent of a user briefly tapping the screen with
+/// the finger without moving it. For example, a button should implement this
+/// action.
+///
+/// VoiceOver users on iOS and TalkBack users on Android can trigger this
+/// action by double-tapping the screen while an element is focused. À ¼’–À ¾f/// The handler for [SemanticsAction.longPress].
+///
+/// This is the semantic equivalent of a user pressing and holding the screen
+/// with the finger for a few seconds without moving it.
+///
+/// VoiceOver users on iOS and TalkBack users on Android can trigger this
+/// action by double-tapping the screen without lifting the finger after the
+/// second tap. À ¾-‚eÀ À†‚./// The handler for [SemanticsAction.scrollLeft].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from right to left. It should be recognized by controls that are
+/// horizontally scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping left with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// right and then left in one motion path. On Android, [onScrollUp] and
+/// [onScrollLeft] share the same gesture. Therefore, only on of them should
+/// be provided. À À—‚kÀ Âõ‚3/// The handler for [SemanticsAction.scrollRight].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from left to right. It should be recognized by controls that are
+/// horizontally scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping right with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// left and then right in one motion path. On Android, [onScrollDown] and
+/// [onScrollRight] share the same gesture. Therefore, only on of them should
+/// be provided. À Ã‚]À ÅZ‚(/// The handler for [SemanticsAction.scrollUp].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from bottom to top. It should be recognized by controls that are
+/// vertically scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping up with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// right and then left in one motion path. On Android, [onScrollUp] and
+/// [onScrollLeft] share the same gesture. Therefore, only on of them should
+/// be provided. À Åi‚fÀ ÇÃ‚//// The handler for [SemanticsAction.scrollDown].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from top to bottom. It should be recognized by controls that are
+/// vertically scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping down with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// left and then right in one motion path. On Android, [onScrollDown] and
+/// [onScrollRight] share the same gesture. Therefore, only on of them should
+/// be provided. À ÇÔ‚:À Ê‚/// The handler for [SemanticsAction.increase].
+///
+/// This is a request to increase the value represented by the widget. For
+/// example, this action might be recognized by a slider control.
+///
+/// If a [value] is set, [increasedValue] must also be provided and
+/// [onIncrease] must ensure that [value] will be set to [increasedValue].
+///
+/// VoiceOver users on iOS can trigger this action by swiping up with one
+/// finger. TalkBack users on Android can trigger this action by pressing the
+/// volume up button. À Ê‚>À ÌG‚	/// The handler for [SemanticsAction.decrease].
+///
+/// This is a request to decrease the value represented by the widget. For
+/// example, this action might be recognized by a slider control.
+///
+/// If a [value] is set, [decreasedValue] must also be provided and
+/// [onDecrease] must ensure that [value] will be set to [decreasedValue].
+///
+/// VoiceOver users on iOS can trigger this action by swiping down with one
+/// finger. TalkBack users on Android can trigger this action by pressing the
+/// volume down button. À ÌVÀ Íd€í/// The handler for [SemanticsAction.copy].
+///
+/// This is a request to copy the current selection to the clipboard.
+///
+/// TalkBack users on Android can trigger this action from the local context
+/// menu of a text field, for example. À Ío$À Î€ü/// The handler for [SemanticsAction.cut].
+///
+/// This is a request to cut the current selection and place it in the
+/// clipboard.
+///
+/// TalkBack users on Android can trigger this action from the local context
+/// menu of a text field, for example. À Î˜À Ï¦€í/// The handler for [SemanticsAction.paste].
+///
+/// This is a request to paste the current content of the clipboard.
+///
+/// TalkBack users on Android can trigger this action from the local context
+/// menu of a text field, for example. À Ï²rÀ Ñ,/// The handler for [SemanticsAction.moveCursorForwardByCharacter].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field forward by one character.
+///
+/// TalkBack users can trigger this by pressing the volume up key while the
+/// input focus is in a text field. À Ñ)wÀ Ò0/// The handler for [SemanticsAction.moveCursorBackwardByCharacter].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field backward by one character.
+///
+/// TalkBack users can trigger this by pressing the volume down key while the
+/// input focus is in a text field. À Ò¥fÀ Óò%/// The handler for [SemanticsAction.moveCursorForwardByWord].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field backward by one word.
+///
+/// TalkBack users can trigger this by pressing the volume down key while the
+/// input focus is in a text field. À ÔhÀ Õ^&/// The handler for [SemanticsAction.moveCursorBackwardByWord].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field backward by one word.
+///
+/// TalkBack users can trigger this by pressing the volume down key while the
+/// input focus is in a text field. À Õ}“À ×[/// The handler for [SemanticsAction.setSelection].
+///
+/// This handler is invoked when the user either wants to change the currently
+/// selected text in a text field or change the position of the cursor.
+///
+/// TalkBack users can trigger this handler by selecting "Move cursor to
+/// beginning/end" or "Select all" from the local context menu. À ×?À ØK/// The handler for [SemanticsAction.setText].
+///
+/// This handler is invoked when the user wants to replace the current text in
+/// the text field with a new text.
+///
+/// Voice access users can trigger this handler by speaking "type <text>" to
+/// their Android devices. À ØYƒÀ ÛÛƒK/// The handler for [SemanticsAction.didGainAccessibilityFocus].
+///
+/// This handler is invoked when the node annotated with this handler gains
+/// the accessibility focus. The accessibility focus is the
+/// green (on Android with TalkBack) or black (on iOS with VoiceOver)
+/// rectangle shown on screen to indicate what element an accessibility
+/// user is currently interacting with.
+///
+/// The accessibility focus is different from the input focus. The input focus
+/// is usually held by the element that currently responds to keyboard inputs.
+/// Accessibility focus and input focus can be held by two different nodes!
+///
+/// See also:
+///
+///  * [onDidLoseAccessibilityFocus], which is invoked when the accessibility
+///    focus is removed from the node.
+///  * [FocusNode], [FocusScope], [FocusManager], which manage the input focus. À ÛûƒÀ ßoƒ=/// The handler for [SemanticsAction.didLoseAccessibilityFocus].
+///
+/// This handler is invoked when the node annotated with this handler
+/// loses the accessibility focus. The accessibility focus is
+/// the green (on Android with TalkBack) or black (on iOS with VoiceOver)
+/// rectangle shown on screen to indicate what element an accessibility
+/// user is currently interacting with.
+///
+/// The accessibility focus is different from the input focus. The input focus
+/// is usually held by the element that currently responds to keyboard inputs.
+/// Accessibility focus and input focus can be held by two different nodes!
+///
+/// See also:
+///
+///  * [onDidGainAccessibilityFocus], which is invoked when the node gains
+///    accessibility focus.
+///  * [FocusNode], [FocusScope], [FocusManager], which manage the input focus. À ßSÀ àÙ'/// The handler for [SemanticsAction.dismiss].
+///
+/// This is a request to dismiss the currently focused node.
+///
+/// TalkBack users on Android can trigger this action in the local context
+/// menu, and VoiceOver users on iOS can trigger this action with a standard
+/// gesture or menu option. À àç‚7À ãÜ/// A map from each supported [CustomSemanticsAction] to a provided handler.
+///
+/// The handler associated with each custom action is called whenever a
+/// semantics action of type [SemanticsAction.customAction] is received. The
+/// provided argument will be an identifier used to retrieve an instance of
+/// a custom action which can then retrieve the correct handler from this map.
+///
+/// See also:
+///
+///  * [CustomSemanticsAction], for an explanation of custom actions.  À ã#†À ã4  À ãH&À ãe  À ã#À ã$À é´UÀ éÇ   À é´À éµÀ omÀ onÀ êîÀ ÀÇÀ ì(3/// A node that represents some semantic data.
+///
+/// The semantics tree is maintained during the semantics phase of the pipeline
+/// (i.e., during [PipelineOwner.flushSemantics]), which happens after
+/// compositing. The semantics tree is then uploaded into the engine for use
+/// by assistive technology. À ìl À ìóÀ í ~/// Creates a semantic node.
+///
+/// Each semantic node has a unique identifier that is assigned when the node
+/// is created.À íÀ í  À íÀ í$  À í<À í8À í>À íLÀ íMÀ íeÀ íWÀ ígÀ íx:À îÀ îÀ î€/// Creates a semantic node to represent the root of the semantics tree.
+///
+/// The root node is assigned an identifier of zero.À îÀ î  À î'À î6  À îGÀ î`  À îqÀ îmÀ îsÀ î‹À î}À î/À ïøCÀ ğ	 À ğ8À ğ0À ğ6À ğ2À ğ1À ğ4À ğ:À ğ@À ğK À ğ]À ğ÷€ÇÀ ñ»€°/// Uniquely identifies this node in the list of sibling nodes.
+///
+/// Keys are used during the construction of the semantics tree. They are not
+/// transferred to the engine. À ó¤À ó¨  À ó°!À óÄ  À õÀ õ  À öOÀ öT À ö\À ö`À öaÀ ÷>ƒnÀ ú•ƒ./// The semantic clip from an ancestor that was applied to this node.
+///
+/// Expressed in the coordinate system of the node. May be null if no clip has
+/// been applied.
+///
+/// Descendant [SemanticsNode]s that are positioned outside of this rect will
+/// be excluded from the semantics tree. Descendant [SemanticsNode]s that are
+/// overlapping with this rect, but are outside of [parentPaintClipRect] will
+/// be included in the tree, but they will be marked as hidden because they
+/// are assumed to be not visible on screen.
+///
+/// If this rect is null, all descendant [SemanticsNode]s outside of
+/// [parentPaintClipRect] will be excluded from the tree.
+///
+/// If this rect is non-null it has to completely enclose
+/// [parentPaintClipRect]. If [parentPaintClipRect] is null this property is
+/// also null. À ú±‚˜À ı6‚d/// The paint clip from an ancestor that was applied to this node.
+///
+/// Expressed in the coordinate system of the node. May be null if no clip has
+/// been applied.
+///
+/// Descendant [SemanticsNode]s that are positioned outside of this rect will
+/// either be excluded from the semantics tree (if they have no overlap with
+/// [parentSemanticsClipRect]) or they will be included and marked as hidden
+/// (if they are overlapping with [parentSemanticsClipRect]).
+///
+/// This rect is completely enclosed by [parentSemanticsClipRect].
+///
+/// If this rect is null [parentSemanticsClipRect] also has to be null. À ıN‚äÀ ‚®/// The elevation adjustment that the parent imposes on this node.
+///
+/// The [elevation] property is relative to the elevation of the parent
+/// [SemanticsNode]. However, as [SemanticsConfiguration]s from various
+/// ascending [RenderObject]s are merged into each other to form that
+/// [SemanticsNode] the parentâ€™s elevation may change. This requires an
+/// adjustment of the childâ€™s relative elevation which is represented by this
+/// value.
+///
+/// The value is rarely accessed directly. Instead, for most use cases the
+/// [elevation] value should be used, which includes this adjustment.
+///
+/// See also:
+///
+///  * [elevation], the actual elevation of this [SemanticsNode]. À 7}À§^/// The index of this node within the parent's list of semantic children.
+///
+/// This includes all semantic nodes, not just those currently in the
+/// child list. For example, if a scrollable has five children but the first
+/// two are not visible (and thus not included in the list of children), then
+/// the index of the last node will still be 4. Ày À~ À”ÀUÀ• À¸ÀÅÀÆÀúhÀYG/// Contains the children in inverse hit test order (i.e. paint order). Àg€àÀ	1€ª/// A snapshot of `newChildren` passed to [_replaceChildren] that we keep in
+/// debug mode. It supports the assertion that user does not mutate the list
+/// of children. ÀÂÀÇ ÀÏÀ$>À$C À$LÀ)ëNÀ* À*#À*0À*1À*=hÀ*f À*€À*À*À*ª1À*® À*¿À*ÌÀ*ÍÀ*à€ÂÀ+€¢/// The [SemanticsTag]s this node is tagged with.
+///
+/// Tags are used during the construction of the semantics tree. They are not
+/// transferred to the engine. À, !À,$ À,-À,:À,;À. AÀ.± À.ÄÀ.ÑÀ.ÒÀ0ğAÀ1 À1À1!À1"À4ÁSÀ4Ò À4îÀ4ûÀ4üÀ8¤SÀ8µ À8ÑÀ8ŞÀ8ßÀ;?À;/ À;AÀ;NÀ;OÀ;ø'À;ÿ À<
+À<À<À>w+À>~ À>‹À>˜À>™ÀF+ÀF¤ ÀF±ÀF¾ÀF¿ÀGf&ÀG~  ÀH/;ÀH> ÀHOÀH\ÀH]ÀIÆÀIØ  ÀJ˜ÀJ§  ÀKPÀKV  ÀLDÀLI  ÀLÍÀLÒ  ÀNÄÀNÌ  ÀP$ÀP,  ÀQ„ÀQŒ  ÀSÀS„  ÀU#ÀU(  ÀV·ÀV¼  ÀW'LÀWK ÀW[ÀWqÀWrÀzá6Àzø À{À{À{À{À{GÀ{2 À{VÀ{_À{aÀ{`À{fGÀ{ À{•À{«À{¬(À ñÃŞÀ ó—¹/// The unique identifier for this node.
+///
+/// The root node has an id of zero. Other nodes are given a unique id
+/// when they are attached to a [SemanticsOwner]. If they are detached, their
+/// ids are invalid and should not be used.
+///
+/// In rare circumstances, id may change if this node is detached and
+/// re-attached to the [SemanticsOwner]. This should only happen when the
+/// application has generated too many semantics nodes.   À óå,À ôù€ü/// The transform from this node's coordinate system to its parent's coordinate system.
+///
+/// By default, the transform is null, which represents the identity
+/// transformation (i.e., that this node has the same coordinate system as its
+/// parent).   À õ+€ÇÀ õ/  À õ9À õC   À õöVÀ ö></// The bounding box for this node in its coordinate system.   À öi€ÑÀ öm  À ör
+À öx   À¹‚)À¯Ø/// Whether the node is invisible.
+///
+/// A node whose [rect] is outside of the bounds of the screen and hence not
+/// reachable for users is considered invisible if its semantic information
+/// is not merged into a (partially) visible parent as indicated by
+/// [isMergedIntoParent].
+///
+/// An invisible node can be safely dropped from the semantic tree without
+/// loosing semantic information that is relevant for describing the content
+/// currently shown on screen.   Àô€‚ÀLL/// Whether this node merges its semantic information into an ancestor node.   À€²À¡  À´
+Àº   ÀSÀ“$/// Whether this node is taking part in a merge of semantic information.
+///
+/// This returns true if the node is either merged into an ancestor node or if
+/// decedent nodes are merged into this node.
+///
+/// See also:
+///
+///  * [isMergedIntoParent]
+///  * [mergeAllDescendantsIntoThisNode]   Àä€©ÀIY/// Whether this node and all of its descendants should be treated as one logical entity.   ÀMrÀ‘8/// Whether this node has a non-zero number of children.   ÀÙiÀ)/// The number of children this node has.   À3HÀS   À3À4ÀHÀ   ÀÀ€À,Æ€ÕÀ-z€/// A textual description of this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedLabel].   À-Ÿ€şÀ.y€º/// A textual description of this node in [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [label], which exposes just the raw text.   À.æ€êÀ/¯€³/// A textual description for the current value of the node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedValue].   À/ÔÀ0É€Ó/// A textual description for the current value of the node in
+/// [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [value], which exposes just the raw text.   À16£À2¦R/// The value that [value] will have after a [SemanticsAction.increase] action
+/// has been performed.
+///
+/// This property is only valid if the [SemanticsAction.increase] action is
+/// available on this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedIncreasedValue].   À2İáÀ4ˆƒ/// The value in [AttributedString] format that [value] or [attributedValue]
+/// will have after a [SemanticsAction.increase] action has been performed.
+///
+/// This property is only valid if the [SemanticsAction.increase] action is
+/// available on this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [increasedValue], which exposes just the raw text.   À5£À6‰R/// The value that [value] will have after a [SemanticsAction.decrease] action
+/// has been performed.
+///
+/// This property is only valid if the [SemanticsAction.decrease] action is
+/// available on this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedDecreasedValue].   À6ÀáÀ8kƒ/// The value in [AttributedString] format that [value] or [attributedValue]
+/// will have after a [SemanticsAction.decrease] action has been performed.
+///
+/// This property is only valid if the [SemanticsAction.decrease] action is
+/// available on this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [decreasedValue], which exposes just the raw text.   À8ü€öÀ9Ó€Á/// A brief description of the result of performing an action on this node.
+///
+/// The reading direction is given by [textDirection].
+///
+/// This exposes the raw text of the [attributedHint].   À9ö%À:ù€á/// A brief description of the result of performing an action on this node
+/// in [AttributedString] format.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also [hint], which exposes just the raw text.   À;b€“À;ám/// A textual description of the widget's tooltip.
+///
+/// The reading direction is given by [textDirection].   À<$‚PÀ>\‚/// The elevation along the z-axis at which the [rect] of this [SemanticsNode]
+/// is located above its parent.
+///
+/// The value is relative to the parent's [elevation]. The sum of the
+/// [elevation]s of all ancestor node plus this value determines the absolute
+/// elevation of this [SemanticsNode].
+///
+/// See also:
+///
+///  * [thickness], which describes how much space in z-direction this
+///    [SemanticsNode] occupies starting at this [elevation].
+///  * [elevationAdjustment], which has been used to calculate this value.   À>§‡óÀF‚‡q/// Describes how much space the [SemanticsNode] takes up along the z-axis.
+///
+/// A [SemanticsNode] represents multiple [RenderObject]s, which can be
+/// located at various elevations in 3D. The [thickness] is the difference
+/// between the absolute elevations of the lowest and highest [RenderObject]
+/// represented by this [SemanticsNode]. In other words, the thickness
+/// describes how high the box is that this [SemanticsNode] occupies in three
+/// dimensional space. The two other dimensions are defined by [rect].
+///
+/// {@tool snippet}
+/// The following code stacks three [PhysicalModel]s on top of each other
+/// separated by non-zero elevations.
+///
+/// [PhysicalModel] C is elevated 10.0 above [PhysicalModel] B, which in turn
+/// is elevated 5.0 above [PhysicalModel] A. The side view of this
+/// constellation looks as follows:
+///
+/// ![A diagram illustrating the elevations of three PhysicalModels and their
+/// corresponding SemanticsNodes.](https://flutter.github.io/assets-for-api-docs/assets/semantics/SemanticsNode.thickness.png)
+///
+/// In this example the [RenderObject]s for [PhysicalModel] C and B share one
+/// [SemanticsNode] Y. Given the elevations of those [RenderObject]s, this
+/// [SemanticsNode] has a [thickness] of 10.0 and an elevation of 5.0 over
+/// its parent [SemanticsNode] X.
+/// ```dart
+/// PhysicalModel( // A
+///   color: Colors.amber,
+///   child: Semantics(
+///     explicitChildNodes: true,
+///     child: const PhysicalModel( // B
+///       color: Colors.brown,
+///       elevation: 5.0,
+///       child: PhysicalModel( // C
+///         color: Colors.cyan,
+///         elevation: 10.0,
+///         child: Placeholder(),
+///       ),
+///     ),
+///   ),
+/// )
+/// ```
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [elevation], which describes the elevation of the box defined by
+///    [thickness] and [rect] relative to the parent of this [SemanticsNode].   ÀFÍ€–ÀGCU/// Provides hint values which override the default hints on supported
+/// platforms.   ÀG‘€›ÀHc/// The reading direction for [label], [value], [hint], [increasedValue], and
+/// [decreasedValue].   ÀHoTÀI¯/// Determines the position of this node among its siblings in the traversal
+/// sort order.
+///
+/// This is used to describe the order in which the semantic node should be
+/// traversed by the accessibility services on the platform (e.g. VoiceOver
+/// on iOS and TalkBack on Android).   ÀIå€°ÀJux/// The currently selected text (or the position of the cursor) within [value]
+/// if this node represents a text field.   ÀJº€“ÀK1h/// If this node represents a text field, this indicates whether or not it's
+/// a multiline text field.   ÀKg€ÚÀL€¢/// The total number of scrollable children that contribute to semantics.
+///
+/// If the number of children are unknown or unbounded, this value will be
+/// null.   ÀL_kÀL®C/// The index of the first visible semantic child of a scroll node.   ÀLãŞÀNŸ›/// Indicates the current scrolling position in logical pixels if the node is
+/// scrollable.
+///
+/// The properties [scrollExtentMin] and [scrollExtentMax] indicate the valid
+/// in-range values for this property. The value for [scrollPosition] may
+/// (temporarily) be outside that range, e.g. during an overscroll.
+///
+/// See also:
+///
+///  * [ScrollPosition.pixels], from where this value is usually taken.   ÀNàAÀOı /// Indicates the maximum in-range value for [scrollPosition] if the node is
+/// scrollable.
+///
+/// This value may be infinity if the scroll is unbound.
+///
+/// See also:
+///
+///  * [ScrollPosition.maxScrollExtent], from where this value is usually taken.   ÀPA@ÀQ]€ÿ/// Indicates the minimum in-range value for [scrollPosition] if the node is
+/// scrollable.
+///
+/// This value may be infinity if the scroll is unbound.
+///
+/// See also:
+///
+///  * [ScrollPosition.minScrollExtent] from where this value is usually taken.   ÀQ¡ÛÀSZ™/// The id of the platform view, whose semantics nodes will be added as
+/// children to this node.
+///
+/// If this value is non-null, the SemanticsNode must not have any children
+/// as those would be replaced by the semantics nodes of the referenced
+/// platform view.
+///
+/// See also:
+///
+///  * [AndroidView], which is the platform view for Android.
+///  * [UiKitView], which is the platform view for iOS.   ÀS˜ˆÀTşL/// The maximum number of characters that can be entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [SemanticsFlag.isTextField] is set. Defaults
+/// to null, which means no limit is imposed on the text field.   ÀU<xÀVŠ4/// The current number of characters that have been entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [SemanticsFlag.isTextField] is set. Must be
+/// set when [maxValueLength] is set.   À ğb€‘À ğm    À	LıÀ	Q  À	bÀ	w   ÀF¼À5€ß/// Visits the immediate children of this node.
+///
+/// This function calls visitor for each immediate child until visitor returns
+/// false. Returns true if all the visitor calls returned true, otherwise
+/// returns false. ÀCÀY   À‚À€ï/// Visit all the descendants of this node.
+///
+/// This function calls visitor for each descendant in a pre-order traversal
+/// until visitor returns false. Returns true if all the visitor calls
+/// returned true, otherwise returns false. ÀÀ-   ÀËNÀÜ   ÀËÀÌÀ‚4À.  À5ÀE  ÀÀÀ!U‚ÎÀ!f   À!UÀ!VÀ$U€ÃÀ$Z    À%„¯À%!  À%KÀ%c   À+§uÀ+Ú+/// Whether this node is tagged with `tag`. À+ãÀ+ñ   À,F|À,Š</// Whether this node currently has a given [SemanticsFlag]. À,’À,¡   ÀVÔOÀVÙ  ÀVëÀVü   ÀWx‹ÀYg×/// Reconfigures the properties of this object to describe the configuration
+/// provided in the `config` argument and the children listed in the
+/// `childrenInInversePaintOrder` argument.
+///
+/// The arguments may be null; this represents an empty configuration (all
+/// values at their defaults, no children).
+///
+/// No reference is kept to the [SemanticsConfiguration] object, but the child
+/// list is used as-is and should therefore not be changed after this call. ÀYx'ÀYš  ÀY¥0ÀY»   ÀbŒ—õÀc¨/// Returns a summary of the semantics for this node.
+///
+/// If this node has [mergeAllDescendantsIntoThisNode], then the returned data
+/// includes the information from this node's descendants. Otherwise, the
+/// returned data matches the data on this node.   Àz…XÀz˜    À{²ŒQÀ{·  À{Ä!À{ß  À{ç'À{ñ   Àˆ‰ÀÀˆkM/// Builds a new list made of [_children] sorted in semantic traversal order.   À‘ËxÀ’µ€Ü/// Sends a [SemanticsEvent] associated with this [SemanticsNode].
+///
+/// Semantics events should be sent to inform interested parties (like
+/// the accessibility system of the operating system) about changes to the UI. À’¿À’Ï   À“GXÀ“Z   À“GÀ“HÀ“£‘À“´  À“È&À“å  À“£À“¤À¤¾‚wÀ¥Ÿ€Å/// Returns a string representation of this node and its descendants.
+///
+/// The order in which the children of the [SemanticsNode] will be printed is
+/// controlled by the [childOrder] parameter. À¥²À¥º  À¥ÑÀ¥Ú  À¥ï0À¦   À¦%KÀ¦>  	À¥ŒÀ¥À¥ÉÀ¦
+À¦À¦À¦JÀ¦aÀ¦bÀ§9cÀ§U  À§mÀ§v  À§9À§–  À§¾KÀ§×  À§9À§:À§À§±À§²À§ãÀ§úÀ§ûÀ¨ 3À¨Â  À¨ÚKÀ¨ó  À¨ À¨¡À¨ÿÀ©À©À©×ÜÀª:L/// Returns the list of direct children of this node in the specified order. ÀªS"Àªl    À«·†À­Ú‚/// An edge of a box, such as top, bottom, left or right, used to compute
+/// [SemanticsNode]s that overlap vertically or horizontally.
+///
+/// For computing horizontal overlap in an LTR setting we create two [_BoxEdge]
+/// objects for each [SemanticsNode]: one representing the left edge (marked
+/// with [isLeadingEdge] equal to true) and one for the right edge (with [isLeadingEdge]
+/// equal to false). Similarly, for vertical overlap we also create two objects
+/// for each [SemanticsNode], one for the top and one for the bottom edge. À®€ß À®À® À®À®%  À®7À®F  À®QÀ®`  À®lÀ®rÀ®ˆÀ®À®sÀ®„À®’À®˜À®§À® À®™À®£À®±À®·À®ÇÀ®¸À®¾À®¿À®ÑÀ®×À®äÀ®İÀ®ØÀ®àÀ®ê½À°š’/// True if the edge comes before the seconds edge along the traversal
+/// direction, and false otherwise.
+///
+/// This field is never null.
+///
+/// For example, in LTR traversal the left edge's [isLeadingEdge] is set to true,
+/// the right edge's [isLeadingEdge] is set to false. When considering vertical
+/// ordering of boxes, the top edge is the start edge, and the bottom edge is
+/// the end edge. À°¬À±%g/// The offset from the start edge of the parent [SemanticsNode] in the
+/// direction of the traversal. À±0?À±k$/// The node whom this edge belongs.  À±tZÀ±„  À±À±˜  À±tÀ±u À±Ò–À²ª€Ñ/// A group of [nodes] that are disjoint vertically or horizontally from other
+/// nodes that share the same [SemanticsNode] parent.
+///
+/// The [nodes] are sorted among each other separately from other nodes. À²êy À²êÀ²ı À³À³  À³#À³2  À³GÀ³MÀ³aÀ³ZÀ³NÀ³]À³g€ûÀ´W€Ø/// The offset from the start edge of the parent [SemanticsNode] in the
+/// direction of the traversal.
+///
+/// This value is equal to the [_BoxEdge.offset] of the first node in the
+/// [nodes] list being considered. À´g!À´{  À´eÀ´Ù//// The nodes that are sorted among each other.À´ğÀ´ñÀ´áÀ´ïÀ´â À´÷oÀµ  ÀµÀµ&  À´÷À´øÀµj†RÀ¶R€Ë/// Sorts this group assuming that [nodes] belong to the same vertical group.
+///
+/// This method breaks up this group into horizontal [_SemanticsSortGroup]s
+/// then sorts them using [sortedWithinKnot].   À»ÀŒÀ¿ƒ%/// Sorts [nodes] where nodes intersect both vertically and horizontally.
+///
+/// In the special case when [nodes] contains one or less nodes, this method
+/// returns [nodes] unchanged.
+///
+/// This method constructs a graph, where vertices are [SemanticsNode]s and
+/// edges are "traversed before" relation between pairs of nodes. The sort
+/// order is the topological sorting of the graph, with the original order of
+/// [nodes] used as the tie breaker.
+///
+/// Whether a node is traversed before another node is determined by the
+/// vector that connects the two nodes' centers. If the vector "points to the
+/// right or down", defined as the [Offset.direction] being between `-pi/4`
+/// and `3*pi/4`), then the semantics node whose center is at the end of the
+/// vector is said to be traversed after.    ÀĞ>„˜ÀÑ©d/// The implementation of [Comparable] that implements the ordering of
+/// [SemanticsNode]s in the accessibility traversal.
+///
+/// [SemanticsNode]s are sorted prior to sending them to the engine side.
+///
+/// This implementation considers a [node]'s [sortKey] and its position within
+/// the list of its siblings. [sortKey] takes precedence over position. ÀÑê€› ÀÑêÀÑü ÀÒÀÒ  ÀÒÀÒ!  ÀÒ-ÀÒ<  ÀÒPÀÒVÀÒcÀÒ\ÀÒWÀÒ_ÀÒlÀÒrÀÒƒÀÒ|ÀÒsÀÒÀÒ‰QÀÒÖ6/// The node whose position this sort node determines. ÀÒß€µÀÓ€/// Determines the position of this node among its siblings.
+///
+/// Sort keys take precedence over other attributes, such as
+/// [position]. ÀÓ™lÀÓıU/// Position within the list of siblings as determined by the default sort
+/// order.  ÀÔ
+€ÊÀÔ  ÀÔ$ÀÔ8  ÀÔ
+ÀÔ ÀÔØœVÀÕé
+/// Owns [SemanticsNode] objects and notifies listeners of changes to the
+/// render tree semantics.
+///
+/// To listen for semantic updates, call [PipelineOwner.ensureSemantics] to
+/// obtain a [SemanticsHandle]. This will create a [SemanticsOwner] if
+/// necessary. ÀÖ€ ÀÖgÀÖuQ/// Creates a [SemanticsOwner] that manages zero or more [SemanticsNode] objects.ÀÖ|ÀÖ‹   ÀÖ¦¶ÀØKx/// The [onSemanticsUpdate] callback is expected to dispatch [SemanticsUpdate]s
+/// to the [FlutterView] that is associated with this [PipelineOwner] and/or
+/// [SemanticsOwner].
+///
+/// A [SemanticsOwner] calls [onSemanticsUpdate] during [sendSemanticsUpdate]
+/// after the [SemanticsUpdate] has been build, but before the [SemanticsOwner]'s
+/// listeners have been notified. ÀØ`8ÀØy ÀØ–ÀØ—ÀØ‡ÀØ•ÀØˆÀØœ=ÀØº ÀØ×ÀØØÀØÃÀØÖÀØÄÀØÉÀØİ;ÀØö ÀÙÀÙÀÙÀÙÀÙÀÙ€ŸÀÙf/// The root node of the semantics tree, if any.
+///
+/// If the semantics tree is empty, returns null.   ÀÙÀ~ÀÙÑ   ÀÙÀÀÙÁÀÚBŠŠÀÚ}3/// Update the semantics using [onSemanticsUpdate].   ÀäĞ‚OÀäè  ÀåÀå  ÀåÀå!   Àç#‚îÀè\%/// Asks the [SemanticsNode] with the given id to perform the given action.
+///
+/// If the [SemanticsNode] has not indicated that it can perform the action,
+/// this function does nothing.
+///
+/// If the given `action` requires arguments they need to be passed in via
+/// the `args` parameter. ÀèjÀèo  ÀèrÀèƒ  ÀèŒÀè•   Àê„.Àê-  ÀêSÀêb  ÀêgÀêo  ÀêxÀê‰   ÀîG‚©Àï„)/// Asks the [SemanticsNode] at the given position to perform the given action.
+///
+/// If the [SemanticsNode] has not indicated that it can perform the action,
+/// this function does nothing.
+///
+/// If the given `action` requires arguments they need to be passed in via
+/// the `args` parameter. Àï”Àïœ  Àï¥Àï¶  Àï¿ÀïÈ   Àğô8Àñ   ÀğôÀğõ Àñ0À ÕÀñî€·/// Describes the semantic information associated with the owning
+/// [RenderObject].
+///
+/// The information provided in the configuration is used to generate the
+/// semantics tree.  4Àôñ Àôö ÀõÀõ™ƒ6Àøµ‚ü/// Whether the configuration forces all children of the owning [RenderObject]
+/// that want to contribute semantic information to the semantics tree to do
+/// so in the form of explicit [SemanticsNode]s.
+///
+/// When set to false children of the owning [RenderObject] are allowed to
+/// annotate [SemanticsNode]s of their parent with the semantic information
+/// they want to contribute to the semantic tree.
+/// When set to true the only way for children of the owning [RenderObject]
+/// to contribute semantic information to the semantic tree is to introduce
+/// new explicit [SemanticsNode]s to the tree.
+///
+/// This setting is often used in combination with [isSemanticBoundary] to
+/// create semantic boundaries that are either writable or not for children.ÀøÊÀøÔƒ|Àüƒ%/// Whether the owning [RenderObject] makes other [RenderObject]s previously
+/// painted within the same semantic boundary unreachable for accessibility
+/// purposes.
+///
+/// If set to true, the semantic information for all siblings and cousins of
+/// this node, that are earlier in a depth-first pre-order traversal, are
+/// dropped from the semantics tree up until a semantic boundary (as defined
+/// by [isSemanticBoundary]) is reached.
+///
+/// If [isSemanticBoundary] and [isBlockingSemanticsOfPreviouslyPaintedNodes]
+/// is set on the same node, all previously painted siblings and cousins up
+/// until the next ancestor that is a semantic boundary are dropped.
+///
+/// Paint order as established by [RenderObject.visitChildrenForSemantics] is
+/// used to determine if a node is previous to this one.ÀüKÀı¬Àı± ÀıÅÀıÏ.ÀşÇ€¸/// The actions (with associated action handlers) that this configuration
+/// would like to contribute to the semantics tree.
+///
+/// See also:
+///
+///  * [addAction] to add an action.ÀşûÀşüÀşÒÀşúÀşÓÀşäÀÿÀÿ ÀÿÀ÷À  À	,À	:  ÀIÀW  ÀUÀc  ÀqÀ  ÀŒÀš  À¦À´  À¨À¶  À¦À´  ÀhÀv  À!)À!7  À"ÙÀ"ç  À%\À%j  À'¤2À'·  À*¬3À*¿  À-¡-À-´  À0†.À0™  À3$À3£  À7À7,  À<*À<  À@*À@¬  ÀD ÀD²  ÀFÒÀF×  ÀH'ÀH,  ÀIdÀIi  ÀJŸÀJ¤  ÀLÏÀLÔ  ÀNïÀNô  ÀQ¸-ÀQ½ ÀQàÀTKjÀTt ÀT³ÀT´ÀTÀT²ÀTÀT¦À[Œ8À[ À[°À[ÀÀ[ÃÀ[ÁÀc(8Àc9 ÀcLÀc\Àc_Àc]ÀiGAÀiX ÀitÀi„Ài‡Ài…Ào}AÀo ÀoªÀoºÀo½Ào»Àu7Àu Àu1ÀuAÀuDÀuBÀv`Àvg ÀvrÀwl&Àw„  ÀxÌÀxÓ ÀxàÀzæÀzí ÀzúÀƒuÀƒ„  À¥kÀ¥z  À§óÀ§û  À©ÓÀ©Û  À«¶À«¾  À­~#À­‘  À°ÑÀ°Õ À°Ş€”Àò+‚ÃÀôÄ‚u/// Whether the [RenderObject] owner of this configuration wants to own its
+/// own [SemanticsNode].
+///
+/// When set to true semantic information associated with the [RenderObject]
+/// owner of this configuration or any of its descendants will not leak into
+/// parents. The [SemanticsNode] generated out of this configuration will
+/// act as a boundary.
+///
+/// Whether descendants of the owning [RenderObject] can add their semantic
+/// information to the [SemanticsNode] introduced by this configuration
+/// is controlled by [explicitChildNodes].
+///
+/// This has to be true if [isMergingSemanticsOfDescendants] is also true.   Àõ€€Àõ  Àõ,
+Àõ2   ÀüÊ€ßÀıƒ€§/// Whether this configuration is empty.
+///
+/// An empty configuration doesn't contain any semantic information that it
+/// wants to contribute to the semantics tree.   À„íÀä„¢/// The handler for [SemanticsAction.tap].
+///
+/// This is the semantic equivalent of a user briefly tapping the screen with
+/// the finger without moving it. For example, a button should implement this
+/// action.
+///
+/// VoiceOver users on iOS and TalkBack users on Android can trigger this
+/// action by double-tapping the screen while an element is focused.
+///
+/// On Android prior to Android Oreo a double-tap on the screen while an
+/// element with an [onTap] handler is focused will not call the registered
+/// handler. Instead, Android will simulate a pointer down and up event at the
+/// center of the focused element. Those pointer events will get dispatched
+/// just like a regular tap with TalkBack disabled would: The events will get
+/// processed by any [GestureDetector] listening for gestures in the center of
+/// the focused element. Therefore, to ensure that [onTap] handlers work
+/// properly on Android versions prior to Oreo, a [GestureDetector] with an
+/// onTap handler should always be wrapping an element that defines a
+/// semantic [onTap] handler. By default a [GestureDetector] will register its
+/// own semantic [onTap] handler that follows this principle.   ÀqÀ  ÀÀ(   À„¥À	f/// The handler for [SemanticsAction.longPress].
+///
+/// This is the semantic equivalent of a user pressing and holding the screen
+/// with the finger for a few seconds without moving it.
+///
+/// VoiceOver users on iOS and TalkBack users on Android can trigger this
+/// action by double-tapping the screen without lifting the finger after the
+/// second tap.   À	J€ƒÀ	N  À	ZÀ	i   À	Ñ‚uÀ(‚./// The handler for [SemanticsAction.scrollLeft].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from right to left. It should be recognized by controls that are
+/// horizontally scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping left with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// right and then left in one motion path. On Android, [onScrollUp] and
+/// [onScrollLeft] share the same gesture. Therefore, only on of them should
+/// be provided.   Àh€†Àl  ÀyÀˆ   Àò`À:'/// The handler for [SemanticsAction.dismiss].
+///
+/// This is a request to dismiss the currently focused node.
+///
+/// TalkBack users on Android can trigger this action in the local context
+/// menu, and VoiceOver users on iOS can trigger this action with a standard
+/// gesture or menu option.   Àq}Àu  ÀÀ   Àò‚|ÀN‚3/// The handler for [SemanticsAction.scrollRight].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from left to right. It should be recognized by controls that are
+/// horizontally scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping right with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// left and then right in one motion path. On Android, [onScrollDown] and
+/// [onScrollRight] share the same gesture. Therefore, only on of them should
+/// be provided.   À‘€‰À•  À£À²   À‚kÀo‚(/// The handler for [SemanticsAction.scrollUp].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from bottom to top. It should be recognized by controls that are
+/// vertically scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping up with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// right and then left in one motion path. On Android, [onScrollUp] and
+/// [onScrollLeft] share the same gesture. Therefore, only on of them should
+/// be provided.   À©€€À­  À¸ÀÇ   À-‚vÀ…‚//// The handler for [SemanticsAction.scrollDown].
+///
+/// This is the semantic equivalent of a user moving their finger across the
+/// screen from top to bottom. It should be recognized by controls that are
+/// vertically scrollable.
+///
+/// VoiceOver users on iOS can trigger this action by swiping down with three
+/// fingers. TalkBack users on Android can trigger this action by swiping
+/// left and then right in one motion path. On Android, [onScrollDown] and
+/// [onScrollRight] share the same gesture. Therefore, only on of them should
+/// be provided.   ÀÅ€†ÀÉ  ÀÖÀå   ÀO‚VÀ‹‚/// The handler for [SemanticsAction.increase].
+///
+/// This is a request to increase the value represented by the widget. For
+/// example, this action might be recognized by a slider control.
+///
+/// If [this.value] is set, [increasedValue] must also be provided and
+/// [onIncrease] must ensure that [this.value] will be set to
+/// [increasedValue].
+///
+/// VoiceOver users on iOS can trigger this action by swiping up with one
+/// finger. TalkBack users on Android can trigger this action by pressing the
+/// volume up button.   ÀÅ€€ÀÉ  ÀÔÀã   ÀI‚ZÀ‰‚/// The handler for [SemanticsAction.decrease].
+///
+/// This is a request to decrease the value represented by the widget. For
+/// example, this action might be recognized by a slider control.
+///
+/// If [this.value] is set, [decreasedValue] must also be provided and
+/// [onDecrease] must ensure that [this.value] will be set to
+/// [decreasedValue].
+///
+/// VoiceOver users on iOS can trigger this action by swiping down with one
+/// finger. TalkBack users on Android can trigger this action by pressing the
+/// volume down button.   ÀÃ€€ÀÇ  ÀÒÀá   ÀGÀS€í/// The handler for [SemanticsAction.copy].
+///
+/// This is a request to copy the current selection to the clipboard.
+///
+/// TalkBack users on Android can trigger this action from the local context
+/// menu of a text field, for example.   ÀtÀ…  ÀŒÀ›   Àù-À!€ü/// The handler for [SemanticsAction.cut].
+///
+/// This is a request to cut the current selection and place it in the
+/// clipboard.
+///
+/// TalkBack users on Android can trigger this action from the local context
+/// menu of a text field, for example.   À!AqÀ!E  À!KÀ!Z   À!¶ À"Â€í/// The handler for [SemanticsAction.paste].
+///
+/// This is a request to paste the current content of the clipboard.
+///
+/// TalkBack users on Android can trigger this action from the local context
+/// menu of a text field, for example.   À"ówÀ"÷  À"ÿÀ#   À#nëÀ%7¤/// The handler for [SemanticsAction.showOnScreen].
+///
+/// A request to fully show the semantics node on screen. For example, this
+/// action might be send to a node in a scrollable list that is partially off
+/// screen to bring it on screen.
+///
+/// For elements in a scrollable list the framework provides a default
+/// implementation for this action and it is not advised to provide a
+/// custom one via this setter.   À%}€ŒÀ%  À%À%Ÿ   À&”À'_,/// The handler for [SemanticsAction.moveCursorForwardByCharacter].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field forward by one character.
+///
+/// TalkBack users can trigger this by pressing the volume up key while the
+/// input focus is in a text field.   À'Ú1À'Ş  À'ıÀ(   À)šÀ*e0/// The handler for [SemanticsAction.moveCursorBackwardByCharacter].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field backward by one character.
+///
+/// TalkBack users can trigger this by pressing the volume down key while the
+/// input focus is in a text field.   À*ã4À*ç  À+À+   À,ƒÀ-f%/// The handler for [SemanticsAction.moveCursorForwardByWord].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field backward by one word.
+///
+/// TalkBack users can trigger this by pressing the volume down key while the
+/// input focus is in a text field.   À-Ò'À-Ö  À-ğÀ.   À.ı†À0I&/// The handler for [SemanticsAction.moveCursorBackwardByWord].
+///
+/// This handler is invoked when the user wants to move the cursor in a
+/// text field backward by one word.
+///
+/// TalkBack users can trigger this by pressing the volume down key while the
+/// input focus is in a text field.   À0¸*À0¼  À0×À0ë   À1æ¥À3i[/// The handler for [SemanticsAction.setSelection].
+///
+/// This handler is invoked when the user either wants to change the currently
+/// selected text in a text field or change the position of the cursor.
+///
+/// TalkBack users can trigger this handler by selecting "Move cursor to
+/// beginning/end" or "Select all" from the local context menu.   À3¶‚À3º  À3ÉÀ3ß   À5ÍLÀ7/// The handler for [SemanticsAction.setText].
+///
+/// This handler is invoked when the user wants to replace the current text in
+/// the text field with a new text.
+///
+/// Voice access users can trigger this handler by speaking "type <text>" to
+/// their Android devices.   À7:À7>  À7HÀ7Y   À8Iƒ¼À;ÉƒK/// The handler for [SemanticsAction.didGainAccessibilityFocus].
+///
+/// This handler is invoked when the node annotated with this handler gains
+/// the accessibility focus. The accessibility focus is the
+/// green (on Android with TalkBack) or black (on iOS with VoiceOver)
+/// rectangle shown on screen to indicate what element an accessibility
+/// user is currently interacting with.
+///
+/// The accessibility focus is different from the input focus. The input focus
+/// is usually held by the element that currently responds to keyboard inputs.
+/// Accessibility focus and input focus can be held by two different nodes!
+///
+/// See also:
+///
+///  * [onDidLoseAccessibilityFocus], which is invoked when the accessibility
+///    focus is removed from the node.
+///  * [FocusNode], [FocusScope], [FocusManager], which manage the input focus.   À<6€³À<:  À<VÀ<e   À<íƒ®À@_ƒ=/// The handler for [SemanticsAction.didLoseAccessibilityFocus].
+///
+/// This handler is invoked when the node annotated with this handler
+/// loses the accessibility focus. The accessibility focus is
+/// the green (on Android with TalkBack) or black (on iOS with VoiceOver)
+/// rectangle shown on screen to indicate what element an accessibility
+/// user is currently interacting with.
+///
+/// The accessibility focus is different from the input focus. The input focus
+/// is usually held by the element that currently responds to keyboard inputs.
+/// Accessibility focus and input focus can be held by two different nodes!
+///
+/// See also:
+///
+///  * [onDidGainAccessibilityFocus], which is invoked when the node gains
+///    accessibility focus.
+///  * [FocusNode], [FocusScope], [FocusManager], which manage the input focus.   À@Ì€³À@Ğ  À@ìÀ@û   ÀB;‚bÀD‰‚!/// Determines the position of this node among its siblings in the traversal
+/// sort order.
+///
+/// This is used to describe the order in which the semantic node should be
+/// traversed by the accessibility services on the platform (e.g. VoiceOver
+/// on iOS and TalkBack on Android).
+///
+/// Whether this sort key has an effect on the [SemanticsNode] sort order is
+/// subject to how this configuration is used. For example, the [absorb]
+/// method may decide to not use this key when it combines multiple
+/// [SemanticsConfiguration] objects.   ÀD¾yÀDÂ  ÀDÊÀDİ   ÀE;”ÀF¯^/// The index of this node within the parent's list of semantic children.
+///
+/// This includes all semantic nodes, not just those currently in the
+/// child list. For example, if a scrollable has five children but the first
+/// two are not visible (and thus not included in the list of children), then
+/// the index of the last node will still be 4.   ÀFé]ÀFí  ÀFû
+ÀG   ÀGJ€ÚÀGş€¢/// The total number of scrollable children that contribute to semantics.
+///
+/// If the number of children are unknown or unbounded, this value will be
+/// null.   ÀHA€œÀHE  ÀHV
+ÀH\   ÀHá€€ÀIEV/// The index of the first visible scrollable child that contributes to
+/// semantics.   ÀIy€ÀI}  ÀI‰
+ÀI   ÀJ
+€’ÀJzb/// The id of the platform view, whose semantics nodes will be added as
+/// children to this node.   ÀJ·€–ÀJ»  ÀJÊ
+ÀJĞ   ÀKQ{ÀLª?/// The maximum number of characters that can be entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [isTextField] is true. Defaults to null,
+/// which means no limit is imposed on the text field.   ÀLç€–ÀLë  ÀLú
+ÀM    ÀMkÀNÂ'/// The current number of characters that have been entered into an editable
+/// text field.
+///
+/// For the purpose of this function a character is defined as one Unicode
+/// scalar value.
+///
+/// This should only be set when [isTextField] is true. Must be set when
+/// [maxValueLength] is set.   ÀO€¢ÀO  ÀO"
+ÀO(   ÀO±‚ÀQq¦/// Whether the semantic information provided by the owning [RenderObject] and
+/// all of its descendants should be treated as one logical entity.
+///
+/// If set to true, the descendants of the owning [RenderObject]'s
+/// [SemanticsNode] will merge their semantic information into the
+/// [SemanticsNode] representing the owning [RenderObject].
+///
+/// Setting this to true requires that [isSemanticBoundary] is also true.   ÀQé€¡ÀQí  ÀR
+ÀR   ÀRºÀTN/// The handlers for each supported [CustomSemanticsAction].
+///
+/// Whenever a custom accessibility action is added to a node, the action
+/// [SemanticsAction.customAction] is automatically added. A handler is
+/// created which uses the passed argument to lookup the custom action
+/// handler from this map and invoke it, if present.   ÀT¹ÀT½  ÀTÔ.ÀTş   ÀWWÀX;/// A textual description of the owning [RenderObject].
+///
+/// Setting this attribute will override the [attributedLabel].
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [attributedLabel], which is the [AttributedString] of this property.   ÀX_€†ÀXc  ÀXiÀXq   ÀXé‚ À[e‚J/// A textual description of the owning [RenderObject] in [AttributedString]
+/// format.
+///
+/// On iOS this is used for the `accessibilityAttributedLabel` property
+/// defined in the `UIAccessibility` Protocol. On Android it is concatenated
+/// together with [attributedValue] and [attributedHint] in the following
+/// order: [attributedValue], [attributedLabel], [attributedHint]. The
+/// concatenated value is then used as the `Text` description.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [label], which is the raw text of this property.   À[È€À[Ì  À[Ü À[î   À\M‚•À^Á‚N/// A textual description for the current value of the owning [RenderObject].
+///
+/// Setting this attribute will override the [attributedValue].
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [attributedValue], which is the [AttributedString] of this property.
+///  * [increasedValue] and [attributedIncreasedValue], which describe what
+///    [value] will be after performing [SemanticsAction.increase].
+///  * [decreasedValue] and [attributedDecreasedValue], which describe what
+///    [value] will be after performing [SemanticsAction.decrease].   À^å€†À^é  À^ïÀ^÷   À_oƒ¶ÀcƒX/// A textual description for the current value of the owning [RenderObject]
+/// in [AttributedString] format.
+///
+/// On iOS this is used for the `accessibilityAttributedValue` property
+/// defined in the `UIAccessibility` Protocol. On Android it is concatenated
+/// together with [attributedLabel] and [attributedHint] in the following
+/// order: [attributedValue], [attributedLabel], [attributedHint]. The
+/// concatenated value is then used as the `Text` description.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [value], which is the raw text of this property.
+///  * [attributedIncreasedValue], which describes what [value] will be after
+///    performing [SemanticsAction.increase].
+///  * [attributedDecreasedValue], which describes what [value] will be after
+///    performing [SemanticsAction.decrease].   Àcd€Àch  Àcx ÀcŠ   Àcé‚nÀf$‚/// The value that [value] will have after performing a
+/// [SemanticsAction.increase] action.
+///
+/// Setting this attribute will override the [attributedIncreasedValue].
+///
+/// One of the [attributedIncreasedValue] or [increasedValue] must be set if
+/// a handler for [SemanticsAction.increase] is provided and one of the
+/// [value] or [attributedValue] is set.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [attributedIncreasedValue], which is the [AttributedString] of this property.   ÀfZ€³Àf^  ÀfmÀfu   Àg‚3ÀiÏ/// The value that [value] will have after performing a
+/// [SemanticsAction.increase] action in [AttributedString] format.
+///
+/// One of the [attributedIncreasedValue] or [increasedValue] must be set if
+/// a handler for [SemanticsAction.increase] is provided and one of the
+/// [value] or [attributedValue] is set.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [increasedValue], which is the raw text of this property.   ÀiŒ€¥Ài  Ài©)Ài»   Àj5‚XÀlZ‚/// The value that [value] will have after performing a
+/// [SemanticsAction.decrease] action.
+///
+/// Setting this attribute will override the [attributedDecreasedValue].
+///
+/// One of the [attributedDecreasedValue] or [decreasedValue] must be set if
+/// a handler for [SemanticsAction.decrease] is provided and one of the
+/// [value] or [attributedValue] is set.
+///
+/// The reading direction is given by [textDirection].
+///
+///  * [attributedDecreasedValue], which is the [AttributedString] of this property.   Àl€³Àl”  Àl£Àl«   ÀmG‚3ÀoDÏ/// The value that [value] will have after performing a
+/// [SemanticsAction.decrease] action in [AttributedString] format.
+///
+/// One of the [attributedDecreasedValue] or [decreasedValue] must be set if
+/// a handler for [SemanticsAction.decrease] is provided and one of the
+/// [value] or [attributedValue] is set.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [decreasedValue], which is the raw text of this property.   ÀoÂ€¥ÀoÆ  Àoß)Àoñ   ÀpkgÀq³*/// A brief description of the result of performing an action on this node.
+///
+/// Setting this attribute will override the [attributedHint].
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [attributedHint], which is the [AttributedString] of this property.   ÀqÕ€ÀqÙ  ÀqŞÀqæ   ÀrZ‚±Àté‚]/// A brief description of the result of performing an action on this node in
+/// [AttributedString] format.
+///
+/// On iOS this is used for the `accessibilityAttributedHint` property
+/// defined in the `UIAccessibility` Protocol. On Android it is concatenated
+/// together with [attributedLabel] and [attributedValue] in the following
+/// order: [attributedValue], [attributedLabel], [attributedHint]. The
+/// concatenated value is then used as the `Text` description.
+///
+/// The reading direction is given by [textDirection].
+///
+/// See also:
+///
+///  * [hint], which is the raw text of this property.   ÀuI}ÀuM  Àu\Àun   ÀuÊ€“ÀvIm/// A textual description of the widget's tooltip.
+///
+/// The reading direction is given by [textDirection].   ÀvxWÀv|  Àv„ÀvŒ   ÀvÓ€–ÀwIU/// Provides hint values which override the default hints on supported
+/// platforms.   Àw–€Àwš  Àw¨ÀwÁ   Àx7€’Àx±j/// The elevation in z-direction at which the owning [RenderObject] is
+/// located relative to its parent.   Àxç€µÀxë  ÀxõÀxı   Ày CÀzË/// The extend that the owning [RenderObject] occupies in z-direction starting
+/// at [elevation].
+///
+/// It's extremely rare to set this value directly. Instead, it is calculated
+/// implicitly when other [SemanticsConfiguration]s are merged into this one
+/// via [absorb].   À{€µÀ{  À{À{   À{ºÀ|”€Ä/// Whether the semantics node is the root of a subtree for which values
+/// should be announced.
+///
+/// See also:
+///
+///  * [SemanticsFlag.scopesRoute], for a full description of route scoping.   À|ÊQÀ|Î  À|Ú
+À|à   À}€ãÀ}Ñ€/// Whether the semantics node contains the label of a route.
+///
+/// See also:
+///
+///  * [SemanticsFlag.namesRoute], for a full description of route naming.   À~OÀ~	  À~
+À~   À~XjÀ~—3/// Whether the semantics node represents an image.   À~ÅIÀ~É  À~Ñ
+À~×   ÀƒaÀ‚@ƒ/// Whether the semantics node is a live region.
+///
+/// A live region indicates that updates to semantics node are important.
+/// Platforms may use this information to make polite announcements to the
+/// user to inform them of updates to this node.
+///
+/// An example of a live region is a [SnackBar] widget. On Android and iOS,
+/// live region causes a polite announcement to be generated automatically,
+/// even if the widget does not have accessibility focus. This announcement
+/// may not be spoken if the OS accessibility services are already
+/// announcing something else, such as reading the label of a focused widget
+/// or providing a system announcement.
+///
+/// See also:
+///
+///  * [SemanticsFlag.isLiveRegion], the semantics flag that this setting controls.   À‚vQÀ‚z  À‚…
+À‚‹   À‚Ë€§ÀƒRo/// The reading direction for the text in [label], [value], [hint],
+/// [increasedValue], and [decreasedValue].   Àƒ–wÀƒš  Àƒ¨Àƒ¸   À„µÀ…•n/// Whether the owning [RenderObject] is selected (true) or not (false).
+///
+/// This is different from having accessibility focus. The element that is
+/// accessibility focused may or may not be selected; e.g. a [ListTile] can have
+/// accessibility focus but have its [ListTile.selected] property set to false,
+/// in which case it will not be flagged as selected.   À…ÉOÀ…Í  À…Ø
+À…Ş   À†ƒ<Àˆø‚³/// Whether the owning [RenderObject] is currently enabled.
+///
+/// A disabled object does not respond to user interactions. Only objects that
+/// usually respond to user interactions, but which currently do not (like a
+/// disabled button) should be marked as disabled.
+///
+/// The setter should not be called for objects (like static text) that never
+/// respond to user interactions.
+///
+/// The getter will return null if the owning [RenderObject] doesn't support
+/// the concept of being enabled/disabled.
+///
+/// This property does not control whether semantics are enabled. If you wish to
+/// disable semantics for a particular widget, you should use an [ExcludeSemantics]
+/// widget.   À‰[€‚À‰_  À‰iÀ‰p   À‰á‚&À‹§©/// If this node has Boolean state that can be controlled by the user, whether
+/// that state is checked or unchecked, corresponding to true and false,
+/// respectively.
+///
+/// Do not call the setter for this field if the owning [RenderObject] doesn't
+/// have checked/unchecked state that can be controlled by the user.
+///
+/// The getter returns null if the owning [RenderObject] does not have
+/// checked/unchecked state.   ÀŒ
+€ºÀŒ  ÀŒÀŒ   ÀŒÈöÀNk/// If this node has tristate that can be controlled by the user, whether
+/// that state is in its mixed state.
+///
+/// Do not call the setter for this field if the owning [RenderObject] doesn't
+/// have checked/unchecked state that can be controlled by the user.
+///
+/// The getter returns null if the owning [RenderObject] does not have
+/// mixed checked state.   ÀÁ€ÂÀÅ  À×ÀŞ   À‡ÿÀ‘&„/// If this node has Boolean state that can be controlled by the user, whether
+/// that state is on or off, corresponding to true and false, respectively.
+///
+/// Do not call the setter for this field if the owning [RenderObject] doesn't
+/// have on/off state that can be controlled by the user.
+///
+/// The getter returns null if the owning [RenderObject] does not have
+/// on/off state.   À‘‰€‚À‘  À‘—À‘   À’{À“9/// Whether the owning RenderObject corresponds to UI that allows the user to
+/// pick one of several mutually exclusive options.
+///
+/// For example, a [Radio] button is in a mutually exclusive group because
+/// only one radio button in that group can be marked as [isChecked].   À“oÀ“‘  À“¬
+À“²   À” ~À”K?/// Whether the owning [RenderObject] can hold the input focus.   À”QÀ”…  À”‘
+À”—   À”Ö€À•(F/// Whether the owning [RenderObject] currently holds the input focus.   À•ZMÀ•^  À•h
+À•n   À•«€À•ÿH/// Whether the owning [RenderObject] is a button (true) or not (false).   À–/KÀ–3  À–<
+À–B   À–~{À–ĞF/// Whether the owning [RenderObject] is a link (true) or not (false).   À–üGÀ—   À—
+À—   À—G€À—›H/// Whether the owning [RenderObject] is a header (true) or not (false).   À—ËKÀ—Ï  À—Ø
+À—Ş   À˜€À˜nH/// Whether the owning [RenderObject] is a slider (true) or not (false).   À˜KÀ˜¢  À˜«
+À˜±   À˜í€•À™KE/// Whether the owning [RenderObject] is a keyboard key (true) or not   À™…UÀ™‰  À™—
+À™   À™ŞƒnÀƒ/// Whether the owning [RenderObject] is considered hidden.
+///
+/// Hidden elements are currently not visible on screen. They may be covered
+/// by other elements or positioned outside of the visible area of a viewport.
+///
+/// Hidden elements cannot gain accessibility focus though regular touch. The
+/// only way they can be focused is by moving the focus to them via linear
+/// navigation.
+///
+/// Platforms are free to completely ignore hidden elements and new platforms
+/// are encouraged to do so.
+///
+/// Instead of marking an element as hidden it should usually be excluded from
+/// the semantics tree altogether. Hidden elements are only included in the
+/// semantics tree to work around platform limitations and they are mainly
+/// used to implement accessibility scrolling on iOS.   ÀOKÀS  À\
+Àb   ÀuÀà6/// Whether the owning [RenderObject] is a text field.   ÀQÀ  À&
+À,   Àk€¨Àâg/// Whether the owning [RenderObject] is read only.
+///
+/// Only applicable when [isTextField] is true.   ÀŸOÀŸ  ÀŸ%
+ÀŸ+   ÀŸiTÀ Œ/// Whether [this.value] should be obscured.
+///
+/// This option is usually set in combination with [isTextField] to indicate
+/// that the text field contains a password (or other sensitive information).
+/// Doing so instructs screen readers to not read out [this.value].   À ÀOÀ Ä  À Ï
+À Õ   À¡€õÀ¡Õ€°/// Whether the text field is multiline.
+///
+/// This option is usually set in combination with [isTextField] to indicate
+/// that the text field is configured to be multiline.   À¢QÀ¢  À¢
+À¢!   À¢`éÀ¤Œ/// Whether the platform can scroll the semantics node when the user attempts
+/// to move focus to an offscreen child.
+///
+/// For example, a [ListView] widget has implicit scrolling so that users can
+/// easily move to the next visible set of children. A [TabBar] widget does
+/// not have implicit scrolling, so that users can navigate into the tab
+/// body when reaching the end of the tab bar.   À¤LcÀ¤P  À¤e
+À¤k   À¤³€µÀ¥H}/// The currently selected text (or the position of the cursor) within
+/// [this.value] if this node represents a text field.   À¥Œ€‚À¥  À¥À¥®   À¦ŞÀ§Î›/// Indicates the current scrolling position in logical pixels if the node is
+/// scrollable.
+///
+/// The properties [scrollExtentMin] and [scrollExtentMax] indicate the valid
+/// in-range values for this property. The value for [scrollPosition] may
+/// (temporarily) be outside that range, e.g. during an overscroll.
+///
+/// See also:
+///
+///  * [ScrollPosition.pixels], from where this value is usually taken.   À¨}À¨  À¨!À¨*   À¨AÀ©¬ /// Indicates the maximum in-range value for [scrollPosition] if the node is
+/// scrollable.
+///
+/// This value may be infinity if the scroll is unbound.
+///
+/// See also:
+///
+///  * [ScrollPosition.maxScrollExtent], from where this value is usually taken.   À©ïÀ©ó  ÀªÀª   ÀªrAÀ« /// Indicates the minimum in-range value for [scrollPosition] if the node is
+/// scrollable.
+///
+/// This value may be infinity if the scroll is unbound.
+///
+/// See also:
+///
+///  * [ScrollPosition.minScrollExtent], from where this value is usually taken.   À«ÒÀ«Ö  À«æÀ«ï   À¬`À­W€Ì/// The set of tags that this configuration wants to add to all child
+/// [SemanticsNode]s.
+///
+/// See also:
+///
+///  * [addTagForChildren] to add a tag and for more information about their
+///    usage.   
+ÀÿXÀÿ®€ƒ/// Adds an `action` to the semantics tree.
+///
+/// The provided `handler` is called to respond to the user triggered
+/// `action`. Àÿ¹ÀÿÊ  ÀÿÑÀÿé   À yŠÀ?€¶/// Adds an `action` to the semantics tree, whose `handler` does not expect
+/// any arguments.
+///
+/// The provided `handler` is called to respond to the user triggered
+/// `action`. ÀVÀg  ÀnÀ|   ÀAƒ€´ÀAúZ/// Returns the action handler registered for [action] or null if none was
+/// registered. ÀBÀB   ÀUÑ0ÀUÖ  ÀUïÀUø   À­¦ƒÀ°:‚p/// Specifies a [SemanticsTag] that this configuration wants to apply to all
+/// child [SemanticsNode]s.
+///
+/// The tag is added to all [SemanticsNode] that pass through the
+/// [RenderObject] owning this configuration while looking to be attached to a
+/// parent [SemanticsNode].
+///
+/// Tags are used to communicate to a parent [SemanticsNode] that a child
+/// [SemanticsNode] was passed through a particular [RenderObject]. The parent
+/// can use this information to determine the shape of the semantics tree.
+///
+/// See also:
+///
+///  * [RenderViewport.excludeFromScrolling] for an example of
+///    how tags are used. À°LÀ°Z   À°ã€®À°è  À°ñÀ±   À±
+À±   À±•@À±š  À±£À±²   À±ÿ„À²ü€í/// Whether this configuration is compatible with the provided `other`
+/// configuration.
+///
+/// Two configurations are said to be compatible if they can be added to the
+/// same [SemanticsNode] without losing any semantics information. À³À³&   À¶Š-À¸B‚/// Absorb the semantic information from `child` into this configuration.
+///
+/// This adds the semantic information of both configurations and saves the
+/// result in this configuration.
+///
+/// The [RenderObject] owning the `child` configuration must be a descendant
+/// of the [RenderObject] that owns this configuration.
+///
+/// Only configurations that have [explicitChildNodes] set to false can
+/// absorb other configurations and it is recommended to only absorb compatible
+/// configurations as determined by [isCompatibleWith]. À¸IÀ¸a   ÀÀ?…öÀÀ‰0/// Returns an exact copy of this configuration.    ÀÌ2Š^ÀÎâ‚ /// Base class for all sort keys for [SemanticsProperties.sortKey] accessibility
+/// traversal order sorting.
+///
+/// Sort keys are sorted by [name], then by the comparison that the subclass
+/// implements. If [SemanticsProperties.sortKey] is specified, sort keys within
+/// the same semantic group must all be of the same type.
+///
+/// Keys with no [name] are compared to other keys with no [name], and will
+/// be traversed before those with a [name].
+///
+/// If no sort key is applied to a semantics node, then it will be ordered using
+/// a platform dependent default algorithm.
+///
+/// See also:
+///
+///  * [OrdinalSortKey] for a sort key that sorts using an ordinal. ÀÏ3€½ ÀÏÒÀÏâ€”/// Abstract const constructor. This constructor enables subclasses to provide
+/// const constructors so that they can be used in const expressions.ÀÏä	ÀÏê   ÀÏô?ÀÑ//// An optional name that will group this sort key with other sort keys of the
+/// same [name].
+///
+/// Sort keys must have the same `runtimeType` when compared.
+///
+/// Keys with no [name] are compared to other keys with no [name], and will
+/// be traversed before those with a [name].  ÀÑ8‚¶ÀÑH  ÀÑRÀÑd  ÀÑ8ÀÑ9ÀÓòÕÀÕ›…/// The implementation of [compareTo].
+///
+/// The argument is guaranteed to be of the same type as this object and have
+/// the same [name].
+///
+/// The method should return a negative number if this object comes earlier in
+/// the sort order than the argument; and a positive number if it comes later
+/// in the sort order. Returning zero causes the system to use default sort
+/// order. ÀÕ¥ ÀÕÁ  ÀÕŠÀÕ‹ÀÕË€ÃÀÕÜ  ÀÕğ&ÀÖ  ÀÕËÀÕÌ ÀÖ’‡¾ÀÙïƒV/// A [SemanticsSortKey] that sorts simply based on the `double` value it is
+/// given.
+///
+/// The [OrdinalSortKey] compares itself with other [OrdinalSortKey]s
+/// to sort based on the order it is given.
+///
+/// [OrdinalSortKey]s are sorted by the optional [name], then by their [order].
+/// If [SemanticsProperties.sortKey] is a [OrdinalSortKey], then all the other
+/// specified sort keys in the same semantics group must also be
+/// [OrdinalSortKey]s.
+///
+/// Keys with no [name] are compared to other keys with no [name], and will
+/// be traversed before those with a [name].
+///
+/// The ordinal value [order] is typically a whole number, though it can be
+/// fractional, e.g. in order to fit between two other consecutive whole
+/// numbers. The value must be finite (it cannot be [double.nan],
+/// [double.infinity], or [double.negativeInfinity]). ÀÚD ÀÚ¸ÀÚÆ€/// Creates a const semantics sort key that uses a [double] as its key value.
+///
+/// The [order] must be a finite number, and must not be null.ÀÚÌ
+ÀÚÒ  ÀÚŞ
+ÀÚå  ÀÚñÀÚ÷ÀÛÀÚşÀÚøÀÛÀÛÀÛÀÛ5ÀÛÀÛÀÛÀÛ$ÀÛ%ÀÛ?ÀÛEÀÛ]ÀÛLÀÛFÀÛNÀÛTÀÛUÀÛcaÀÜ¿B/// Determines the placement of this key in a sequence of keys that defines
+/// the order in which this node is traversed by the platform's accessibility
+/// services.
+///
+/// Lower values will be traversed first. Keys with the same [name] will be
+/// grouped together and sorted by name first, and then sorted by [order].  ÀÜÉ€¼ÀÜÙ  ÀÜãÀÜó  ÀÜÉÀÜÊÀİ‰€ÅÀİš  Àİ®&ÀİË  Àİ‰ÀİŠ  ÀÆ9‚JÀÆ_/// Used by [debugDumpSemanticsTree] to specify the order in which child nodes
+/// are printed.  ÀÆºÀÇ¼€÷/// Print nodes in inverse hit test order.
+///
+/// In inverse hit test order, the last child of a [SemanticsNode] will be
+/// asked first if it wants to respond to a user's interaction, followed by
+/// the second last, etc. until a taker is found. ÀÇÏ€±ÀÈr€š/// Print nodes in semantic traversal order.
+///
+/// This is the order in which a user would navigate the UI using the "next"
+/// and "previous" gestures.      À êC€©À ê¥\/// In tests use this function to reset the counter used to generate
+/// [SemanticsNode.id].   ÀÇÙCÀÈ!@/// Converts `point` to the `node`'s parent's coordinate system. ÀÈ;ÀÈJ  ÀÈOÀÈW   ÀÉ‡ÀË2ÿ/// Sorts `children` using the default sorting algorithm, and returns them as a
+/// new list.
+///
+/// The algorithm first breaks up children into groups such that no two nodes
+/// from different groups overlap vertically. These groups are sorted vertically
+/// according to their [_SemanticsSortGroup.startOffset].
+///
+/// Within each group, the nodes are sorted using
+/// [_SemanticsSortGroup.sortedWithinVerticalGroup].
+///
+/// For an illustration of the algorithm see http://bit.ly/flutter-default-traversal. ÀËJÀË_  ÀËhÀËw   ÀÈ…ƒ«ÀÈ–  ÀÈ².ÀÈÍ  ÀÈä/ÀÈÿ  ÀÉ)ÀÉ0  ÀÉD*ÀÉ]    „€ã„Ç€¡/// Signature for a function that is called for each [SemanticsNode].
+///
+/// Return false to stop visiting nodes.
+///
+/// Used by [SemanticsNode.visitChildren].  „ì„û   ……æ€Û/// Signature for [SemanticsAction]s that move the cursor.
+///
+/// If `extendSelection` is set to true the cursor movement should extend the
+/// current selection or (if nothing is currently selected) start a selection.  ††   † €Ğ†³€Š/// Signature for the [SemanticsAction.setSelection] handlers to change the
+/// text selection (or re-position the cursor) to `selection`.  †×†æ   †ò€¤‡jo/// Signature for the [SemanticsAction.setText] handlers to replace the
+/// current text with the input `text`.  ‡‰‡‘   ‡˜€°ˆr/// Signature for a handler of a [SemanticsAction].
+///
+/// Returned by [SemanticsConfiguration.getActionHandler].  ˆ:ˆC   ˆJ€ÔˆÛ€ˆ/// Signature for a function that receives a semantics update and returns no result.
+///
+/// Used by [SemanticsOwner.onSemanticsUpdate].  ‰‰       ’³ <€†€¤€¥€Á€Ù=>h´Ü‚‚‚<‚[‚\‚Î‚Ïƒnƒ©ƒèƒé„„„c„g„„”„¿………=…A……Ş†† †l†«†ñ†ò‡:‡b‡—‡˜‡Ì‡ĞˆˆIˆJˆŸˆ£ˆÓ‰‰ ‰A‰E‰„‰ÑŠŠ!ŠoŠ¼ŠÊŠÎ‹‹j‹¸‹Ç‹Ü‹üŒŒRŒ¢Œò$%bh®ÃÄĞOS•İ%m¼l ¤ó‘‘
+‘R‘}‘‘‘“‘ä‘ï’’:’@’x’´’Ñ’ì’ÿ“““e“s“y“°”"”>”X”v”Š”‹”É”à”á••3•4•n•••œ•Ô•Õ•á––0–D–J–t–”–²–Õ–Ù–Ú–æ–ü—Y—]—^—§—À—Ú˜4˜Š˜‹˜º˜õ™™/™I™f™‡™™ ™¤™¥™Ôšš!š%š'š(š`škš„š§š­šø›››X›g›{››¿›÷œ
+œHœZœœÂ
+!6BC{’“½Ã/0syÊŸŸKŸeŸyŸŸŸŸ²Ÿ¸Ÿ¹ŸŞ  h  · ù¡'¡X¡…¡¡ã¢¢¢¢b¢f¢g¢³¢¿¢â££3£U£›£Ÿ£ £¬£ä£å£ñ¤¤h¤l¤n¤o¤¹¤÷¥F¥Œ¥’¥Ï¥ë¦¦¦)¦I¦a¦r¦‰¦ª¦È¦É§§Q§W§|§˜§™§¥¨¨¨%¨l¨…¨š¨ ¨Á¨è©©W©‚©ˆ©­©Å©Ëª8ª<ª>ª?ªwª{ªÇ««h«z«~«¼«Ç«ñ¬¬¬l¬r¬½¬Ï¬è­­&­I­u­¡­Ã­Ş­ÿ®®4®Q®r®‘®µ®×®ú¯¯?¯a¯‡¯–¯ª¯Í¯ë°°3°[°Œ°½°ä±g²²©³e´!´¿´Ü´İµµ/µ0µqµ†µ‡µÆµÌ¶¶¶E¶s¶t¶µ¶Ö¶Ü···T·~··¾·Ä·ı¸¸=¸k¸l¸­¸Î¸Ô¹¹¹L¹v¹w¹³¹Ü¹âºº!ºdº¤º¥ºá»'»-»f»l»®»á»â¼¼G¼M¼†¼Œ¼Ï½½½L½’½˜½Ñ½×¾¾L¾M¾›¾¡¾Ú¾à¿¿E¿F¿“¿·¿½¿ö¿üÀ @4À @]À @^À @“À @™À @ÒÀ @êÀ @ëÀ A)À A_À A…À A†À A×À BÀ B)À B*À BvÀ B|À BÉÀ BÕÀ BôÀ BõÀ C;À CUÀ CVÀ C¦À C¸À C¾À DÀ DZÀ D À D¦À D¶À D¼À EÀ E&À E'À EvÀ EˆÀ EÀ EÉÀ EÏÀ EßÀ EåÀ F8À FYÀ FZÀ F©À F»À FÁÀ FüÀ GÀ GÀ GÀ GkÀ GŒÀ GÀ G×À GôÀ GúÀ HHÀ H’À H§À H­À H½À HÃÀ IÀ I=À IZÀ I[À I§À I¹À I¿À JÀ J À J&À JvÀ J¸À JÕÀ JÖÀ K%À K7À K=À KŠÀ KÀ K¤À KõÀ L À LAÀ LBÀ LÀ L”À L•À LÑÀ LòÀ LóÀ MMÀ MSÀ MšÀ MëÀ MúÀ NÀ NÀ N_À NeÀ NuÀ N{À NËÀ NíÀ OÀ OÀ ONÀ OTÀ OdÀ OjÀ O¶À OĞÀ OÑÀ PÀ P;À PAÀ PtÀ PzÀ PŠÀ PÀ PØÀ QÀ QÀ Q5À QvÀ QwÀ QªÀ QõÀ QöÀ RÀ RHÀ RIÀ RUÀ RšÀ RÅÀ SÀ SwÀ SÆÀ TÀ TFÀ TÀ T»À TÛÀ TâÀ U3À U‹À UœÀ UóÀ V`À VaÀ VÀ VÔÀ VûÀ WÀ W À WsÀ W»À XÀ X]À X·À XıÀ YGÀ Y¬À Y×À ZCÀ ZIÀ Z À Z÷À [VÀ [¯À \ À \\À \¶À ]À ]À ]À ]#À ]FÀ ]hÀ ]ˆÀ ]¬À ]àÀ ^À ^ZÀ ^ À ^ÒÀ ^öÀ _&À _DÀ _kÀ _¡À _ÍÀ _ıÀ `/À `cÀ `—À `ÉÀ `ûÀ a5À a]À a…À a­À bÀ b	À b
+À bÀ b9À bDÀ bQÀ bfÀ b{À b™À b·À bËÀ bØÀ bëÀ bõÀ bÿÀ cÀ c(À c9À cMÀ cbÀ cwÀ c‹À cŸÀ c°À cÊÀ cÛÀ cìÀ cıÀ dXÀ d_À ddÀ deÀ dªÀ dÓÀ dæÀ dìÀ eÀ e>À eTÀ e\À eŠÀ e­À eÅÀ eÍÀ e×À eêÀ eğÀ fÀ fÀ fÀ f	À fXÀ fyÀ f‰À f£À f½À fÛÀ fáÀ fâÀ gÀ gÀ gÀ gyÀ g{À g|À gÃÀ gÒÀ gÖÀ hÀ hÀ hHÀ hrÀ h“À h§À hÁÀ háÀ iÀ iÀ i.À i4À ifÀ ilÀ i³À iàÀ iæÀ jÀ j)À jDÀ jEÀ jrÀ jxÀ jªÀ j°À júÀ k4À k:À klÀ kˆÀ k©À kªÀ kÜÀ l#À l$À l0À loÀ lpÀ l|À lŸÀ lËÀ lßÀ låÀ mÀ m8À mmÀ mqÀ mrÀ m~À mÃÀ mîÀ n>À nšÀ nÀ n À n¡À nğÀ oÀ o	À oYÀ omÀ oxÀ o¯À oÔÀ oòÀ pÀ pÀ p&À p9À pKÀ p\À pkÀ p|À pÀ p¡À p·À pÊÀ pŞÀ pğÀ qÀ q$À q7À qKÀ qaÀ qvÀ q†À q›À q´À qÑÀ qáÀ qûÀ rÀ r%À r>À raÀ rzÀ rÀ r¬À r¾À r×À rïÀ sÀ sÀ s2À sBÀ sXÀ soÀ s‡À sœÀ s³À sÈÀ sİÀ sîÀ sşÀ tÀ t9À tcÀ t‡À t¬À tÅÀ tÙÀ tÿÀ u%À u9À uZÀ uÎÀ vBÀ vÚÀ wrÀ wâÀ wãÀ x3À xZÀ x`À x®À xùÀ y+À yBÀ yCÀ yˆÀ yÍÀ yİÀ yãÀ z#À zgÀ z‰À zÀ zÌÀ zãÀ zäÀ {)À {mÀ {§À {­À {ëÀ |$À |`À |pÀ |vÀ |µÀ |ÊÀ |ËÀ }À }VÀ }fÀ }lÀ }©À }ÀÀ }ÁÀ ~À ~XÀ ~^À ~®À ~ÓÀ ~ëÀ ~ìÀ 0À 6À ƒÀ •À «À ¬À îÀ ôÀ €DÀ €À €œÀ €°À €±À €õÀ €ûÀ JÀ ˜À ½À ÓÀ ÔÀ ‚À ‚"À ‚lÀ ‚~À ‚—À ‚˜À ‚ÜÀ ‚âÀ ƒ)À ƒBÀ ƒXÀ ƒYÀ ƒ£À ƒ¾À ƒ¿À ƒüÀ „À „2À „8À „{À „“À „”À „ÕÀ „ÛÀ …"À …(À …zÀ …ÄÀ †À †TÀ †mÀ †nÀ †¯À †µÀ ‡À ‡FÀ ‡LÀ ‡À ‡èÀ ˆ9À ˆxÀ ˆÀ ˆÀ ˆİÀ ˆãÀ ‰3À ‰tÀ ‰œÀ ‰À ‰×À ‰İÀ Š,À Š}À ŠƒÀ ŠÓÀ ‹ À ‹2À ‹8À ‹ˆÀ ‹§À ‹­À ‹şÀ ŒLÀ Œ™À ŒÑÀ ŒçÀ ŒèÀ À %À rÀ ÂÀ À À  À nÀ }À ƒÀ ÍÀ À À BÀ [À \À ©À ×À İÀ À \À ’À ˜À ¨À ®À úÀ ‘À ‘1À ‘2À ‘À ‘…À ‘•À ‘›À ‘êÀ ’À ’À ’>À ’DÀ ’TÀ ’ZÀ ’ À ’µÀ ’¶À ’şÀ “À “PÀ “À “ĞÀ “ÖÀ ”$À ”rÀ ”ÀÀ •À •TÀ •~À •„À •”À •šÀ •ëÀ –BÀ –\À –]À –©À –»À –ÁÀ —À —"À —(À —rÀ —«À —ÈÀ —ÉÀ ˜À ˜*À ˜0À ˜}À ˜‘À ˜—À ˜àÀ ˜ÿÀ ™ À ™!À ™UÀ ™[À ™ªÀ ™ãÀ ™éÀ š8À šLÀ šRÀ šbÀ šhÀ š¹À šİÀ ›,À ›CÀ ›DÀ ›—À ›À ›çÀ œ1À œ7À œ†À œšÀ œ À œ°À œ¶À À 5À sÀ À ŸÀ àÀ æÀ 5À nÀ tÀ ÃÀ ×À İÀ íÀ óÀ ŸDÀ ŸhÀ Ÿ·À ŸÎÀ ŸÏÀ   À  5À  ;À  …À  ÏÀ  ÕÀ ¡$À ¡8À ¡>À ¡NÀ ¡TÀ ¡¤À ¡ÓÀ ¢À ¢<À ¢=À ¢ƒÀ ¢ÎÀ ¢ÔÀ £À £jÀ £‚À £ˆÀ £ÁÀ £ıÀ ¤À ¤À ¤À ¤hÀ ¤—À ¤åÀ ¤øÀ ¥À ¥À ¥jÀ ¥·À ¥½À ¦À ¦XÀ ¦€À ¦†À ¦¿À ¦ûÀ §À §À §À §gÀ §ŸÀ §æÀ ¨À ¨À ¨aÀ ¨¬À ¨²À ¨ıÀ ©HÀ ©`À ©fÀ ©ŸÀ ©ÛÀ ©áÀ ©ñÀ ©÷À ªFÀ ªuÀ ªÃÀ ªÖÀ ªöÀ ª÷À «HÀ «•À «›À «ìÀ ¬6À ¬^À ¬dÀ ¬À ¬åÀ ¬ëÀ ¬ûÀ ­À ­QÀ ­‰À ­ĞÀ ®À ®À ®UÀ ®jÀ ®pÀ ®¾À ®÷À ®ıÀ ¯JÀ ¯^À ¯dÀ ¯tÀ ¯zÀ ¯ÊÀ ¯îÀ °<À °RÀ °SÀ °¤À °×À °İÀ ±&À ±pÀ ±vÀ ±ÃÀ ±×À ±İÀ ±íÀ ±óÀ ²BÀ ²qÀ ²®À ²ØÀ ²ÙÀ ³À ³À ³nÀ ³¨À ³ÛÀ ³áÀ ´#À ´mÀ ´†À ´‡À ´ĞÀ ´áÀ ´çÀ µ3À µ‚À µ¹À µ¿À ¶À ¶=À ¶>À ¶…À ¶©À ¶¯À ¶ßÀ ·À ·À ·UÀ ·gÀ ·mÀ ·»À ¸	À ¸0À ¸SÀ ¸TÀ ¸œÀ ¸¢À ¸íÀ ¹<À ¹]À ¹cÀ ¹­À ¹şÀ ºGÀ ºMÀ º]À ºcÀ º³À ºÑÀ º÷À ºøÀ »%À »+À »{À »ËÀ »ÙÀ »ßÀ ¼+À ¼rÀ ¼À ¼À ¼ÃÀ ¼ÉÀ ½À ½TÀ ½ZÀ ½¦À ½õÀ ¾À ¾*À ¾+À ¾_À ¾eÀ ¾´À ¿À ¿!À ¿'À ¿wÀ ¿ÃÀ ÀÀ À]À ÀpÀ À”À À•À ÀÊÀ ÀĞÀ ÁÀ ÁmÀ ÁŒÀ Á’À ÁãÀ Â/À Â|À ÂÌÀ ÂßÀ ÃÀ ÃÀ Ã7À Ã=À ÃŒÀ ÃÚÀ Ã÷À ÃıÀ ÄKÀ Ä—À ÄâÀ Å1À ÅDÀ ÅfÀ ÅgÀ Å›À Å¡À ÅğÀ Æ>À Æ[À ÆaÀ Æ±À ÆıÀ ÇJÀ ÇšÀ Ç­À ÇÑÀ ÇÒÀ ÈÀ È
+À ÈWÀ È›À È¡À ÈçÀ É4À É:À É†À ÉÖÀ ÉîÀ ÊÀ ÊÀ ÊCÀ ÊIÀ Ê–À ÊÚÀ ÊàÀ Ë&À ËsÀ ËyÀ ËÇÀ ÌÀ Ì1À ÌSÀ ÌTÀ Ì‚À ÌˆÀ ÌĞÀ ÌÖÀ Í%À ÍNÀ ÍlÀ ÍmÀ ÍšÀ Í À ÍéÀ ÍúÀ Î À ÎOÀ ÎxÀ Î•À Î–À ÎÅÀ ÎËÀ ÏÀ ÏÀ ÏgÀ ÏÀ Ï¯À Ï°À ÏöÀ ÏüÀ ĞFÀ ĞqÀ ĞwÀ ĞÅÀ ĞëÀ Ñ&À Ñ'À ÑnÀ ÑtÀ Ñ¾À ÑêÀ ÑğÀ Ò@À ÒfÀ Ò¢À Ò£À ÒäÀ ÒêÀ Ó4À Ó[À ÓaÀ Ó±À Ó×À ÔÀ ÔÀ ÔPÀ ÔVÀ Ô À ÔÇÀ ÔÍÀ ÕÀ ÕCÀ ÕzÀ Õ{À Õ±À Õ·À ÖÀ ÖRÀ ÖXÀ Ö£À ÖåÀ ×À ×À ×DÀ ×JÀ ×›À ×ÁÀ ×ÇÀ ØÀ Ø3À ØVÀ ØWÀ ØšÀ Ø À ØîÀ Ù,À ÙtÀ Ù¾À ÙèÀ ÙîÀ Ú?À ÚÀ ÚŞÀ ÚäÀ ÚôÀ ÚúÀ ÛJÀ ÛsÀ ÛÅÀ ÛøÀ ÛùÀ Ü<À ÜBÀ ÜŠÀ ÜÊÀ İÀ İ`À İŠÀ İÀ İáÀ Ş2À Ş€À Ş†À Ş–À ŞœÀ ŞéÀ ßÀ ßYÀ ßŒÀ ßÀ ß¾À ßÄÀ àÀ à	À àVÀ à¥À àÃÀ àäÀ àåÀ á4À á:À á„À áÓÀ â!À ârÀ âxÀ âˆÀ âÀ âÖÀ ã À ã!À ã-À ãrÀ ãÀ ãôÀ äGÀ ä À äèÀ åNÀ å–À åüÀ æMÀ æÅÀ çÀ çÀ çÔÀ è8À èpÀ èÕÀ é8À é­À é±À é²À é¾À ê@À êBÀ êCÀ êˆÀ ê À êÆÀ êëÀ êíÀ êîÀ ëÀ ë!À ëqÀ ë¸À ìÀ ì"À ìjÀ ì‰À ìÀ ìßÀ ìñÀ íÀ íÀ í1À íPÀ íuÀ ívÀ íÁÀ íÇÀ íşÀ îÀ î#À îCÀ îfÀ îvÀ îœÀ î¯À î³À î´À îµÀ îûÀ ï À ïcÀ ïÅÀ ïöÀ ğ=À ğ>À ğ`À ğ€À ğÔÀ ğğÀ ğôÀ ğõÀ ñ7À ñ=À ñÀ ñ®À ñÀÀ ñÁÀ ñìÀ ñòÀ ò;À ò‹À ò¹À ò¿À óÀ óSÀ óÀ ó¢À ó­À ó®À óÓÀ óÔÀ óâÀ óãÀ ô=À ôCÀ ôŠÀ ôÛÀ ôêÀ õÀ õ)À õKÀ õƒÀ õÕÀ õéÀ õïÀ õóÀ õôÀ ö3À öMÀ ögÀ ö€À ö›À öîÀ ÷À ÷À ÷1À ÷7À ÷;À ÷<À ÷„À ÷ŠÀ ÷ÛÀ ÷ïÀ ÷õÀ øEÀ ø•À øåÀ ù3À ùbÀ ùhÀ ù¯À ùëÀ ùñÀ ú-À ú|À úÀ ú®À ú¯À úôÀ úúÀ ûKÀ û_À ûeÀ ûµÀ üÀ üSÀ ü“À ü™À üŞÀ üäÀ ı.À ıKÀ ıLÀ ı‘À ı—À ıáÀ ş+À şsÀ ş½À ÿÀ ÿÀ ÿ À ÿmÀ ÿµÀ ÿ»À ÿËÀ ÿÑÀ À 4À 5À À ‡À ÏÀÀnÀ À¶À·ÀÜÀâÀ1ÀÀÅÀáÀçÀ4ÀƒÀ¤ÀãÀäÀñÀòÀAÀwÀ›ÀÂÀİÀÀÀÀ:ÀLÀPÀQÀœÀ¢ÀóÀ#À)À9À?À]ÀˆÀáÀâÀ>ÀÀçÀèÀéÀ÷ÀøÀBÀdÀeÀ´À	À	À	IÀ	JÀ	…À	ËÀ	ÛÀ
+
+À
+TÀ
+—À
+ÆÀÀBÀPÀaÀšÀãÀÀEÀUÀ´À8ÀÂÀĞÀÜÀæÀÀIÀÀÀ<ÀlÀ‹À™À£À«ÀÀÀXÀYÀ~À¯ÀÔÀÜÀ(À;ÀEÀUÀ–ÀÍÀöÀÀ-À7À8ÀpÀÀÃÀßÀçÀíÀ"ÀÀ©À¯ÀËÀèÀÀ9À_À¤ÀÜÀúÀÀ"À,À4À:ÀoÀ‘ÀµÀÀJÀÀØÀÀ:ÀDÀeÀ€ÀšÀ¢À¨ÀÓÀöÀ-ÀLÀ€ÀµÀÑÀâÀìÀôÀúÀÀ,À@ÀFÀJÀKÀ†ÀÀÀÖÀ×ÀÀCÀDÀvÀ|ÀÍÀÀ.ÀcÀ€À¶ÀÕÀçÀñÀùÀÿÀÀÀ2À8À‡ÀĞÀşÀ7ÀTÀŠÀÎÀæÀğÀøÀşÀÀÀÀ0À1À=À|À}À‰ÀÈÀÉÀÕÀğÀÀÀÀ'ÀMÀfÀ‘ÀâÀ &À DÀ JÀ gÀ À  À ¶À ÊÀ ĞÀ íÀ!#À!@À!HÀ!NÀ!RÀ!SÀ!_À!qÀ!œÀ!ÏÀ!íÀ"À"&À"AÀ"^À"”À"áÀ#À#5À#OÀ#YÀ#aÀ#gÀ#«À#ìÀ$À$ À$$À$%À$;À$<À$SÀ$iÀ${À$‰À$À$¢À$¶À$ëÀ%À%À%À%À%lÀ%¢À%ÖÀ& À&*À&`À&¨À&ğÀ'À'9À'kÀ'’À'ÅÀ'úÀ(1À(hÀ(›À(ÌÀ(ÿÀ)4À)qÀ)ÈÀ)ÌÀ)ÍÀ)èÀ)éÀ*;À*§À*¨À*İÀ*ŞÀ+À+À+hÀ+‰À+¤À+¥À+ÓÀ,À,À,CÀ,DÀ,ƒÀ,ÃÀ,ÄÀ,îÀ,ôÀ--À-3À-mÀ-œÀ-À-äÀ-êÀ.#À.)À.bÀ.À.ãÀ.äÀ/#À/)À/bÀ/hÀ/¢À/ÑÀ/ÒÀ0À04À0:À0sÀ0yÀ0²À0îÀ13À14À1…À1ŸÀ1¥À1óÀ2À2À2PÀ2VÀ2™À2ÚÀ2ÛÀ3*À3xÀ3~À3ÌÀ3êÀ3ğÀ4)À4/À4qÀ4¿À5À5À5hÀ5‚À5ˆÀ5ÖÀ5ôÀ5úÀ63À69À6|À6½À6¾À7À7[À7aÀ7¯À7ÍÀ7ÓÀ8À8À8TÀ8¢À8ùÀ8úÀ9HÀ9NÀ9‡À9À9ÆÀ9óÀ9ôÀ:AÀ:eÀ:kÀ:¤À:ªÀ:âÀ;À;_À;`À;•À;›À;ÔÀ;öÀ<!À<"À<sÀ<–À<œÀ<äÀ=4À=]À=cÀ=sÀ=yÀ=ÂÀ>À>OÀ>uÀ>¤À>¥À>óÀ>ùÀ?CÀ?À?ßÀ@(À@xÀ@ÁÀ@ÇÀ@İÀA)ÀAQÀAWÀA§ÀAìÀBÀBÀBhÀBéÀBïÀC?ÀCŒÀCÙÀCıÀDÀD%ÀDBÀD\ÀD€ÀD«ÀDÌÀDèÀEÀE1ÀEPÀEtÀEƒÀEÀE›ÀE£ÀE­ÀE¿ÀEÅÀEÕÀEÛÀF%ÀFuÀF›ÀFÊÀFËÀGÀG%ÀGdÀGÀGÀGßÀG÷ÀH-ÀHlÀHmÀH¼ÀHÎÀHÔÀI"ÀIpÀI—ÀIÄÀIâÀIãÀJ4ÀJ`ÀJ–ÀJ·ÀJ¸ÀKÀK%ÀKNÀKdÀKeÀK±ÀK·ÀLÀLÀLBÀL\ÀL]ÀL£ÀLËÀLàÀLáÀM1ÀMCÀMIÀM™ÀMåÀN+ÀN1ÀNAÀNGÀN‘ÀNÂÀNİÀNŞÀO-ÀO?ÀOEÀO€ÀO†ÀO–ÀOœÀOïÀP"ÀP>ÀP?ÀPÀP ÀP¦ÀPáÀPçÀP÷ÀPıÀQOÀQ‚ÀQÀQŸÀQéÀRÀRÀRZÀR¤ÀR¹ÀR¿ÀRÏÀRÕÀSÀSOÀS}ÀS•ÀS–ÀSâÀSôÀSúÀTGÀT[ÀTaÀT±ÀTóÀU!ÀU9ÀU:ÀU‰ÀU›ÀU¡ÀUîÀVÀVÀVWÀVÀVµÀVÑÀVÒÀW$ÀW%ÀWuÀWvÀWÅÀXÀX:ÀX@ÀXÀX»ÀXÁÀYÀY`ÀYtÀY¡ÀY×ÀYŞÀYüÀZ9ÀZMÀZSÀZTÀZ`ÀZÓÀ[À[#À[$À[SÀ[‚À[ÃÀ\À\1À\PÀ\{À\À\ÁÀ\İÀ]À]'À]xÀ]ãÀ^À^;À^bÀ^À^ÀÀ^ğÀ_?À_pÀ_—À_ÁÀ_ïÀ`À`SÀ`¡À`¢À`®ÀaÀaŒÀa“ÀaŸÀaşÀb}Àb„ÀbˆÀb‰ÀbŠÀbÂÀbÈÀcÀceÀc˜Àc½ÀcÕÀc÷Àd0ÀdiÀd´ÀdÿÀe6ÀeUÀeˆÀeßÀfÀfAÀffÀf”ÀfÄÀfôÀgÀgJÀg}Àg¦ÀgÉÀh ÀhOÀh Àh¦ÀhÇÀhõÀiJÀiuÀiœÀi§ÀiúÀjÀj6Àj‹Àj¼ÀjéÀjôÀkGÀkOÀkUÀkVÀkÀk°ÀkÙÀk÷ÀlÀlNÀl}Àl²ÀlİÀmÀmAÀmtÀm¥ÀmÖÀnÀnVÀn‰Àn“ÀnìÀo1Ào;Ào”ÀoÙÀoãÀp Àp#Àp-ÀpNÀpyÀp£Àp­Àq ÀqUÀq_Àq‰ÀqÀÀrÀrMÀrxÀr‡ÀrŞÀrêÀs'Às€ÀsºÀsëÀsúÀtQÀt]ÀtgÀtšÀtËÀt÷Àu/ÀubÀumÀuŸÀuÏÀuûÀv2ÀveÀvpÀvqÀv½Àv¾ÀvÓÀvİÀvãÀväÀvşÀwÀw*ÀwRÀwzÀw´ÀwîÀxÀx,ÀxPÀxbÀx~ÀxšÀx¶ÀxÎÀxòÀyÀy<ÀybÀyŠÀy²ÀyØÀyşÀz,ÀzwÀz~Àz‚ÀzƒÀz³ÀzÚÀzŞÀzßÀ{À{dÀ{¯À{°À|À|&À|YÀ|‡À|³À|îÀ}!À}RÀ}_À}À}İÀ~À~EÀ~À~‰À~ÚÀ~êÀ ÀUÀœÀ¤ÀªÀÓÀ€À€dÀ€¬À€õÀDÀLÀRÀjÀxÀ‘À®ÀÅÀïÀ‚'À‚QÀ‚‰À‚ÅÀƒÀƒKÀƒ•Àƒ½ÀƒóÀ„À„9À„”À„óÀ…$À…UÀ…À…ÀÀ…ëÀ†$À†_À†šÀ†ÛÀ†üÀ‡À‡WÀ‡À‡åÀ‡ìÀˆ ÀˆÀˆÀˆUÀˆ‰ÀˆÄÀˆêÀ‰+À‰bÀ‰„À‰ŠÀ‰‹À‰¼À‰æÀŠBÀŠOÀŠ‘ÀŠ»ÀŠÁÀŠÂÀ‹À‹`À‹­À‹ôÀŒBÀŒ‰ÀŒ¬ÀÀGÀ~ÀŸÀØÀêÀ.ÀjÀ¬ÀòÀBÀbÀ…À¡À«À×ÀòÀúÀûÀ#À8ÀRÀnÀxÀ~ÀÀËÀçÀ‘À‘À‘$À‘LÀ‘MÀ‘iÀ‘³À‘ÄÀ‘ÈÀ‘ÉÀ’À’À’]À’®À’×À’ìÀ’úÀ“ À“@À“DÀ“EÀ“QÀ“ À“¡À“­À“òÀ”À”8À”JÀ”À•
+À•*À•0À•»À–&À–°À—À—*À—ˆÀ—•À—ğÀ˜À˜&À˜lÀ˜¹À™<À™tÀ™|À™æÀ™ìÀšaÀšàÀ›.À›rÀ›ƒÀ›ÔÀœ;ÀœıÀJÀ¤ÀÀUÀÀùÀŸTÀŸ›ÀŸæÀ LÀ ¯À ÛÀ¡JÀ¡PÀ¡§À¡şÀ¢]À¢¶À£À£cÀ£½À¤À¤hÀ¤·À¤»À¤¼À¥À¥
+À¥ZÀ¥ŠÀ¥–À¥®À¥ÍÀ¥ëÀ¦!À¦rÀ¦yÀ¦™À§2À§6À§7À§CÀ§iÀ§{À§ºÀ¨À¨À¨;À¨MÀ¨`À¨tÀ¨’À¨™À¨À¨À¨ªÀ©+À©[À©¿À©ĞÀ©ÔÀ©ÕÀª$ÀªyÀª™Àª¶ÀªÜÀªâÀªãÀªıÀ«0À«KÀ«~À«ªÀ«°À«´À«¶À«·À¬À¬?À¬CÀ¬“À¬àÀ­9À­‰À­ÔÀ®À®À®3À®MÀ®eÀ®‹À®ªÀ®ÊÀ®çÀ®èÀ¯1À¯WÀ¯]À¯}À¯ƒÀ¯×À°)À°yÀ°À°©À°ªÀ°ôÀ±À±-À±.À±UÀ±qÀ±rÀ±~À± À±ËÀ±ÏÀ±ÑÀ±ÒÀ²!À²WÀ²[À²¤À²èÀ³ À³À³@À³dÀ³eÀ³¯À³ÑÀ³×À´#À´HÀ´dÀ´eÀ´ŠÀ´‹À´½À´ôÀ´õÀµÀµ.ÀµcÀµgÀµhÀµ¸Àµ¾À¶À¶<À¶pÀ¶ŸÀ¶ÎÀ·À·RÀ·lÀ·‰À·ÑÀ·æÀ·ğÀ¸
+À¸(À¸tÀ¸‰À¸“À¸™À¸«À¸¬À¸öÀ¹À¹)À¹RÀ¹rÀ¹†À¹­À¹ÑÀ¹ùÀºÀº(Àº7ÀºKÀºSÀºkÀº‘Àº§Àº¯ÀºµÀºÒÀºÓÀ»À»>À»DÀ»EÀ»aÀ»¨À»¹À»½À»¾À¼
+À¼À¼_À¼€À¼†À¼ÔÀ½!À½qÀ½˜À½À½éÀ¾9À¾‡À¾ÖÀ¿À¿-À¿JÀ¿pÀ¿„À¿ŠÀ¿ÎÀ¿üÀÀ*ÀÀIÀÀ˜ÀÀÌÀÁÀÁbÀÁ‡ÀÁ›ÀÁ¥ÀÁ¦ÀÂÀÂ;ÀÂoÀÂ§ÀÂòÀÃ7ÀÃ‚ÀÃÍÀÃÿÀÄ'ÀÄ1ÀÄ9ÀÄ?ÀÄ@ÀÄiÀÄ’ÀÄ÷ÀÅCÀÅÀÅÒÀÅñÀÆÀÆÀÆIÀÆQÀÆRÀÆlÀÆ‘ÀÆ¡ÀÆ©ÀÆÃÀÆæÀÇÀÇ
+ÀÇ#ÀÇ)ÀÇ*ÀÇtÀÇÒÀÇÖÀÇØÀÇÙÀÈÀÈ_ÀÈÀÈ‘ÀÈ•ÀÈĞÀÈöÀÉÀÉÀÉÀÉnÀÉ|ÀÉ€ÀÉÎÀÊÀÊYÀÊ]ÀÊÀÊÄÀÊÈÀËÀË‡ÀË´ÀËäÀÌÀÌQÀÌ…ÀÌÀÌ¸ÀÌşÀÍÀÍÀÍ1ÀÍMÀÍ—ÀÍªÀÍ²ÀÍ¶ÀÍÆÀÍÇÀÎÀÎ1ÀÎBÀÎiÀÎ‡ÀÎ™ÀÎ¾ÀÎàÀÏÀÏÀÏ1ÀÏ>ÀÏPÀÏVÀÏlÀÏÀÏ¢ÀÏ¨ÀÏ¬ÀÏÅÀÏÆÀÏŞÀĞ,ÀĞ;ÀĞ=ÀĞ>ÀĞ…ÀĞºÀĞ¾ÀÑÀÑÀÑ[ÀÑ£ÀÑèÀÑÿÀÒÀÒ)ÀÒEÀÒJÀÒfÀÒ†ÀÒ‡ÀÒÀÀÒÜÀÒİÀÓÀÓ"ÀÓaÀÓsÀÓ–ÀÓ—ÀÓäÀÓñÀÔÀÔÀÔÀÔ@ÀÔtÀÔœÀÔ¢ÀÔÑÀÔÕÀÔ×ÀÔØÀÕ"ÀÕ=ÀÕAÀÕÀÕÔÀÕãÀÖÀÖeÀÖxÀÖÀÖ£ÀÖ¤ÀÖöÀ×EÀ×]À×cÀ×³ÀØÀØ+ÀØ^ÀØšÀØÛÀÙÀÙÀÙNÀÙTÀÙˆÀÙ½ÀÙ¾ÀÙÊÀÙİÀÙöÀÚ
+ÀÚ&ÀÚ;ÀÚ?ÀÚ@ÀÚvÀÚ•ÀÚ´ÀÚÂÀÚÈÀÚÿÀÛ?ÀÛdÀÛêÀÜÀÜ#ÀÜxÀÜ¤ÀÜŞÀÜûÀİ`ÀİˆÀİ×ÀŞ5ÀŞ~ÀŞĞÀß Àß,Àß6Àß>ÀßDÀß”ÀßüÀà1ÀàÀàĞÀáÀá[ÀáœÀáÀÀâÀâDÀâŠÀâÎÀâãÀãÀãKÀãSÀãYÀãrÀã­ÀäÀä„ÀäŠÀä²ÀäÉÀäÍÀäÎÀå*ÀåRÀå¯ÀååÀæÀæ,Àæ^ÀæhÀæÀæ˜ÀæÀæŞÀæñÀæ÷ÀçÀç Àç!ÀçoÀçuÀçÄÀçæÀçìÀè9ÀèUÀèÀèºÀéÀé.ÀéCÀéQÀéWÀéXÀéÀéäÀêÀêÀêÀêÀê’Àê´ÀêæÀëÀë4Àë<Àë|Àë‚Àë«Àë¾ÀëÄÀëôÀìÀìFÀìuÀìÀì§Àì±ÀìÆÀìĞÀì÷ÀìıÀíÀí]ÀíÍÀíìÀîÀîÀîÀîÀî@ÀîDÀîEÀî—ÀîÀîìÀïÀïÀïaÀï}ÀïÑÀïíÀğ Àğ8ÀğFÀğLÀğ·ÀğÒÀğçÀğíÀğñÀğòÀğşÀñ-Àñ/Àñ0ÀñrÀñ†ÀñŠÀñÔÀñèÀòÀòÀò(Àò)ÀòwÀò’Àò˜ÀòçÀó6Àó‚Àó›Àó¡ÀóïÀô9ÀôfÀôlÀô¹ÀôïÀõÀõ:ÀõqÀõ’Àõ–Àõ—ÀõèÀö7ÀöjÀöpÀö½À÷À÷?À÷À÷ÛÀøÀøÀø_Àø®ÀøÑÀøÒÀù!ÀùoÀùÀù…ÀùÔÀú ÀúoÀúšÀú ÀúğÀû>Àû…Àû‹ÀûÛÀüÀüRÀüSÀümÀü§ÀüÇÀüÈÀüóÀüùÀıGÀıxÀıªÀıÌÀıÍÀşÀşOÀşUÀşeÀşkÀş’ÀşÿÀÿ ÀÿÀÿÀÿIÀÿOÀÿ—Àÿ§ÀÿóÀ À 0À TÀ rÀ vÀ wÀ ÅÀ ÚÀ àÀ(À8À†À£ÀËÀçÀøÀ ÀÀÀ2À8ÀˆÀØÀæÀìÀ8ÀÀ…ÀĞÀÀoÀ½ÀÀ^À©À÷À?ÀÀĞÀõÀÀ0ÀiÀ}ÀÀ‚ÀµÀ»ÀÀFÀLÀ˜ÀçÀùÀ	*À	HÀ	qÀ	°À	ÊÀ	ÎÀ	ÏÀ
+À
+	À
+XÀ
+¦À
+ÅÀ
+ËÀÀgÀ²ÀÀÀGÀfÀÀĞÀëÀïÀğÀ!À'ÀfÀlÀ¹ÀÀ&ÀSÀoÀ–ÀÓÀëÀïÀğÀ%À+ÀzÀÈÀçÀíÀ>ÀŠÀ×À'À:ÀoÀÀºÀûÀÀÀÀNÀTÀ£ÀñÀÀÀbÀ®ÀùÀHÀ[ÀŠÀ§ÀÏÀÀ&À*À+À_ÀeÀ´ÀÀÀ%ÀuÀÁÀÀ^ÀqÀ¤ÀÃÀíÀ-ÀHÀLÀMÀÀ…ÀÒÀÀÀeÀ¥À½ÀÃÀÀ_ÀwÀ¦ÀÃÀëÀ)ÀBÀFÀGÀyÀÀÌÀÀÀ_ÀŸÀ·À½ÀÀ[ÀuÀ¤ÀÁÀéÀ'À@ÀDÀEÀsÀyÀÁÀÇÀÀ?ÀfÀÀ£ÀİÀòÀöÀ÷À $À *À sÀ „À ŠÀ ÙÀ!À!'À!?À!bÀ!›À!¯À!³À!´À!ãÀ!éÀ"0À"6À"…À"®À"×À"ñÀ#À#QÀ#gÀ#kÀ#lÀ#¢À#¨À#öÀ$FÀ$jÀ$pÀ$¹À%À%#À%ZÀ%{À%§À%éÀ&À&
+À&À&QÀ&WÀ&¡À&ÌÀ&ÒÀ' À'FÀ'¢À'ØÀ(À(4À(‚À(´À(ÓÀ(ÛÀ)À)À)À)TÀ)ZÀ)¤À)ĞÀ)ÖÀ*&À*LÀ*ªÀ*áÀ+#À+>À+À+¿À+ŞÀ+æÀ,À,À,À,ZÀ,`À,ªÀ,ÑÀ,×À-'À-MÀ-ŸÀ-ĞÀ.À.'À.pÀ.¢À.ÁÀ.ÉÀ.öÀ.úÀ.ûÀ/=À/CÀ/À/´À/ºÀ0
+À00À0„À0¶À0óÀ1À1XÀ1ŠÀ1©À1±À1ßÀ1ãÀ1äÀ2À2 À2qÀ2»À2ÁÀ3À3NÀ3ŒÀ3´À3çÀ4À4@À4kÀ4ÊÀ5'À5CÀ5kÀ5—À5¡À5©À5ÆÀ5ÊÀ5ËÀ5üÀ6À6SÀ6yÀ6À6ÎÀ6ëÀ7À78À7aÀ7|À7µÀ7ãÀ8À8"À8*À8BÀ8FÀ8GÀ8ŠÀ8À8ŞÀ9À9dÀ9®À9ØÀ9ŞÀ:/À:€À:ÎÀ:ÔÀ:äÀ:êÀ;:À;cÀ;µÀ<À<4À<mÀ<¼À<æÀ<êÀ<ëÀ=.À=4À=|À=¼À>À>RÀ>|À>‚À>ÓÀ?$À?rÀ?xÀ?ˆÀ?À?ÛÀ?ùÀ@KÀ@œÀ@ÊÀAÀARÀA|ÀA€ÀAÀAÎÀAàÀB8ÀB9ÀBˆÀBšÀB ÀBîÀC<ÀCcÀCiÀC¸ÀDÀDIÀDqÀDÀD¼ÀDåÀE ÀEÀE4ÀE8ÀE9ÀE…ÀE‹ÀEÓÀF"ÀFrÀF¤ÀFĞÀFçÀG	ÀG%ÀGCÀGGÀGHÀG”ÀGšÀGçÀGóÀH%ÀH?ÀHdÀH‰ÀH—ÀHÀH¼ÀHÚÀHŞÀHßÀI)ÀI:ÀIbÀIwÀI—ÀI·ÀIÅÀIËÀIåÀJÀJÀJÀJRÀJoÀJÀJµÀJØÀJûÀK	ÀKÀK,ÀKJÀKNÀKOÀK›ÀK­ÀK³ÀL ÀLÀLÀLfÀLŸÀLÍÀLåÀMÀM+ÀM9ÀM?ÀM\ÀMzÀM~ÀMÀMÎÀMàÀMæÀN3ÀNGÀNMÀN˜ÀN·ÀNíÀO	ÀO0ÀOWÀOeÀOkÀOŒÀOªÀO®ÀO¯ÀP ÀPFÀPLÀP‘ÀPÖÀQÀQÀQfÀQ¶ÀQçÀRÀR;ÀRiÀR‡ÀR‹ÀRŒÀRËÀRÑÀSÀSgÀS°ÀSçÀTIÀT·ÀUÀU$ÀU^ÀUƒÀUÊÀUÎÀUÏÀUÿÀVXÀVrÀV€ÀV†ÀVÊÀVæÀVøÀVşÀWÀWÀW=ÀWCÀW…ÀW‹ÀWÄÀWÊÀWÚÀWàÀX.ÀX]ÀXyÀX”ÀXÄÀXâÀXæÀXçÀY6ÀYDÀYJÀY”ÀYãÀZ/ÀZxÀZ¹ÀZ¿ÀZøÀZşÀ[À[À[NÀ[ŠÀ[ÆÀ\ À\(À\FÀ\JÀ\KÀ\›À\¡À\ãÀ\éÀ]"À](À]8À]>À]ŒÀ]ÚÀ^ À^nÀ^´À^ãÀ^ÿÀ_À_JÀ_hÀ_lÀ_mÀ_¼À_àÀ_æÀ`0À`À`ËÀaÀaUÀa[Àa”ÀašÀaªÀa°ÀaêÀb:ÀbjÀbºÀbêÀc&ÀcbÀcœÀcÄÀcâÀcæÀcçÀd!ÀdJÀdPÀd›Àd¡ÀdğÀe:ÀeeÀekÀe¤ÀeªÀeºÀeÀÀfÀfXÀf†ÀfªÀfìÀg
+ÀgÀgÀgIÀgÀg•ÀgäÀh.ÀhYÀh_Àh˜ÀhÀh®Àh´Àh÷ÀiEÀiŠÀiÖÀjÀj.Àj2Àj3ÀjmÀj–ÀjœÀjçÀjíÀk<Àk†Àk±Àk·ÀkğÀköÀlMÀlÀl¼ÀlàÀm"Àm@ÀmDÀmEÀmÀmÅÀmËÀnÀndÀnÀn•ÀnÎÀnÔÀnäÀnêÀo-Ào{ÀoÀÀpÀpFÀpdÀphÀpiÀp·Àp½ÀpşÀqÀq=ÀqCÀqSÀqYÀq¦ÀqÓÀqíÀrÀr5ÀrSÀrWÀrXÀr¨ÀrÉÀrÏÀsÀsgÀs´ÀsıÀt>ÀtDÀt}ÀtƒÀt“Àt™ÀtÒÀuÀuGÀuÀu¥ÀuÃÀuÇÀuÈÀuıÀvÀv<Àv^ÀvvÀv–Àv®ÀvÌÀvĞÀvÑÀwÀw+ÀwjÀw”ÀwÉÀwâÀwğÀwöÀxÀx0Àx4Àx5Àx~Àx¤ÀxÊÀxåÀyÀy0ÀyOÀy]ÀycÀy{Ày™ÀyÀyÀyïÀzÀzÀz[ÀzªÀz¾ÀzäÀzÿÀ{À{JÀ{iÀ{wÀ{}À{•À{³À{·À{¸À|À|À|$À|4À|:À|‰À|ÈÀ|èÀ}À}À}À}]À}cÀ}sÀ}yÀ}ÆÀ~À~"À~QÀ~UÀ~VÀ~ŒÀ~ÃÀ~ßÀÀÀÀCÀIÀ•ÀâÀ€À€À€iÀ€·ÀÀJÀ™ÀÃÀÉÀÙÀßÀ‚5À‚tÀ‚“À‚ÄÀ‚ÈÀ‚ÉÀƒÀƒ=ÀƒsÀƒ”ÀƒÈÀƒìÀ„
+À„À„À„ZÀ„`À„­À… À…RÀ…ŠÀ…ÇÀ…æÀ†À†À†À†XÀ†^À†¯À†şÀ‡3À‡9À‡‰À‡­À‡³ÀˆÀˆ/Àˆ5ÀˆˆÀˆŞÀˆìÀ‰YÀ‰xÀ‰«À‰ÚÀ‰ŞÀ‰ßÀŠ0ÀŠ{ÀŠÀŠ•ÀŠæÀ‹-À‹3À‹|À‹›ÀŒÀŒ'ÀŒ_ÀŒ’ÀŒÁÀŒÅÀŒÆÀÀ:À@À‘ÀØÀŞÀ'ÀBÀ¿ÀæÀÀIÀ€À„À…ÀÖÀ$À*À{À·À½À‘À‘À‘‡À‘¦À‘ÙÀ’À’À’À’]À’“À’™À’æÀ“.À“‹À“ºÀ“ùÀ“ıÀ“şÀ”@À”À”ŸÀ”ÏÀ”ÓÀ”ÔÀ•À•XÀ•vÀ•¤À•¨À•©À•ôÀ–-À–JÀ–wÀ–{À–|À–ÅÀ–úÀ—À—@À—DÀ—EÀ—À—ÉÀ—æÀ˜À˜À˜À˜cÀ˜œÀ˜¹À˜æÀ˜êÀ˜ëÀ™3À™@À™ƒÀ™¥À™×À™ÛÀ™ÜÀšÀš ÀšoÀšÀÀšÆÀ›À›cÀ›uÀ›{À›ËÀ›êÀ›ğÀœAÀœÀœÜÀÀMÀjÀ—À›ÀœÀÕÀÀ4ÀdÀhÀiÀŸÀ¥À×ÀŸÀŸ3ÀŸbÀŸfÀŸgÀŸ–ÀŸœÀŸëÀ ;À À ¾À İÀ¡À¡À¡À¡<À¡BÀ¡‘À¡ÊÀ¢	À¢)À¢YÀ¢]À¢^À¢®À¢ÙÀ¢ßÀ£/À£}À£ÈÀ£ùÀ¤JÀ¤sÀ¤¬À¤°À¤±À¤úÀ¥3À¥iÀ¥ŠÀ¥¶À¥ÑÀ¥íÀ¦À¦À¦À¦`À¦rÀ¦xÀ¦ÈÀ§À§ZÀ§`À§pÀ§vÀ§ÀÀ§ñÀ¨À¨2À¨MÀ¨jÀ¨ˆÀ¨ŒÀ¨À¨ÜÀ¨îÀ¨ôÀ©/À©5À©EÀ©KÀ©À©ÑÀ©íÀªÀª/ÀªMÀªkÀªoÀªpÀª¿ÀªÑÀª×À«À«À«(À«.À«À«´À«ĞÀ«÷À¬À¬0À¬NÀ¬RÀ¬SÀ¬]À¬^À¬¦À¬¾À¬ÄÀ¬ÔÀ¬ÚÀ­)À­9À­|À­£À­¤À­óÀ®À®À®[À®¬À®ÊÀ®ĞÀ¯À¯mÀ¯ºÀ¯ÀÀ¯ĞÀ¯ÖÀ°À°3À°`À°‹À°«À°¯À°°À°ÎÀ°ÏÀ°áÀ±À±$À±@À±MÀ±jÀ±pÀ±À±’À±“À±ÖÀ±×À±üÀ±ıÀ²FÀ²[À²aÀ²°À²õÀ³.À³wÀ³ŠÀ³À³ÆÀ³ÚÀ³àÀ´À´À´"À´fÀ´zÀ´€À´ÄÀ´ØÀ´ŞÀµ*Àµ>ÀµDÀµÜÀµğÀµöÀ¶À¶À¶À¶XÀ¶^À¶¬À¶ĞÀ¶ÖÀ·%À·_À·eÀ·¯À¸À¸;À¸iÀ¸ŠÀ¸‹À¸®À¸¼À¸ÂÀ¸ÃÀ¸èÀ¹+À¹WÀ¹sÀ¹ À¹ÏÀº Àº1Àº^ÀºŠÀº³ÀºæÀ»À»DÀ»{À»|À»§À»ÈÀ»øÀ¼&À¼NÀ¼ƒÀ¼²À¼¹À¼şÀ½/À½5À½ŒÀ½ÏÀ½ÕÀ¾,À¾oÀ¾uÀ¾¤À¾ÑÀ¾ùÀ¿-À¿\À¿cÀ¿}À¿À¿¤À¿¥À¿ñÀ¿òÀÀ8ÀÀ<ÀÀ=ÀÀpÀÀ’ÀÀ¶ÀÀèÀÁÀÁzÀÁ¨ÀÁôÀÂÀÂ8ÀÂdÀÂ¢ÀÂÎÀÃÀÃ6ÀÃ^ÀÃzÀÃšÀÃºÀÃÒÀÃşÀÄ&ÀÄPÀÄ|ÀÄ¨ÀÄĞÀÄ÷ÀÅÀÅIÀÅsÀÅÀÅÏÀÅñÀÆ2ÀÆ6ÀÆ8ÀÆ9ÀÆˆÀÆ™ÀÆ¸ÀÆåÀÆëÀÇ8ÀÇ†ÀÇºÀÇÌÀÇÍÀÇüÀÈÀÈQÀÈpÀÈ‚ÀÈ„ÀÈ…ÀÈ°ÀÈâÀÉÀÉBÀÉpÀÉuÀÉ£ÀÉÄÀÉÈÀÊÀÊ9ÀÊWÀÊÎÀÊİÀÊûÀËrÀËÀË‡ÀË‹ÀË¸ÀËÚÀËŞÀËßÀÌ/ÀÌ1ÀÌ2ÀÌƒÀÌ ÀÌ¤ÀÌñÀÍAÀÍ{ÀÍÀÍËÀÍøÀÍüÀÎMÀÎyÀÎ}ÀÎ‹ÀÎÀÎÓÀÏ1ÀÏ‚ÀÏÊÀÏñÀÏòÀĞCÀĞVÀĞ\ÀĞœÀĞ¢ÀĞğÀÑÀÑ5ÀÑ6ÀÑBÀÑlÀÑ¢ÀÒ!ÀÒ"ÀÒqÀÒ’ÀÒ°ÀÒÏÀÒÕÀÒÖÀÓ(ÀÓ7ÀÓeÀÓvÀÓ«ÀÓ»ÀÓÁÀÓÂÀÓëÀÓïÀÓğÀÔÀÔÀÔoÀÔ†ÀÔŒÀÔİÀÕ-ÀÕ{ÀÕˆÀÕ•ÀÕÈÀÕÉÀÕÕÀÖÀÖEÀÖ‹ÀÖÀÖ‘ÀÖ’ÀÖßÀÖêÀÖîÀ×4À×`À×dÀ×´ÀØÀØDÀØ[ÀØ_ÀØ«ÀØØÀØÜÀÙ(ÀÙqÀÙ³ÀÙéÀÚÀÚiÀÚoÀÚ°ÀÚÈÀÚÚÀÚêÀÛÀÛ8ÀÛ`ÀÛaÀÛ¯ÀÛÿÀÜÀÜÀÜcÀÜ°ÀÜÆÀÜÇÀÜÓÀÜûÀİCÀİSÀİYÀİ‚Àİ†Àİ‡Àİ“ÀİØÀŞÀŞKÀŞOÀŞQ    SemanticsTagCustomSemanticsActionAttributedStringAttributedStringPropertySemanticsData_SemanticsDiagnosticableNodeSemanticsHintOverridesSemanticsPropertiesdebugResetSemanticsIdCounterSemanticsNode_BoxEdge_SemanticsSortGroup_pointInParentCoordinates_childrenInDefaultOrder_TraversalSortNodeSemanticsOwnerSemanticsConfigurationDebugSemanticsDumpOrder_concatAttributedStringSemanticsSortKeyOrdinalSortKey âØ

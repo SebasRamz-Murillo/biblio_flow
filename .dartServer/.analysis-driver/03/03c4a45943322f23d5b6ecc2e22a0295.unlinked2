@@ -1,0 +1,1845 @@
+€í_cellsgetCells
+columnNamevaluekeycolorcellscolumnNameschildtext_childColumnIndexestitletitleColumnSpanshowSummaryInRowcolumnspositionnamesummaryType	rowHeightheaderRowHeightsourcedefaultColumnWidthcolumnWidthModecolumnWidthCalculationRangecolumnSizergridLinesVisibilityheaderGridLinesVisibilityonQueryRowHeightselectionModeonSelectionChangedonSelectionChangingselectionManager
+controllernavigationModeonCurrentCellActivatedonCurrentCellActivating	onCellTaponCellDoubleTaponCellSecondaryTaponCellLongPressfrozenColumnsCountfooterFrozenColumnsCountfrozenRowsCountfooterFrozenRowsCountallowSortingallowMultiColumnSortingallowTriStateSortingshowSortNumberssortingGestureTypestackedHeaderRowsisScrollbarAlwaysShownhorizontalScrollPhysicsverticalScrollPhysicsloadMoreViewBuilderallowPullToRefreshrefreshIndicatorDisplacementrefreshIndicatorStrokeWidthallowSwipingswipeMaxOffsethorizontalScrollControllerverticalScrollControlleronSwipeStartonSwipeUpdate
+onSwipeEndstartSwipeActionsBuilderendSwipeActionsBuilderhighlightRowOnHoverallowColumnsResizingcolumnResizeModeonColumnResizeStartonColumnResizeUpdateonColumnResizeEndallowEditingeditingGestureTypefooterfooterHeightshowCheckboxColumnshrinkWrapColumnsshrinkWrapRowscheckboxColumnSettingstableSummaryRowsrowsPerPagerowsCacheExtentallowFilteringonFilterChangingonFilterChangedcheckboxShapecreateState	_minWidth
+_minHeight
+_rowHeight_headerRowHeight_rowGenerator
+_container_dataGridConfiguration_swipingAnimationController_cellRenderers_textDirection_dataGridThemeData_dataGridThemeHelper_localizations_source_columns_rowSelectionManager_controller_swipingAnimation_dataGridStateDetails_screenSize	initState_onDataGridTextDirectionChanged_onDataGridThemeDataChanged!_onDataGridTextScaleFactorChanged_onDataGridLocalizationsChanged_updateHeaderRowHeight_setUp_gridLoaded_refreshContainerAndView_updateVisualDensity_initializeDataGridDataSource_initializeProperties!_initializeCellRendererCollection_processCellUpdate_refreshCell_updateSummaryColumns_processUpdateDataSource_refreshScrollOffsets_processSorting_processEditing_resetColumn_handleListeners_handleNotifyListeners&_handleDataGridPropertyChangeListeners_updateDataGridStateDetails_onDataGridStateDetailsChanged_updateProperties_handleSelectionPropertyChanged_updateSelectionController#_onStackedHeaderRowsPropertyChanged_ensureSelectionProperties_updateBoxPainter_updateDecoration_addDataGridSourceListeners_removeDataGridSourceListeners_addCheckboxColumnrefreshdidChangeDependenciesdidUpdateWidgetbuilddisposerowsbuildRoweffectiveRows_effectiveRows_unSortedRows_paginatedRows_suspendDataPagerUpdate_filterConditionsfilterConditionsshouldRecalculateColumnWidthssortedColumns_sortedColumnsperformSorting_updateDataPager_compareValuescompare
+_compareTo_updateDataSourcesort[]handleLoadMoreRowshandleRefresh	addFilterremoveFilterclearFilters_refreshFilterbuildEditWidgetonCellBeginEditonCellSubmitcanSubmitCellonCellCancelEdithandlePageChangecalculateSummaryValuebuildTableSummaryCellWidgetselectedRows_selectedRowsselectedIndex_selectedIndexisCurrentCellInEditing_isCurrentCellInEditingselectedRow_selectedRowverticalOffset_verticalOffsethorizontalOffset_horizontalOffset
+refreshRowcurrentCell_currentCellmoveCurrentCellToscrollToCellscrollToRowscrollToColumnscrollToVerticalOffsetscrollToHorizontalOffset	beginEditendEdit
+_pageCount_dataGridSourceListeners_addDataGridSourceListener_removeDataGridSourceListener _dataGridPropertyChangeListeners"_addDataGridPropertyChangeListener%_removeDataGridPropertyChangeListenernotifyListenersnotifyDataSourceListeners&_notifyDataGridPropertyChangeListeners
+brightnessheaderColorgridLineColorgridLineStrokeWidthselectionColorcurrentCellStylefrozenPaneLineWidthfrozenPaneLineColorsortIconColorheaderHoverColorfrozenPaneElevationcolumnResizeIndicatorColor columnResizeIndicatorStrokeWidthrowHoverColorrowHoverTextStylesortIcon
+filterIconfilterIconColorfilterIconHoverColorsortOrderNumberColorsortOrderNumberBackgroundColor6QueryRowHeightCallbackSelectionChangingCallbackSelectionChangedCallbackCurrentCellActivatingCallbackCurrentCellActivatedCallbackDataGridCellTapCallbackDataGridCellDoubleTapCallbackDataGridCellLongPressCallbackLoadMoreRowsLoadMoreViewBuilderDataGridSwipeStartCallbackDataGridSwipeUpdateCallbackDataGridSwipeEndCallbackDataGridSwipeActionsBuilder
+CellSubmitColumnResizeStartCallbackColumnResizeUpdateCallbackColumnResizeEndCallbackDataGridFilterChangingCallbackDataGridFilterChangedCallback_DataGridSourceListener_DataGridPropertyChangeListenerDataGridRowDataGridCellDataGridRowAdapterStackedHeaderRowStackedHeaderCellGridTableSummaryRowGridSummaryColumn
+SfDataGridSfDataGridStateDataGridSourcerefreshEffectiveRowsperformSortingupdateDataPagerDataGridControllerDataPagerDelegateDataGridSourceChangeNotifier%notifyDataGridPropertyChangeListenershandleLoadMoreRowshandleRefreshupdateDataSourceeffectiveRowssetPageCountupdateSelectedIndexupdateSelectedRowupdateCurrentCellIndexupdateVerticalOffsetupdateHorizontalOffsetsetChildColumnIndexesgetChildColumnIndexesaddFilterConditionsremoveFilterConditionsDataGridThemeHelperşonQueryRowHeightdoubleRowHeightDetailsonSelectionChangingboolListonSelectionChangedvoidonCurrentCellActivatingRowColumnIndexonCurrentCellActivated	onCellTaponCellSecondaryTapDataGridCellTapDetailsonCellDoubleTapDataGridCellDoubleTapDetailsonCellLongPressDataGridCellLongPressDetailshandleLoadMoreRowsFutureloadMoreViewBuilderWidgetBuildContextonSwipeStartDataGridSwipeStartDetailsonSwipeUpdateDataGridSwipeUpdateDetails
+onSwipeEndDataGridSwipeEndDetailsstartSwipeActionsBuilderintcanSubmitCellonCellSubmitonColumnResizeStartColumnResizeStartDetailsonColumnResizeUpdateColumnResizeUpdateDetailsonColumnResizeEndColumnResizeEndDetailsonFilterChangingDataGridFilterChangeDetailsonFilterChangedStringrowscellsoptionalTypeArgsKeyColor
+GridColumn
+columnNameTexttableSummaryRowstitleshowSummaryInRowtitleColumnSpanGridTableSummaryRowPositionGridSummaryTypeStatefulWidgetnanGridLinesVisibility
+horizontalColumnWidthModenoneColumnWidthCalculationRangevisibleRowsSelectionModeGridNavigationModerowSortingGestureTypetapAlwaysScrollableScrollPhysicsColumnResizeModeonResizeEditingGestureType	doubleTapDataGridCheckboxColumnSettingskeywidthColumnSizerSelectionManagerBaseRowSelectionManagerSfDataGridThemeDatafrozenPaneLineWidthfrozenPaneLineColorallowSortingsortedColumnsSortColumnDetailssortScrollPhysicshandleRefreshendSwipeActionsBuilderScrollControllerrowHoverColorrowHoverTextStyle	TextStylebuildEditWidget	TextFieldallowEditingonCellBeginEditfooterHeightCheckboxselectionModecheckboxColumnSettingsshowCheckboxColumnbuildTableSummaryCellWidgetSfDataPager	pageCountallowFilteringfilterConditionsshapeOutlinedBorderoverrideStateSingleTickerProviderStateMixinRowGeneratorVisualContainerHelperDataGridConfigurationAnimationControllerMapGridCellRendererBaseTextDirectionltrSfLocalizations	AnimationDataGridStateDetailsSize	gridPaintPaintdataGridStateDetailsrowGeneratordurationDurationmillisecondsvsyncsource	initStatetextDirectionneedToSetHorizontalOffsetColorSchemecolorSchemedataGridThemeHelperrefreshViewStyletextScaleFactorheaderRowHeightwidgetisNaN	rowHeightisGridLoadedcolumnWidthModeresetAutoCalculationcolumnSizerisDirtyrefreshColumnSizer
+rowHeightsdefaultLineSizesetRowHeightslocalizationsdataGridFilterHelperadvancedFilterHelperinitPropertiesLineSizeCollectioncolumnWidthssuspendUpdatesgetHeaderIndexrowCountiresumeUpdatesupdateScrollBars_dataGridStateDetails
+controller"_addDataGridPropertyChangeListenerverticalScrollControllerdisposeVerticalScrollControllerhorizontalScrollController!disposeHorizontalScrollControllersetStateDetailsInColumnSizercurrentCellCurrentCellManagerDataGridFilterHelperrowSelectionManagerselectionManager%setStateDetailsInSelectionManagerBasecolumnResizeControllerColumnResizeController	protectedrefreshDefaultLineSizeisDataSourceChangedupdateSelectionControllerdataGridConfigurationrefreshHeaderLineCountupdateRowAndColumnCountVisualDensityvisualDensityOffsetbaseSizeAdjustmentdycolumns_updateDataSource
+listEqualsclearaddAll
+isNotEmptyGridCellTextFieldRenderer!setStateDetailsInCellRendererBaseGridHeaderCellRendererGridStackedHeaderCellRendererGridCheckboxRendererGridTableSummaryCellRendererresolveToRowIndexrowIndexresolveToScrollColumnIndexcolumnIndexeffectiveRowsisEmptysetStateDataRowBaseitemsfirstWhereOrNulldataGridRowdataGridRowAdaptergetDataGridRowAdapterDataCellBasevisibleColumnsupdateColumntableSummaryRowcolumngetSummaryTitleColumnSpancontainsnamesummaryColumn_suspendDataPagerUpdate	isEditing
+canRefreshnavigationModecellonRowColumnChangedlengthremoveUnWantedDataGridRows_effectiveRowsallowSwiping	containerresetSwipeOffsetfooterrowTypeRowType	footerRowrefreshViewshouldRecalculateColumnWidthsdataGridFocusNodehasPrimaryFocusrequestFocus
+hasClientsoffsetverticalOffsetverticalScrollBarvaluecanRefreshHorizontalOffsetpositionmaxScrollExtenthorizontalOffsethorizontalScrollBarrtlresolveToRecordRowColumnIndex
+isNegativeeditingWidgetclearEditingdataRowdataCellneedToRefreshColumnrowColumnIndexpropertyNamerowIndexChangedrecalculateRowHeightrowHeightManagersetDirtycellRenderersheaderLineCountgridLinesVisibilityheaderGridLinesVisibilitycolumnWidthCalculationRangefrozenColumnsCountfooterFrozenColumnsCountfrozenRowsCountfooterFrozenRowsCountallowMultiColumnSortingallowTriStateSortingsortingGestureTypeshowSortNumbersisControlKeyPressedisCommandKeyPressedstackedHeaderRowsisScrollbarAlwaysShownhorizontalScrollPhysicsverticalScrollPhysicsrefreshIndicatorDisplacementallowPullToRefreshrefreshIndicatorStrokeWidthswipeMaxOffsetswipingAnimationControllerswipingAnimationhighlightRowOnHoverallowColumnsResizingcolumnResizeModeeditingGestureTypedefaultColumnWidthrowsPerPageshrinkWrapColumnsshrinkWrapRowsrowsCacheExtentcheckboxShaperefreshIndicatorKey	GlobalKeyRefreshIndicatorStatesetHitTestPrecisionremoveremoveWheretableSummaryCoveredRow	isDesktop
+isResizingisResizeIndicatorVisibleremoveAt%_removeDataGridPropertyChangeListenerisDataGridControlChangedisSelectionManagerChangedisSourceChangedelement	headerRowhandleSelectionPropertyChangedhandleDataGridSourceChangesisSelectionModeChangedisNavigationModeChangedstackedHeaderRowresetselectedRowsonSelectedRowsChangedselectedRowonSelectedRowChangedselectedIndexonSelectedIndexChangedmultipleconfigurationcreateLocalImageConfigurationcontext
+boxPainter
+BorderSidecolorcurrentCellStyleborderColorBoxDecorationborderBorderbottomtopleftrightcreateBoxPainter_addDataGridSourceListeneraddListener_removeDataGridSourceListenerremoveListenerinsertGridCheckboxColumnlabelSizedBoxRefreshIndicatorshowRefreshIndicatorcurrentStateshow	ThemeDataThemeofkIsWebplatformTargetPlatformmacOSwindowslinuxisMacPlatformDirectionalitySfDataGridTheme
+MediaQuerytextScaleFactorOfsizeisFilterPopupMenuShowing	NavigatorpopdidChangeDependenciesdidUpdateWidgetLayoutBuilderbuilderBoxConstraints
+viewHeightconstraints	maxHeight
+isInfinite	viewWidthmaxWidthextentWidth$updateColumnSizerLoadedInitiallyFlagScrollViewWidgetheightdisposecheckboxFilterHelpertextControllersearchboxFocusNodefirstValueTextControllersecondValueTextControllerresetColumnPropertiesnotifyDataSourceListenersemptynotifyListenersFilterConditionaddFilterConditionremoveFilterConditionunmodifiablecompareab
+_pageCount	skipWhiletoListgrowablelastObjectgetCellssortDirectiondynamicDataGridSortDirection	ascending	compareToapplyFilter&_notifyDataGridPropertyChangeListenerscontainsKeyLogicalKeyboardKeyescapeceilgetRangegetSummaryValue
+replaceAllsummaryTypeperformSorting_updateDataPagerbuildresolveToGridVisibleColumnIndexprocessSelectionAndCurrentCellisProgrammaticDataGridScrollPositionstartScrollAxisBase
+scrollRowsscrollColumns	lineCounttoIntgetVerticalOffsetgetHorizontalOffsetresolveScrollOffsetToPositionrowPositionheaderExtentfooterExtentcolumnPositionscrollVertical
+canAnimatescrollHorizontaleditingRowColumnIndexChangeNotifierObserverListaddFunctionlistener_paginatedRowsWidgetsBindinginstanceaddPostFrameCallback_selectedIndex_selectedRow_currentCell_verticalOffset_horizontalOffset_childColumnIndexes_filterConditions
+brightnessheaderColorColorstransparentwithOpacitygridLineColor	onSurfacegridLineStrokeWidthfrozenPaneElevationselectionColorheaderHoverColorsortIconColorcolumnResizeIndicatorColorprimary columnResizeIndicatorStrokeWidthDataGridCurrentCellStyleborderWidth
+fontFamily
+fontWeight
+FontWeightw400fontSizesortIcon
+filterIconfilterIconColorfilterIconHoverColorsortOrderNumberColorsortOrderNumberBackgroundColor
+BrightnessBuilderStatefulWidgetStateSingleTickerProviderStateMixinDataGridSourceChangeNotifierDataPagerDelegateChangeNotifieru!4Çİ¦ÿòŒÆÿ¿      "package:collection/collection.dart  /  package:flutter/foundation.dart  Z  package:flutter/material.dart  €ƒ  2package:syncfusion_flutter_core/localizations.dart  €Á  *package:syncfusion_flutter_core/theme.dart  €ù  ../../datagrid.dart    "../grid_common/line_size_host.dart  F  ../grid_common/scroll_axis.dart  q  "helper/datagrid_configuration.dart  Ÿ  Ãgrid_helperÆhelper/datagrid_helper.dart  Õ  runtime/cell_renderers.dart  ü  runtime/column.dart  ‚  runtime/generator.dart  ‚=   selection/selection_manager.dart  ‚i  ‚’selection_manager‚• selection/selection_manager.dart  ‚ª  widgets/scrollview_widget.dart    	dart:coreÀ‰j À©ª‘Ã .Y€‚€À€ö€øEpÔû‚‚<‚h‚©‚Ó‚Õƒƒ\ƒ^ƒœƒĞ„„„Q„„„Æ„È…
+…B…Œ……Ï††P†R† †°‡‡‡>‡v‡¢‡¤‡ŞˆˆBˆDˆˆˆ¹ˆ»ˆı‰.‰e‰g‰¢‰×Š
+ŠŠHŠ~Š³ŠµŠî‹!‹P‹R‹£‹ÜŒŒ!ŒZŒ†Œ­Œ¯Œñ%MO’Çğò2„†Åş)+i¡ÌÎ@hjªä‘
+‘%‘G‘I‘‚‘‡‘Ù‘Ş’$’S’h’›’ç’é“““U“j“““Õ“ë””"”'”*”,”X”]”¬”â”õ••B•Š•Œ•¨•Ä•Æ•â•é–8–L–_–b–d–¢–§–÷——"—\—¦—¨—Ä—×—Ù—÷˜˜˜=˜D˜‹˜ ˜½˜À˜Â™™b™‚™‡™–™›™í™şššWšƒš…šÉšëšîšğ›2›7›F›K›š›µ›ôœ
+œPœtœyœ{œÇœóœúJ™ë7Gjl¥¬ÏæèŸ7ŸLŸSŸ¡Ÿ¶Ÿ½  [ r t ›    Ù Ş¡,¡_¡d¡r¡w¡Ê¡â¢3¢E¢b¢ ¢¸¢Ì¢ß¢ı££=£c£Š£Œ£Õ£î¤¤¤-¤D¤F¤~¤¢¤©¤ö¥¥¥`¥±¥Ù¥÷¥ù¦H¦l¦s¦Œ¦¬¦®¦Ü§§§@§o§r§t§¥§ª§¹§¾¨¨,¨q¨¨©¨Ê¨î¨ğ©!©7©9©b©i©z©©º©Ö©Øª ªFªIªKªlªqªµªº««W«{«€«Ï¬¬¬j¬o¬À¬ú­5­:­H­­Ë­Ğ­á­ú®®/®8®=®N®z®–®¾®ğ¯¯P¯’¯â°(°4°=°B°^°¨°ï±5±}±Å²²V²œ²ã³+³4³;³@³V³š³¯³É³ê´´
+´´F´W´‡´Æµµ_µ†µÓ¶$¶7¶M¶R¶c¶š¶¾¶ú·1·L·U·\·a·j·•·Ä·Ë¸¸2¸M¸i¸x¸š¸Â¸í¹-¹s¹¥¹¼ºº;ºnºº¸º×ºü»»G»o»’»É¼¼¼5¼Q¼o¼¼±¼Ó¼è½½!½<½f½±½ú¾¾?¾n¾›¾»¾İ¿¿'¿?¿X¿n¿’¿´¿ÚÀ @À @:À @YÀ @yÀ @–À @¶À @óÀ AÀ A$À AJÀ A•À AÑÀ AèÀ BÀ B/À BJÀ BlÀ BˆÀ B£À B¼À BæÀ CÀ C=À CjÀ C„À C†À C¾À CÅÀ CİÀ CøÀ CúÀ D&À D-À DEÀ DfÀ DhÀ D“À DšÀ D´À D×À DÙÀ E/À ECÀ EJÀ EšÀ E¡À E¹À EÙÀ EÛÀ EüÀ FÀ FOÀ FÀ F¥À FâÀ GÀ GÀ G5À G<À GfÀ GmÀ G‘À G»À G½À HÀ HÀ H!À HqÀ H“À HšÀ H×À HŞÀ IÀ IPÀ IRÀ I À IµÀ I¼À JÀ J4À JWÀ JYÀ J‚À J‰À JÖÀ JîÀ JõÀ K)À K0À KXÀ KŠÀ KŒÀ KÅÀ KÌÀ LÀ L4À L;À LƒÀ LºÀ LÁÀ LõÀ LüÀ M%À M,À M|À M‘À MÉÀ MËÀ NÀ N:À N<À NdÀ NkÀ NªÀ N±À NÚÀ NáÀ OÀ O)À O+À OTÀ O[À O«À O¼À OóÀ OõÀ P7À P>À PŠÀ PÊÀ PéÀ Q"À Q$À QoÀ Q‡À QÀ Q×À RÀ RÀ R-À R^À R`À R°À RÌÀ RÓÀ RìÀ RóÀ SCÀ SlÀ SnÀ S¼À SĞÀ SüÀ SşÀ T)À T0À T{À T•À TÔÀ TÖÀ UÀ UÀ U[À UÀ U²À UóÀ UõÀ V(À VUÀ VWÀ V§À VÉÀ WÀ WÀ WOÀ W…À W‡À WÎÀ WìÀ X%À X'À XtÀ X{À XÂÀ YÀ Y	À YÀ Y%À Y6À Y=À YaÀ Y´À YÕÀ Z(À ZHÀ ZiÀ ZkÀ Z¹À ZÀÀ [À [FÀ [MÀ [bÀ [iÀ [zÀ [À [ÔÀ [õÀ \HÀ \iÀ \À \’À \ÖÀ \İÀ \òÀ \ùÀ ]
+À ]À ]2À ]…À ]¦À ]ùÀ ^À ^8À ^:À ^À ^ˆÀ ^À ^¤À ^µÀ ^¼À _À _0À _ƒÀ _¤À _ÈÀ _ÊÀ `À `&À `-À `GÀ `NÀ `]À `nÀ `šÀ `¶À `ŞÀ `ıÀ aÀ aSÀ a—À aéÀ b1À b>À bGÀ bNÀ b‡À bšÀ bÌÀ cÀ cXÀ cªÀ cÓÀ d"À duÀ dŠÀ d¢À d©À d¼À dõÀ eÀ eYÀ eÀ e§À e²À e»À eÂÀ eÍÀ eÔÀ eÛÀ eìÀ eóÀ fBÀ fWÀ f§À fºÀ fÿÀ gGÀ g‘À gàÀ güÀ gşÀ h9À h@À hZÀ haÀ h¦À h­À h¾À hÅÀ i
+À iRÀ iœÀ iëÀ jÀ jÀ j`À j}À j„À jÀ j¥À jêÀ jñÀ kÀ k	À kNÀ k–À kàÀ l/À lSÀ lUÀ l§À lİÀ läÀ lıÀ mÀ m=À moÀ mvÀ m‡À mÀ mÓÀ nÀ neÀ n´À nÓÀ nÕÀ o#À o9À o@À okÀ orÀ oƒÀ oŠÀ o À oĞÀ oÒÀ oÿÀ pÀ pUÀ p£À p³À pºÀ pÉÀ pÚÀ qÀ qUÀ q‘À qÑÀ rÀ rbÀ rƒÀ r¨À rÈÀ sÀ s+À sZÀ slÀ s|À sŠÀ s—À s À s«À sŞÀ sàÀ t.À tÀ tĞÀ tóÀ túÀ uÀ u9À u;À uÀ vÀ vÀ v<À vlÀ vnÀ v°À w0À w7À wkÀ w™À w›À wêÀ x*À x1À xÀ xÄÀ yÀ yeÀ y}À y„À y¡À y¨À yùÀ zEÀ zmÀ ztÀ zƒÀ z”À zÀÀ zÚÀ {!À {>À {gÀ {‰À {ÎÀ {ÿÀ |&À |aÀ |rÀ |yÀ |¦À |ÏÀ |ôÀ }$À }YÀ }€À }§À }ÕÀ ~À ~<À ~‚À ~ÒÀ ~îÀ .À CÀ WÀ iÀ yÀ À ßÀ €%À €yÀ €ÃÀ €ÓÀ €áÀ €íÀ €öÀ À À #À *À uÀ ÅÀ ‚À ‚XÀ ‚_À ‚nÀ ‚À ‚«À ‚ÅÀ ƒÀ ƒ)À ƒRÀ ƒtÀ ƒ¹À ƒäÀ „À „VÀ „|À „¡À „ÆÀ „òÀ …!À …UÀ …™À …çÀ †À †&À †IÀ †sÀ † À †ÒÀ †ùÀ ‡À ‡CÀ ‡mÀ ‡ À ‡ÒÀ ˆÀ ˆFÀ ˆƒÀ ˆ»À ˆóÀ ‰À ‰SÀ ‰tÀ ‰‘À ‰ÂÀ ‰ÿÀ Š7À ŠoÀ ŠšÀ ŠĞÀ ŠñÀ ‹À ‹*À ‹DÀ ‹\À ‹rÀ ‹…À ‹˜À ‹¨À ‹ÌÀ ŒÀ ŒTÀ Œ¨À ŒòÀ À À À %À 0À cÀ eÀ ¶À ÃÀ ÊÀ ÛÀ âÀ ,À WÀ yÀ {À ÏÀ !À eÀ lÀ ´À âÀ äÀ .À 5À ‚À ¯À ±À ‘À ‘VÀ ‘¥À ‘¬À ‘ïÀ ’EÀ ’LÀ ’]À ’dÀ ’‡À ’«À ’ÌÀ ’èÀ ’êÀ “*À “1À “IÀ “iÀ “kÀ “ŸÀ “¦À ” À ”À ”>À ”@À ”rÀ ”yÀ ”ÑÀ ”ØÀ •À •À •:À •AÀ •‰À •¼À •¾À •æÀ •íÀ –>À –VÀ –‹À –À –ŞÀ —À —À —_À —±À —ÄÀ ˜À ˜À ˜VÀ ˜¥À ˜ÆÀ ™À ™À ™KÀ ™RÀ ™cÀ ™jÀ ™ÖÀ šFÀ šiÀ škÀ š¼À šÓÀ šÚÀ ›'À ›zÀ ›ËÀ ›ÒÀ œ.À œsÀ œzÀ œÌÀ  À hÀ ›À ¢À îÀ À 
+À RÀ ¦À ­À ñÀ ŸÀ ŸÀ Ÿ"À ŸNÀ ŸiÀ Ÿ†À ŸªÀ ŸÈÀ ŸÒÀ ŸÙÀ ŸêÀ  À  0À  KÀ  ŠÀ  ˜À  µÀ  ŞÀ ¡À ¡6À ¡SÀ ¡À ¡°À ¡ÌÀ ¡ÜÀ ¢ À ¢À ¢@À ¢oÀ ¢”À ¢ĞÀ £À £.À £MÀ £iÀ £„À £«À £ÜÀ ¤À ¤<À ¤pÀ ¤¤À ¤¿À ¤íÀ ¥%À ¥JÀ ¥…À ¥¹À ¥ãÀ ¦À ¦EÀ ¦aÀ ¦|À ¦¥À ¦ØÀ ¦ıÀ §8À §lÀ §¢À §²À §ÀÀ §ÌÀ §ÕÀ §áÀ §èÀ ¨À ¨	À ¨À ¨!À ¨KÀ ¨vÀ ¨À ¨ÂÀ ¨ÄÀ ©5À ©<À ©_À ©‹À ©À ª À ªÀ ªEÀ ª~À ª€À ªîÀ ªõÀ «3À «nÀ «pÀ «¥À «ÚÀ «ÜÀ ¬ À ¬=À ¬DÀ ¬^À ¬eÀ ¬¶À ¬×À ¬ŞÀ ­@À ­GÀ ­–À ­ßÀ ­şÀ ®À ®À ®À ®TÀ ®[À ®¦À ®­À ®ËÀ ®ÒÀ ¯À ¯bÀ ¯‡À ¯¯À ¯ìÀ °3À °À °¬À °÷À ±FÀ ±]À ±wÀ ±‚À ±‰À ±¸À ±¿À ±çÀ ±îÀ ²À ²7À ²>À ²QÀ ²‰À ²¯À ²æÀ ³À ³RÀ ³}À ³¨À ³ÕÀ ´À ´À ´.À ´9À ´@À ´SÀ ´À ´ÚÀ µ*À µ\À µ{À µ¹À µşÀ ¶À ¶;À ¶NÀ ¶UÀ ¶¥À ¶ÑÀ ¶ğÀ ·%À ·XÀ ·{À ·ŸÀ ·åÀ ¸À ¸JÀ ¸„À ¸µÀ ¸ÜÀ ¹À ¹JÀ ¹`À ¹—À ¹ÆÀ ¹óÀ ºÀ ºPÀ ºnÀ ºšÀ º±À ºÇÀ ºøÀ »JÀ »™À »¼À »ÒÀ »çÀ »ôÀ »ÿÀ ¼À ¼À ¼lÀ ¼À ¼¾À ¼İÀ ½!À ½fÀ ½„À ½—À ½À ½İÀ ½äÀ ¾'À ¾<À ¾IÀ ¾PÀ ¾|À ¾ÅÀ ¿À ¿À ¿YÀ ¿˜À ¿¥À ¿¬À À À À"À ÀBÀ ÀMÀ ÀVÀ À]À ÀhÀ À­À À×À ÀæÀ ÀíÀ ÁÀ Á$À ÁWÀ Á^À ÁoÀ Á‰À Á¥À ÁÍÀ ÂÀ Â!À Â(À Â9À ÂeÀ ÂÀ ÂšÀ ÂÙÀ ÂçÀ ÃÀ Ã-À ÃNÀ Ã‚À Ã´À ÃêÀ ÄÀ Ä)À ÄNÀ ÄsÀ Ä©À ÄâÀ ÅÀ Å%À ÅAÀ Å\À ÅƒÀ Å¨À ÅİÀ ÆÀ ÆCÀ Æ^À ÆŒÀ Æ±À ÆæÀ ÇÀ ÇBÀ ÇjÀ Ç¤À ÇÀÀ ÇÛÀ ÈÀ È)À È^À È—À ÈÇÀ È×À ÈåÀ ÈñÀ ÈúÀ ÉÀ ÉÀ ÉdÀ É~À ÉÏÀ ÉêÀ Ê1À Ê€À ÊÁÀ ËÀ Ë.À ËJÀ ËLÀ Ë˜À ËªÀ Ë±À ËäÀ ËëÀ ËüÀ ÌEÀ ÌuÀ ÌwÀ Ì¶À Ì½À ÍÀ ÍÀ Í'À Í.À Í~À ÍÀ Í¦À Í¨À ÍÉÀ ÍĞÀ ÍéÀ ÎÀ Î	À ÎXÀ ÎrÀ ÎyÀ Î“À ÎšÀ ÎèÀ Ï9À ÏFÀ ÏMÀ ÏšÀ ÏëÀ ÏüÀ ĞÀ ĞÀ ĞdÀ ĞƒÀ Ğ¥À Ğ§À ÑÀ ÑÀ ÑâÀ ÑéÀ ÒAÀ ÒHÀ ÒYÀ Ò`À ÒßÀ Ó À ÓÀ ÓnÀ ÓuÀ Ô5À Ô<À Ô•À ÔœÀ Ô­À Ô´À Õ;À ÕYÀ Õ[À Õ–À ÕÀ ÕÚÀ ÖÀ ÖLÀ ÖNÀ Ö~À Ö…À ÖÔÀ ×À ×À ×]À ×£À ×ªÀ ×şÀ Ø(À Ø/À Ø>À ØOÀ Ø{À Ø•À Ø°À ØïÀ ØıÀ ÙÀ ÙCÀ ÙdÀ ÙˆÀ Ù³À ÙîÀ ÚÀ Ú4À Ú\À Ú‰À ÚÆÀ ÚÜÀ ÛÀ Û?À ÛkÀ Û‰À Û±À Û×À ÜÀ ÜAÀ ÜWÀ Ü˜À Ü¨À ÜÌÀ ÜçÀ İÀ İ1À İgÀ İ›À İ¿À İŞÀ İúÀ ŞÀ Ş<À ŞaÀ Ş–À ŞÊÀ ŞøÀ ßÀ ßAÀ ßfÀ ß›À ßÏÀ ßóÀ àÀ àUÀ àqÀ àŒÀ àµÀ àÚÀ áÀ áCÀ ásÀ áƒÀ á‘À áÀ á¦À á­À áæÀ á÷À â#À âNÀ â{À â¥À âÇÀ ââÀ ãÀ ã<À ãeÀ ãnÀ ãyÀ ã®À ã°À ãàÀ ãçÀ ä9À äZÀ äaÀ ä±À å&À å-À å¥À åÀÀ åÂÀ æ"À æ)À æuÀ æ½À æÄÀ çÀ çrÀ ç¿À çÿÀ èÀ è À èoÀ èvÀ èÆÀ èÍÀ èŞÀ é+À éaÀ é­À éİÀ ê"À êtÀ ê’À ê”À êÜÀ êãÀ ë0À ëGÀ ë‚À ë„À ëÅÀ ëÌÀ ìÀ ì5À ìnÀ ìpÀ ì’À ì™À ìşÀ íÀ íÀ íÀ í5À í]À í_À ílÀ í©À í¬À í®À íôÀ î8À îEÀ îvÀ î¡À îËÀ îöÀ ï À ïPÀ ïRÀ ïvÀ ï À ïÖÀ ğÀ ğÀ ğGÀ ğ|À ğ¨À ğÖÀ ğúÀ ñÀ ñ5À ñdÀ ñˆÀ ñ±À ñáÀ ñãÀ ñùÀ ñûÀ òÀ òÀ ò>À òuÀ ò²À òãÀ òåÀ ó6À ó_À ó…À ó½À óõÀ ô9À ôHÀ ôlÀ ônÀ ô»À ôñÀ õ	À õÀ õÀ õ[À õ¦À õµÀ õ¼À õ¾À õæÀ ö$À öVÀ ö[À ö]À ö‚À öËÀ ÷À ÷IÀ ÷xÀ ÷¹À ÷ÈÀ ÷ÏÀ ÷ÑÀ ÷óÀ ø:À ødÀ ø‚À ø‰À ø‹À ø®À øïÀ ù+À ùIÀ ùPÀ ùRÀ ùmÀ ù À ùäÀ ú.À úJÀ úpÀ úwÀ ú|À ú~À úÂÀ ûÀ ûÀ ûÀ û À û_À ûªÀ ûäÀ ü-À üMÀ üpÀ ü¯À üéÀ ı,À ıFÀ ıcÀ ıµÀ şÀ ş5À şYÀ ş¦À şéÀ ÿÀ ÿ\À ÿ¤À ÿ¯À ÿ¸À ÿŞÀ ÿÿÀ #À tÀ –À »À ÄÀ ËÀ ĞÀ ÒÀÀMÀwÀ•ÀÁÀ	ÀÀÀÀ:ÀmÀ¥ÀÏÀ ÀDÀtÀÀÀÉÀĞÀùÀÀ"À$À7ÀVÀ£ÀÇÀÉÀóÀõÀÀGÀzÀ¶À¸ÀîÀ ÀTÀ›À¢ÀØÀ!À(À*ÀaÀ¡ÀÚÀÀÀEÀ”À·ÀıÀÿÀ	'À	QÀ	†À	¹À	ğÀ	òÀ
+À
+aÀ
+œÀ
+ÚÀÀÀ'ÀvÀxÀ­ÀüÀşÀÀ!À#À1ÀIÀsÀ”À™À›À©ÀğÀÀDÀ~À´À»À½ÀàÀğÀÀ5ÀSÀXÀZÀ–ÀØÀçÀîÀğÀ2À4ÀPÀwÀ¢ÀÈÀÊÀÀ^ÀÀ²ÀØÀùÀÀnÀuÀzÀ|À¦ÀËÀôÀCÀiÀpÀrÀÀàÀèÀõÀ]À¥ÀÀPÀÀÀ¨ÀàÀçÀéÀÀÀÀ5ÀsÀ’À¥ÀºÀßÀèÀïÀñÀÀ6À€À³ÀºÀ¿ÀÁÀïÀ'ÀgÀÀÏÀÀ7ÀzÀÂÀêÀ.ÀhÀÀÏÀÀ=À€À…À‡ÀÃÀøÀ3ÀpÀ·À÷ÀùÀ
+ÀgÀqÀ€ÀçÀXÀ·ÀõÀ4ÀNÀ_ÀhÀjÀ´À÷ÀùÀÀ(À1À3ÀDÀ ÀªÀ¹À /À ’À äÀ!+À!-À!|À!~À!ÅÀ!ÿÀ"À"PÀ"œÀ"À"½À"ÎÀ"×À"ÙÀ"îÀ#À#<À#GÀ#NÀ#SÀ#UÀ#ƒÀ#‘À#©À#ÂÀ#ÇÀ#ÉÀ#úÀ$À$ZÀ$™À$ÏÀ%À%RÀ%rÀ%ÃÀ&À&9À&LÀ&WÀ&YÀ&šÀ&ºÀ'	À'0À'~À'ÎÀ(	À(>À(À(ÄÀ)À)9À)LÀ)]À)•À)ØÀ)ıÀ*À*À*$À*-À*4À*9À*;À*`À*¢À*±À*¸À*ËÀ+À+(À+*À+zÀ+µÀ+áÀ,(À,1À,3À,[À,ŒÀ,À,ÎÀ-	À-JÀ-wÀ-¨À-ëÀ-öÀ-øÀ.À.À.À.SÀ.¢À.ÛÀ/À/EÀ/tÀ/ÃÀ/ÌÀ/ÎÀ/ğÀ0.À07À09À0]À0«À0ÍÀ1À18À1ˆÀ1¿À1ğÀ1ûÀ2À2À2À2=À2VÀ2qÀ2sÀ2ÀÀ3À3(À31À3{À3¼À3ÃÀ3ÅÀ4À46À4oÀ4¬À4óÀ54À5;À5@À5BÀ5”À5±À5üÀ6#À6gÀ6¯À6øÀ78À7`À7~À7¦À7­À7ÖÀ7ıÀ8EÀ8‘À8ŞÀ9À9aÀ9«À9óÀ:À:CÀ:qÀ:ÂÀ;À;'À;SÀ;…À;ÁÀ;ÌÀ;ÕÀ;ÜÀ;áÀ;ãÀ;ÿÀ<À<$À<IÀ<bÀ<}À<†À<‹À<À<©À<ãÀ<òÀ<ùÀ<ûÀ=GÀ=À=‘À=­À=¼À=ÃÀ=ÅÀ> À>KÀ>MÀ>À>À>—À>™À>ÄÀ?À?VÀ?XÀ?hÀ?µÀ?ğÀ?ùÀ@À@UÀ@£À@ñÀABÀAqÀA£ÀAÉÀAéÀB ÀB"ÀBLÀBiÀB‚ÀBŸÀB¦ÀB«ÀB­ÀBàÀBıÀCÀC!ÀCDÀCwÀCšÀCÏÀDÀDÀDÀDÀDTÀD…ÀD–ÀDŸÀD¡ÀDæÀE
+ÀEÀEÀEÀELÀE€ÀE‡ÀE³ÀE¸ÀEºÀE×ÀEøÀEıÀEÿÀFBÀFeÀFÀF—ÀFºÀFİÀFäÀFéÀFëÀGÀGCÀG`ÀGÀG¶ÀGÛÀHÀH>ÀH…ÀHÂÀIÀIÀIOÀI”ÀI–ÀI¶ÀIÉÀIÔÀIëÀIşÀJÀJ>ÀJeÀJ¤ÀJÊÀJøÀK$ÀKFÀKSÀK`ÀKiÀKpÀKrÀK²ÀKÌÀKÓÀKÕÀKÿÀLÀLeÀL—ÀL¢ÀL©ÀL«ÀLÑÀLæÀM/ÀMWÀMƒÀMÊÀMîÀMùÀN ÀNÀN/ÀNDÀN¾ÀNÉÀNĞÀNÒÀOÀO=ÀODÀOFÀOnÀOƒÀO­ÀOÍÀOôÀPÀP,ÀP.ÀPPÀP[ÀPbÀPgÀPiÀP‘ÀP­ÀPÈÀPåÀQÀQ5ÀQUÀQ{ÀQ¹ÀQïÀR#ÀR]ÀR£ÀRÕÀSÀSMÀS…ÀS¿ÀSïÀT/ÀTqÀT—ÀTÉÀUÀU3ÀUkÀU¯ÀUáÀVÀVKÀVÀVÉÀWÀW3ÀWXÀW}ÀW³ÀWóÀX5ÀXsÀX­ÀXùÀY1ÀY{ÀY§ÀY×ÀZÀZ1ÀZYÀZÀZİÀ[!À[QÀ[‹À[ÇÀ[ûÀ\5À\qÀ\§À\ßÀ]À]8À]lÀ]ˆÀ]ºÀ]ÙÀ^À^LÀ^nÀ^¦À^ËÀ_
+À_AÀ_iÀ_‰À_µÀ_íÀ`-À`aÀ`‹À`ÁÀ`ñÀa#ÀaWÀa‡Àa»ÀaíÀbÀbÀbDÀbzÀb©Àb°ÀbµÀb·ÀbôÀcÀcÀcGÀcŒÀc²Àd Àd#Àd_ÀdnÀd¹ÀdöÀdşÀeÀe\Àe¬ÀeğÀf2Àf_Àf“Àf¿ÀgÀg?ÀgfÀgÀgâÀhÀhMÀh{Àh¯ÀhûÀi%ÀiuÀiÀiŞÀj,Àj~Àj¬ÀjúÀk%ÀkcÀk¯ÀkğÀl#ÀliÀl ÀlØÀmÀmCÀm•Àm¿ÀmûÀnEÀn}Àn©ÀnéÀoÀoFÀo„Ào¨ÀoğÀpÀpQÀpSÀp¥ÀpÛÀq$Àq-ÀqfÀq¨Àq¯Àq±ÀqâÀrÀrHÀr“ÀrœÀr×ÀsÀs"Às$ÀsoÀs»ÀsÂÀsÄÀsçÀt!ÀtiÀtkÀtˆÀtÄÀtæÀu8Àu:ÀuƒÀu™Àu½ÀuıÀv:ÀvwÀv³ÀvïÀvñÀwÀw9ÀwaÀw¡ÀwåÀxÀx/Àx1ÀxnÀxªÀxÑÀy
+ÀyÀyÀy%Ày'ÀyGÀynÀy¼ÀyŞÀz'ÀzIÀznÀzÀÀzùÀ{,À{tÀ{ÉÀ|À|<À|eÀ|‹À|¸À|ñÀ}$À}1À}<À}EÀ}LÀ}NÀ}tÀ}œÀ}ÒÀ~À~UÀ~”À~ŸÀ~ÍÀ~ÖÀ~İÀ~ßÀÀEÀ‚À¼ÀíÀ€+À€mÀ€vÀ€}À€À€›À€¸À€ØÀ€şÀÀGÀmÀÀ­ÀÕÀúÀ‚!À‚>À‚]À‚ƒÀ‚¢À‚ÖÀƒÀƒ\ÀƒšÀƒàÀ„À„\À„}À„©À„ÂÀ„ÄÀ…À…hÀ…¦À…÷À†!À†*À†hÀ†À†¶À†ÛÀ†ÿÀ‡MÀ‡™À‡ßÀ‡ìÀˆ*Àˆ5Àˆ>Àˆ@ÀˆjÀˆ°ÀˆæÀˆèÀ‰#À‰SÀ‰˜À‰šÀ‰ÔÀŠ
+ÀŠÀŠÀŠOÀŠ}ÀŠ¯ÀŠÖÀ‹ À‹)À‹+À‹KÀ‹MÀ‹ŠÀ‹ËÀ‹ÔÀ‹ÖÀ‹ùÀŒÀŒ'ÀŒ)ÀŒEÀŒGÀŒiÀŒkÀŒ—ÀŒ™ÀŒÆÀÀIÀvÀ¬À®ÀÛÀİÀûÀÀ=ÀeÀÀÖÀÀ@ÀeÀªÀµÀ¾ÀÀÀÀ`À¯ÀöÀ‘À‘6À‘wÀ‘™À‘ÊÀ‘õÀ’&À’iÀ’kÀ’·À“À“UÀ“vÀ“–À“ßÀ”À”À”FÀ”QÀ”ZÀ”\À”zÀ”£À”ÅÀ”êÀ•À•2À•ZÀ•›À•¾À•ôÀ•ıÀ•ÿÀ–!À–`À–„À–©À–ÑÀ–øÀ—"À—DÀ—„À—®À—ØÀ—ãÀ—ìÀ—îÀ˜#À˜rÀ˜¼À˜âÀ˜ëÀ˜íÀ™À™À™gÀ™³À™åÀšÀš`ÀšÀš­ÀšşÀ›,À›uÀ›€À›¢À›ÆÀœÀœ9ÀœBÀœIÀœNÀœPÀœyÀœ¡Àœ¾ÀœëÀ"À\ÀÀªÀàÀåÀçÀ ÀPÀ~À£ÀÏÀëÀŸ/ÀŸ\ÀŸuÀŸÇÀŸÎÀŸĞÀŸöÀ AÀ ~À ¾À ùÀ¡ À¡À¡À¡ZÀ¡aÀ¡cÀ¡•À¡ÍÀ¢À¢AÀ¢À¢µÀ¢·À¢ÜÀ£À£À£À£À£<À£nÀ£˜À£ËÀ£óÀ¤=À¤DÀ¤pÀ¤œÀ¤£À¤¥À¤÷À¥=À¥qÀ¥£À¥ÔÀ¦	À¦SÀ¦•À¦ÓÀ§À§#À§oÀ§³À§óÀ¨<À¨EÀ¨LÀ¨QÀ¨SÀ¨zÀ¨«À¨áÀ¨èÀ¨êÀ©À©LÀ©SÀ©UÀ©‚À©¹À©ÀÀ©ÅÀ©ÇÀ©åÀª Àª\ÀªŒÀª¿Àª÷À«À«À«%À«*À«,À«JÀ«yÀ« À«âÀ¬À¬0À¬QÀ¬oÀ¬À¬°À¬²À¬úÀ¬ÿÀ­À­)À­[À­À­ÏÀ­üÀ®À®À®.À®cÀ®•À®ÚÀ¯
+À¯À¯À¯[À¯¥À¯ËÀ¯øÀ°À°%À°DÀ°“À°ĞÀ°×À°ÜÀ°ŞÀ±À±4À±;À±xÀ±À±¤À±ãÀ²$À²+À²mÀ²±À²şÀ³+À³oÀ³¥À³äÀ´À´XÀ´hÀ´¦À´¯À´¶À´»À´½À´ÊÀ´ìÀµ ÀµRÀµ‰ÀµÂÀµ÷ÀµùÀ¶%À¶ZÀ¶\À¶¡À¶£À¶ÛÀ·'À·.À·0À·rÀ·tÀ·–À·ÔÀ¸#À¸WÀ¸¨À¸ÔÀ¸çÀ¸ùÀ¹À¹bÀ¹dÀ¹´À¹üÀºLÀºkÀº˜ÀºÛÀ»À»4À»VÀ»˜À»¹À¼
+À¼À¼'À¼OÀ¼VÀ¼XÀ¼|À¼À¼ƒÀ¼À¼ÀÀ¼çÀ½
+À½À½À½À½FÀ½sÀ½À½–À½˜À½³À½úÀ¾CÀ¾•À¾ÖÀ¿%À¿'À¿œÀ¿ÿÀÀ6ÀÀrÀÀ­ÀÀ¶ÀÀİÀÀõÀÁ)ÀÁaÀÁlÀÁÀÁ¿ÀÁ÷ÀÂ ÀÂÀÂ"ÀÂAÀÂbÀÂ™ÀÂ£ÀÂ¬ÀÂ±ÀÂ³ÀÂÀÀÂÔÀÂûÀÂıÀÃÀÃ]ÀÃÀÃ‡ÀÃ”ÀÃŞÀÄZÀÄÇÀÅ	ÀÅBÀÅtÀÅ­ÀÅØÀÅôÀÆÀÆ)ÀÆHÀÆhÀÆ˜ÀÆÇÀÆòÀÆùÀÇ@ÀÇbÀÇ‰ÀÇĞÀÇüÀÈ*ÀÈ,ÀÈ;ÀÈwÀÈÂÀÈÊÀÈ×ÀÉ6ÀÉÀÉÕÀÉúÀÊ,ÀÊeÀÊ{ÀÊ€ÀÊƒÀÊ…ÀÊÈÀÊÍÀËÀËSÀË—ÀË¤ÀËçÀËøÀËıÀÌNÀÌ_ÀÌdÀÌ´ÀÌÅÀÌÓÀÍÀÍÀÍDÀÍUÀÍ…ÀÍÄÀÎÀÎ]ÀÎ„ÀÎÑÀÏ"ÀÏ5ÀÏKÀÏPÀÏaÀÏ˜ÀÏ¼ÀÏøÀĞ/ÀĞJÀĞSÀĞZÀĞcÀĞeÀĞ©ÀĞÇÀÑÀÑÀÑ8ÀÑtÀÑvÀÑ³ÀÑºÀÒ	ÀÒYÀÒjÀÒqÀÒ¾ÀÒùÀÓ ÀÓMÀÓÀÓˆÀÓÚÀÔÀÔÀÔCÀÔÀÔ—ÀÔøÀÕLÀÕ†ÀÕˆÀÕ¿ÀÕÁÀÕ÷ÀÕùÀÖQÀÖˆÀÖŠÀÖÏÀÖãÀ×À×À×>À×@À×€À×ªÀ×¬À×óÀ×úÀØHÀØ[ÀØbÀØ•ÀØßÀØşÀÙ<ÀÙ‡ÀÙ‰ÀÙÚÀÚ%ÀÚkÀÚrÀÚ¸ÀÚüÀÛÀÛLÀÛÀÛ”ÀÛáÀÜÀÜ.ÀÜgÀÜzÀÜ¬ÀÜíÀİ8ÀİŠÀİ³ÀŞÀŞUÀŞjÀŞ‚ÀŞ‰ÀŞœÀŞÌÀŞäÀŞïÀŞöÀß	ÀßBÀßhÀß¦ÀßßÀßüÀàÀàÀàÀà"Àà0ÀàZÀàmÀàrÀàtÀàÀÀàÕÀàÜÀá(ÀáxÀá‘Àá˜ÀáèÀáïÀáşÀâÀâ;ÀâUÀâpÀâ¯Àâ½ÀâÖÀâïÀã
+Àã1ÀãRÀã‡ÀãÖÀäÀäÀä+ÀäFÀätÀä™ÀäÁÀåÀåQÀå©Àå÷ÀæÀæÀæ-Àæ;ÀæGÀæPÀæZÀækÀærÀæÁÀæÖÀç(ÀçGÀç‘ÀçàÀè ÀèiÀèkÀè¤Àè«ÀèıÀéKÀéuÀé|ÀéÍÀêÀêiÀêºÀëÀë/Àë6Àë€ÀëÒÀìÀì Àì1Àì8ÀìŠÀì˜Àì¦Àì×ÀìùÀíÀíÀí?ÀírÀí{Àí€Àí‚ÀíáÀîCÀî…Àî¢Àî½ÀîãÀïÀï/ÀïIÀïqÀïxÀï}ÀïÀï–ÀïäÀğ	ÀğCÀğƒÀğÁÀğäÀñÀñÀñeÀñ±ÀñÚÀòÀò#Àò,Àò3ÀòqÀò˜ÀòÀòŸÀòîÀó8ÀófÀómÀó™ÀóÍÀóóÀô'Àô.ÀôrÀô¿ÀõÀõ^ÀõeÀõlÀõ»ÀõğÀõ÷ÀöÀö?ÀöRÀö„ÀöÅÀ÷À÷bÀ÷‹À÷ÚÀø-ÀøBÀøZÀøaÀøtÀø­ÀøÓÀùÀùJÀùgÀùrÀùyÀù‹ÀùàÀúÀú0ÀúMÀúœÀúµÀúÚÀú÷ÀûFÀû_ÀûfÀûšÀû²ÀûÀÀûÇÀüÀüaÀüvÀüÁÀüÏÀüÛÀüâÀıÀıÀı%Àı0Àı>ÀıÀı×ÀıëÀş
+ÀşUÀşiÀşpÀşrÀş¼ÀÿÀÿHÀÿMÀÿOÀÿbÀÿ°ÀÿíÀ 
+À À BÀ UÀ ^À À ›À ¸À ËÀ ïÀÀÀ;ÀBÀGÀIÀgÀŒÀ²ÀÙÀçÀÀÀÀWÀÀÃÀìÀ1À8À:ÀÀ¤À¦ÀóÀGÀ`ÀeÀgÀ«ÀêÀñÀ ÀÀ=ÀWÀrÀ±À¿ÀØÀñÀÀ3ÀTÀ‰ÀØÀÀÀ-ÀHÀvÀ›ÀÃÀÀQÀ©À÷À	À	À	-À	;À	GÀ	PÀ	[À	lÀ	†À	ÌÀ	ÑÀ	ÓÀ
+!À
+sÀ
+³À
+µÀ
+óÀÀ#ÀnÀ…ÀŒÀÀ¤ÀğÀ=ÀXÀfÀ”À–ÀŞÀåÀÀQÀXÀ£ÀºÀÈÀñÀóÀ:ÀAÀPÀaÀÀ¥À¼ÀÓÀÀ^À¤ÀøÀBÀUÀeÀ‚À®ÀÏÀÀZÀoÀ}À‰À’ÀÀåÀ&À\ÀˆÀŸÀ§À©ÀÚÀÜÀÀ7À>ÀCÀEÀ€À‡À–À§ÀÓÀëÀÀÀbÀ¤ÀêÀ>ÀˆÀ›À«ÀÈÀ÷ÀÀTÀ¦À»ÀÉÀÕÀŞÀéÀ4ÀkÀ±ÀÀÀÇÀÉÀÀ8À:ÀYÀ†À”ÀÇÀÎÀĞÀúÀ+À2À7À9ÀˆÀ°À·ÀÀÀ%À4ÀEÀqÀ‰À À·À ÀBÀˆÀÜÀ&À9ÀIÀfÀ•À¶ÀíÀÀÀÀ%À0À]À†ÀÔÀÀ1ÀfÀqÀ™À½ÀëÀ À+À4À;À@ÀBÀˆÀÀÀéÀ -À 4À 6À PÀ RÀ ›À ÀÀ ÅÀ ÇÀ!À!À!dÀ!‡À!À!À!¤À!îÀ!õÀ"À"À"*À"bÀ"ŸÀ"ÃÀ#À#AÀ#ZÀ#’À#ÉÀ#İÀ#úÀ$À$À$`À$ŠÀ$§À$ÚÀ%À%,À%NÀ%’À%¿À%óÀ&+À&ZÀ&À&£À&éÀ&ıÀ'2À'_À'ŠÀ'­À'ãÀ'ÿÀ()À(>À(RÀ(À(ÑÀ)À)?À)SÀ)fÀ)qÀ)zÀ)…À)ÒÀ*À*lÀ*„À*¸À+
+À+À+!À+#À+\À+cÀ+®À+ËÀ+ÒÀ,À,jÀ,­À,ıÀ-IÀ-™À-µÀ-ÇÀ-ÌÀ-ÎÀ.À.À.\À.ªÀ.ğÀ/À/$À/oÀ/¢À/©À/¹À/ÊÀ0À0;À0iÀ0‚À0ÀÀ0÷À1À1 À1'À1dÀ1kÀ1¬À1¿À1ÊÀ1ÑÀ1ûÀ2BÀ2‹À2’À2ÒÀ3À3À3!À3sÀ3“À3±À3ºÀ3ÄÀ4À4gÀ4„À4†À4ËÀ4éÀ4ğÀ5<À5ŒÀ5¸À6À6"À64À69À6;À6À6½À7À7+À7-À7:À7À7¶À7ßÀ8À8À8À8IÀ8lÀ8nÀ8°À8åÀ9À9KÀ9MÀ9ŸÀ9ÁÀ9íÀ:À:À:À:XÀ:ªÀ:ùÀ;À;0À;7À;9À;hÀ;€À;‚À;¨À;­À;¯À<À<
+À<XÀ<hÀ<oÀ<¾À<şÀ=HÀ=À=ÀÀ=ÂÀ=êÀ>À>8À>vÀ>¤À>ËÀ?À?;À?dÀ?¨À?ïÀ?üÀ@À@À@%À@3À@~À@…À@ŠÀ@ŒÀ@×À@ŞÀA.ÀAvÀAºÀAÁÀBÀBÀBbÀBŠÀB±ÀBÚÀC ÀCÀC0ÀC5ÀC8ÀC:ÀC}ÀCÏÀCöÀCùÀCûÀD:ÀDrÀD¸ÀDØÀDÛÀDİÀEÀE2ÀEPÀESÀEUÀEzÀEÀEÏÀFÀF/ÀF4ÀF‚ÀFµÀFöÀGFÀGaÀGxÀG˜ÀG¹ÀGùÀHÀHGÀHxÀH¤ÀHÂÀHŞÀHãÀHåÀIÀIÀI^ÀI‹ÀIÃÀJÀJÀJLÀJyÀJ²ÀJßÀJîÀJõÀJ÷ÀKÀKhÀKmÀKoÀK¢ÀKÎÀKåÀKçÀL&ÀLgÀLiÀLÀL·ÀLòÀMÀMRÀM`ÀMuÀM|ÀMÀMƒÀM¶ÀMãÀNÀN!ÀN(ÀN*ÀNRÀNÀN£ÀN¥ÀNÙÀNàÀO,ÀOAÀOrÀOÀO’ÀOÆÀOÍÀPÀP.ÀP`ÀP‹ÀPšÀP¡ÀP£ÀPÇÀQÀQÀQÀQTÀQ…ÀQ¥ÀQ§ÀQåÀRÀR<ÀR>ÀR‹ÀRÉÀSÀS+ÀS2ÀSÀSÌÀTÀTDÀTyÀTÁÀTîÀU%ÀUJÀU€ÀU…ÀU‡ÀU°ÀU·ÀV ÀVÀVJÀVÀVƒÀVÄÀVÿÀW)ÀWdÀW‰ÀWÀÀXÀXUÀX’ÀXĞÀYÀY_ÀY³ÀYËÀZ	ÀZÀZ'ÀZdÀZœÀZÚÀ[À[dÀ[ŠÀ[•À[À[¥À[ªÀ[¬À[ïÀ[öÀ\KÀ\RÀ\À\ïÀ]AÀ]mÀ]¯À]ĞÀ^À^IÀ^{À^¥À^àÀ_À_.À_eÀ_‘À_ËÀ_ÍÀ`À`CÀ`À`’À`›À`À`ÛÀaÀa_Àa—Àa¶ÀbÀbFÀbyÀb{ÀbÂÀbâÀc,ÀccÀc‹ÀcÀcÛÀdÀd0ÀdBÀdKÀdMÀdÀd¨Àd¿ÀdÚÀeÀe+ÀeOÀe{Àe¶ÀeÏÀeÑÀfÀf1ÀfKÀfhÀf”Àf»ÀfâÀgÀgTÀgpÀgrÀg•ÀgÔÀhWÀh‚ÀhÃÀhÊÀhÏÀhÑÀiÀiÀiaÀihÀi¼ÀiıÀj*ÀjKÀj›ÀjÂÀjûÀk ÀkÀk=ÀkDÀk™Àk ÀkôÀl5ÀlhÀl‰ÀlÙÀmÀm?ÀmDÀmFÀm•ÀmœÀmñÀn'ÀnQÀn{ÀnËÀoÀo"Ào'Ào)ÀowÀo~ÀoÓÀpÀp5Àp_Àp¯ÀqÀqÀqÀqÀqUÀqˆÀq²ÀqíÀrÀrDÀrŒÀrÙÀrêÀróÀrõÀs/ÀsxÀsÀs„Às†ÀsÁÀsÕÀsÿÀt:Àt_Àt‘ÀtÙÀu&Àu7Àu@ÀuBÀuÀu—ÀuœÀuŸÀu¡ÀuîÀvÀvÀv^ÀvcÀvpÀv©Àv²Àv·ÀwÀwÀwÀwXÀwgÀw¶ÀwàÀxÀx1ÀxJÀx]ÀxdÀxkÀxtÀxÀxÌÀxæÀxèÀyÀyÀyfÀy¦ÀyóÀzÀz
+ÀzÀzÀz^Àz›ÀzåÀ{À{À{^À{‹À{À{’À{ÜÀ|À|À|À|JÀ|tÀ|¬À|®À|ÚÀ}À}BÀ}GÀ}IÀ}xÀ}«À}ãÀ}èÀ}êÀ}÷À~À~1À~6À~8À~hÀRÀ`À¦ÀçÀ€À€À€$À€&À€°À€àÀÀ%ÀRÀ›À¬À×ÀşÀ‚6À‚=À‚BÀ‚EÀ‚GÀ‚§À‚ÔÀƒÀƒ=ÀƒXÀƒƒÀƒµÀƒÜÀ„À„3À„6À„8À„zÀ„ºÀ„áÀ„äÀ„æÀ…#À…^À…€À…ƒÀ……À…²À…âÀ†À†À†À†?À†yÀ†¿À†âÀ†îÀ‡À‡À‡À‡À‡OÀ‡’À‡ÏÀˆÀˆ#Àˆ%ÀˆÀˆ£ÀˆÇÀ‰À‰1À‰:À‰?À‰AÀ‰ŒÀ‰»ÀŠÀŠMÀŠhÀŠ±ÀŠáÀ‹À‹À‹À‹À‹À‹pÀ‹ÁÀ‹òÀ‹õÀ‹÷ÀŒHÀŒaÀŒ¤ÀŒÑÀŒÔÀŒÖÀÀ=À‡À¹À¼À¾ÀÀVÀ~ÀÀƒÀÒÀÀIÀLÀNÀ–À³ÀøÀ2À5À7À„ÀÌÀıÀ‘ À‘À‘JÀ‘À‘·À‘íÀ‘ğÀ‘òÀ’=À’†À’¶À’¹À’»À’ÆÀ’ãÀ’ğÀ’òÀ“
+À“UÀ“¡À“´À”À”>À”qÀ”¸À”ÿÀ•FÀ•€À•³À•ñÀ–$À–\À–À–ÇÀ–ùÀ—=À—pÀ—’À—áÀ˜	À˜KÀ˜‰À˜¬À˜ğÀ™À™PÀ™dÀ™‡À™±À™ÌÀšÀš7ÀšgÀš¡ÀšåÀ›)À›OÀ›ŠÀ›À›‘À›À›¼À›¾À›áÀ›üÀ›şÀœÀœ(Àœ*Àœ7Àœ9Àœ]Àœ_ÀœlÀœnÀœŒÀœÀœ›ÀœÀœĞÀœÒÀœßÀœáÀÀÀÀÀ9À;ÀHÀJÀgÀiÀvÀxÀ˜ÀšÀ§À©ÀÍÀÏÀÜÀŞÀÀ
+ÀÀÀJÀLÀYÀ[ÀxÀzÀ‡À‰À®À°À½À¿ÀÙÀÛÀŸÀŸÀŸyÀŸÈÀ À ,À 3À BÀ SÀ À ™À ´À òÀ¡%À¡3À¡UÀ¡‘À¡µÀ¡ÔÀ¡ıÀ¢8À¢sÀ¢°À¢ÅÀ¢åÀ¢úÀ£BÀ£‚À£¥À£§À£ÎÀ£ôÀ¤$À¤CÀ¤nÀ¤„À¤—À¤·À¤ØÀ¥À¥/À¥`À¥xÀ¥ŠÀ¥›À¥»À¥çÀ¦À¦/À¦UÀ¦eÀ¦sÀ¦À¦ˆÀ¦“À¦¯À¦±À§À§À§TÀ§À§¯À§±À§úÀ¨À¨BÀ¨}À¨¢À¨¤À¨õÀ©À©À©xÀ©§À©ª       .  Y  €‚  €À  €ø    E  p  Ç Ô  û  ‚  ‚<  ‚h‚– ‚©    ‘I‚ß’Y/// Row configuration and cell data for a [SfDataGrid].
+///
+/// Return this list of [DataGridRow] objects to [DataGridSource.rows] property.
+///
+/// The data for each row can be passed as the cells argument to the
+/// constructor of each [DataGridRow] object. ’j{ ’£’®//// Creates [DataGridRow] for the [SfDataGrid].’°!’Í  ’İ’Ö’ß’ë€ “…t/// The data for this row.
+///
+/// There must be exactly as many cells as there are columns in the
+/// [SfDataGrid].  “’€“” T/// Returns the collection of [DataGridCell] which is created for
+/// [DataGridRow].    ”,‚4”û€±/// The data for a cell of a [SfDataGrid].
+///
+/// The list of [DataGridCell] objects should be passed as the cells argument
+/// to the constructor of each [DataGridRow] object.•••x •J•V0/// Creates [DataGridCell] for the [SfDataGrid].•X•g  •r•   •3•·/// The name of a column •È€”–Wy/// The value of a cell.
+///
+/// Provide value of a cell to perform the sorting for whole data available
+/// in datagrid.   ”â”ã–d‚Z—€/// Row configuration and widget of cell for a [SfDataGrid].
+///
+/// The widget for each cell can be provided in the [DataGridRowAdapter.cells]
+/// property. —$€€ —d—v6/// Creates [DataGridRowAdapter] for the [SfDataGrid].—x—‡  ——“  ——
+—   —ª*—Ñ/// The key for the row. —Û0˜/// The color for the row. ˜€¨˜µ€ƒ/// The widget of each cell for this row.
+///
+/// There must be exactly as many cells as there are columns in the
+/// [SfDataGrid].    ˜Â‚*š5/// Row configuration for stacked header in [SfDataGrid]. The columns for this
+/// stacked header row are provided in the [StackedHeaderCell] property of the
+/// [StackedHeaderRow] object.
+///
+/// See also:
+///
+/// [StackedHeaderCell] â€“ which provides the configuration for column in stacked
+/// header row. šg šYši;/// Creates the [StackedHeaderRow] for [SfDataGrid] widget.škšz   š‡ašã@/// The collection of [StackedHeaderCell] in stacked header row.    šğ…¬› €¦/// Column configuration for stacked header row in `SfDataGrid`.
+///
+/// See also:
+///
+/// [StackedHeaderRow] â€“ which provides configuration for stacked header row. ›·€À ›öœ;/// Creates the [StackedHeaderCell] for [StackedHeaderRow].œ	œ  œœ+  œ7œF   œ}ê\³/// The collection of string which is the [GridColumn.columnName] of the
+/// columns defined in the [SfDataGrid].
+///
+/// The columns are spanned as a stacked header based on this collection. If
+/// the given collection has the sequence of columns which are presented in
+/// the [SfDataGrid], those columns will be spanned. Otherwise, stacked header
+///  is added for each column which are not in sequence order in regular
+/// columns. nuŞY/// The widget that represents the data of this cell.
+///
+/// Typically, a [Text] widget. ê… k^/// The text of the stacked header cell while exporting the [SfDataGrid] to
+/// Excel or Pdf.
+///
+/// This property wonâ€™t affect the UI and this is used while exporting the
+/// [SfDataGrid].
+///
+/// As widget canâ€™t be exported to Excel or PDF, set this property to give the
+/// corresponding text while exporting the [SfDataGrid] to Excel or Pdf.  v" …       †Ğ¢K›/// Row configuration of table summary in [SfDataGrid].
+///
+/// The summary columns for this table summary row are provided in [columns]
+/// property of the [GridTableSummaryRow] object.
+///
+///See also,
+///
+/// * [GridSummaryColumn] -Which provides the configuration for summary column in
+/// table summary row.
+/// * [SfDataGrid.tableSummaryRows] â€“ Enables you to add the table summary rows
+/// to DataGrid. ¢d$ ¢¢¢µ:/// Creates the [GridTableSummaryRow] to the [SfDataGrid].¢¿
+¢Å  ¢Ò
+¢Ø  ¢å¢ô  ££  £"£(  £C£I  £9£[£k£q£†£‚£r£…£u£ş[/// A string that has the format and summary column information to be
+/// displayed in row. ¤
+7¤<!/// The color of the summary row. ¤H¬¥åw/// Indicates how many columns should be spanned for
+/// [GridTableSummaryRow.title].
+///
+/// This is applicable only if the [GridTableSummaryRow.showSummaryInRow]
+/// is false.
+///
+/// If [GridTableSummaryRow.titleColumnSpan] value is greater than 0, then the
+/// [GridTableSummaryRow.title] will be rendered along with summary values as
+/// defined through summary columns. ¥û€®¦™€†/// Indicates whether the summary value should be displayed in whole row or
+/// based on individual columns.
+///
+/// Defaults to true. ¦°S¦ü*/// The collection of [GridSummaryColumn]. §
+b§d4/// Indicates the position of the table summary row.    §t‚Ó¨€™/// Column configuration for table summary row.
+///
+/// See also,
+///
+/// * [GridTableSummaryRow] â€“ Which provides configuration for table summary row. ¨.€¾ ¨y¨ŠA/// Creates the [GridSummaryColumn] to the [GridTableSummaryRow].¨”¨£  ¨¯¨¾  ¨Ğ¨ß   ¨òB©0-/// Indicates the name of the summary column. ©;€˜©És/// Indicates the name of the column.
+///
+/// See also,
+///
+/// [GridColumn.columnName] â€“ the name of the column. ©Úiª8D/// Indicates the summary type which should be displayed for column.    ªKÀ Ã_·pŒÊ/// A material design datagrid.
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=-ULsEfjxFuY}
+///
+/// DataGrid lets you display and manipulate data in a tabular view. It is built
+/// from the ground up to achieve the best possible performance even when
+/// loading large amounts of data.
+///
+/// DataGrid supports different types of column types to populate the columns
+/// for different types of data such as int, double, DateTime, String.
+///
+/// [source] property enables you to populate the data for the [SfDataGrid].
+///
+/// This sample shows how to populate the data for the [SfDataGrid] and display
+/// with four columns: id, name, designation and salary.
+/// The columns are defined by four [GridColumn] objects.
+///
+/// ``` dart
+///   final List<Employee> _employees = <Employee>[];
+///   final EmployeeDataSource _employeeDataSource = EmployeeDataSource();
+///
+///   @override
+///   void initState(){
+///     super.initState();
+///     populateData();
+///   }
+///
+///   @override
+///   Widget build(BuildContext context) {
+///     return SfDataGrid(
+///       source: _employeeDataSource,
+///       columnWidthMode: ColumnWidthMode.fill,
+///       columns: <GridColumn>[
+///         GridColumn(columnName: 'id', label: Text('ID')),
+///         GridColumn(columnName: 'name', label: Text('Name')),
+///         GridColumn(columnName: 'designation', label: Text('Designation')),
+///         GridColumn(columnName: 'salary', label: Text('Salary')),
+///     );
+///   }
+///
+///   void populateData(){
+///     _employees.add(Employee(10001, 'James', 'Project Lead', 10000));
+///     _employees.add(Employee(10002, 'Kathryn', 'Manager', 10000));
+///     _employees.add(Employee(10003, 'Lara', 'Developer', 10000));
+///     _employees.add(Employee(10004, 'Michael', 'Designer', 10000));
+///     _employees.add(Employee(10005, 'Martin', 'Developer', 10000));
+///     _employees.add(Employee(10006, 'Newberry', 'Developer', 15000));
+///     _employees.add(Employee(10007, 'Balnc', 'Developer', 15000));
+/// 	  _employees.add(Employee(10008, 'Perry', 'Developer', 15000));
+///     _employees.add(Employee(10009, 'Gable', 'Developer', 15000));
+///     _employees.add(Employee(10010, 'Grimes', 'Developer', 15000));
+///   }
+/// }
+///
+/// class Employee {
+///   Employee(this.id, this.name, this.designation, this.salary);
+///   final int id;
+///   final String name;
+///   final String designation;
+///   final int salary;
+/// }
+///
+/// class EmployeeDataSource extends DataGridSource {
+///   @override
+///   List<DataGridRow> get rows => _employees
+///       .map<DataGridRow>((dataRow) => DataGridRow(cells: [
+///             DataGridCell<int>(columnName: 'id', value: dataRow.id),
+///             DataGridCell<String>(columnName: 'name', value: dataRow.name),
+///             DataGridCell<String>(
+///                 columnName: 'designation', value: dataRow.designation),
+///             DataGridCell<int>(columnName: 'salary', value: dataRow.salary),
+///           ]))
+///       .toList();
+///
+///   @override
+///   DataGridRowAdapter? buildRow(DataGridRow row) {
+///     return DataGridRowAdapter(
+///         cells: row.getCells().map<Widget>((dataCell) {
+///           return Text(dataCell.value.toString());
+///         }).toList());
+///   }
+/// }
+///
+/// ``` ·—‹ë ¸$¸.}/// Creates a widget describing a datagrid.
+///
+/// The [columns] and [source] argument must be defined and must not be null.G¸6¸E  ¸Q¸`  ¸m¸s  ¸|¸‚  ¸!¸¤  ¸Æ$¸Ì  ¸ñ9¸÷  ¹1?¹7  ¹w+¹}  ¹©¹¯  ¹ÀJ¹Æ  º'º  º?,ºE  ºrºx  º”!ºš  º¼ºÂ  ºÛºá  » »  » $»&  »K!»Q  »s»y  »–0»œ  »Í3»Ó  ¼¼  ¼#¼)  ¼9¼?  ¼U¼[  ¼s¼y  ¼’¼˜  ¼µ¼»  ¼×¼İ  ¼ì¼ò  ½½  ½%½+  ½@#½F  ½jD½p  ½µB½»  ½ş¾  ¾¾#  ¾C(¾I  ¾r&¾x  ¾Ÿ¾¥  ¾¿¾Å  ¾á¾ç  ¿¿  ¿+¿1  ¿C¿I  ¿\¿b  ¿r¿x  ¿–¿œ  ¿¸¿¾  ¿Ş!¿ä  À @1À @  À @>À @D  À @]À @c  À @}À @ƒ  À @šÀ @   À @º6À @À  À @÷À @ı  À A	À A  À A(À A.  À ANDÀ AT  À A™5À AŸ  À AÕÀ AÛ  À AìÀ Aò  À BÀ B  À B3À B9  À BNÀ BT  À BpÀ Bv  À BŒÀ B’  À B§À B­  p¸¸“¸”¸µ¸»¸¼¸à¸æ¸ç¹¹¹ ¹R¹e¹f¹¹¹¹ã¹ş¹ÿº&º3º4ºUºgºhºŒº´ºÓºø»»?»g»Š»°»Â»Ã»æ»ş»ÿ»ì»ı»í½^½‰½½¬½­½Ò½Ø½õ½ö¾7¾g¾•¾³¾Õ¿Ó¿úÀ @À @.À @/À @®À @ÔÀ @æÀ @çÀ AÀ ABÀ AlÀ ArÀ AÀ A‘À A±À AÌÀ AÍÀ A·À AËÀ A¸À BÀ B'À BdÀ BÄÀ BÊÀ BâÀ BŞÀ BËÀ BáÀ BîÀ BôÀ CÀ CÀ BõÀ CÀ CÀ C$À C9À C5À C%À C8À CEÀ CKÀ CfÀ CbÀ CLÀ CeÀ CrÀ CwÀ C€À C{À CxÀ C}FÀ CˆmÀ CìM/// The height of each row except the column header.
+///
+/// Defaults to 49.0 À CügÀ DTA/// The height of the column header row.
+///
+/// Defaults to 56.0 À DjjÀ DÍB/// The collection of the [GridColumn].
+///
+/// Defaults to empty. À DÛ€ûÀ EĞ€Í/// The [DataGridSource] that provides the data for each row in [SfDataGrid]. Must
+/// be non-null.
+///
+/// This object is expected to be long-lived, not recreated with each build.
+///
+/// Defaults to null À Eİ&À Fñ€ô/// The width of each column.
+///
+/// If the [columnWidthMode] is set for [SfDataGrid] or [GridColumn], or
+/// [GridColumn.width] is set, [defaultColumnWidth] will not be considered.
+///
+/// Defaults to 90.0 for Android & iOS and 100.0 for Web. À G
+€®À G©y/// How the column widths are determined.
+///
+/// Defaults to [ColumnWidthMode.none]
+///
+/// Also refer [ColumnWidthMode] À G¿À I25/// How the row count should be considered when calculating the width of a
+/// column.
+///
+/// Provides options to consider only visible rows or all the rows which are
+/// available in [SfDataGrid].
+///
+/// Defaults to [ColumnWidthCalculationRange.visibleRows]
+///
+/// Also refer [ColumnWidthCalculationRange] À IT À JI€Ò/// The [ColumnSizer] used to control the column width sizing operation of
+/// each columns.
+///
+/// You can override the available methods and customize the required
+/// operations in the custom [ColumnSizer]. À J[,À Kt€æ/// How the border should be visible.
+///
+/// Decides whether vertical, horizontal, both the borders and no borders
+/// should be drawn.
+///
+/// Defaults to [GridLinesVisibility.horizontal]
+///
+/// Also refer [GridLinesVisibility] À K‚8À M­Ü/// How the border should be visible in header cells.
+///
+/// Decides whether vertical or horizontal or both the borders or no borders
+/// should be drawn.
+///
+/// [GridLinesVisibility.horizontal] will be useful if you are using
+/// [stackedHeaderRows] to improve the readability.
+///
+/// Defaults to [GridLinesVisibility.horizontal]
+///
+/// Also refer [GridLinesVisibility].
+///
+/// See also, [gridLinesVisibility] â€“ To set the border for cells other than
+/// header cells. À MÍjÀ N'8/// Invoked when the row height for each row is queried. À N>€èÀ O€±/// How the rows should be selected.
+///
+/// Provides options to select single row or multiple rows.
+///
+/// Defaults to [SelectionMode.none].
+///
+/// Also refer [SelectionMode] À O-€ÃÀ OŞ€„/// Invoked when the row is selected.
+///
+/// This callback never be called when the [onSelectionChanging] is returned
+/// as false. À O÷(À Q€ä/// Invoked when the row is being selected or being unselected
+///
+/// This callback's return type is [bool]. So, if you want to cancel the
+/// selection on a row based on the condition, return false.
+/// Otherwise, return true. À Q&5À RK€ó/// The [SelectionManagerBase] used to control the selection operations
+/// in [SfDataGrid].
+///
+/// You can override the available methods and customize the required
+/// operations in the custom [RowSelectionManager].
+///
+/// Defaults to null À RbÀ S_€Ğ/// The [DataGridController] used to control the current cell navigation and
+/// selection operation.
+///
+/// Defaults to null.
+///
+/// This object is expected to be long-lived, not recreated with each build. À Sp€‰À Së[/// Decides whether the navigation in the [SfDataGrid] should be cell wise
+/// or row wise. À T €ÑÀ T»€Š/// Invoked when the cell is activated.
+///
+/// This callback never be called when the [onCurrentCellActivating] is
+/// returned as false. À TØÀ UÙ€Ì/// Invoked when the cell is being activated.
+///
+/// This callback's return type is [bool]. So, if you want to cancel cell
+/// activation based on the condition, return false. Otherwise,
+/// return true. À U÷[À VI//// Called when a tap with a cell has occurred. À VY€¦À Vğk/// Called when user is tapped a cell with a primary button at the same cell
+/// twice in quick succession. À W|À WpG/// Called when a tap with a cell has occurred with a secondary button. À W‰€™À X^/// Called when a long press gesture with a primary button has been
+/// recognized for a cell. À X)‚=À ZTö/// The number of non-scrolling columns at the left side of [SfDataGrid].
+///
+/// In Right To Left (RTL) mode, this count refers to the number of
+/// non-scrolling columns at the right side of [SfDataGrid].
+///
+/// Defaults to 0
+///
+/// See also:
+///
+/// * [footerFrozenColumnsCount]
+/// * [SfDataGridThemeData.frozenPaneLineWidth], which is used to customize the
+/// width of the frozen line.
+/// * [SfDataGridThemeData.frozenPaneLineColor], which is used to customize the
+/// color of the frozen line À Zm‚ À \uÖ/// The number of non-scrolling columns at the right side of [SfDataGrid].
+///
+/// In Right To Left (RTL) mode, this count refers to the number of
+/// non-scrolling columns at the left side of [SfDataGrid].
+///
+/// Defaults to 0
+///
+/// See also:
+///
+/// * [SfDataGridThemeData.frozenPaneLineWidth], which is used to customize the
+/// width of the frozen line.
+/// * [SfDataGridThemeData.frozenPaneLineColor], which is used to customize the
+/// color of the frozen line. À \”¡À ^&f/// The number of non-scrolling rows at the top of [SfDataGrid].
+///
+/// Defaults to 0
+///
+/// See also:
+///
+/// * [footerFrozenRowsCount]
+/// * [SfDataGridThemeData.frozenPaneLineWidth], which is used to customize the
+/// width of the frozen line.
+/// * [SfDataGridThemeData.frozenPaneLineColor], which is used to customize the
+/// color of the frozen line. À ^<‰À _°K/// The number of non-scrolling rows at the bottom of [SfDataGrid].
+///
+/// Defaults to 0
+///
+/// See also:
+///
+/// * [SfDataGridThemeData.frozenPaneLineWidth], which is used to customize the
+/// width of the frozen line.
+/// * [SfDataGridThemeData.frozenPaneLineColor], which is used to customize the
+/// color of the frozen line. À _Ìˆ-À gí‡x/// Decides whether user can sort the column simply by tapping the column
+/// header.
+///
+/// Defaults to false.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return SfDataGrid(
+///     source: _employeeDataSource,
+///     allowSorting: true,
+///     columns: [
+///         GridColumn(columnName: 'id', label: Text('ID')),
+///         GridColumn(columnName: 'name', label: Text('Name')),
+///         GridColumn(columnName: 'designation', label: Text('Designation')),
+///         GridColumn(columnName: 'salary', label: Text('Salary')),
+///   ]);
+/// }
+///
+/// class EmployeeDataSource extends DataGridSource {
+///   @override
+///   List<DataGridRow> get rows => _employees
+///       .map<DataGridRow>((dataRow) => DataGridRow(cells: [
+///             DataGridCell<int>(columnName: 'id', value: dataRow.id),
+///             DataGridCell<String>(columnName: 'name', value: dataRow.name),
+///             DataGridCell<String>(
+///                 columnName: 'designation', value: dataRow.designation),
+///             DataGridCell<int>(columnName: 'salary', value: dataRow.salary),
+///           ]))
+///       .toList();
+///
+///   @override
+///   DataGridRowAdapter? buildRow(DataGridRow row) {
+///     return DataGridRowAdapter(
+///         cells: row.getCells().map<Widget>((dataCell) {
+///       return Text(dataCell.value.toString());
+///     }).toList());
+///   }
+/// }
+///
+/// ```
+///
+///
+/// See also:
+///
+/// * [GridColumn.allowSorting] - which allows users to sort the columns in
+/// [SfDataGrid].
+/// * [sortingGestureType] â€“ which allows users to sort the column in tap or
+/// double tap.
+/// * [DataGridSource.sortedColumns] - which is the collection of
+/// [SortColumnDetails] objects to sort the columns in [SfDataGrid].
+/// * [DataGridSource.sort] - call this method when you are adding the
+/// [SortColumnDetails] programmatically to [DataGridSource.sortedColumns]. À h ‚À iøÈ/// Decides whether user can sort more than one column.
+///
+/// Defaults to false.
+///
+/// This is applicable only if the [allowSorting] is set as true.
+///
+/// See also:
+///
+/// * [DataGridSource.sortedColumns] - which is the collection of
+/// [SortColumnDetails] objects to sort the columns in [SfDataGrid].
+/// * [DataGridSource.sort] - call this method when you are adding the
+/// [SortColumnDetails] programmatically to [DataGridSource.sortedColumns]. À j‚:À l<ó/// Decides whether user can sort the column in three states: ascending,
+/// descending, unsorted.
+///
+/// Defaults to false.
+///
+/// This is applicable only if the [allowSorting] is set as true.
+///
+/// See also:
+///
+/// * [DataGridSource.sortedColumns] - which is the collection of
+/// [SortColumnDetails] objects to sort the columns in [SfDataGrid].
+/// * [DataGridSource.sort] - call this method when you are adding the
+/// [SortColumnDetails] programmatically to [DataGridSource.sortedColumns]. À lW‚yÀ nÁ‚4/// Decides whether the sequence number should be displayed on the header cell
+///  of sorted column during multi-column sorting.
+///
+/// Defaults to false
+///
+/// This is applicable only if the [allowSorting] and
+/// [allowMultiColumnSorting] are set as true.
+///
+/// See also:
+///
+/// * [DataGridSource.sortedColumns] - which is the collection of
+/// [SortColumnDetails] objects to sort the columns in [SfDataGrid].
+/// * [DataGridSource.sort] - call this method when you are adding the
+/// [SortColumnDetails] programmatically to [DataGridSource.sortedColumns]. À n×€öÀ o»€²/// Decides whether the sorting should be applied on tap or double tap the
+/// column header.
+///
+/// Default to [SortingGestureType.tap]
+///
+/// see also:
+///
+/// [allowSorting] À oÔ„À sÊƒŠ/// The collection of [StackedHeaderRow].
+///
+/// Stacked headers enable you to display headers that span across multiple
+/// columns and rows. These rows are displayed above to the regular column
+/// headers.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return SfDataGrid(source: _employeeDataSource, columns: <GridColumn>[
+///     GridColumn(columnName: 'id', label: Text('ID')),
+///     GridColumn(columnName: 'name', label: Text('Name')),
+///     GridColumn(columnName: 'designation', label: Text('Designation')),
+///     GridColumn(columnName: 'salary', label: Text('Salary'))
+///   ], stackedHeaderRows: [
+///     StackedHeaderRow(cells: [
+///       StackedHeaderCell(
+///         columnNames: ['id', 'name', 'designation', 'salary'],
+///         child: Center(
+///           child: Text('Order Details'),
+///         ),
+///       ),
+///     ])
+///   ]);
+/// }
+/// ``` À sâTÀ u  /// Indicates whether the horizontal and vertical scrollbars should always
+/// be visible. When false, both the scrollbar will be shown during scrolling
+/// and will fade out otherwise. When true, both the scrollbar will always be
+/// visible and never fade out.
+///
+/// Defaults to false À u=,À vR€ô/// How the horizontal scroll view should respond to user input.
+/// For example, determines how the horizontal scroll view continues to animate after the user stops dragging the scroll view.
+///
+/// Defaults to [AlwaysScrollableScrollPhysics]. À vp&À w€ğ/// How the vertical scroll view should respond to user input.
+/// For example, determines how the vertical scroll view continues to animate after the user stops dragging the scroll view.
+///
+/// Defaults to [AlwaysScrollableScrollPhysics]. À w•ÃÀ M”/// A builder that sets the widget to display at the bottom of the datagrid
+/// when vertical scrolling reaches the end of the datagrid.
+///
+/// You should override [DataGridSource.handleLoadMoreRows] method to load
+/// more rows and then notify the datagrid about the changes. The
+/// [DataGridSource.handleLoadMoreRows] can be called to load more rows from
+/// this builder using `loadMoreRows` function which is passed as a parameter
+/// to this builder.
+///
+/// ## Infinite scrolling
+///
+/// The example below demonstrates infinite scrolling by showing the circular
+/// progress indicator until the rows are loaded when vertical scrolling
+/// reaches the end of the datagrid,
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(title: Text('Syncfusion Flutter DataGrid')),
+///     body: SfDataGrid(
+///       source: employeeDataSource,
+///       loadMoreViewBuilder:
+///           (BuildContext context, LoadMoreRows loadMoreRows) {
+///         Future<String> loadRows() async {
+///           await loadMoreRows();
+///           return Future<String>.value('Completed');
+///         }
+///
+///         return FutureBuilder<String>(
+///           initialData: 'loading',
+///           future: loadRows(),
+///           builder: (context, snapShot) {
+///             if (snapShot.data == 'loading') {
+///               return Container(
+///                   height: 98.0,
+///                   color: Colors.white,
+///                   width: double.infinity,
+///                   alignment: Alignment.center,
+///                   child: CircularProgressIndicator(valueColor:
+///                             AlwaysStoppedAnimation(Colors.deepPurple)));
+///             } else {
+///               return SizedBox.fromSize(size: Size.zero);
+///             }
+///           },
+///         );
+///       },
+///       columns: <GridColumn>[
+///           GridColumn(columnName: 'id', label: Text('ID')),
+///           GridColumn(columnName: 'name', label: Text('Name')),
+///           GridColumn(columnName: 'designation', label: Text('Designation')),
+///           GridColumn(columnName: 'salary', label: Text('Salary')),
+///       ],
+///     ),
+///   );
+/// }
+/// ```
+///
+/// ## Load more button
+///
+/// The example below demonstrates how to show the button when vertical
+/// scrolling is reached at the end of the datagrid and display the circular
+/// indicator when you tap that button. In the onPressed flatbutton callback,
+/// you can call the `loadMoreRows` function to add more rows.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(title: Text('Syncfusion Flutter DataGrid')),
+///     body: SfDataGrid(
+///       source: employeeDataSource,
+///       loadMoreViewBuilder:
+///           (BuildContext context, LoadMoreRows loadMoreRows) {
+///         bool showIndicator = false;
+///         return StatefulBuilder(
+///             builder: (BuildContext context, StateSetter setState) {
+///           if (showIndicator) {
+///             return Container(
+///                 height: 98.0,
+///                 color: Colors.white,
+///                 width: double.infinity,
+///                 alignment: Alignment.center,
+///                 child: CircularProgressIndicator(valueColor:
+///                           AlwaysStoppedAnimation(Colors.deepPurple)));
+///           } else {
+///             return Container(
+///               height: 98.0,
+///               color: Colors.white,
+///               width: double.infinity,
+///               alignment: Alignment.center,
+///               child: Container(
+///                 height: 36.0,
+///                 width: 142.0,
+///                 child: FlatButton(
+///                   color: Colors.deepPurple,
+///                   child: Text('LOAD MORE',
+///                       style: TextStyle(color: Colors.white)),
+///                   onPressed: () async {
+///                     if (context is StatefulElement &&
+///                         context.state != null &&
+///                         context.state.mounted) {
+///                       setState(() {
+///                         showIndicator = true;
+///                       });
+///                     }
+///                     await loadMoreRows();
+///                     if (context is StatefulElement &&
+///                         context.state != null &&
+///                         context.state.mounted) {
+///                       setState(() {
+///                         showIndicator = false;
+///                       });
+///                     }
+///                   },
+///                 ),
+///               ),
+///             );
+///           }
+///         });
+///       },
+///       columns: <GridColumn>[
+///           GridColumn(columnName: 'id', label: Text('ID')),
+///           GridColumn(columnName: 'name', label: Text('Name')),
+///           GridColumn(columnName: 'designation', label: Text('Designation')),
+///           GridColumn(columnName: 'salary', label: Text('Salary')),
+///       ],
+///     ),
+///   );
+/// }
+/// ``` À gÀ d€Ş/// Decides whether refresh indicator should be shown when datagrid is pulled
+/// down.
+///
+/// See also,
+///
+/// [DataGridSource.handleRefresh] â€“ This will be called when datagrid
+/// is pulled down to refresh the data. À }bÀ Ã+/// The distance from the [SfDataGrid]â€™s top or bottom edge to where the refresh
+/// indicator will settle. During the drag that exposes the refresh indicator,
+/// its actual displacement may significantly exceed this value.
+///
+/// By default, the value of `refreshIndicatorDisplacement` is 40.0. À æ€ÆÀ ‘€”/// Defines `strokeWidth` for `RefreshIndicator` used by [SfDataGrid].
+///
+/// By default, the value of `refreshIndicatorStrokeWidth` is 2.0 pixels. À ³‚2À ’Ùş/// Decides whether to swipe a row â€œright to leftâ€ or â€œleft to rightâ€ for custom
+/// actions such as deleting, editing, and so on. When the user swipes a row,
+/// the row will be moved, and swipe view will be shown for custom actions.
+///
+/// You can show the widgets for left or right swipe view using
+/// [SfDataGrid.startSwipeActionsBuilder] and [SfDataGrid.endSwipeActionsBuilder].
+///
+/// See also,
+///
+/// * [SfDataGrid.onSwipeStart]
+/// * [SfDataGrid.onSwipeUpdate]
+/// * [SfDataGrid.onSwipeEnd] À ’ìzÀ “XU/// Defines the maximum offset in which a row can be swiped.
+///
+/// Defaults to 200. À “m€ÎÀ ”!€/// Controls a horizontal scrolling in DataGrid.
+///
+/// You can use addListener method to listen whenever you do the horizontal scrolling.
+/// À ”B€ÈÀ ”ò€‹/// Controls a vertical scrolling in DataGrid.
+///
+/// You can use addListener method to listen whenever you do the vertical scrolling.
+/// À •€¨À •­p/// Called when row swiping is started.
+///
+/// You can disable the swiping for specific row by returning false. À •À€ÈÀ –{€‹/// Called when row is being swiped.
+///
+/// You can disable the swiping for specific requirement on swiping itself by
+/// returning false. À –{À — M/// Called when swiping of a row is ended (i.e. when reaches the max offset). À —€ğÀ —é€«/// A builder that sets the widget for the background view in which a row is
+/// swiped in the reading direction (e.g., from left to right in left-to-right
+/// languages). À ˜€ùÀ ˜ë€¶/// A builder that sets the widget for the background view in which a row is
+/// swiped in the reverse of reading direction (e.g., from right to left in
+/// left-to-right languages). À ™^À šS1/// Decides whether to highlight a row when mouse hovers over it.
+///
+/// see also,
+///
+/// * [SfDataGridThemeData.rowHoverColor] â€“ This helps you to change row highlighting color on hovering.
+/// * [SfDataGridThemeData.rowHoverTextStyle] â€“ This helps you to change the [TextStyle] of row on hovering. À šmRÀ ¨«/// Decides whether a column can be resized by the user interactively using a
+/// pointer or not.
+///
+/// In mobile platforms, resize indicator will be shown on the right side
+/// border of the column header when the user long-press a column header. Then,
+/// users tap and drag the resizing indicator to perform the column resizing.
+///
+/// In web and desktop platforms, resizing can be performed by clicking and dragging the
+/// right side (left side in RTL mode) border of a column header.
+///
+/// DataGrid does not automatically resize the columns when you perform column
+/// resizing. You should maintain the column width collection at the application
+/// level and set the column width of corresponding column using the
+/// [SfDataGrid.onColumnResizeUpdate] callback.
+///
+/// The column width must be set inside the `setState` method to refresh
+/// the DataGrid.
+///
+/// If you want to disable the column resizing for specific columns,
+/// return `false` for the specific columns in [SfDataGrid.onColumnResizeStart].
+///
+/// The following example shows how to set the column width when
+/// resizing a column.
+///
+///  ```dart
+/// Map<String, double> columnWidths = {
+///   'id': double.nan,
+///   'name': double.nan,
+///   'designation': double.nan,
+///   'salary': double.nan
+/// };
+///
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(
+///       title: const Text('Syncfusion Flutter DataGrid'),
+///     ),
+///     body: SfDataGrid(
+///       source: employeeDataSource,
+///       allowColumnsResizing: true,
+///       onColumnResizeUpdate: (details) {
+///         setState(() {
+///           columnWidths[details.column.columnName] = details.width;
+///         });
+///         return true;
+///       },
+///       columns: <GridColumn>[
+///         GridColumn(
+///             columnName: 'id',
+///             width: columnWidths['id']!,
+///             label: Container(
+///                 padding: const EdgeInsets.all(16.0),
+///                 alignment: Alignment.center,
+///                 child: const Text(
+///                   'ID',
+///                 ))),
+///         GridColumn(
+///             columnName: 'name',
+///             width: columnWidths['name']!,
+///             label: Container(
+///                 padding: const EdgeInsets.all(8.0),
+///                 alignment: Alignment.center,
+///                 child: const Text('Name'))),
+///         GridColumn(
+///             columnName: 'designation',
+///             width: columnWidths['designation']!,
+///             label: Container(
+///                 padding: const EdgeInsets.all(8.0),
+///                 alignment: Alignment.center,
+///                 child: const Text(
+///                   'Designation',
+///                   overflow: TextOverflow.ellipsis,
+///                 ))),
+///         GridColumn(
+///             columnName: 'salary',
+///             width: columnWidths['salary']!,
+///             label: Container(
+///                 padding: const EdgeInsets.all(8.0),
+///                 alignment: Alignment.center,
+///                 child: const Text('Salary'))),
+///       ],
+///     ),
+///   );
+/// }
+///  ```
+///
+/// Defaults to false.
+///
+/// See also,
+///
+/// * [SfDataGrid.onColumnResizeStart]
+/// * [SfDataGrid.onColumnResizeUpdate]
+/// * [SfDataGrid.onColumnResizeEnd] À ¨Æ€ÂÀ ©x€‘/// Decides how column should be resized. It can be either along with indicator moves or releasing a pointer.
+///
+/// See also [ColumnResizeMode] À ©€ìÀ ªh€®/// Called when a column is being resized when tapping and dragging the right-side border of the column header.
+///
+/// You can return `false` to disable the column resizing. À ª‚€éÀ «W€©/// Called when a column is resizing when tapping and dragging the right-side border of the column header.
+///
+/// You can return `false` to disable the column resizing. À «reÀ «Æ1/// Called when a column is resized successfully. À «ŞŸiÀ Ë;œí/// Decides whether cell should be moved into edit mode based on
+/// [editingGestureType].
+///
+/// Defaults to false.
+///
+/// Editing can be enabled only if the [selectionMode] is other than none and
+/// [navigationMode] is cell.
+///
+/// You can load the required widget on editing using [DataGridSource.buildEditWidget] method.
+///
+/// The following example shows how to load the [TextField] for `id` column
+/// by overriding the `onCellSubmit` and `buildEditWidget` methods in
+/// [DataGridSource] class.
+///
+/// ```dart
+///
+/// class EmployeeDataSource extends DataGridSource {
+///
+///  TextEditingController editingController = TextEditingController();
+///
+///  dynamic newCellValue;
+///
+///  /// Creates the employee data source class with required details.
+///   EmployeeDataSource({required List<Employee> employeeData}) {
+///     employees = employeeData;
+///     _employeeData = employeeData
+///         .map<DataGridRow>((e) => DataGridRow(cells: [
+///               DataGridCell<int>(columnName: 'id', value: e.id),
+///               DataGridCell<String>(columnName: 'name', value: e.name),
+///               DataGridCell<String>(
+///                   columnName: 'designation', value: e.designation),
+///               DataGridCell<int>(columnName: 'salary', value: e.salary),
+///             ]))
+///         .toList();
+///   }
+///
+///   List<DataGridRow> _employeeData = [];
+///
+///   List<Employee> employees = [];
+///
+///   @override
+///   List<DataGridRow> get rows => _employeeData;
+///
+///   @override
+///   DataGridRowAdapter buildRow(DataGridRow row) {
+///     return DataGridRowAdapter(
+///         cells: row.getCells().map<Widget>((e) {
+///       return Container(
+///         alignment: (e.columnName == 'id' || e.columnName == 'salary')
+///             ? Alignment.centerRight
+///             : Alignment.centerLeft,
+///         padding: EdgeInsets.all(8.0),
+///         child: Text(e.value.toString()),
+///       );
+///     }).toList());
+///   }
+///
+///   @override
+///   Widget? buildEditWidget(DataGridRow dataGridRow,
+///       RowColumnIndex rowColumnIndex, GridColumn column, submitCell) {
+///     // To set the value for TextField when cell is moved into edit mode.
+///     final String displayText = dataGridRow
+///             .getCells()
+///             .firstWhere((DataGridCell dataGridCell) =>
+///                 dataGridCell.columnName == column.columnName)
+///             .value
+///             ?.toString() ??
+///         '';
+///
+///     /// Returning the TextField with the numeric keyboard configuration.
+///     if (column.columnName == 'id') {
+///       return Container(
+///           padding: const EdgeInsets.all(8.0),
+///           alignment: Alignment.centerRight,
+///           child: TextField(
+///             autofocus: true,
+///             controller: editingController..text = displayText,
+///             textAlign: TextAlign.right,
+///             decoration: const InputDecoration(
+///                 contentPadding: EdgeInsets.all(0),
+///                 border: InputBorder.none,
+///                 isDense: true),
+///             inputFormatters: [
+///               FilteringTextInputFormatter.allow(RegExp('[0-9]'))
+///             ],
+///             keyboardType: TextInputType.number,
+///             onChanged: (String value) {
+///               if (value.isNotEmpty) {
+///                 print(value);
+///                 newCellValue = int.parse(value);
+///               } else {
+///                 newCellValue = null;
+///               }
+///             },
+///             onSubmitted: (String value) {
+///               /// Call [CellSubmit] callback to fire the canSubmitCell and
+///               /// onCellSubmit to commit the new value in single place.
+///               submitCell();
+///             },
+///           ));
+///     }
+///   }
+///
+///   @override
+///   void onCellSubmit(DataGridRow dataGridRow, RowColumnIndex rowColumnIndex,
+///       GridColumn column) {
+///     final dynamic oldValue = dataGridRow
+///             .getCells()
+///             .firstWhereOrNull((DataGridCell dataGridCell) =>
+///                 dataGridCell.columnName == column.columnName)
+///             ?.value ??
+///         '';
+///
+///     final int dataRowIndex = rows.indexOf(dataGridRow);
+///
+///     if (newCellValue == null || oldValue == newCellValue) {
+///       return;
+///     }
+///
+///     if (column.columnName == 'id') {
+///       rows[dataRowIndex].getCells()[rowColumnIndex.columnIndex] =
+///           DataGridCell<int>(columnName: 'id', value: newCellValue);
+///
+///       // Save the new cell value to model collection also.
+///       employees[dataRowIndex].id = newCellValue as int;
+///     }
+///
+///     // To reset the new cell value after successfully updated to DataGridRow
+///     //and underlying mode.
+///     newCellValue = null;
+///   }
+/// }
+///
+/// ```
+/// The following example shows how to enable editing and set the
+/// [DataGridSource] for [SfDataGrid].
+/// ```dart
+///
+/// List<Employee> employees = <Employee>[];
+///
+/// late EmployeeDataSource employeeDataSource;
+///
+/// @override
+/// void initState() {
+///   super.initState();
+///   employees = getEmployeeData();
+///   employeeDataSource = EmployeeDataSource(employeeData: employees);
+/// }
+///
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(
+///       title: const Text('Syncfusion Flutter DataGrid'),
+///     ),
+///     body: SfDataGrid(
+///       source: employeeDataSource,
+///       allowEditing: true,
+///       columnWidthMode: ColumnWidthMode.fill,
+///       selectionMode: SelectionMode.single,
+///       navigationMode: GridNavigationMode.cell,
+///       columns: <GridColumn>[
+///         GridColumn(
+///             columnName: 'id',
+///             label: Container(
+///                 padding: EdgeInsets.all(16.0),
+///                 alignment: Alignment.centerRight,
+///                 child: Text(
+///                   'ID',
+///                 ))),
+///         GridColumn(
+///             columnName: 'name',
+///             label: Container(
+///                 padding: EdgeInsets.all(8.0),
+///                 alignment: Alignment.centerLeft,
+///                 child: Text('Name'))),
+///         GridColumn(
+///             columnName: 'designation',
+///             label: Container(
+///                 padding: EdgeInsets.all(8.0),
+///                 alignment: Alignment.centerLeft,
+///                 child: Text(
+///                   'Designation',
+///                   overflow: TextOverflow.ellipsis,
+///                 ))),
+///         GridColumn(
+///             columnName: 'salary',
+///             label: Container(
+///                 padding: EdgeInsets.all(8.0),
+///                 alignment: Alignment.centerRight,
+///                 child: Text('Salary'))),
+///       ],
+///     ),
+///   );
+/// }
+/// ```
+/// See also,
+/// * [GridColumn.allowEditing] â€“ You can enable or disable editing for an
+/// individual column.
+/// * [DataGridSource.onCellBeginEdit]- This will be triggered when a cell is
+/// moved to edit mode.
+/// * [DataGridSource.canSubmitCell]- This will be triggered before
+/// [DataGridSource.onCellSubmit] method is called. You can use this method
+/// if you want to not end the editing based on any criteria.
+/// * [DataGridSource.onCellSubmit] â€“ This will be triggered when the cellâ€™s
+/// editing is completed. À ËN$À Ì`€å/// Decides whether the editing should be triggered on tap or double tap
+/// the cells.
+///
+/// Defaults to [EditingGestureType.doubleTap].
+///
+/// See also,
+/// * [allowEditing] â€“ This will enable the editing option for cells. À Ìy*À Í€ÿ/// The widget to show over the bottom of the [SfDataGrid].
+///
+/// This footer will be displayed like normal row and shown below to last row.
+///
+/// See also,
+///
+/// [SfDataGrid.footerHeight] â€“ This enables you to change the height of the
+/// footer. À ÍªZÀ Íø7/// The height of the footer.
+///
+/// Defaults to 49.0. À Î‚—À Ğ‚K/// Decides whether [Checkbox] should be displayed in each row to select or
+/// deselect the rows.
+///
+/// Defaults to false.
+///
+/// If true, [Checkbox] column will be added at the beginning of each row.
+/// Rows can be selected only if the [SfDataGrid.selectionMode] is other than
+/// none.
+///
+/// [SfDataGrid.onSelectionChanging] and [SfDataGrid.onSelectionChanging]
+/// callbacks will be called whenever you select the rows using [Checkbox] in
+/// each row.
+///
+/// See also,
+/// [SfDataGrid.checkboxColumnSettings] â€“ Provides the customization options
+/// to the checkbox column. À Ğ©‚TÀ Òì‚/// Whether the extent of the horizontal scroll view should be determined by the number of columns available.
+///
+/// By default, if the DataGridâ€™s parent width is infinity, width is set as 300. If `shrinkWrapColumns` property is true, the width is expanding to view all the columns available in DataGrid.
+///
+/// Shrink wrapping is significantly more expensive than setting the width manually.
+///
+/// See also,
+///
+///[shrinkWrapRows] -  Whether the extent of the vertical scroll view should be determined by the number of rows available. À Ó‚RÀ ÕH‚/// Whether the extent of the vertical scroll view should be determined by the number of rows available.
+///
+/// By default, if the DataGridâ€™s parent height is infinity, height is set as 300. If `shrinkWrapRows` property is true, the height is expanding to view all the rows available in DataGrid.
+///
+/// Shrink wrapping is significantly more expensive than setting the height manually.
+///
+/// See also,
+///
+/// [shrinkWrapColumns] - Whether the extent of the horizontal scroll view should be determined by the number of columns available. À Õ]€ìÀ Ö3€¤/// Contains all the properties of the checkbox column.
+///
+/// This settings are applied to checkbox column, only if
+/// [SfDataGrid.showCheckboxColumn] is `true`. À ÖP[À ã›Œ/// The collection of [GridTableSummaryRow].
+///
+/// This enables you to show the total or summary for columns i.e Max, Min,
+/// Average, and Count for the whole DataGrid.
+///
+/// Load the required widget in summary cell by overriding and returning the
+/// widget in [DataGridSource.buildTableSummaryCellWidget] method.
+///
+/// The following example shows how to display the table summary rows at the top
+/// and bottom with different options.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(
+///       title: const Text('Syncfusion Flutter DataGrid'),
+///     ),
+///     body: SfDataGrid(
+///       source: employeeDataSource,
+///       tableSummaryRows: [
+///         GridTableSummaryRow(
+///             showSummaryInRow: true,
+///             title: 'Total Employee Count: {Count}',
+///             columns: [
+///               GridSummaryColumn(
+///                   name: 'Count',
+///                   columnName: 'name',
+///                   summaryType: GridSummaryType.count)
+///             ],
+///             position: GridTableSummaryRowPosition.top),
+///         GridTableSummaryRow(
+///             showSummaryInRow: false,
+///             columns: [
+///               GridSummaryColumn(
+///                   name: 'Sum',
+///                   columnName: 'salary',
+///                   summaryType: GridSummaryType.sum)
+///             ],
+///             position: GridTableSummaryRowPosition.bottom)
+///       ],
+///       columns: <GridColumn>[
+///         GridColumn(
+///             columnName: 'id',
+///             label: Container(
+///                 padding: EdgeInsets.all(16.0),
+///                 alignment: Alignment.center,
+///                 child: Text(
+///                   'ID',
+///                 ))),
+///         GridColumn(
+///             columnName: 'name',
+///             label: Container(
+///                 padding: EdgeInsets.all(8.0),
+///                 alignment: Alignment.center,
+///                 child: Text('Name'))),
+///         GridColumn(
+///             columnName: 'designation',
+///             label: Container(
+///                 padding: EdgeInsets.all(8.0),
+///                 alignment: Alignment.center,
+///                 child: Text(
+///                   'Designation',
+///                   overflow: TextOverflow.ellipsis,
+///                 ))),
+///         GridColumn(
+///             columnName: 'salary',
+///             label: Container(
+///                 padding: EdgeInsets.all(8.0),
+///                 alignment: Alignment.center,
+///                 child: Text('Salary'))),
+///       ],
+///     ),
+///   );
+/// }
+///
+/// class EmployeeDataSource extends DataGridSource {
+/// @override
+/// Widget? buildTableSummaryCellWidget(
+///     GridTableSummaryRow summaryRow,
+///     GridSummaryColumn? summaryColumn,
+///     RowColumnIndex rowColumnIndex,
+///     String summaryValue) {
+///   return Container(
+///       padding: EdgeInsets.all(16.0),
+///       alignment: Alignment.centerLeft,
+///       child: Text(summaryValue));
+/// }
+/// ``` À ã²‚À å²Ù/// The number of rows to show on each page.
+///
+/// This property is applicable only if the [SfDataPager] is used to represent
+/// the paging functionality.
+///
+/// If you set the value as null, the rows per page is automatically decided
+/// based on divided value of the number of rows loaded through [DataGridSource.rows] by [SfDataPager.pageCount].
+///
+/// If you want to maintain the rows per page constantly the same, set the required number of rows to this property. À åÄ‚WÀ è‚!/// Decides how many rows should be added with the currently visible items in viewport size.
+///
+/// By default, the rows which are presented in viewport will be re-used
+/// when the vertical scrolling is performed for better performance.
+///
+/// You can set the rows cache extent to avoid the visible changes which are occurred
+/// due to re-using. For example, if you are showing the checkbox in a column and
+/// not set the rows using this property, checkbox state changes with the
+/// animation can be seen when vertical scrolling is perform À è"‚mÀ ê‚8/// Decides whether the UI filtering should be enabled for all the columns.
+///
+/// [GridColumn.allowFiltering] has the highest priority over this property.
+///
+/// See also,
+/// * [SfDataGrid.onFilterChanging] â€“ This callback will be called if the
+/// column is being filtered through UI filtering.
+/// * [SfDataGrid.onFilterChanged] â€“ This callback will be called if the
+/// column is filtered through UI filtering.
+/// * [DataGridSource.filterConditions] â€“ This property holds the
+/// collection of the filter conditions which are applied for various columns. À ê–€éÀ ëo€¦/// Called when the filtering is being applied through UI filtering.
+///
+/// You can return `false` from this callback to restrict the column from
+/// being filtered. À ë†€åÀ ì\€¤/// Called after the UI filtering is applied to [SfDataGrid].
+///
+/// This callback will not be triggered when the filter conditions are added
+/// programmatically. À ìr€èÀ íM€¯/// The shape of the checkbox.
+///
+/// This is applicable for checkbox which is shown when enable the [showCheckboxColumn] property.
+///
+/// See also,
+///
+/// [Checkbox.shape]  À íaFÀ í„   À íaÀ íb À í®À ÜÓÀ îK€“/// Contains the state for a [SfDataGrid]. This class can be used to
+/// programmatically show the refresh indicator, see the [refresh]
+/// method.  À î£%À î· À îÃÀ îÍ&À îá À îîÀ îø%À ï À ïÀ ï"+À ï6 À ïIÀ ïTÀ ïf  À ïx%À ï“  À ï¢1À ï½  À ïØ0À ïí  À ğ5À ğ6  À ğI0À ğW À ğhÀ ğuÀ ğvÀ ğ~'À ğ“  À ğª)À ğ¿  À ğØÀ ğé  À ğüÀ ñ  À ñÀ ñ*  À ñ7*À ñM  À ñfÀ ñz  À ñŠ$À ñ  À ñ³+À ñÉ  À ñåÀ ñë   )À ñıƒÀ ò   À ñıÀ ñşÀ õGÀ õ  À õ7À õG   À ö_„À öd  À öˆ!À ö  À ö«À ö¹   À ú€†NÀ ú…  À ú§À ú¯   À Ô?À Ù  À ù À
+   À‚À    À&‡ùÀ+    À%rÀ8   À%À&À¹À°  ÀÊ ÀĞ  ÀÀÀåÀ\ƒÀa  ÀvÀ…   À~ƒ‘Àƒ    À¨À    ÀÃƒÀÀÈ    À‰ˆÈÀ  À¡À±   À#WnÀ#\  À#iÀ#w   À#Ë†lÀ#Ğ  À#æÀ#ë   À*=‹À*B    À5³†,À5¸  À5Ï'À5Õ  À5ñÀ;å€¤À;ê    À<†À<”    ÀB¯ƒÀB´  ÀBÂÀBÈ  ÀBÖÀE¼?ÀEÁ    ÀF€æÀF  ÀFÀF/   ÀFí‰xÀFò  ÀG"ÀG3  ÀGIÀGR  ÀGf!ÀGl  ÀG‚ÀPk’HÀPp    Àb¹XÀbÏ    Àc¹5Àc  Àc.Àc:   ÀœR‘ÀœW  Àœ€Àœ‘  Àœ§Àœ°  ÀœÄ!ÀœÊ  ÀœàÀé…"Àî  À	À  À'&À-  ÀV%À\  À„ÀŠ  À© À¯  ÀHÀvÀ›ÀÄÀ£…>À£  À£BÀ£N  À£XÀ£d   À¨UnÀ¨Z    À©É_À©Î    À«.ÏÀ«3    À­€üÀ­    À®À®
+    À¯ÇÀ¯bF/// Need to add the check box column, when showCheckboxColumn is true. À¯u+À¯Œ   À°àƒÙÀ³:‚'/// Show the refresh indicator and call the
+/// [DataGridSource.handleRefresh].
+///
+/// To access this method, create the [SfDataGrid] with a
+/// [GlobalKey<SfDataGridState>].
+///
+/// The future returned from this method completes when the
+/// [DataGridSource.handleRefresh] methodâ€™s future completes.
+///
+/// By default, if you call this method without any parameter,
+/// [RefreshIndicator] will be shown. If you want to disable the
+/// [RefreshIndicator] and call the [DataGridSource.handleRefresh] method
+/// alone, pass the parameter as `false`. À³C À³I  À³_À´¿‡ÀÀ´Ñ   À´¿À´ÀÀ¼…€ˆÀ¼—  À¼§À¼³  À¼…À¼†À½…œÀ½'  À½-À½;  À½À½ÀÂµ‡ÉÀÂÇ   ÀÂµÀÂ¶ ÀÊ…À x±ÀĞt…·/// A datasource for obtaining the row data for the [SfDataGrid].
+///
+/// The following APIs are mandatory to process the data,
+/// * [rows] - The number of rows in a datagrid and row selection depends
+/// on the [rows]. So, set the collection required for datagrid in
+/// [rows].
+/// * [buildRow] - The data needed for the cells is obtained from
+/// [buildRow].
+///
+/// Call the [notifyDataSourceListeners] when performing CRUD in the underlying
+/// datasource.
+///
+/// [DataGridSource] objects are expected to be long-lived, not recreated with
+/// each build.
+/// ``` dart
+/// final List<Employee> _employees = <Employee>[];
+///
+/// class EmployeeDataSource extends DataGridSource {
+///   @override
+///   List<DataGridRow> get rows => _employees
+///       .map<DataGridRow>((dataRow) => DataGridRow(cells: [
+///             DataGridCell<int>(columnName: 'id', value: dataRow.id),
+///             DataGridCell<String>(columnName: 'name', value: dataRow.name),
+///             DataGridCell<String>(
+///                 columnName: 'designation', value: dataRow.designation),
+///             DataGridCell<int>(columnName: 'salary', value: dataRow.salary),
+///           ]))
+///       .toList();
+///
+///   @override
+///   DataGridRowAdapter? buildRow(DataGridRow row) {
+///     return DataGridRowAdapter(
+///         cells: row.getCells().map<Widget>((dataCell) {
+///           return Text(dataCell.value.toString());
+///         }).toList());
+///   }
+/// }
+/// ```  ÀÕŠ2ÀÕœ ÀÕºÀÕ»ÀÕ­ÀÕ¹ÀÕ®ÀÕÃ1ÀÕÕ ÀÕòÀÕóÀÕåÀÕñÀÕæÀÕû€ŠÀÖeT/// Holds the collection of [DataGridRow] to be displayed in the [SfDataPager] page.ÀÖƒÀÖ„ÀÖvÀÖ‚ÀÖwÀÖŒ}ÀÖêR/// Helps to suspend the multiple update on SfDataGrid using with
+/// SfDataPager.À×À×+À×&  À×BeÀ×k 	À×¥À×¦À×†À×¤À×‡À×À×“À×£À×”Àè"DÀè@ ÀèdÀèeÀèQÀècÀèRÀĞÉ€©ÀÑPg/// The collection of rows to display in [SfDataGrid].
+///
+/// This must be non-null, but may be empty.   ÀÔtÀÕd./// Return the copy of the [DataGridSource.rows].
+/// It holds the sorted collection if the sorting is applied in DataGrid.
+///
+/// Use this property to get the corresponding visible row index to perform the customization
+/// such as alternate row color, setting row color based on row index and so on.   À×®×ÀÙ'9/// Holds the collection of [FilterCondition] based on the columns.
+///
+/// Here, key is the name of the column. Value is the collection of filter
+/// conditions.
+///
+/// Use [DataGridSource.addFilterCondition] and
+/// [DataGridSource.removeFilterCondition] to add or remove the filter
+/// conditions for columns.   Ààv‡¨Àçş†Ú/// The collection of [SortColumnDetails] objects to sort the columns in
+/// [SfDataGrid].
+///
+/// You can use this property to sort the columns programmatically also.
+/// Call [sort] method after you added the column details in [sortedColumns]
+/// programmatically.
+///
+/// The following example show how to sort the columns on datagrid  loading,
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(
+///       title: const Text('Syncfusion Flutter DataGrid'),
+///     ),
+///     body: Column(
+///       children: [
+///         TextButton(
+///           child: Text('Click'),
+///           onPressed: () {
+///             _employeeDataSource.sortedColumns
+///                 .add(SortColumnDetails('id', SortDirection.ascending));
+///             _employeeDataSource.sort();
+///           },
+///         ),
+///         SfDataGrid(
+///           source: _employeeDataSource,
+///           allowSorting: true,
+///           columns: <GridColumn>[
+///               GridColumn(columnName: 'id', label: Text('ID')),
+///               GridColumn(columnName: 'name', label: Text('Name')),
+///               GridColumn(columnName: 'designation', label: Text('Designation')),
+///               GridColumn(columnName: 'salary', label: Text('Salary')),
+///           ],
+///         ),
+///       ],
+///     ),
+///   );
+/// }
+///```
+/// See also:
+///
+/// * [SfDataGrid.allowSorting] â€“ which allows users to sort the columns in
+/// [SfDataGrid].
+/// * [GridColumn.allowSorting] - which allows users to sort the corresponding
+/// column in [SfDataGrid].
+/// * [DataGridSource.sort] - call this method when you are adding the
+/// [SortColumnDetails] programmatically to [DataGridSource.sortedColumns].   ÀÑx‚’ÀÓğ‚>/// Called to obtain the widget for each cell of the row.
+///
+/// This method will be called for every row that are visible in datagridâ€™s
+/// view port from the collection which is assigned to [DataGridSource.rows]
+/// property.
+///
+/// Return the widgets in the order in which those should be displayed in
+/// each column of a row in [DataGridRowAdapter.cells].
+///
+/// The number of widgets in the collection must be exactly as many cells
+/// as [SfDataGrid.columns] in the [SfDataGrid].
+///
+/// This method will be called whenever you call the [notifyListeners] method. ÀÓùÀÔ   ÀÙ‹†åÀà7† /// Called whenever you call [notifyListeners] or [notifyDataSourceListeners]
+/// in the DataGridSource class. If you want to recalculate all columns
+/// width (may be when underlying data gets changed), return true.
+///
+/// Returning true may impact performance as the column widths are
+/// recalculated again (whenever the notifyListeners is called).
+///
+/// If you are aware that column widths are going to be same whenever
+/// underlying data changes, return 'false' from this method.
+///
+/// Note: Column widths will be recalculated automatically whenever a new
+/// instance of DataGridSource is assigned to SfDataGrid.
+/// ``` dart
+/// class EmployeeDataSource extends DataGridSource {
+///   @override
+///   List<DataGridRow> get rows => _employees
+///       .map<DataGridRow>((dataRow) => DataGridRow(cells: [
+///             DataGridCell<int>(columnName: 'id', value: dataRow.id),
+///             DataGridCell<String>(columnName: 'name', value: dataRow.name),
+///             DataGridCell<String>(
+///                 columnName: 'designation', value: dataRow.designation),
+///             DataGridCell<int>(columnName: 'salary', value: dataRow.salary),
+///           ]))
+///       .toList();
+///
+///   @override
+///   bool shouldRecalculateColumnWidths() {
+///     return true;
+///   }
+///
+///   @override
+///   DataGridRowAdapter? buildRow(DataGridRow row) {
+///     return DataGridRowAdapter(
+///         cells: row.getCells().map<Widget>((dataCell) {
+///           return Text(dataCell.value.toString());
+///         }).toList());
+///   }
+/// }
+///
+/// ```  Àà$Àà%Àèm…Àì­ƒñ/// Called when the sorting is applied to the column.
+///
+/// Overriding this method gives complete control over sorting. You can handle
+/// the sorting completely in your own way. The rows argument provides the
+/// unsorted [DataGridRow] collection.
+///
+/// You can apply the sorting to rows argument. DataGrid will render the rows
+/// based on the [rows] argument. You donâ€™t need to call [notifyListeners]
+/// within this method. However, you must override this method only if you
+/// want to write the entire sorting logic by yourself. Otherwise, for custom
+/// comparison, you can just override [DataGridSource.compare] method and
+/// return the custom sorting order.
+///
+/// For most of your cases, the 'compare' method should be sufficient.
+/// The [DataGridSource.compare] method can be used to do custom sorting based
+/// on the length of the text, case insensitive sorting, and so on.
+///
+/// See also,
+///
+/// [DataGridSource.compare] â€“ To write the custom sorting for most of the use
+/// cases. Àì¼ÀìÏ  ÀìšÀì›Àí„÷ÀîŒ€ù/// To update the sorted or filtered collection in _paginatedRows, notifyListener should be
+/// called instead notifyDataGridPropertyChangeListener. Because, notifyListener is common for
+/// in DataPagerDelegate and DataGridSource will get notified.   ÀïƒÀï…  Àïœ%Àïµ  ÀïÃÀïĞ  ÀïÒÀïß   Àò¡ŒªÀıD‰Ê/// Called when the sorting is applied for column. This method compares the
+/// two objects and returns the order either they are equal, or one is
+/// greater than or lesser than the other.
+///
+/// You can return the following values,
+/// * a negative integer if a is smaller than b,
+/// *	zero if a is equal to b, and
+/// *	a positive integer if a is greater than b.
+///
+/// You can override this method and do the custom sorting based
+/// on your requirement. Here [sortColumn] provides the details about the
+/// column which is currently sorted with the sort direction. You can get the
+/// currently sorted column and do the custom sorting for specific column.
+///
+///
+/// The below example shows how to sort the `name` column based on the case
+/// insensitive in ascending or descending order.
+///
+/// ```dart
+/// class EmployeeDataSource extends DataGridSource {
+///   @override
+///   List<DataGridRow> get rows => _employees
+///       .map<DataGridRow>((dataRow) => DataGridRow(cells: [
+///             DataGridCell<int>(columnName: 'id', value: dataRow.id),
+///             DataGridCell<String>(columnName: 'name', value: dataRow.name),
+///             DataGridCell<String>(
+///                 columnName: 'designation', value: dataRow.designation),
+///             DataGridCell<int>(columnName: 'salary', value: dataRow.salary),
+///           ]))
+///       .toList();
+///
+///   @override
+///   DataGridRowAdapter? buildRow(DataGridRow row) {
+///     return DataGridRowAdapter(
+///         cells: row.getCells().map<Widget>((dataCell) {
+///           return Text(dataCell.value.toString());
+///         }).toList());
+///   }
+///
+///  @override
+///   int compare(DataGridRow? a, DataGridRow? b, SortColumnDetails sortColumn) {
+///    if (sortColumn.name == 'name') {
+///      final String? valueA = a
+///          ?.getCells()
+///          .firstWhereOrNull((dataCell) => dataCell.columnName == 'name')
+///          ?.value;
+///      final String? valueB = b
+///          ?.getCells()
+///          .firstWhereOrNull((dataCell) => dataCell.columnName == 'name')
+///          ?.value;
+///
+///      if (valueA == null || valueB == null) {
+///        return 0;
+///      }
+///
+///      if (sortColumn.sortDirection == DataGridSortDirection.ascending) {
+///        return valueA.toLowerCase().compareTo(valueB.toLowerCase());
+///      } else {
+///        return valueB.toLowerCase().compareTo(valueA.toLowerCase());
+///      }
+///    }
+///
+///    return super.compare(a, b, sortColumn);
+///  }
+///
+/// ``` ÀıLÀıZ  Àı\Àıj  ÀılÀı  Àı2Àı3ÀÿQôÀÿU  ÀÿhÀÿq  ÀÿxÀÿ  Àÿˆ#ÀÿŸ   ÀKƒÀP    Ài…fÀ	b„Š/// Call this method when you are adding the [SortColumnDetails]
+/// programmatically to the [DataGridSource.sortedColumns].
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(
+///       title: const Text('Syncfusion Flutter DataGrid'),
+///     ),
+///     body: Column(
+///       children: [
+///         FlatButton(
+///           child: Text('Click'),
+///           onPressed: () {
+///             _employeeDataSource.sortedColumns
+///                 .add(SortColumnDetails('id', SortDirection.ascending));
+///             _employeeDataSource.sort();
+///           },
+///         ),
+///         SfDataGrid(
+///           source: _employeeDataSource,
+///           allowSorting: true,
+///           columns: <GridColumn>[
+///               GridColumn(columnName: 'id', label:Text('ID')),
+///               GridColumn(columnName: 'name', label:Text('Name')),
+///               GridColumn(columnName: 'designation', label: Text('Designation')),
+///               GridColumn(columnName: 'salary', label: Text('Salary')),
+///           ],
+///         ),
+///       ],
+///     ),
+///   );
+/// }
+/// ```   À	Õ€ÜÀ
+Š€™/// An indexer to retrieve the data from the underlying datasource. If the
+/// sorting is applied, the data will be retrieved from the sorted datasource. À
+	À
+’   À
+·ÛÀu/// Called when [LoadMoreRows] function is called from the
+/// [SfDataGrid.loadMoreViewBuilder].
+///
+/// Call the [notifyListeners] to refresh the datagrid based on current
+/// available rows.
+///
+/// See also,
+///
+/// [SfDataGrid.loadMoreViewBuilder] - A builder that sets the widget to
+/// display at end of the datagrid when end of the datagrid is reached on
+/// vertical scrolling.  ÀZÀ[À˜WÀ×/// Called when the `swipe to refresh` is performed in [SfDataGrid].
+///
+/// This method will be called only if the
+/// [SfDataGrid.allowPullToRefresh] property returns true.
+///
+/// Call the [notifyListeners] to refresh the datagrid based on current
+/// available rows.  À¼À½Àõ…LÀ¤ƒ^/// Call this method to add the [FilterCondition] programmatically.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Column(
+///     children: [
+///       Expanded(
+///         child: SfDataGrid(source: _employeeDataSource, columns: [
+///           GridColumn(columnName: 'id', label: Text('ID')),
+///           GridColumn(columnName: 'name', label: Text('Name')),
+///           GridColumn(columnName: 'designation', label: Text('Designation')),
+///           GridColumn(columnName: 'salary', label: Text('Salary')),
+///         ]),
+///       ),
+///       MaterialButton(
+///           child: Text('Add Filter'),
+///           onPressed: () {
+///             _employeeDataSource.addFilter('id',
+///                 FilterCondition(type: FilterType.greaterThan, value: 1005));
+///           }),
+///     ],
+///   );
+/// }
+/// ``` À®À¶  ÀÁÀÒ   ÀG…îÀğƒX/// Remove the [FilterCondition] from the given column.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Column(
+///     children: [
+///       Expanded(
+///         child: SfDataGrid(source: _employeeDataSource, columns: [
+///           GridColumn(columnName: 'id', label: Text('ID')),
+///           GridColumn(columnName: 'name', label: Text('Name')),
+///           GridColumn(columnName: 'designation', label: Text('Designation')),
+///           GridColumn(columnName: 'salary', label: Text('Salary')),
+///         ]),
+///       ),
+///       MaterialButton(
+///           child: Text('Remove Filter'),
+///           onPressed: () {
+///             _employeeDataSource.removeFilter('name',
+///                 FilterCondition(type: FilterType.equals, value: 'James'));
+///           }),
+///     ],
+///   );
+/// }
+/// ``` ÀıÀ  ÀÀ!   À;†À7ƒ¢/// Clear the [FilterCondition] from a given column or clear all the filter
+/// conditions from all the columns.
+///
+/// Pass the required [columnName] to remove the filter conditions from the
+/// specific column.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Column(
+///     children: [
+///       Expanded(
+///         child: SfDataGrid(source: _employeeDataSource, columns: [
+///           GridColumn(columnName: 'id', label: Text('ID')),
+///           GridColumn(columnName: 'name', label: Text('Name')),
+///           GridColumn(columnName: 'designation', label: Text('Designation')),
+///           GridColumn(columnName: 'salary', label: Text('Salary')),
+///         ]),
+///       ),
+///       MaterialButton(
+///           child: Text('Clear Filters'),
+///           onPressed: () {
+///             _employeeDataSource.clearFilters();
+///           }),
+///     ],
+///   );
+/// }
+/// ``` ÀEÀN   ÀDÀI  ÀX+Ào   À ÉŠVÀ*‰/// Called to obtain the widget when a cell is moved into edit mode.
+///
+/// The following example shows how to override this method and return the
+/// widget for specific column.
+///
+/// ```dart
+///
+/// TextEditingController editingController = TextEditingController();
+///
+/// dynamic newCellValue;
+///
+/// @override
+/// Widget? buildEditWidget(DataGridRow dataGridRow,
+///     RowColumnIndex rowColumnIndex, GridColumn column,
+///     CellSubmit submitCell) {
+///   // To set the value for TextField when cell is moved into edit mode.
+///   final String displayText = dataGridRow
+///       .getCells()
+///       .firstWhere((DataGridCell dataGridCell) =>
+///   dataGridCell.columnName == column.columnName)
+///       .value
+///       ?.toString() ??
+///       '';
+///
+///   /// Returning the TextField with the numeric keyboard configuration.
+///   if (column.columnName == 'id') {
+///     return Container(
+///         padding: const EdgeInsets.all(8.0),
+///         alignment: Alignment.centerRight,
+///         child: TextField(
+///           autofocus: true,
+///           controller: editingController..text = displayText,
+///           textAlign: TextAlign.right,
+///           decoration: const InputDecoration(
+///               contentPadding: EdgeInsets.all(0),
+///               border: InputBorder.none,
+///               isDense: true),
+///           inputFormatters: [
+///             FilteringTextInputFormatter.allow(RegExp('[0-9]'))
+///           ],
+///           keyboardType: TextInputType.number,
+///           onChanged: (String value) {
+///             if (value.isNotEmpty) {
+///               print(value);
+///               newCellValue = int.parse(value);
+///             } else {
+///               newCellValue = null;
+///             }
+///           },
+///           onSubmitted: (String value) {
+///             /// Call [CellSubmit] callback to fire the canSubmitCell and
+///             /// onCellSubmit to commit the new value in single place.
+///             submitCell();
+///           },
+///         ));
+///   }
+/// }
+/// ```
+/// Call the cellSubmit function whenever you are trying to save the cell
+/// values. When you call this method, it will call [canSubmitCell] and
+/// [onCellSubmit] methods. So, your usual cell value updation will be done
+/// in single place. À*À*«  À*¾À*Î  À*İÀ*é  À*ğÀ*ü   À+%‚¥À-P‚/// Called whenever the cell is moved into edit mode.
+///
+/// If you want to disable editing for the cells in specific scenarios,
+/// you can return false.
+///
+/// [rowColumnIndex] represents the index of row and column which are
+/// currently in view not based on the actual index. If you want to get the
+/// actual row index even after sorting is applied, you can use
+/// `DataGridSource.rows.indexOf` method and pass the [dataGridRow]. It will
+/// provide the actual row index from unsorted [DataGridRow] collection. À-`À-m  À-yÀ-‰  À-ŸÀ-«   À-Ğ†²À4!…Ò/// Called whenever the cellâ€™s editing is completed.
+///
+/// Typically, this will be called whenever the [notifyListeners] is called
+/// when cell is in editing mode and key navigation is performed to move a
+/// cell to another cell from the cell which is currently editing.
+/// For eg, Enter key, TAB key and so on.
+///
+/// The following example show how to override this method and save the
+/// currently edited value for specific column.
+///
+/// ``` dart
+/// @override
+/// void onCellSubmit(DataGridRow dataGridRow, RowColumnIndex rowColumnIndex,
+///     GridColumn column) {
+///   final dynamic oldValue = dataGridRow
+///       .getCells()
+///       .firstWhereOrNull((DataGridCell dataGridCell) =>
+///   dataGridCell.columnName == column.columnName)
+///       ?.value ??
+///       '';
+///
+///   final int dataRowIndex = rows.indexOf(dataGridRow);
+///
+///   if (newCellValue == null || oldValue == newCellValue) {
+///     return;
+///   }
+///
+///   if (column.columnName == 'id') {
+///     rows[dataRowIndex].getCells()[rowColumnIndex.columnIndex] =
+///         DataGridCell<int>(columnName: 'id', value: newCellValue);
+///
+///     // Save the new cell value to model collection also.
+///     employees[dataRowIndex].id = newCellValue as int;
+///   }
+///
+///   // To reset the new cell value after successfully updated to DataGridRow
+///   //and underlying mode.
+///   newCellValue = null;
+/// }
+///```
+/// This method will never be called when you return false from [onCellBeginEdit]. À4.À4;  À4GÀ4W  À4mÀ4y   À4ˆ¯À5¿!/// Called whenever the cellâ€™s editing is completed i.e. prior to
+/// [onCellSubmit] method.
+///
+/// If you want to restrict the cell from being end its editing, you can
+/// return false. Otherwise, return true. [onCellSubmit] will be called only
+/// if the [canSubmitCell] returns true. À5ÍÀ5Ú  À5æÀ5ö  À6À6   À6=€ìÀ6Ä{/// Called when you press the [LogicalKeyboardKey.escape] key when
+/// the [DataGridCell] on editing to cancel the editing. À6ÕÀ6â  À6îÀ6ş  À7À7    À7/„|À7I  À7ZÀ7_  À7lÀ7q  À7/À70À;±„×À<Ç€ü/// Calculates the summary value for the table summary row of a specific column.
+///
+/// Override this method to write the custom logic to calculate the custom
+/// summary.
+///
+/// The `summaryColumn` will be null for the spanned table summary columns. À<İÀ<ò  À= À=  À=&À=6   À@‚¥ÀBlº/// Called to obtain the widget for each cell of the table summary row.
+///
+/// Typically, a [Text] widget. `summaryValue` argument holds the calculated
+/// summary value based on [GridSummaryColumn.summaryType]. Use this
+/// `summaryValue` argument and display in your required widget.
+///
+/// This method will be called for visible cells in table summary rows.
+///
+/// The `summaryColumn` will be null for the spanned table summary columns. ÀBÀB¥  ÀB· ÀBË  ÀBàÀBğ  ÀCÀC    ÀEU°HÀF»W/// Controls a [SfDataGrid] widget.
+///
+/// This can be used to control the selection and current-cell operations such
+/// as programmatically select a row or rows, move the current-cell to
+/// required position.
+///
+/// DataGrid controllers are typically stored as member variables in [State]
+/// objects and are reused in each [State.build]. ÀFøé ÀGcÀGud/// Creates the [DataGridController] with the [selectedIndex], [selectedRow]
+/// and [selectedRows].ÀGÀG„  ÀGÀG¬  ÀG¿6ÀGÒ  ÀG“ÀG”ÀGàÀGóÀGôÀGæÀGòÀGçÀHÀHÀHÀH5ÀH&ÀH7ÀH]ÀHOÀH_ÀHkÀHlÀHrÀHsÀHç+ÀHı  ÀIÅ;ÀI× ÀIçÀIëÀI÷ÀIìÀIøÀIùÀIşÀIÿÀKĞÀKÔ  ÀOtÀO  ÀQ‡ÀQ“  ÀRÀR(  ÀVL2ÀV[ ÀVjÀVxÀVy
+ÀI€¨ÀI£m/// The collection of objects that contains object of corresponding
+/// to the selected rows in [SfDataGrid].   ÀJdÀJm/// The collection of objects that contains object of corresponding
+/// to the selected rows in [SfDataGrid]. ÀJŒ!ÀJŸ   ÀKq[ÀK¬//// An index of the corresponding selected row.   ÀKé|ÀL1;/// Whether the currently selected cell is in editing mode.   ÀM…ÀM¼//// An index of the corresponding selected row. ÀMÊÀMÏ   ÀN§€ÉÀOT€/// An object of the corresponding selected row.
+///
+/// The given object must be given from the underlying datasource of the
+/// [SfDataGrid].   ÀO”€ÀP4€/// An object of the corresponding selected row.
+///
+/// The given object must be given from the underlying datasource of the
+/// [SfDataGrid]. ÀP@ÀPN   ÀQiÀQa8/// The current scroll offset of the vertical scrollbar.   ÀQ©oÀQò:/// The current scroll offset of the horizontal scrollbar.   ÀU‰€¿ÀV,€ƒ/// A cell which is currently active.
+///
+/// This is used to identify the currently active cell to process the
+/// key navigation.   
+ÀLkÀLp    ÀR@ƒCÀT€‚///If the [rowIndex] alone is given, the entire row will be set as dirty.
+///So, data which is displayed in a row will be refreshed.
+/// You can call this method when the data is updated in row in
+///  underlying datasource.
+///
+/// If the `recalculateRowHeight` is set as true along with the [rowIndex],
+/// [SfDataGrid.onQueryRowHeight] callback will be called for that row.
+///  So, the row height can be reset based on the modified data.
+///  This is useful when setting auto row height
+/// using [SfDataGrid.onQueryRowHeight] callback. ÀT‹ÀT  ÀTš!ÀT   ÀT¶ÀV……#ÀVË=/// Moves the current-cell to the specified cell coordinates. ÀVİÀVí   À[®À]|¨/// Scrolls the [SfDataGrid] to the given row and column index.
+///
+/// If you want animation on scrolling, you can pass true as canAnimate argument.
+///
+/// Also, you can control the position of a row when it comes to view by
+/// passing the [DataGridScrollPosition] as an argument for rowPosition where
+/// as you can pass [DataGridScrollPosition] as an argument for columnPosition
+/// to control the position of a column. À]‰À]‘  À]šÀ]¢  À]¶À]¼  À]ÖAÀ]î  À^ OÀ^8  À]ÈÀ]ûÀ^À^À^SÀ^iÀ^jÀhÓ‚+Àj/// Scrolls the [SfDataGrid] to the given index.
+///
+/// If you want animation on scrolling, you can pass true as canAnimate argument.
+///
+/// Also, you can control the position of a row when it comes to view by passing
+/// the [DataGridScrollPosition] as an argument for position. ÀjÀj   Àj1Àj7  ÀjQ>Àji  ÀjCÀjsÀj‰ÀjŠÀk‚>ÀlD /// Scrolls the [SfDataGrid] to the given column index.
+///
+/// If you want animation on scrolling, you can pass true as canAnimate argument.
+///
+/// Also, you can control the position of a row when it comes to view by passing
+/// the [DataGridScrollPosition] as an argument for position. ÀlSÀl[  ÀloÀlu  Àl>Àl§  ÀlÀl±ÀlÇÀlÈÀmHİÀn €¡/// Scroll the vertical scrollbar from current position to the given value.
+///
+/// If you want animation on scrolling, you can pass true as canAnimate argument. ÀnÀn  Àn.Àn4  Àn@Ào+àÀoâ€ /// Scroll the horizontal scrollbar from current value to the given value.
+///
+/// If you want animation on scrolling, you can pass true as canAnimate argument. ÀoûÀp  ÀpÀp  Àp$Àq‚qÀq\B/// Begins the edit to the given [RowColumnIndex] in [SfDataGrid]. ÀqfÀqv   Àsˆ‚ÀsÈ7/// Ends the current editing of a cell in [SfDataGrid].    Àu¡„jÀxz‚»/// A delegate that provides the row count details and method to listen the
+/// page navigation in [SfDataPager].
+///
+/// The following code initializes the data source and controller.
+///
+/// ```dart
+/// finalList<Employee>paginatedDataTable=<Employee>[];
+/// ```
+///
+/// The following code example shows how to initialize the [DataPagerDelegate].
+///
+/// ```dart
+/// class PaginatedDataGridSource extends DataPagerDelegate{
+/// @override
+/// Future<bool> handlePageChange(int oldPageIndex, int newPageIndex) async {
+///  _paginatedData = paginatedDataTable
+///    .getRange(startRowIndex, endRowIndex )
+///    .toList(growable: false);
+///  notifyListeners();
+///  return true;
+/// }
+/// }
+/// ```  Àx‘RÀxÕ9/// Number of pages to be displayed in the [SfDataPager].Àxâ ÀxêÀyµ€±/// Called when the page is navigated.
+///
+/// Return true, if the navigation should be performed. Otherwise, return
+/// false to disable the navigation for specific page index. ÀyÆÀyË  ÀyØÀyİ    Àzˆ4ÀzdM/// A class that can be provided the change notification to the [SfDataGrid].  ÀzuÀzÉ ÀzëÀz÷À{ÀzøÀ{À{À|€”À|P À|zÀ|†À|¦À|‡À|§À|¨ À{uÀ{  À{9 À{R   À{”{À{™  À{· À{Ğ   À|°€•À|µ  À|à(À}   À}K€›À}P  À}~(À}Ÿ   À}ìHÀ}ş   À}ìÀ}íÀ~:èÀg/// Calls all the datagrid source listeners.
+/// Call this method whenever the underlying data is added or removed. If the value of the specific cell is updated, call this method with RowColumnIndex argument where it refers the corresponding row and column index of the cell. À‚À“  ÀTÀUÀ€(‚À€·€†/// Call this method whenever the rowColumnIndex, propertyName and recalculateRowHeight of the underlying data are updated internally. À€çÀ€ø  ÀÀ  À+!À1  ÀG À’»–íÀ’Ì	/// To Do À’åˆ¨ À’ôÀ“	/// To DoÀ“&À“&  À“8À“F   À›“&À›¯///To do À›ãÀ›î  Àœ %Àœ	/// To do Àœ,.ÀœG	/// To do Àœa(Àœ{	/// To do Àœ=Àœ½	/// To do ÀœÔ.Àœï	/// To do À	-À#	/// To do À='ÀW	/// To do Àk*À…	/// To do Àœ.À·	/// To do ÀÑ4Àë	/// To do À;À'	/// To do ÀN'Àh	/// To do À|/Àš	/// To do À²$ÀÎ	/// To do Àİ‡ÏÀ¦¢‡/// The icon to indicate the filtering applied in column.
+///
+/// If you want to change the icon filter or filtered state, you can use the [Builder]
+/// widget and return the respective icon for the state. You have to return
+/// the icons for both the states even if you want to change the icon
+/// for specific state.
+///
+/// ```dart
+/// @override
+/// Widget build(BuildContext context) {
+///   return Scaffold(
+///     appBar: AppBar(
+///       title: const Text('Syncfusion Flutter DataGrid',
+///           overflow: TextOverflow.ellipsis),
+///     ),
+///     body: SfDataGridTheme(
+///       data: SfDataGridThemeData(filterIcon: Builder(
+///         builder: (context) {
+///           Widget? icon;
+///           String columnName = '';
+///           context.visitAncestorElements((element) {
+///             if (element is GridHeaderCellElement) {
+///               columnName = element.column.columnName;
+///             }
+///             return true;
+///           });
+///           var column = _employeeDataSource.filterConditions.keys
+///               .where((element) => element == columnName)
+///               .firstOrNull;
+///           if (column != null) {
+///             icon = const Icon(
+///               Icons.filter_alt_outlined,
+///               size: 20,
+///               color: Colors.purple,
+///             );
+///           }
+///           return icon ??
+///               const Icon(
+///                 Icons.filter_alt_off_outlined,
+///                 size: 20,
+///                 color: Colors.deepOrange,
+///               );
+///         },
+///       )),
+///       child: SfDataGrid(
+///         source: _employeeDataSource,
+///         allowFiltering: true,
+///         allowSorting: true,
+///         columns: getColumns(),
+///       ),
+///     ),
+///   );
+/// }
+/// ``` À¦³€ùÀ§€Ñ/// The color of the filter icon which indicates whether the column is filtered or not.
+///
+/// This is not applicable when `filterIcon` property is set.
+/// This applies the color to default filter icon only. À§³€ìÀ¨‹€¿/// The color for the filter icon when a pointer is hovering over it.
+///
+/// This is not applicable when `filterIcon` property is set.
+/// This applies the color to default filter icon only. À¨¦qÀ©M/// The color of the number displayed when the order of the sorting is shown. À©€†À©†X/// Creates a copy of this theme but with the given fields replaced with the new values.        ÀC:€½ÀC‚A/// Refreshes the effective rows based on the given `filterRows`. ÀC—ÀC§  ÀC®ÀCÁ   ÀCû€ŞÀDwt/// Apply sorting to the given rows. It is used to invoke the
+/// `DataGridSource.performSorting` method internally. ÀD†ÀD–  ÀDÀD°   ÀDİtÀE$/// Helps to refresh the data pager. ÀEÀE(   À‚GíÀ‚Ù€Š/// Call this method whenever the rowColumnIndex, propertyName and recalculateRowHeight of the
+/// underlying data are updated internally. À‚ÿÀƒ  ÀƒÀƒ-  ÀƒAÀƒJ  Àƒ\!Àƒb  ÀƒxÀ„8€ªÀ„‡@/// Invokes the `handleLoadMoreRows` method in [DataGridSource]. À„šÀ„ª   À„æ€›À…0;/// Invokes the `handleRefresh` method in [DataGridSource]. À…>À…N   À……}À…·+/// Refreshes the current [DataGridSource]. À…ÈÀ…Ø   À†À†Q7/// Gets the `effectiveRows` from the [DataGridSource]. À†_À†o   À‡„ À‡T2/// Helps to set the page count in DataGridSource. À‡aÀ‡t  À‡}À‡…   À‹€ÔÀ‹uO/// Sets the given selected index to the controller's `selectedIndex` property. À‹‰À‹  À‹¨À‹­   À‹÷€ÛÀŒMO/// Updates the given [DataGridRow] to the controller's `selectedRow` property. ÀŒeÀŒy  ÀŒ„ÀŒ’   ÀŒÖ€äÀ$G/// Updates the given index to the controller's `currentCell` property. ÀAÀU  À`"Àp   À¾€ÁÀK/// Updates the given offset to the controller's `verticalOffset` property. À%À9  ÀDÀL   Àƒ€ÇÀ×M/// Updates the given offset to the controller's `horizontalOffset` property. ÀîÀ  ÀÀ   ÀN€åÀ›F/// Sets the `childColumnIndexes` property in the [StackedHeaderCell]. À·#ÀÊ  ÀÜÀç   À7€ÇÀK/// Helps to get the child column indexes of the given `StackedHeaderCell`. À¤#À·   À‘€ìÀ‘OF/// Call this method to add the [FilterCondition] in the UI filtering. À‘cÀ‘s  À‘zÀ‘‚  À‘’ À‘©   À‘ò€ÅÀ’BI/// Call this method to remove the [FilterCondition] in the UI filtering. À’YÀ’i  À’pÀ’x    ‚Õ€…ƒ8/// Signature for [SfDataGrid.onQueryRowHeight] callback  ƒ@ƒR   ƒ^€²ƒ¤</// Signature for [SfDataGrid.onSelectionChanging] callback.  ƒÔƒç  ƒñ„   „€°„Y;/// Signature for [SfDataGrid.onSelectionChanged] callback.  „ˆ„›  „¥„¸   „È€Â…@/// Signature for [SfDataGrid.onCurrentCellActivating] callback.  …F …V  …h …x   …€À…×?/// Signature for [SfDataGrid.onCurrentCellActivated] callback.  †
+ †  †, †<   †R€®†¸[/// Signature for [SfDataGrid.onCellTap] and [SfDataGrid.onCellSecondaryTap]
+/// callbacks.  †à†ø   ‡€œ‡F8/// Signature for [SfDataGrid.onCellDoubleTap] callback.  ‡z$‡˜   ‡¤€œ‡æ8/// Signature for [SfDataGrid.onCellLongPress] callback.  ˆ$ˆ8   ˆDsˆB/// The signature of [DataGridSource.handleLoadMoreRows] function.    ˆ»€¨‰@/// Signature for the [SfDataGrid.loadMoreViewBuilder] function.  ‰2‰@  ‰H‰V   ‰g€¡‰ª9/// Signature for the [SfDataGrid.onSwipeStart] callback.  ‰Û+‰ö   Š€¥ŠP:/// Signature for the [SfDataGrid.onSwipeUpdate] callback.  Š‚-Š   Šµ€™Šö7/// Signature for the [SfDataGrid.onSwipeEnd] callback.  ‹%'‹>   ‹R€Ë‹«O/// Holds the arguments for the [SfDataGrid.startSwipeActionsBuilder] callback.  ‹à‹î  ‹öŒ  ŒŒ   Œ!€ŠŒb/// The signature of [DataGridSource.canSubmitCell] and
+/// [DataGridSource.onCellSubmit] methods.    Œ¯€œŒù@/// Signature for the [SfDataGrid.onColumnResizeStart] callback.  ) C   O€ŸšA/// Signature for the [SfDataGrid.onColumnResizeUpdate] callback.  Ë!æ   ò€:>/// Signature for the [SfDataGrid.onColumnResizeEnd] callback.  bz   †€¡Í=/// Signature for the [SfDataGrid.onFilterChanging] callback.  #   +€Ÿq</// Signature for the [SfDataGrid.onFilterChanged] callback.  ¥#Â   Î€˜>/// Signature for the [DataGridSourceChangeNotifier] listener.  EV   j€Û²>/// Signature for the [DataGridSourceChangeNotifier] listener.  éú  ‘‘  ‘)‘/       ‘Ã .Y€‚€À€ö€øEpÔû‚‚<‚h‚©‚Ó‚Õƒƒ\ƒ^ƒœƒĞ„„„Q„„„Æ„È…
+…B…Œ……Ï††P†R† †°‡‡‡>‡v‡¢‡¤‡ŞˆˆBˆDˆˆˆ¹ˆ»ˆı‰.‰e‰g‰¢‰×Š
+ŠŠHŠ~Š³ŠµŠî‹!‹P‹R‹£‹ÜŒŒ!ŒZŒ†Œ­Œ¯Œñ%MO’Çğò2„†Åş)+i¡ÌÎ@hjªä‘
+‘%‘G‘I‘‚‘‡‘Ù‘Ş’$’S’h’›’ç’é“““U“j“““Õ“ë””"”'”*”,”X”]”¬”â”õ••B•Š•Œ•¨•Ä•Æ•â•é–8–L–_–b–d–¢–§–÷——"—\—¦—¨—Ä—×—Ù—÷˜˜˜=˜D˜‹˜ ˜½˜À˜Â™™b™‚™‡™–™›™í™şššWšƒš…šÉšëšîšğ›2›7›F›K›š›µ›ôœ
+œPœtœyœ{œÇœóœúJ™ë7Gjl¥¬ÏæèŸ7ŸLŸSŸ¡Ÿ¶Ÿ½  [ r t ›    Ù Ş¡,¡_¡d¡r¡w¡Ê¡â¢3¢E¢b¢ ¢¸¢Ì¢ß¢ı££=£c£Š£Œ£Õ£î¤¤¤-¤D¤F¤~¤¢¤©¤ö¥¥¥`¥±¥Ù¥÷¥ù¦H¦l¦s¦Œ¦¬¦®¦Ü§§§@§o§r§t§¥§ª§¹§¾¨¨,¨q¨¨©¨Ê¨î¨ğ©!©7©9©b©i©z©©º©Ö©Øª ªFªIªKªlªqªµªº««W«{«€«Ï¬¬¬j¬o¬À¬ú­5­:­H­­Ë­Ğ­á­ú®®/®8®=®N®z®–®¾®ğ¯¯P¯’¯â°(°4°=°B°^°¨°ï±5±}±Å²²V²œ²ã³+³4³;³@³V³š³¯³É³ê´´
+´´F´W´‡´Æµµ_µ†µÓ¶$¶7¶M¶R¶c¶š¶¾¶ú·1·L·U·\·a·j·•·Ä·Ë¸¸2¸M¸i¸x¸š¸Â¸í¹-¹s¹¥¹¼ºº;ºnºº¸º×ºü»»G»o»’»É¼¼¼5¼Q¼o¼¼±¼Ó¼è½½!½<½f½±½ú¾¾?¾n¾›¾»¾İ¿¿'¿?¿X¿n¿’¿´¿ÚÀ @À @:À @YÀ @yÀ @–À @¶À @óÀ AÀ A$À AJÀ A•À AÑÀ AèÀ BÀ B/À BJÀ BlÀ BˆÀ B£À B¼À BæÀ CÀ C=À CjÀ C„À C†À C¾À CÅÀ CİÀ CøÀ CúÀ D&À D-À DEÀ DfÀ DhÀ D“À DšÀ D´À D×À DÙÀ E/À ECÀ EJÀ EšÀ E¡À E¹À EÙÀ EÛÀ EüÀ FÀ FOÀ FÀ F¥À FâÀ GÀ GÀ G5À G<À GfÀ GmÀ G‘À G»À G½À HÀ HÀ H!À HqÀ H“À HšÀ H×À HŞÀ IÀ IPÀ IRÀ I À IµÀ I¼À JÀ J4À JWÀ JYÀ J‚À J‰À JÖÀ JîÀ JõÀ K)À K0À KXÀ KŠÀ KŒÀ KÅÀ KÌÀ LÀ L4À L;À LƒÀ LºÀ LÁÀ LõÀ LüÀ M%À M,À M|À M‘À MÉÀ MËÀ NÀ N:À N<À NdÀ NkÀ NªÀ N±À NÚÀ NáÀ OÀ O)À O+À OTÀ O[À O«À O¼À OóÀ OõÀ P7À P>À PŠÀ PÊÀ PéÀ Q"À Q$À QoÀ Q‡À QÀ Q×À RÀ RÀ R-À R^À R`À R°À RÌÀ RÓÀ RìÀ RóÀ SCÀ SlÀ SnÀ S¼À SĞÀ SüÀ SşÀ T)À T0À T{À T•À TÔÀ TÖÀ UÀ UÀ U[À UÀ U²À UóÀ UõÀ V(À VUÀ VWÀ V§À VÉÀ WÀ WÀ WOÀ W…À W‡À WÎÀ WìÀ X%À X'À XtÀ X{À XÂÀ YÀ Y	À YÀ Y%À Y6À Y=À YaÀ Y´À YÕÀ Z(À ZHÀ ZiÀ ZkÀ Z¹À ZÀÀ [À [FÀ [MÀ [bÀ [iÀ [zÀ [À [ÔÀ [õÀ \HÀ \iÀ \À \’À \ÖÀ \İÀ \òÀ \ùÀ ]
+À ]À ]2À ]…À ]¦À ]ùÀ ^À ^8À ^:À ^À ^ˆÀ ^À ^¤À ^µÀ ^¼À _À _0À _ƒÀ _¤À _ÈÀ _ÊÀ `À `&À `-À `GÀ `NÀ `]À `nÀ `šÀ `¶À `ŞÀ `ıÀ aÀ aSÀ a—À aéÀ b1À b>À bGÀ bNÀ b‡À bšÀ bÌÀ cÀ cXÀ cªÀ cÓÀ d"À duÀ dŠÀ d¢À d©À d¼À dõÀ eÀ eYÀ eÀ e§À e²À e»À eÂÀ eÍÀ eÔÀ eÛÀ eìÀ eóÀ fBÀ fWÀ f§À fºÀ fÿÀ gGÀ g‘À gàÀ güÀ gşÀ h9À h@À hZÀ haÀ h¦À h­À h¾À hÅÀ i
+À iRÀ iœÀ iëÀ jÀ jÀ j`À j}À j„À jÀ j¥À jêÀ jñÀ kÀ k	À kNÀ k–À kàÀ l/À lSÀ lUÀ l§À lİÀ läÀ lıÀ mÀ m=À moÀ mvÀ m‡À mÀ mÓÀ nÀ neÀ n´À nÓÀ nÕÀ o#À o9À o@À okÀ orÀ oƒÀ oŠÀ o À oĞÀ oÒÀ oÿÀ pÀ pUÀ p£À p³À pºÀ pÉÀ pÚÀ qÀ qUÀ q‘À qÑÀ rÀ rbÀ rƒÀ r¨À rÈÀ sÀ s+À sZÀ slÀ s|À sŠÀ s—À s À s«À sŞÀ sàÀ t.À tÀ tĞÀ tóÀ túÀ uÀ u9À u;À uÀ vÀ vÀ v<À vlÀ vnÀ v°À w0À w7À wkÀ w™À w›À wêÀ x*À x1À xÀ xÄÀ yÀ yeÀ y}À y„À y¡À y¨À yùÀ zEÀ zmÀ ztÀ zƒÀ z”À zÀÀ zÚÀ {!À {>À {gÀ {‰À {ÎÀ {ÿÀ |&À |aÀ |rÀ |yÀ |¦À |ÏÀ |ôÀ }$À }YÀ }€À }§À }ÕÀ ~À ~<À ~‚À ~ÒÀ ~îÀ .À CÀ WÀ iÀ yÀ À ßÀ €%À €yÀ €ÃÀ €ÓÀ €áÀ €íÀ €öÀ À À #À *À uÀ ÅÀ ‚À ‚XÀ ‚_À ‚nÀ ‚À ‚«À ‚ÅÀ ƒÀ ƒ)À ƒRÀ ƒtÀ ƒ¹À ƒäÀ „À „VÀ „|À „¡À „ÆÀ „òÀ …!À …UÀ …™À …çÀ †À †&À †IÀ †sÀ † À †ÒÀ †ùÀ ‡À ‡CÀ ‡mÀ ‡ À ‡ÒÀ ˆÀ ˆFÀ ˆƒÀ ˆ»À ˆóÀ ‰À ‰SÀ ‰tÀ ‰‘À ‰ÂÀ ‰ÿÀ Š7À ŠoÀ ŠšÀ ŠĞÀ ŠñÀ ‹À ‹*À ‹DÀ ‹\À ‹rÀ ‹…À ‹˜À ‹¨À ‹ÌÀ ŒÀ ŒTÀ Œ¨À ŒòÀ À À À %À 0À cÀ eÀ ¶À ÃÀ ÊÀ ÛÀ âÀ ,À WÀ yÀ {À ÏÀ !À eÀ lÀ ´À âÀ äÀ .À 5À ‚À ¯À ±À ‘À ‘VÀ ‘¥À ‘¬À ‘ïÀ ’EÀ ’LÀ ’]À ’dÀ ’‡À ’«À ’ÌÀ ’èÀ ’êÀ “*À “1À “IÀ “iÀ “kÀ “ŸÀ “¦À ” À ”À ”>À ”@À ”rÀ ”yÀ ”ÑÀ ”ØÀ •À •À •:À •AÀ •‰À •¼À •¾À •æÀ •íÀ –>À –VÀ –‹À –À –ŞÀ —À —À —_À —±À —ÄÀ ˜À ˜À ˜VÀ ˜¥À ˜ÆÀ ™À ™À ™KÀ ™RÀ ™cÀ ™jÀ ™ÖÀ šFÀ šiÀ škÀ š¼À šÓÀ šÚÀ ›'À ›zÀ ›ËÀ ›ÒÀ œ.À œsÀ œzÀ œÌÀ  À hÀ ›À ¢À îÀ À 
+À RÀ ¦À ­À ñÀ ŸÀ ŸÀ Ÿ"À ŸNÀ ŸiÀ Ÿ†À ŸªÀ ŸÈÀ ŸÒÀ ŸÙÀ ŸêÀ  À  0À  KÀ  ŠÀ  ˜À  µÀ  ŞÀ ¡À ¡6À ¡SÀ ¡À ¡°À ¡ÌÀ ¡ÜÀ ¢ À ¢À ¢@À ¢oÀ ¢”À ¢ĞÀ £À £.À £MÀ £iÀ £„À £«À £ÜÀ ¤À ¤<À ¤pÀ ¤¤À ¤¿À ¤íÀ ¥%À ¥JÀ ¥…À ¥¹À ¥ãÀ ¦À ¦EÀ ¦aÀ ¦|À ¦¥À ¦ØÀ ¦ıÀ §8À §lÀ §¢À §²À §ÀÀ §ÌÀ §ÕÀ §áÀ §èÀ ¨À ¨	À ¨À ¨!À ¨KÀ ¨vÀ ¨À ¨ÂÀ ¨ÄÀ ©5À ©<À ©_À ©‹À ©À ª À ªÀ ªEÀ ª~À ª€À ªîÀ ªõÀ «3À «nÀ «pÀ «¥À «ÚÀ «ÜÀ ¬ À ¬=À ¬DÀ ¬^À ¬eÀ ¬¶À ¬×À ¬ŞÀ ­@À ­GÀ ­–À ­ßÀ ­şÀ ®À ®À ®À ®TÀ ®[À ®¦À ®­À ®ËÀ ®ÒÀ ¯À ¯bÀ ¯‡À ¯¯À ¯ìÀ °3À °À °¬À °÷À ±FÀ ±]À ±wÀ ±‚À ±‰À ±¸À ±¿À ±çÀ ±îÀ ²À ²7À ²>À ²QÀ ²‰À ²¯À ²æÀ ³À ³RÀ ³}À ³¨À ³ÕÀ ´À ´À ´.À ´9À ´@À ´SÀ ´À ´ÚÀ µ*À µ\À µ{À µ¹À µşÀ ¶À ¶;À ¶NÀ ¶UÀ ¶¥À ¶ÑÀ ¶ğÀ ·%À ·XÀ ·{À ·ŸÀ ·åÀ ¸À ¸JÀ ¸„À ¸µÀ ¸ÜÀ ¹À ¹JÀ ¹`À ¹—À ¹ÆÀ ¹óÀ ºÀ ºPÀ ºnÀ ºšÀ º±À ºÇÀ ºøÀ »JÀ »™À »¼À »ÒÀ »çÀ »ôÀ »ÿÀ ¼À ¼À ¼lÀ ¼À ¼¾À ¼İÀ ½!À ½fÀ ½„À ½—À ½À ½İÀ ½äÀ ¾'À ¾<À ¾IÀ ¾PÀ ¾|À ¾ÅÀ ¿À ¿À ¿YÀ ¿˜À ¿¥À ¿¬À À À À"À ÀBÀ ÀMÀ ÀVÀ À]À ÀhÀ À­À À×À ÀæÀ ÀíÀ ÁÀ Á$À ÁWÀ Á^À ÁoÀ Á‰À Á¥À ÁÍÀ ÂÀ Â!À Â(À Â9À ÂeÀ ÂÀ ÂšÀ ÂÙÀ ÂçÀ ÃÀ Ã-À ÃNÀ Ã‚À Ã´À ÃêÀ ÄÀ Ä)À ÄNÀ ÄsÀ Ä©À ÄâÀ ÅÀ Å%À ÅAÀ Å\À ÅƒÀ Å¨À ÅİÀ ÆÀ ÆCÀ Æ^À ÆŒÀ Æ±À ÆæÀ ÇÀ ÇBÀ ÇjÀ Ç¤À ÇÀÀ ÇÛÀ ÈÀ È)À È^À È—À ÈÇÀ È×À ÈåÀ ÈñÀ ÈúÀ ÉÀ ÉÀ ÉdÀ É~À ÉÏÀ ÉêÀ Ê1À Ê€À ÊÁÀ ËÀ Ë.À ËJÀ ËLÀ Ë˜À ËªÀ Ë±À ËäÀ ËëÀ ËüÀ ÌEÀ ÌuÀ ÌwÀ Ì¶À Ì½À ÍÀ ÍÀ Í'À Í.À Í~À ÍÀ Í¦À Í¨À ÍÉÀ ÍĞÀ ÍéÀ ÎÀ Î	À ÎXÀ ÎrÀ ÎyÀ Î“À ÎšÀ ÎèÀ Ï9À ÏFÀ ÏMÀ ÏšÀ ÏëÀ ÏüÀ ĞÀ ĞÀ ĞdÀ ĞƒÀ Ğ¥À Ğ§À ÑÀ ÑÀ ÑâÀ ÑéÀ ÒAÀ ÒHÀ ÒYÀ Ò`À ÒßÀ Ó À ÓÀ ÓnÀ ÓuÀ Ô5À Ô<À Ô•À ÔœÀ Ô­À Ô´À Õ;À ÕYÀ Õ[À Õ–À ÕÀ ÕÚÀ ÖÀ ÖLÀ ÖNÀ Ö~À Ö…À ÖÔÀ ×À ×À ×]À ×£À ×ªÀ ×şÀ Ø(À Ø/À Ø>À ØOÀ Ø{À Ø•À Ø°À ØïÀ ØıÀ ÙÀ ÙCÀ ÙdÀ ÙˆÀ Ù³À ÙîÀ ÚÀ Ú4À Ú\À Ú‰À ÚÆÀ ÚÜÀ ÛÀ Û?À ÛkÀ Û‰À Û±À Û×À ÜÀ ÜAÀ ÜWÀ Ü˜À Ü¨À ÜÌÀ ÜçÀ İÀ İ1À İgÀ İ›À İ¿À İŞÀ İúÀ ŞÀ Ş<À ŞaÀ Ş–À ŞÊÀ ŞøÀ ßÀ ßAÀ ßfÀ ß›À ßÏÀ ßóÀ àÀ àUÀ àqÀ àŒÀ àµÀ àÚÀ áÀ áCÀ ásÀ áƒÀ á‘À áÀ á¦À á­À áæÀ á÷À â#À âNÀ â{À â¥À âÇÀ ââÀ ãÀ ã<À ãeÀ ãnÀ ãyÀ ã®À ã°À ãàÀ ãçÀ ä9À äZÀ äaÀ ä±À å&À å-À å¥À åÀÀ åÂÀ æ"À æ)À æuÀ æ½À æÄÀ çÀ çrÀ ç¿À çÿÀ èÀ è À èoÀ èvÀ èÆÀ èÍÀ èŞÀ é+À éaÀ é­À éİÀ ê"À êtÀ ê’À ê”À êÜÀ êãÀ ë0À ëGÀ ë‚À ë„À ëÅÀ ëÌÀ ìÀ ì5À ìnÀ ìpÀ ì’À ì™À ìşÀ íÀ íÀ íÀ í5À í]À í_À ílÀ í©À í¬À í®À íôÀ î8À îEÀ îvÀ î¡À îËÀ îöÀ ï À ïPÀ ïRÀ ïvÀ ï À ïÖÀ ğÀ ğÀ ğGÀ ğ|À ğ¨À ğÖÀ ğúÀ ñÀ ñ5À ñdÀ ñˆÀ ñ±À ñáÀ ñãÀ ñùÀ ñûÀ òÀ òÀ ò>À òuÀ ò²À òãÀ òåÀ ó6À ó_À ó…À ó½À óõÀ ô9À ôHÀ ôlÀ ônÀ ô»À ôñÀ õ	À õÀ õÀ õ[À õ¦À õµÀ õ¼À õ¾À õæÀ ö$À öVÀ ö[À ö]À ö‚À öËÀ ÷À ÷IÀ ÷xÀ ÷¹À ÷ÈÀ ÷ÏÀ ÷ÑÀ ÷óÀ ø:À ødÀ ø‚À ø‰À ø‹À ø®À øïÀ ù+À ùIÀ ùPÀ ùRÀ ùmÀ ù À ùäÀ ú.À úJÀ úpÀ úwÀ ú|À ú~À úÂÀ ûÀ ûÀ ûÀ û À û_À ûªÀ ûäÀ ü-À üMÀ üpÀ ü¯À üéÀ ı,À ıFÀ ıcÀ ıµÀ şÀ ş5À şYÀ ş¦À şéÀ ÿÀ ÿ\À ÿ¤À ÿ¯À ÿ¸À ÿŞÀ ÿÿÀ #À tÀ –À »À ÄÀ ËÀ ĞÀ ÒÀÀMÀwÀ•ÀÁÀ	ÀÀÀÀ:ÀmÀ¥ÀÏÀ ÀDÀtÀÀÀÉÀĞÀùÀÀ"À$À7ÀVÀ£ÀÇÀÉÀóÀõÀÀGÀzÀ¶À¸ÀîÀ ÀTÀ›À¢ÀØÀ!À(À*ÀaÀ¡ÀÚÀÀÀEÀ”À·ÀıÀÿÀ	'À	QÀ	†À	¹À	ğÀ	òÀ
+À
+aÀ
+œÀ
+ÚÀÀÀ'ÀvÀxÀ­ÀüÀşÀÀ!À#À1ÀIÀsÀ”À™À›À©ÀğÀÀDÀ~À´À»À½ÀàÀğÀÀ5ÀSÀXÀZÀ–ÀØÀçÀîÀğÀ2À4ÀPÀwÀ¢ÀÈÀÊÀÀ^ÀÀ²ÀØÀùÀÀnÀuÀzÀ|À¦ÀËÀôÀCÀiÀpÀrÀÀàÀèÀõÀ]À¥ÀÀPÀÀÀ¨ÀàÀçÀéÀÀÀÀ5ÀsÀ’À¥ÀºÀßÀèÀïÀñÀÀ6À€À³ÀºÀ¿ÀÁÀïÀ'ÀgÀÀÏÀÀ7ÀzÀÂÀêÀ.ÀhÀÀÏÀÀ=À€À…À‡ÀÃÀøÀ3ÀpÀ·À÷ÀùÀ
+ÀgÀqÀ€ÀçÀXÀ·ÀõÀ4ÀNÀ_ÀhÀjÀ´À÷ÀùÀÀ(À1À3ÀDÀ ÀªÀ¹À /À ’À äÀ!+À!-À!|À!~À!ÅÀ!ÿÀ"À"PÀ"œÀ"À"½À"ÎÀ"×À"ÙÀ"îÀ#À#<À#GÀ#NÀ#SÀ#UÀ#ƒÀ#‘À#©À#ÂÀ#ÇÀ#ÉÀ#úÀ$À$ZÀ$™À$ÏÀ%À%RÀ%rÀ%ÃÀ&À&9À&LÀ&WÀ&YÀ&šÀ&ºÀ'	À'0À'~À'ÎÀ(	À(>À(À(ÄÀ)À)9À)LÀ)]À)•À)ØÀ)ıÀ*À*À*$À*-À*4À*9À*;À*`À*¢À*±À*¸À*ËÀ+À+(À+*À+zÀ+µÀ+áÀ,(À,1À,3À,[À,ŒÀ,À,ÎÀ-	À-JÀ-wÀ-¨À-ëÀ-öÀ-øÀ.À.À.À.SÀ.¢À.ÛÀ/À/EÀ/tÀ/ÃÀ/ÌÀ/ÎÀ/ğÀ0.À07À09À0]À0«À0ÍÀ1À18À1ˆÀ1¿À1ğÀ1ûÀ2À2À2À2=À2VÀ2qÀ2sÀ2ÀÀ3À3(À31À3{À3¼À3ÃÀ3ÅÀ4À46À4oÀ4¬À4óÀ54À5;À5@À5BÀ5”À5±À5üÀ6#À6gÀ6¯À6øÀ78À7`À7~À7¦À7­À7ÖÀ7ıÀ8EÀ8‘À8ŞÀ9À9aÀ9«À9óÀ:À:CÀ:qÀ:ÂÀ;À;'À;SÀ;…À;ÁÀ;ÌÀ;ÕÀ;ÜÀ;áÀ;ãÀ;ÿÀ<À<$À<IÀ<bÀ<}À<†À<‹À<À<©À<ãÀ<òÀ<ùÀ<ûÀ=GÀ=À=‘À=­À=¼À=ÃÀ=ÅÀ> À>KÀ>MÀ>À>À>—À>™À>ÄÀ?À?VÀ?XÀ?hÀ?µÀ?ğÀ?ùÀ@À@UÀ@£À@ñÀABÀAqÀA£ÀAÉÀAéÀB ÀB"ÀBLÀBiÀB‚ÀBŸÀB¦ÀB«ÀB­ÀBàÀBıÀCÀC!ÀCDÀCwÀCšÀCÏÀDÀDÀDÀDÀDTÀD…ÀD–ÀDŸÀD¡ÀDæÀE
+ÀEÀEÀEÀELÀE€ÀE‡ÀE³ÀE¸ÀEºÀE×ÀEøÀEıÀEÿÀFBÀFeÀFÀF—ÀFºÀFİÀFäÀFéÀFëÀGÀGCÀG`ÀGÀG¶ÀGÛÀHÀH>ÀH…ÀHÂÀIÀIÀIOÀI”ÀI–ÀI¶ÀIÉÀIÔÀIëÀIşÀJÀJ>ÀJeÀJ¤ÀJÊÀJøÀK$ÀKFÀKSÀK`ÀKiÀKpÀKrÀK²ÀKÌÀKÓÀKÕÀKÿÀLÀLeÀL—ÀL¢ÀL©ÀL«ÀLÑÀLæÀM/ÀMWÀMƒÀMÊÀMîÀMùÀN ÀNÀN/ÀNDÀN¾ÀNÉÀNĞÀNÒÀOÀO=ÀODÀOFÀOnÀOƒÀO­ÀOÍÀOôÀPÀP,ÀP.ÀPPÀP[ÀPbÀPgÀPiÀP‘ÀP­ÀPÈÀPåÀQÀQ5ÀQUÀQ{ÀQ¹ÀQïÀR#ÀR]ÀR£ÀRÕÀSÀSMÀS…ÀS¿ÀSïÀT/ÀTqÀT—ÀTÉÀUÀU3ÀUkÀU¯ÀUáÀVÀVKÀVÀVÉÀWÀW3ÀWXÀW}ÀW³ÀWóÀX5ÀXsÀX­ÀXùÀY1ÀY{ÀY§ÀY×ÀZÀZ1ÀZYÀZÀZİÀ[!À[QÀ[‹À[ÇÀ[ûÀ\5À\qÀ\§À\ßÀ]À]8À]lÀ]ˆÀ]ºÀ]ÙÀ^À^LÀ^nÀ^¦À^ËÀ_
+À_AÀ_iÀ_‰À_µÀ_íÀ`-À`aÀ`‹À`ÁÀ`ñÀa#ÀaWÀa‡Àa»ÀaíÀbÀbÀbDÀbzÀb©Àb°ÀbµÀb·ÀbôÀcÀcÀcGÀcŒÀc²Àd Àd#Àd_ÀdnÀd¹ÀdöÀdşÀeÀe\Àe¬ÀeğÀf2Àf_Àf“Àf¿ÀgÀg?ÀgfÀgÀgâÀhÀhMÀh{Àh¯ÀhûÀi%ÀiuÀiÀiŞÀj,Àj~Àj¬ÀjúÀk%ÀkcÀk¯ÀkğÀl#ÀliÀl ÀlØÀmÀmCÀm•Àm¿ÀmûÀnEÀn}Àn©ÀnéÀoÀoFÀo„Ào¨ÀoğÀpÀpQÀpSÀp¥ÀpÛÀq$Àq-ÀqfÀq¨Àq¯Àq±ÀqâÀrÀrHÀr“ÀrœÀr×ÀsÀs"Às$ÀsoÀs»ÀsÂÀsÄÀsçÀt!ÀtiÀtkÀtˆÀtÄÀtæÀu8Àu:ÀuƒÀu™Àu½ÀuıÀv:ÀvwÀv³ÀvïÀvñÀwÀw9ÀwaÀw¡ÀwåÀxÀx/Àx1ÀxnÀxªÀxÑÀy
+ÀyÀyÀy%Ày'ÀyGÀynÀy¼ÀyŞÀz'ÀzIÀznÀzÀÀzùÀ{,À{tÀ{ÉÀ|À|<À|eÀ|‹À|¸À|ñÀ}$À}1À}<À}EÀ}LÀ}NÀ}tÀ}œÀ}ÒÀ~À~UÀ~”À~ŸÀ~ÍÀ~ÖÀ~İÀ~ßÀÀEÀ‚À¼ÀíÀ€+À€mÀ€vÀ€}À€À€›À€¸À€ØÀ€şÀÀGÀmÀÀ­ÀÕÀúÀ‚!À‚>À‚]À‚ƒÀ‚¢À‚ÖÀƒÀƒ\ÀƒšÀƒàÀ„À„\À„}À„©À„ÂÀ„ÄÀ…À…hÀ…¦À…÷À†!À†*À†hÀ†À†¶À†ÛÀ†ÿÀ‡MÀ‡™À‡ßÀ‡ìÀˆ*Àˆ5Àˆ>Àˆ@ÀˆjÀˆ°ÀˆæÀˆèÀ‰#À‰SÀ‰˜À‰šÀ‰ÔÀŠ
+ÀŠÀŠÀŠOÀŠ}ÀŠ¯ÀŠÖÀ‹ À‹)À‹+À‹KÀ‹MÀ‹ŠÀ‹ËÀ‹ÔÀ‹ÖÀ‹ùÀŒÀŒ'ÀŒ)ÀŒEÀŒGÀŒiÀŒkÀŒ—ÀŒ™ÀŒÆÀÀIÀvÀ¬À®ÀÛÀİÀûÀÀ=ÀeÀÀÖÀÀ@ÀeÀªÀµÀ¾ÀÀÀÀ`À¯ÀöÀ‘À‘6À‘wÀ‘™À‘ÊÀ‘õÀ’&À’iÀ’kÀ’·À“À“UÀ“vÀ“–À“ßÀ”À”À”FÀ”QÀ”ZÀ”\À”zÀ”£À”ÅÀ”êÀ•À•2À•ZÀ•›À•¾À•ôÀ•ıÀ•ÿÀ–!À–`À–„À–©À–ÑÀ–øÀ—"À—DÀ—„À—®À—ØÀ—ãÀ—ìÀ—îÀ˜#À˜rÀ˜¼À˜âÀ˜ëÀ˜íÀ™À™À™gÀ™³À™åÀšÀš`ÀšÀš­ÀšşÀ›,À›uÀ›€À›¢À›ÆÀœÀœ9ÀœBÀœIÀœNÀœPÀœyÀœ¡Àœ¾ÀœëÀ"À\ÀÀªÀàÀåÀçÀ ÀPÀ~À£ÀÏÀëÀŸ/ÀŸ\ÀŸuÀŸÇÀŸÎÀŸĞÀŸöÀ AÀ ~À ¾À ùÀ¡ À¡À¡À¡ZÀ¡aÀ¡cÀ¡•À¡ÍÀ¢À¢AÀ¢À¢µÀ¢·À¢ÜÀ£À£À£À£À£<À£nÀ£˜À£ËÀ£óÀ¤=À¤DÀ¤pÀ¤œÀ¤£À¤¥À¤÷À¥=À¥qÀ¥£À¥ÔÀ¦	À¦SÀ¦•À¦ÓÀ§À§#À§oÀ§³À§óÀ¨<À¨EÀ¨LÀ¨QÀ¨SÀ¨zÀ¨«À¨áÀ¨èÀ¨êÀ©À©LÀ©SÀ©UÀ©‚À©¹À©ÀÀ©ÅÀ©ÇÀ©åÀª Àª\ÀªŒÀª¿Àª÷À«À«À«%À«*À«,À«JÀ«yÀ« À«âÀ¬À¬0À¬QÀ¬oÀ¬À¬°À¬²À¬úÀ¬ÿÀ­À­)À­[À­À­ÏÀ­üÀ®À®À®.À®cÀ®•À®ÚÀ¯
+À¯À¯À¯[À¯¥À¯ËÀ¯øÀ°À°%À°DÀ°“À°ĞÀ°×À°ÜÀ°ŞÀ±À±4À±;À±xÀ±À±¤À±ãÀ²$À²+À²mÀ²±À²şÀ³+À³oÀ³¥À³äÀ´À´XÀ´hÀ´¦À´¯À´¶À´»À´½À´ÊÀ´ìÀµ ÀµRÀµ‰ÀµÂÀµ÷ÀµùÀ¶%À¶ZÀ¶\À¶¡À¶£À¶ÛÀ·'À·.À·0À·rÀ·tÀ·–À·ÔÀ¸#À¸WÀ¸¨À¸ÔÀ¸çÀ¸ùÀ¹À¹bÀ¹dÀ¹´À¹üÀºLÀºkÀº˜ÀºÛÀ»À»4À»VÀ»˜À»¹À¼
+À¼À¼'À¼OÀ¼VÀ¼XÀ¼|À¼À¼ƒÀ¼À¼ÀÀ¼çÀ½
+À½À½À½À½FÀ½sÀ½À½–À½˜À½³À½úÀ¾CÀ¾•À¾ÖÀ¿%À¿'À¿œÀ¿ÿÀÀ6ÀÀrÀÀ­ÀÀ¶ÀÀİÀÀõÀÁ)ÀÁaÀÁlÀÁÀÁ¿ÀÁ÷ÀÂ ÀÂÀÂ"ÀÂAÀÂbÀÂ™ÀÂ£ÀÂ¬ÀÂ±ÀÂ³ÀÂÀÀÂÔÀÂûÀÂıÀÃÀÃ]ÀÃÀÃ‡ÀÃ”ÀÃŞÀÄZÀÄÇÀÅ	ÀÅBÀÅtÀÅ­ÀÅØÀÅôÀÆÀÆ)ÀÆHÀÆhÀÆ˜ÀÆÇÀÆòÀÆùÀÇ@ÀÇbÀÇ‰ÀÇĞÀÇüÀÈ*ÀÈ,ÀÈ;ÀÈwÀÈÂÀÈÊÀÈ×ÀÉ6ÀÉÀÉÕÀÉúÀÊ,ÀÊeÀÊ{ÀÊ€ÀÊƒÀÊ…ÀÊÈÀÊÍÀËÀËSÀË—ÀË¤ÀËçÀËøÀËıÀÌNÀÌ_ÀÌdÀÌ´ÀÌÅÀÌÓÀÍÀÍÀÍDÀÍUÀÍ…ÀÍÄÀÎÀÎ]ÀÎ„ÀÎÑÀÏ"ÀÏ5ÀÏKÀÏPÀÏaÀÏ˜ÀÏ¼ÀÏøÀĞ/ÀĞJÀĞSÀĞZÀĞcÀĞeÀĞ©ÀĞÇÀÑÀÑÀÑ8ÀÑtÀÑvÀÑ³ÀÑºÀÒ	ÀÒYÀÒjÀÒqÀÒ¾ÀÒùÀÓ ÀÓMÀÓÀÓˆÀÓÚÀÔÀÔÀÔCÀÔÀÔ—ÀÔøÀÕLÀÕ†ÀÕˆÀÕ¿ÀÕÁÀÕ÷ÀÕùÀÖQÀÖˆÀÖŠÀÖÏÀÖãÀ×À×À×>À×@À×€À×ªÀ×¬À×óÀ×úÀØHÀØ[ÀØbÀØ•ÀØßÀØşÀÙ<ÀÙ‡ÀÙ‰ÀÙÚÀÚ%ÀÚkÀÚrÀÚ¸ÀÚüÀÛÀÛLÀÛÀÛ”ÀÛáÀÜÀÜ.ÀÜgÀÜzÀÜ¬ÀÜíÀİ8ÀİŠÀİ³ÀŞÀŞUÀŞjÀŞ‚ÀŞ‰ÀŞœÀŞÌÀŞäÀŞïÀŞöÀß	ÀßBÀßhÀß¦ÀßßÀßüÀàÀàÀàÀà"Àà0ÀàZÀàmÀàrÀàtÀàÀÀàÕÀàÜÀá(ÀáxÀá‘Àá˜ÀáèÀáïÀáşÀâÀâ;ÀâUÀâpÀâ¯Àâ½ÀâÖÀâïÀã
+Àã1ÀãRÀã‡ÀãÖÀäÀäÀä+ÀäFÀätÀä™ÀäÁÀåÀåQÀå©Àå÷ÀæÀæÀæ-Àæ;ÀæGÀæPÀæZÀækÀærÀæÁÀæÖÀç(ÀçGÀç‘ÀçàÀè ÀèiÀèkÀè¤Àè«ÀèıÀéKÀéuÀé|ÀéÍÀêÀêiÀêºÀëÀë/Àë6Àë€ÀëÒÀìÀì Àì1Àì8ÀìŠÀì˜Àì¦Àì×ÀìùÀíÀíÀí?ÀírÀí{Àí€Àí‚ÀíáÀîCÀî…Àî¢Àî½ÀîãÀïÀï/ÀïIÀïqÀïxÀï}ÀïÀï–ÀïäÀğ	ÀğCÀğƒÀğÁÀğäÀñÀñÀñeÀñ±ÀñÚÀòÀò#Àò,Àò3ÀòqÀò˜ÀòÀòŸÀòîÀó8ÀófÀómÀó™ÀóÍÀóóÀô'Àô.ÀôrÀô¿ÀõÀõ^ÀõeÀõlÀõ»ÀõğÀõ÷ÀöÀö?ÀöRÀö„ÀöÅÀ÷À÷bÀ÷‹À÷ÚÀø-ÀøBÀøZÀøaÀøtÀø­ÀøÓÀùÀùJÀùgÀùrÀùyÀù‹ÀùàÀúÀú0ÀúMÀúœÀúµÀúÚÀú÷ÀûFÀû_ÀûfÀûšÀû²ÀûÀÀûÇÀüÀüaÀüvÀüÁÀüÏÀüÛÀüâÀıÀıÀı%Àı0Àı>ÀıÀı×ÀıëÀş
+ÀşUÀşiÀşpÀşrÀş¼ÀÿÀÿHÀÿMÀÿOÀÿbÀÿ°ÀÿíÀ 
+À À BÀ UÀ ^À À ›À ¸À ËÀ ïÀÀÀ;ÀBÀGÀIÀgÀŒÀ²ÀÙÀçÀÀÀÀWÀÀÃÀìÀ1À8À:ÀÀ¤À¦ÀóÀGÀ`ÀeÀgÀ«ÀêÀñÀ ÀÀ=ÀWÀrÀ±À¿ÀØÀñÀÀ3ÀTÀ‰ÀØÀÀÀ-ÀHÀvÀ›ÀÃÀÀQÀ©À÷À	À	À	-À	;À	GÀ	PÀ	[À	lÀ	†À	ÌÀ	ÑÀ	ÓÀ
+!À
+sÀ
+³À
+µÀ
+óÀÀ#ÀnÀ…ÀŒÀÀ¤ÀğÀ=ÀXÀfÀ”À–ÀŞÀåÀÀQÀXÀ£ÀºÀÈÀñÀóÀ:ÀAÀPÀaÀÀ¥À¼ÀÓÀÀ^À¤ÀøÀBÀUÀeÀ‚À®ÀÏÀÀZÀoÀ}À‰À’ÀÀåÀ&À\ÀˆÀŸÀ§À©ÀÚÀÜÀÀ7À>ÀCÀEÀ€À‡À–À§ÀÓÀëÀÀÀbÀ¤ÀêÀ>ÀˆÀ›À«ÀÈÀ÷ÀÀTÀ¦À»ÀÉÀÕÀŞÀéÀ4ÀkÀ±ÀÀÀÇÀÉÀÀ8À:ÀYÀ†À”ÀÇÀÎÀĞÀúÀ+À2À7À9ÀˆÀ°À·ÀÀÀ%À4ÀEÀqÀ‰À À·À ÀBÀˆÀÜÀ&À9ÀIÀfÀ•À¶ÀíÀÀÀÀ%À0À]À†ÀÔÀÀ1ÀfÀqÀ™À½ÀëÀ À+À4À;À@ÀBÀˆÀÀÀéÀ -À 4À 6À PÀ RÀ ›À ÀÀ ÅÀ ÇÀ!À!À!dÀ!‡À!À!À!¤À!îÀ!õÀ"À"À"*À"bÀ"ŸÀ"ÃÀ#À#AÀ#ZÀ#’À#ÉÀ#İÀ#úÀ$À$À$`À$ŠÀ$§À$ÚÀ%À%,À%NÀ%’À%¿À%óÀ&+À&ZÀ&À&£À&éÀ&ıÀ'2À'_À'ŠÀ'­À'ãÀ'ÿÀ()À(>À(RÀ(À(ÑÀ)À)?À)SÀ)fÀ)qÀ)zÀ)…À)ÒÀ*À*lÀ*„À*¸À+
+À+À+!À+#À+\À+cÀ+®À+ËÀ+ÒÀ,À,jÀ,­À,ıÀ-IÀ-™À-µÀ-ÇÀ-ÌÀ-ÎÀ.À.À.\À.ªÀ.ğÀ/À/$À/oÀ/¢À/©À/¹À/ÊÀ0À0;À0iÀ0‚À0ÀÀ0÷À1À1 À1'À1dÀ1kÀ1¬À1¿À1ÊÀ1ÑÀ1ûÀ2BÀ2‹À2’À2ÒÀ3À3À3!À3sÀ3“À3±À3ºÀ3ÄÀ4À4gÀ4„À4†À4ËÀ4éÀ4ğÀ5<À5ŒÀ5¸À6À6"À64À69À6;À6À6½À7À7+À7-À7:À7À7¶À7ßÀ8À8À8À8IÀ8lÀ8nÀ8°À8åÀ9À9KÀ9MÀ9ŸÀ9ÁÀ9íÀ:À:À:À:XÀ:ªÀ:ùÀ;À;0À;7À;9À;hÀ;€À;‚À;¨À;­À;¯À<À<
+À<XÀ<hÀ<oÀ<¾À<şÀ=HÀ=À=ÀÀ=ÂÀ=êÀ>À>8À>vÀ>¤À>ËÀ?À?;À?dÀ?¨À?ïÀ?üÀ@À@À@%À@3À@~À@…À@ŠÀ@ŒÀ@×À@ŞÀA.ÀAvÀAºÀAÁÀBÀBÀBbÀBŠÀB±ÀBÚÀC ÀCÀC0ÀC5ÀC8ÀC:ÀC}ÀCÏÀCöÀCùÀCûÀD:ÀDrÀD¸ÀDØÀDÛÀDİÀEÀE2ÀEPÀESÀEUÀEzÀEÀEÏÀFÀF/ÀF4ÀF‚ÀFµÀFöÀGFÀGaÀGxÀG˜ÀG¹ÀGùÀHÀHGÀHxÀH¤ÀHÂÀHŞÀHãÀHåÀIÀIÀI^ÀI‹ÀIÃÀJÀJÀJLÀJyÀJ²ÀJßÀJîÀJõÀJ÷ÀKÀKhÀKmÀKoÀK¢ÀKÎÀKåÀKçÀL&ÀLgÀLiÀLÀL·ÀLòÀMÀMRÀM`ÀMuÀM|ÀMÀMƒÀM¶ÀMãÀNÀN!ÀN(ÀN*ÀNRÀNÀN£ÀN¥ÀNÙÀNàÀO,ÀOAÀOrÀOÀO’ÀOÆÀOÍÀPÀP.ÀP`ÀP‹ÀPšÀP¡ÀP£ÀPÇÀQÀQÀQÀQTÀQ…ÀQ¥ÀQ§ÀQåÀRÀR<ÀR>ÀR‹ÀRÉÀSÀS+ÀS2ÀSÀSÌÀTÀTDÀTyÀTÁÀTîÀU%ÀUJÀU€ÀU…ÀU‡ÀU°ÀU·ÀV ÀVÀVJÀVÀVƒÀVÄÀVÿÀW)ÀWdÀW‰ÀWÀÀXÀXUÀX’ÀXĞÀYÀY_ÀY³ÀYËÀZ	ÀZÀZ'ÀZdÀZœÀZÚÀ[À[dÀ[ŠÀ[•À[À[¥À[ªÀ[¬À[ïÀ[öÀ\KÀ\RÀ\À\ïÀ]AÀ]mÀ]¯À]ĞÀ^À^IÀ^{À^¥À^àÀ_À_.À_eÀ_‘À_ËÀ_ÍÀ`À`CÀ`À`’À`›À`À`ÛÀaÀa_Àa—Àa¶ÀbÀbFÀbyÀb{ÀbÂÀbâÀc,ÀccÀc‹ÀcÀcÛÀdÀd0ÀdBÀdKÀdMÀdÀd¨Àd¿ÀdÚÀeÀe+ÀeOÀe{Àe¶ÀeÏÀeÑÀfÀf1ÀfKÀfhÀf”Àf»ÀfâÀgÀgTÀgpÀgrÀg•ÀgÔÀhWÀh‚ÀhÃÀhÊÀhÏÀhÑÀiÀiÀiaÀihÀi¼ÀiıÀj*ÀjKÀj›ÀjÂÀjûÀk ÀkÀk=ÀkDÀk™Àk ÀkôÀl5ÀlhÀl‰ÀlÙÀmÀm?ÀmDÀmFÀm•ÀmœÀmñÀn'ÀnQÀn{ÀnËÀoÀo"Ào'Ào)ÀowÀo~ÀoÓÀpÀp5Àp_Àp¯ÀqÀqÀqÀqÀqUÀqˆÀq²ÀqíÀrÀrDÀrŒÀrÙÀrêÀróÀrõÀs/ÀsxÀsÀs„Às†ÀsÁÀsÕÀsÿÀt:Àt_Àt‘ÀtÙÀu&Àu7Àu@ÀuBÀuÀu—ÀuœÀuŸÀu¡ÀuîÀvÀvÀv^ÀvcÀvpÀv©Àv²Àv·ÀwÀwÀwÀwXÀwgÀw¶ÀwàÀxÀx1ÀxJÀx]ÀxdÀxkÀxtÀxÀxÌÀxæÀxèÀyÀyÀyfÀy¦ÀyóÀzÀz
+ÀzÀzÀz^Àz›ÀzåÀ{À{À{^À{‹À{À{’À{ÜÀ|À|À|À|JÀ|tÀ|¬À|®À|ÚÀ}À}BÀ}GÀ}IÀ}xÀ}«À}ãÀ}èÀ}êÀ}÷À~À~1À~6À~8À~hÀRÀ`À¦ÀçÀ€À€À€$À€&À€°À€àÀÀ%ÀRÀ›À¬À×ÀşÀ‚6À‚=À‚BÀ‚EÀ‚GÀ‚§À‚ÔÀƒÀƒ=ÀƒXÀƒƒÀƒµÀƒÜÀ„À„3À„6À„8À„zÀ„ºÀ„áÀ„äÀ„æÀ…#À…^À…€À…ƒÀ……À…²À…âÀ†À†À†À†?À†yÀ†¿À†âÀ†îÀ‡À‡À‡À‡À‡OÀ‡’À‡ÏÀˆÀˆ#Àˆ%ÀˆÀˆ£ÀˆÇÀ‰À‰1À‰:À‰?À‰AÀ‰ŒÀ‰»ÀŠÀŠMÀŠhÀŠ±ÀŠáÀ‹À‹À‹À‹À‹À‹pÀ‹ÁÀ‹òÀ‹õÀ‹÷ÀŒHÀŒaÀŒ¤ÀŒÑÀŒÔÀŒÖÀÀ=À‡À¹À¼À¾ÀÀVÀ~ÀÀƒÀÒÀÀIÀLÀNÀ–À³ÀøÀ2À5À7À„ÀÌÀıÀ‘ À‘À‘JÀ‘À‘·À‘íÀ‘ğÀ‘òÀ’=À’†À’¶À’¹À’»À’ÆÀ’ãÀ’ğÀ’òÀ“
+À“UÀ“¡À“´À”À”>À”qÀ”¸À”ÿÀ•FÀ•€À•³À•ñÀ–$À–\À–À–ÇÀ–ùÀ—=À—pÀ—’À—áÀ˜	À˜KÀ˜‰À˜¬À˜ğÀ™À™PÀ™dÀ™‡À™±À™ÌÀšÀš7ÀšgÀš¡ÀšåÀ›)À›OÀ›ŠÀ›À›‘À›À›¼À›¾À›áÀ›üÀ›şÀœÀœ(Àœ*Àœ7Àœ9Àœ]Àœ_ÀœlÀœnÀœŒÀœÀœ›ÀœÀœĞÀœÒÀœßÀœáÀÀÀÀÀ9À;ÀHÀJÀgÀiÀvÀxÀ˜ÀšÀ§À©ÀÍÀÏÀÜÀŞÀÀ
+ÀÀÀJÀLÀYÀ[ÀxÀzÀ‡À‰À®À°À½À¿ÀÙÀÛÀŸÀŸÀŸyÀŸÈÀ À ,À 3À BÀ SÀ À ™À ´À òÀ¡%À¡3À¡UÀ¡‘À¡µÀ¡ÔÀ¡ıÀ¢8À¢sÀ¢°À¢ÅÀ¢åÀ¢úÀ£BÀ£‚À£¥À£§À£ÎÀ£ôÀ¤$À¤CÀ¤nÀ¤„À¤—À¤·À¤ØÀ¥À¥/À¥`À¥xÀ¥ŠÀ¥›À¥»À¥çÀ¦À¦/À¦UÀ¦eÀ¦sÀ¦À¦ˆÀ¦“À¦¯À¦±À§À§À§TÀ§À§¯À§±À§úÀ¨À¨BÀ¨}À¨¢À¨¤À¨õÀ©À©À©xÀ©§À©ª     DataGridRowDataGridCellDataGridRowAdapterStackedHeaderRowStackedHeaderCellGridTableSummaryRowGridSummaryColumn
+SfDataGridSfDataGridStateDataGridSourcerefreshEffectiveRowsperformSortingupdateDataPagerDataGridControllerDataPagerDelegateDataGridSourceChangeNotifier%notifyDataGridPropertyChangeListenershandleLoadMoreRowshandleRefreshupdateDataSourceeffectiveRowssetPageCountupdateSelectedIndexupdateSelectedRowupdateCurrentCellIndexupdateVerticalOffsetupdateHorizontalOffsetsetChildColumnIndexesgetChildColumnIndexesaddFilterConditionsremoveFilterConditionsDataGridThemeHelper á

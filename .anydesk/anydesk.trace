@@ -1,0 +1,968 @@
+ * * * * * * * * * * * * * * * * * *
+   info 2023-11-09 04:44:42.798      front   main  89204 5791373                                  main - * AnyDesk MAC Startup *
+   info 2023-11-09 04:44:42.799      front   main  89204 5791373                                  main - * Version 7.0.1 (mac_release_7.0.1 7920a93bbfda05e2897f5a97c7a8ce848c49d4f3)
+   info 2023-11-09 04:44:42.799      front   main  89204 5791373                                  main - * Build 20230123180253
+   info 2023-11-09 04:44:42.799      front   main  89204 5791373                                  main - * Prefix ad
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - * OS Version 14.0 (Build 23A344)
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - * Launch path /Applications/AnyDesk.app
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - 
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - ppid: 1 uid: 501
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - process maxfiles 256 : -1
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                                  main - raising RLIMIT_NOFILE to 10240
+   info 2023-11-09 04:44:42.802      front   main  89204 5791373                         impl_selector - using neon
+  error 2023-11-09 04:44:42.876      front   main  89204 5791373         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-09 04:44:42.876      front   main  89204 5791373                   fiber.ipc_namespace - Global: no
+   info 2023-11-09 04:44:42.876      front   main  89204 5791373                           AppDelegate - Starting a local service.
+warning 2023-11-09 04:44:42.878      front   main  89204 5791373                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2023-11-09 04:44:42.887       lsvc   main  89206 5791409                                  main - * AnyDesk MAC Startup *
+   info 2023-11-09 04:44:42.888       lsvc   main  89206 5791409                                  main - * Version 7.0.1 (mac_release_7.0.1 7920a93bbfda05e2897f5a97c7a8ce848c49d4f3)
+   info 2023-11-09 04:44:42.888       lsvc   main  89206 5791409                                  main - * Build 20230123180253
+   info 2023-11-09 04:44:42.888       lsvc   main  89206 5791409                                  main - * Prefix ad
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                                  main - * OS Version 14.0 (Build 23A344)
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                                  main - * Launch path /Applications/AnyDesk.app
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                                  main - 
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                                  main - ppid: 89204 uid: 501
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                                  main - process maxfiles 10240 : -1
+   info 2023-11-09 04:44:42.889       lsvc   main  89206 5791409                         impl_selector - using neon
+   info 2023-11-09 04:44:42.890       lsvc   main  89206 5791409                       app.common_path - initialized user = /Users/sebastianramirez/.anydesk, system = /Users/sebastianramirez/.anydesk
+   info 2023-11-09 04:44:42.890       lsvc   main  89206 5791409                      main.run_service - Starting local service.
+   info 2023-11-09 04:44:42.891       lsvc   main  89206 5791409          base.data.config_application - Adding GPO defaults layer.
+   info 2023-11-09 04:44:42.891       lsvc   main  89206 5791409          base.data.config_application - Adding GPO overrides layer.
+   info 2023-11-09 04:44:42.891       lsvc   main  89206 5791409                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-09 04:44:42.891       lsvc   main  89206 5791409                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-09 04:44:42.891       lsvc   main  89206 5791409            permission_profile_manager - Migrating V0 -> V1
+   info 2023-11-09 04:44:42.892       lsvc   main  89206 5791409                       fiber.scheduler - Spawning root fiber 1.
+   info 2023-11-09 04:44:42.892       lsvc   main  89206 5791409                       fiber.scheduler - Scheduler started.
+   info 2023-11-09 04:44:42.892       lsvc   main  89206 5791409    1                      app.service - Opening the IPC namespace.
+   info 2023-11-09 04:44:42.893       lsvc   main  89206 5791409    1              fiber.ipc_namespace - Global: no
+   info 2023-11-09 04:44:42.893       lsvc   main  89206 5791409    1                      app.service - Logging into the IPC namespace.
+   info 2023-11-09 04:44:42.893       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning child fiber 2 'license_adapter' (parent: 1).
+   info 2023-11-09 04:44:42.893       lsvc   main  89206 5791409    1                      app.service - Starting to supervise the IPC namespace.
+   info 2023-11-09 04:44:42.893       lsvc   main  89206 5791409    1                      app.service - Starting the connector.
+   info 2023-11-09 04:44:42.893       lsvc   main  89206 5791409    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2023-11-09 04:44:42.945       lsvc   main  89206 5791409    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2023-11-09 04:44:42.945       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning root fiber 3 'connection_mgr'.
+   info 2023-11-09 04:44:42.945       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning root fiber 4 'main_relay_conn'.
+   info 2023-11-09 04:44:42.945       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning root fiber 5 'tcp_acceptor'.
+   info 2023-11-09 04:44:42.945       lsvc   main  89206 5791409    1                      app.service - Setting up the listen sockets.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning root fiber 6.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1                      app.service - Service startup completed.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1            app.discovery_manager - Starting Discovery.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1                   ad.wol_service - Starting WOL service.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning child fiber 7 'wol_service' (parent: 1).
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning child fiber 8 'invitation_service' (parent: 1).
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    1                      app.service - Waiting for messages.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    3            anynet.connection_mgr - Starting connection manager fiber.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    4           anynet.main_relay_conn - Starting main relay connection.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    4                  fiber.scheduler - Spawning child fiber 9 'relay_connector' (parent: 4 'main_relay_conn').
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    5              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    6                anynet.any_socket - Listen fiber started.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    7                      anynet.conn - Request before connect. Queueing.
+   info 2023-11-09 04:44:42.946       lsvc   main  89206 5791409    9           anynet.relay_connector - Relay connector started.
+   info 2023-11-09 04:44:42.947       lsvc   main  89206 5791409    9           anynet.relay_connector - Start proxy search.
+   info 2023-11-09 04:44:42.947       lsvc   main  89206 5791409    9           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2023-11-09 04:44:42.947       lsvc   main  89206 5791409    9           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-11-09 04:44:42.947       lsvc   main  89206 5791409    9           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-11-09 04:44:42.947       lsvc   main  89206 5791409    9           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-11-09 04:44:42.968       lsvc   main  89206 5791409    9           anynet.relay_connector - Using IPv4: 37.59.29.33
+   info 2023-11-09 04:44:42.979      front   main  89204 5791373                       app.common_path - initialized user = /Users/sebastianramirez/.anydesk, system = /Users/sebastianramirez/.anydesk
+   info 2023-11-09 04:44:42.980      front   main  89204 5791373                           AppDelegate - Starting frontend (6).
+   info 2023-11-09 04:44:42.980      front   main  89204 5791373          base.data.config_application - Adding GPO defaults layer.
+   info 2023-11-09 04:44:42.980      front   main  89204 5791373          base.data.config_application - Adding GPO overrides layer.
+   info 2023-11-09 04:44:42.980      front   main  89204 5791373                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-09 04:44:42.980      front   main  89204 5791373                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-09 04:44:42.981      front   main  89204 5791373                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2023-11-09 04:44:42.981      front   main  89204 5791373                           gui.gui_app - Using high-resolution bitmaps.
+warning 2023-11-09 04:44:42.981      front   main  89204 5791373                          account_info - Could not read account info from config.
+warning 2023-11-09 04:44:42.981      front   main  89204 5791373                          account_info - Could not read account info from config.
+   info 2023-11-09 04:44:42.981      front   main  89204 5791373                       base.signal.hub - 4 threads.
+   info 2023-11-09 04:44:43.005      front   timr  89204 5791419          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-09 04:44:43.005      front   ctrl  89204 5791420                      mac_app.frontend - Frontend startup.
+   info 2023-11-09 04:44:43.005      front   ctrl  89204 5791420                      mac_app.frontend - Logging the frontend in.
+   info 2023-11-09 04:44:43.005       lsvc   main  89206 5791409    1                      app.service - Process start: 89204 (frontend).
+   info 2023-11-09 04:44:43.005       lsvc   main  89206 5791409    1           anynet.relay_connector - Short timeouts enabled.
+   info 2023-11-09 04:44:43.006       lsvc   main  89206 5791409    1                      app.service - New IPC connection.
+   info 2023-11-09 04:44:43.006       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning child fiber 10 'ipc_connection' (parent: 1).
+   info 2023-11-09 04:44:43.006       lsvc   main  89206 5791409   10                      app.service - Creating an IPC accept socket.
+   info 2023-11-09 04:44:43.006       lsvc   main  89206 5791409   10                      app.service - Connected to 89204 (frontend).
+   info 2023-11-09 04:44:43.006       lsvc   main  89206 5791409   10                      app.service - Process login detected.
+warning 2023-11-09 04:44:43.007      front   wrk1  89204 5791422                                   sif - Dropping out of date license response.
+   info 2023-11-09 04:44:43.007       lsvc   main  89206 5791409   10                  fiber.scheduler - Spawning child fiber 11 'account_adapter' (parent: 10 'ipc_connection').
+   info 2023-11-09 04:44:43.007       lsvc   main  89206 5791409   10                      app.service - 5 Unexpected: packet_msg_t.
+   info 2023-11-09 04:44:43.007      front   wrk1  89204 5791422                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-09 04:44:43.020      front   ctrl  89204 5791420                     base.monitor_info - 1 active monitor(s) found.
+   info 2023-11-09 04:44:43.098      front   main  89204 5791373                             url_query - append
+   info 2023-11-09 04:44:43.098      front   main  89204 5791373                             url_query - append
+   info 2023-11-09 04:44:43.098      front   main  89204 5791373                             url_query - append
+   info 2023-11-09 04:44:43.128       lsvc   main  89206 5791409    9                  fiber.scheduler - Spawning root fiber 12.
+  error 2023-11-09 04:44:43.157      front   main  89204 5791373         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-09 04:44:43.422       lsvc   main  89206 5791409    9           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-11-09 04:44:43.422       lsvc   main  89206 5791409    9                  fiber.scheduler - Spawning root fiber 13.
+   info 2023-11-09 04:44:43.431       lsvc   main  89206 5791409    9                        handshake - Using protocol version 3.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 9 'relay_connector' (parent: 4 'main_relay_conn') requested quit of fiber 13.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409   13                      fiber.fiber - Received quit.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 13 terminated.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 9 'relay_connector' (parent: 4 'main_relay_conn') requested quit of fiber 12.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409   12                      fiber.fiber - Received quit.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 12 terminated.
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409    9           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409    9           anynet.relay_connector - Received a new server list (6 servers)
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409    9           anynet.relay_connector - Connecting to relay relay-c4023f00.net.anydesk.com (1/6)
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409    9           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409    9           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-11-09 04:44:43.575       lsvc   main  89206 5791409    9           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-11-09 04:44:43.598       lsvc   main  89206 5791409    9           anynet.relay_connector - Using IPv4: 212.102.40.164
+   info 2023-11-09 04:44:43.658       lsvc   main  89206 5791409    9                  fiber.scheduler - Spawning root fiber 14.
+   info 2023-11-09 04:44:43.767       lsvc   main  89206 5791409    9           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-11-09 04:44:43.767       lsvc   main  89206 5791409    9                  fiber.scheduler - Spawning root fiber 15.
+   info 2023-11-09 04:44:43.769       lsvc   main  89206 5791409    9                        handshake - Using protocol version 3.
+   info 2023-11-09 04:44:44.026       lsvc   main  89206 5791409    9           anynet.relay_connector - Connection established.
+   info 2023-11-09 04:44:44.026       lsvc   main  89206 5791409    9           anynet.relay_connector - Relay connector stopped.
+   info 2023-11-09 04:44:44.026       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 9 'relay_connector' (parent: 4 'main_relay_conn') terminated.
+   info 2023-11-09 04:44:44.029       lsvc   main  89206 5791409    4           anynet.main_relay_conn - Network ID: main
+   info 2023-11-09 04:44:44.030       lsvc   main  89206 5791409    4                anynet.relay_conn - External address: 189.145.93.148:55026.
+   info 2023-11-09 04:44:44.030       lsvc   main  89206 5791409    4           anynet.main_relay_conn - Reporting system information.
+   info 2023-11-09 04:44:44.031       lsvc   main  89206 5791409    4           anynet.main_relay_conn - Main relay ID: c4023f00
+   info 2023-11-09 04:44:44.114       lsvc   main  89206 5791409    4           anynet.main_relay_conn - Detected 2 new networks.
+  error 2023-11-09 04:44:44.114       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (license_msg_t)
+  error 2023-11-09 04:44:44.115       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (connect_msg_t)
+  error 2023-11-09 04:44:44.115       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (user_data_msg_t)
+   info 2023-11-09 04:44:44.115       lsvc   main  89206 5791409    3            anynet.connection_mgr - Main relay connection established.
+   info 2023-11-09 04:44:44.115       lsvc   main  89206 5791409    3            anynet.connection_mgr - New user data. Client-ID: 1785815465.
+warning 2023-11-09 04:44:44.115       lsvc   main  89206 5791409    4                      anynet.conn - Could not send login token. unavailable (66).
+warning 2023-11-09 04:44:44.115       lsvc   main  89206 5791409    4                      anynet.conn - Could not send login token. unavailable (47).
+   info 2023-11-09 04:44:44.137      front   wrk1  89204 5791422                   anymessage.provider - CID changed. Requesting messages update.
+   info 2023-11-09 04:44:44.321       lsvc   main  89206 5791409    1                    app.discovery - Starting.
+   info 2023-11-09 04:44:44.321       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning root fiber 16 'discovery'.
+   info 2023-11-09 04:44:44.321       lsvc   main  89206 5791409   16                    app.discovery - Current Discovery revision: 0
+   info 2023-11-09 04:44:44.322       lsvc   main  89206 5791409   16                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2023-11-09 04:44:44.322       lsvc   main  89206 5791409   16                    app.discovery - Bound to port: 50001
+   info 2023-11-09 04:44:44.322       lsvc   main  89206 5791409   16                anynet.udp_socket - Multicast loop option set to 0
+   info 2023-11-09 04:44:44.327       lsvc   main  89206 5791409   16                    app.discovery - Discovery fiber started.
+   info 2023-11-09 04:44:44.339       lsvc   main  89206 5791409    1                      app.service - License backend service status changed (0->1)
+   info 2023-11-09 04:44:44.340      front   wrk3  89204 5791424                      mac_app.frontend - Received new license info
+  error 2023-11-09 04:44:44.341      front   wrk1  89204 5791422         mac_app.helper_tool_interface - Global files not found.
+  error 2023-11-09 04:44:44.350      front   wrk3  89204 5791424         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-09 04:46:27.526      front   main  89204 5791373                      mac_app.frontend - Sending a connection request for address 1385719658.
+   info 2023-11-09 04:46:27.526      front   timr  89204 5792689          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-09 04:46:27.526      front   timr  89204 5792690          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-09 04:46:27.528       lsvc   main  89206 5791409    1                      app.service - New IPC connection.
+   info 2023-11-09 04:46:27.528       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning child fiber 17 'ipc_connection' (parent: 1).
+   info 2023-11-09 04:46:27.528       lsvc   main  89206 5791409   17                      app.service - Creating an IPC accept socket.
+   info 2023-11-09 04:46:27.529       lsvc   main  89206 5791409   17                      app.service - Connected to 89204 (frontend).
+   info 2023-11-09 04:46:27.552      front   main  89204 5791373                      mac_app.frontend - preventing sleep for frontend user
+   info 2023-11-09 04:46:27.851      front   main  89204 5791373                      mac_app.frontend - Session count: 1
+   info 2023-11-09 04:46:27.851      front   ctrl  89204 5791420                  app.frontend_session - Requesting session.
+   info 2023-11-09 04:46:27.852       lsvc   main  89206 5791409   17                      app.service - Received outgoing connection request for address 1385719658 (direct).
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   17                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   17                      app.service - Creating remote control session.
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   17         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   17                anynet.any_socket - Keepalive is disabled
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   17                      app.session - 1: Connecting to "1385719658"
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   17                  fiber.scheduler - Spawning root fiber 18.
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   18                anynet.any_socket - Connect fiber spawned.
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   18                anynet.any_socket - Connecting to 1385719658.
+   info 2023-11-09 04:46:27.853       lsvc   main  89206 5791409   18                anynet.any_socket - Retrieving client information.
+warning 2023-11-09 04:46:27.853       lsvc   main  89206 5791409    4                      anynet.conn - Could not send login token. unavailable (6).
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18                anynet.any_socket - Client-ID: 1385719658 (FPR: d1208da70290).
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18                anynet.any_socket - Logged in from 177.228.177.53:48726 on relay d059b0ae.
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18            anynet.connection_mgr - Making a new connection to client d1208da70290164f5d889f8c6305f88be77c26fd.
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18                  fiber.scheduler - Spawning root fiber 19.
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18                anynet.any_socket - Sending a connect request (on the clients relay).
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18            anynet.connection_mgr - Making a new connection to relay d059b0ae.
+   info 2023-11-09 04:46:28.273       lsvc   main  89206 5791409   18                  fiber.scheduler - Spawning root fiber 20.
+   info 2023-11-09 04:46:28.274       lsvc   main  89206 5791409   18                      anynet.conn - Request before connect. Queueing.
+   info 2023-11-09 04:46:28.274       lsvc   main  89206 5791409   19                  fiber.scheduler - Spawning child fiber 21 (parent: 19).
+   info 2023-11-09 04:46:28.274       lsvc   main  89206 5791409   20                  fiber.scheduler - Spawning child fiber 22 'relay_connector' (parent: 20).
+   info 2023-11-09 04:46:28.274       lsvc   main  89206 5791409   22           anynet.relay_connector - Relay connector started.
+   info 2023-11-09 04:46:28.274       lsvc   main  89206 5791409   22           anynet.relay_connector - Start proxy search.
+   info 2023-11-09 04:46:28.274       lsvc   main  89206 5791409   22           anynet.relay_connector - Connecting to relay relay-d059b0ae.net.anydesk.com (1/1)
+   info 2023-11-09 04:46:28.296       lsvc   main  89206 5791409   22           anynet.relay_connector - Using IPv4: 216.245.195.98
+   info 2023-11-09 04:46:28.348       lsvc   main  89206 5791409   22                  fiber.scheduler - Spawning root fiber 23.
+   info 2023-11-09 04:46:28.419       lsvc   main  89206 5791409   22           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-11-09 04:46:28.419       lsvc   main  89206 5791409   22                  fiber.scheduler - Spawning root fiber 24.
+   info 2023-11-09 04:46:28.419       lsvc   main  89206 5791409   22                        handshake - Using protocol version 3.
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409   22           anynet.relay_connector - Connection established.
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409   22           anynet.relay_connector - Relay connector stopped.
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 22 'relay_connector' (parent: 20) terminated.
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409   20                anynet.relay_conn - External address: 189.145.93.148:46261.
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409   20           anynet.supp_relay_conn - Relay ID: d059b0ae
+warning 2023-11-09 04:46:28.683       lsvc   main  89206 5791409   20                      anynet.conn - Could not send login token. unavailable (8).
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409   20                anynet.relay_conn - Punch socket set up on port 55043.
+   info 2023-11-09 04:46:28.683       lsvc   main  89206 5791409    3            anynet.connection_mgr - Supplementary relay connection to d059b0ae established.
+   info 2023-11-09 04:46:29.394       lsvc   main  89206 5791409   18                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2023-11-09 04:46:29.394       lsvc   main  89206 5791409   18                anynet.any_socket - Local vport: 10, Remote vport: 10, SID: 1690775405027265
+   info 2023-11-09 04:46:29.394       lsvc   main  89206 5791409   18                anynet.any_socket - Sending 0 queued blobs.
+   info 2023-11-09 04:46:29.394       lsvc   main  89206 5791409   18                anynet.any_socket - Initiating the managed connection.
+warning 2023-11-09 04:46:29.394       lsvc   main  89206 5791409   18                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21           anynet.punch_connector - Spawning fibers for 3 potential connect addresses.
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21           anynet.punch_connector - -> Spawning: 177.228.177.53:48726 (0).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21                  fiber.scheduler - Spawning child fiber 25 (parent: 21).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21           anynet.punch_connector - -> Spawning: 177.228.177.53:7070 (1).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21                  fiber.scheduler - Spawning child fiber 26 (parent: 21).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21           anynet.punch_connector - -> Spawning: 177.228.177.53:7070 (2).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   21                  fiber.scheduler - Spawning child fiber 27 (parent: 21).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   17                      app.session - 1: Net connection established.
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   17                      app.session - 2: Requesting a session.
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 0).
+   info 2023-11-09 04:46:29.395       lsvc   main  89206 5791409   26           anynet.punch_connector - [177.228.177.53:7070] Connecting
+   info 2023-11-09 04:46:29.396       lsvc   main  89206 5791409   27           anynet.punch_connector - [177.228.177.53:7070] Connecting
+   info 2023-11-09 04:46:30.739       lsvc   main  89206 5791409   17                      app.session - Using protocol version 4.
+   info 2023-11-09 04:46:30.739       lsvc   main  89206 5791409   17                      app.session - 2: Session acknowledged.
+   info 2023-11-09 04:46:30.739       lsvc   main  89206 5791409   17                      app.session - 3: Authentication.
+   info 2023-11-09 04:46:30.739      front   wrk1  89204 5791422                  app.frontend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 41, 42
+   info 2023-11-09 04:46:30.739      front   wrk1  89204 5791422                  app.frontend_session - Remote OS: Windows
+   info 2023-11-09 04:46:30.739       lsvc   main  89206 5791409   17                      app.session - Forwarding wait for accept challenge (0).
+   info 2023-11-09 04:46:30.739      front   wrk1  89204 5791422                  app.frontend_session - Connection flags: direct paid 3 4 
+   info 2023-11-09 04:46:30.739      front   wrk1  89204 5791422                  app.frontend_session - Remote version: 8.0.5
+   info 2023-11-09 04:46:30.739      front   wrk2  89204 5791423                  app.frontend_session - Received wait for accept request.
+warning 2023-11-09 04:46:30.742      front   wrk2  89204 5791423                  app.frontend_session - Remote asked for a volatile token, but we have none.
+   info 2023-11-09 04:46:38.811       lsvc   main  89206 5791409   17                      app.session - 3: Session granted.
+   info 2023-11-09 04:46:38.811       lsvc   main  89206 5791409   17                      app.session - Login token set. Updating session stats.
+warning 2023-11-09 04:46:38.811       lsvc   main  89206 5791409   17                      anynet.conn - Could not send login token. unavailable (15).
+   info 2023-11-09 04:46:38.811       lsvc   main  89206 5791409   17                      app.session - 4: Waiting for the frontend to be ready.
+   info 2023-11-09 04:46:38.812      front   ctrl  89204 5791420                  app.frontend_session - Starting connect session.
+   info 2023-11-09 04:46:38.812      front   ctrl  89204 5791420                          memory_arena - Reserving arena of 256 MB
+   info 2023-11-09 04:46:38.812      front   ctrl  89204 5791420                          memory_arena - Reserving arena of 128 MB
+   info 2023-11-09 04:46:38.814      front   ctrl  89204 5791420             desk_rt.display_component - Startup.
+   info 2023-11-09 04:46:38.814      front   ctrl  89204 5791420                      app.clipbrd_comp - Engaging clipboard.
+   info 2023-11-09 04:46:38.814      front   ctrl  89204 5791420                      app.clipbrd_comp - Ready.
+   info 2023-11-09 04:46:38.954      front   ctrl  89204 5791420                  app.frontend_session - Enabling screen capturing.
+   info 2023-11-09 04:46:38.954       lsvc   main  89206 5791409   17                      app.session - 4: Frontend ready.
+   info 2023-11-09 04:46:38.954       lsvc   main  89206 5791409   17                      app.session - 5: Entering processing loop.
+   info 2023-11-09 04:46:38.954      front   ctrl  89204 5791420                  app.frontend_session - Session started.
+   info 2023-11-09 04:46:38.954       lsvc   main  89206 5791409   17         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-09 04:46:38.954       lsvc   main  89206 5791409   17         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-09 04:46:38.955      front   wrk2  89204 5791423                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 41, 42
+   info 2023-11-09 04:46:38.955      front   wrk2  89204 5791423                  app.frontend_session - Received new remote feature map: 67.
+   info 2023-11-09 04:46:38.955      front   wrk1  89204 5791422                  app.frontend_session - Keyboard layouts differ (l:unknown != r:unknown). Auto-mode is Translate, user-mode is 0.
+   info 2023-11-09 04:46:38.955      front   wrk1  89204 5791422             desk_rt.display_component - Received monitor info. Monitor count: 1.
+   info 2023-11-09 04:46:38.955      front   wrk0  89204 5791421                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:38.956      front   wrk2  89204 5791423                  app.frontend_session - Received new audio permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:38.960      front   wrk0  89204 5791421                  app.frontend_session - Updating clipboard permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:38.960      front   wrk0  89204 5791421                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:38.962      front   wrk1  89204 5791422                                glwrap - Initializing OpenGL: 2.1 Metal - 86
+   info 2023-11-09 04:46:38.964      front   wrk2  89204 5791423                  app.frontend_session - Received new permissions to block input: (allowed supported)
+   info 2023-11-09 04:46:38.968      front   wrk0  89204 5791421                  app.frontend_session - Received new sas permissions: (allowed supported)
+   info 2023-11-09 04:46:38.968      front   wrk1  89204 5791422                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:38.987      front   wrk2  89204 5791423                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2023-11-09 04:46:38.989      front   wrk0  89204 5791421                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2023-11-09 04:46:38.990      front   wrk1  89204 5791422                  app.frontend_session - Received new whiteboard permissions: (allowed supported)
+   info 2023-11-09 04:46:38.992      front   wrk2  89204 5791423                  app.frontend_session - Received new TCP tunneling permissions: (enabled forbidden supported)
+   info 2023-11-09 04:46:38.996      front   wrk1  89204 5791422                  app.frontend_session - Received new VPN permissions: (enabled forbidden unsupported)
+   info 2023-11-09 04:46:38.998      front   wrk2  89204 5791423                  app.frontend_session - Received new privacy feature permissions: (disabled forbidden supported)
+   info 2023-11-09 04:46:38.999      front   wrk1  89204 5791422                  app.frontend_session - Updating clipboard_files permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:38.999      front   wrk1  89204 5791422                  app.frontend_session - Received new clipboard_files permissions: (enabled allowed supported)
+   info 2023-11-09 04:46:39.000      front   wrk0  89204 5791421                  app.frontend_session - Received new permission to restart: (allowed supported)
+   info 2023-11-09 04:46:39.001      front   wrk2  89204 5791423                  app.frontend_session - Received new permission to sysinfo: (enabled allowed supported)
+   info 2023-11-09 04:46:39.003      front   wrk1  89204 5791422                  app.frontend_session - Received new permission to mouse_pointer: (allowed supported)
+   info 2023-11-09 04:46:39.004      front   wrk0  89204 5791421                  app.frontend_session - Received new permission to modify_forbidden_windows: (forbidden supported)
+   info 2023-11-09 04:46:39.526      front   wrk1  89204 5791422                  app.frontend_session - Keyboard layouts differ (l:unknown != r:es). Auto-mode is Translate, user-mode is 0.
+   info 2023-11-09 04:46:39.590      front   wrk1  89204 5791422             desk_rt.display_component - Remote resolution changed: Monitor 0 (1920x1080)
+   info 2023-11-09 04:46:39.590      front   wrk1  89204 5791422                  desk_rt.gl_view.port - Created back texture 1920x1080
+   info 2023-11-09 04:46:39.590      front   wrk1  89204 5791422                  desk_rt.gl_view.port - Initialized (1920x1080, X8R8G8B8).
+   info 2023-11-09 04:46:40.558      front   wrk0  89204 5791421                  app.frontend_session - Requesting a new thumbnail.
+   info 2023-11-09 04:46:40.558      front   wrk0  89204 5791421             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.fwd.local.1385719658.
+   info 2023-11-09 04:46:40.558      front   wrk0  89204 5791421             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.bwd.local.1385719658.
+   info 2023-11-09 04:46:40.558       lsvc   main  89206 5791409   17            app.tcp_tunnel.config - deserialized rules 2
+   info 2023-11-09 04:46:40.558       lsvc   main  89206 5791409   17            app.tcp_tunnel.config - Forward rules:
+   info 2023-11-09 04:46:42.082      front   wrk1  89204 5791422                  app.frontend_session - Updated the thumbnail.
+   info 2023-11-09 04:46:44.398       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+   info 2023-11-09 04:46:44.398       lsvc   main  89206 5791409   26           anynet.punch_connector - [177.228.177.53:7070] Connection failed (result_timeout)).
+   info 2023-11-09 04:46:44.398       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 26 (parent: 21) terminated.
+   info 2023-11-09 04:46:44.398       lsvc   main  89206 5791409   27           anynet.punch_connector - [177.228.177.53:7070] Connection failed (result_timeout)).
+   info 2023-11-09 04:46:44.398       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 27 (parent: 21) terminated.
+   info 2023-11-09 04:46:44.650       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 1).
+warning 2023-11-09 04:46:50.665      front   wrk1  89204 5791422                  app.frontend_session - Mouse click was ignored due to insufficient privileges.
+   info 2023-11-09 04:46:59.651       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+   info 2023-11-09 04:46:59.905       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 2).
+   info 2023-11-09 04:47:01.541      front   wrk1  89204 5791422                   audio.device_render - Starting render, queue full.
+   info 2023-11-09 04:47:14.909       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+   info 2023-11-09 04:47:15.161       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 3).
+   info 2023-11-09 04:47:30.161       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+  error 2023-11-09 04:47:30.161       lsvc   main  89206 5791409   25           anynet.punch_connector - [177.228.177.53:48726] Too many retries.
+   info 2023-11-09 04:47:30.161       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 25 (parent: 21) terminated.
+   info 2023-11-09 04:47:30.161       lsvc   main  89206 5791409   21           anynet.punch_connector - All connect fibers have failed.
+   info 2023-11-09 04:47:35.163       lsvc   main  89206 5791409   21           anynet.punch_connector - Quit timeout has expired. Connect failed.
+   info 2023-11-09 04:47:35.164       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 21 (parent: 19) terminated.
+  error 2023-11-09 04:47:35.164       lsvc   main  89206 5791409   19       anynet.managed_client_conn - Connect error (result_unknown).
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409   19            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409   19       anynet.managed_client_conn - Managed client connection failed.
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 19 terminated.
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409    3            anynet.connection_mgr - Managed client connection with d1208da70290164f5d889f8c6305f88be77c26fd failed (result_unknown).
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409    3            anynet.connection_mgr - Cleaned up 1/1 managed client connections.
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409    3            anynet.connection_mgr - Cleaned up 0/1 supplemental relay connections.
+   info 2023-11-09 04:47:35.165       lsvc   main  89206 5791409   18                anynet.any_socket - Direct connection closed (result_unknown).
+   info 2023-11-09 04:53:25.817      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (786 b).
+   info 2023-11-09 05:02:59.935      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (114 b).
+   info 2023-11-09 05:25:56.785      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (12 b).
+   info 2023-11-09 05:27:25.032      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (1002 b).
+   info 2023-11-09 05:27:25.385      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (1002 b).
+warning 2023-11-09 05:28:10.033      front   main  89204 5791373                         input_handler - KB translate mode failed for NSEvent: type=KeyDown loc=(646.438,362.578) time=257985.1 flags=0x80120 win=0x14bf22c60 winNum=36330 ctxt=0x0 chars="" unmodchars="a" repeat=0 keyCode=0
+   info 2023-11-09 05:28:13.891      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (3026 b).
+   info 2023-11-09 05:38:01.194      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (162 b).
+   info 2023-11-09 05:46:39.336      front   ctrl  89204 5791420                  app.frontend_session - Stopping session.
+   info 2023-11-09 05:46:39.402      front   ctrl  89204 5791420             desk_rt.display_component - Stopping objects.
+   info 2023-11-09 05:46:39.414      front   ctrl  89204 5791420                      app.clipbrd_comp - Closing clipboard.
+   info 2023-11-09 05:46:39.414      front   ctrl  89204 5791420                      app.clipbrd_comp - Clipboard closed.
+   info 2023-11-09 05:46:39.415      front   ctrl  89204 5791420                  app.frontend_session - Session stopped.
+   info 2023-11-09 05:46:39.415       lsvc   main  89206 5791409   17                      app.session - IPC socket closed normally.
+   info 2023-11-09 05:46:39.415       lsvc   main  89206 5791409   17                      app.session - 5: Processing done.
+   info 2023-11-09 05:46:39.416       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 17 'ipc_connection' (parent: 1) requested quit of fiber 18.
+   info 2023-11-09 05:46:39.416       lsvc   main  89206 5791409   18                anynet.any_socket - Received quit.
+   info 2023-11-09 05:46:39.416       lsvc   main  89206 5791409   18                anynet.any_socket - Connect fiber stopped.
+   info 2023-11-09 05:46:39.416       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 18 terminated.
+   info 2023-11-09 05:46:39.416       lsvc   main  89206 5791409    3            anynet.connection_mgr - Scheduling cleanup in 30 seconds.
+   info 2023-11-09 05:46:39.417       lsvc   main  89206 5791409   17                      app.service - Fiber exit (ipc).
+   info 2023-11-09 05:46:39.417       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 17 'ipc_connection' (parent: 1) terminated.
+   info 2023-11-09 05:46:39.709      front   main  89204 5791373                      mac_app.frontend - restoring idle sleep for frontend user
+   info 2023-11-09 05:46:47.513      front   main  89204 5791373                      mac_app.frontend - Sending a connection request for address 1385719658.
+   info 2023-11-09 05:46:47.514      front   timr  89204 5828273          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-09 05:46:47.514      front   timr  89204 5828272          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-09 05:46:47.516       lsvc   main  89206 5791409    1                      app.service - New IPC connection.
+   info 2023-11-09 05:46:47.517       lsvc   main  89206 5791409    1                  fiber.scheduler - Spawning child fiber 28 'ipc_connection' (parent: 1).
+   info 2023-11-09 05:46:47.517       lsvc   main  89206 5791409   28                      app.service - Creating an IPC accept socket.
+   info 2023-11-09 05:46:47.518       lsvc   main  89206 5791409   28                      app.service - Connected to 89204 (frontend).
+   info 2023-11-09 05:46:47.867      front   main  89204 5791373                      mac_app.frontend - preventing sleep for frontend user
+   info 2023-11-09 05:46:48.161      front   main  89204 5791373                      mac_app.frontend - Session count: 2
+   info 2023-11-09 05:46:48.161      front   ctrl  89204 5791420                  app.frontend_session - Requesting session.
+   info 2023-11-09 05:46:48.162       lsvc   main  89206 5791409   28                      app.service - Received outgoing connection request for address 1385719658 (direct).
+   info 2023-11-09 05:46:48.163      front   ctrl  89204 5791420                      mac_app.frontend - Session count: 1
+   info 2023-11-09 05:46:48.164       lsvc   main  89206 5791409   28                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2023-11-09 05:46:48.164       lsvc   main  89206 5791409   28                      app.service - Creating remote control session.
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   28         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   28                anynet.any_socket - Keepalive is disabled
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   28                      app.session - 1: Connecting to "1385719658"
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   28                  fiber.scheduler - Spawning root fiber 29.
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   29                anynet.any_socket - Connect fiber spawned.
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   29                anynet.any_socket - Connecting to 1385719658.
+   info 2023-11-09 05:46:48.165       lsvc   main  89206 5791409   29                anynet.any_socket - Retrieving client information.
+warning 2023-11-09 05:46:48.166       lsvc   main  89206 5791409    4                      anynet.conn - Could not send login token. unavailable (6).
+   info 2023-11-09 05:46:48.234      front   main  89204 5791373                  app.frontend_session - Deleting session.
+   info 2023-11-09 05:46:48.235      front   main  89204 5791373                     gui.display_panel - Deleting.
+   info 2023-11-09 05:46:48.235      front   main  89204 5791373                      mac_app.frontend - restoring idle sleep for frontend user
+   info 2023-11-09 05:46:48.235       lsvc   main  89206 5791409   10                      app.service - Stop monitoring 1385719658.
+   info 2023-11-09 05:46:48.235      front   main  89204 5791373                  desk_rt.gl_view.port - Deleted
+   info 2023-11-09 05:46:48.236      front   main  89204 5791373                          desk_rt.view - View deleted.
+   info 2023-11-09 05:46:48.236      front   main  89204 5791373              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2023-11-09 05:46:48.236      front   timr  89204 5792690          base.signal.local.timer_impl - Timer wants to quit.
+   info 2023-11-09 05:46:48.236      front   timr  89204 5792689          base.signal.local.timer_impl - Timer wants to quit.
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   29                anynet.any_socket - Client-ID: 1385719658 (FPR: d1208da70290).
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   29                anynet.any_socket - Logged in from 177.228.177.53:48726 on relay d059b0ae.
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   29            anynet.connection_mgr - Making a new connection to client d1208da70290164f5d889f8c6305f88be77c26fd.
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   29                  fiber.scheduler - Spawning root fiber 30.
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   29                anynet.any_socket - Sending a connect request (on the clients relay).
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   29            anynet.connection_mgr - Re-using connection to relay d059b0ae.
+warning 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   20                      anynet.conn - Could not send login token. unavailable (8).
+   info 2023-11-09 05:46:48.422       lsvc   main  89206 5791409   30                  fiber.scheduler - Spawning child fiber 31 (parent: 30).
+   info 2023-11-09 05:46:49.013       lsvc   main  89206 5791409   29                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2023-11-09 05:46:49.013       lsvc   main  89206 5791409   29                anynet.any_socket - Local vport: 11, Remote vport: 11, SID: 1690775462708925
+   info 2023-11-09 05:46:49.013       lsvc   main  89206 5791409   29                anynet.any_socket - Sending 0 queued blobs.
+   info 2023-11-09 05:46:49.013       lsvc   main  89206 5791409   29                anynet.any_socket - Initiating the managed connection.
+warning 2023-11-09 05:46:49.013       lsvc   main  89206 5791409   29                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31           anynet.punch_connector - Spawning fibers for 3 potential connect addresses.
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31           anynet.punch_connector - -> Spawning: 177.228.177.53:48726 (0).
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31                  fiber.scheduler - Spawning child fiber 32 (parent: 31).
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31           anynet.punch_connector - -> Spawning: 177.228.177.53:7070 (1).
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31                  fiber.scheduler - Spawning child fiber 33 (parent: 31).
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31           anynet.punch_connector - -> Spawning: 177.228.177.53:7070 (2).
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   31                  fiber.scheduler - Spawning child fiber 34 (parent: 31).
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   28                      app.session - 1: Net connection established.
+   info 2023-11-09 05:46:49.014       lsvc   main  89206 5791409   28                      app.session - 2: Requesting a session.
+   info 2023-11-09 05:46:49.016       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 0).
+   info 2023-11-09 05:46:49.017       lsvc   main  89206 5791409   33           anynet.punch_connector - [177.228.177.53:7070] Connecting
+   info 2023-11-09 05:46:49.017       lsvc   main  89206 5791409   34           anynet.punch_connector - [177.228.177.53:7070] Connecting
+   info 2023-11-09 05:46:50.376       lsvc   main  89206 5791409   28                      app.session - Using protocol version 4.
+   info 2023-11-09 05:46:50.377       lsvc   main  89206 5791409   28                      app.session - 2: Session acknowledged.
+   info 2023-11-09 05:46:50.377       lsvc   main  89206 5791409   28                      app.session - 3: Authentication.
+   info 2023-11-09 05:46:50.377       lsvc   main  89206 5791409   28                      app.session - Forwarding wait for accept challenge (0).
+   info 2023-11-09 05:46:50.377      front   wrk1  89204 5791422                  app.frontend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 41, 42
+   info 2023-11-09 05:46:50.377      front   wrk1  89204 5791422                  app.frontend_session - Remote OS: Windows
+   info 2023-11-09 05:46:50.377      front   wrk2  89204 5791423                  app.frontend_session - Received wait for accept request.
+   info 2023-11-09 05:46:50.377      front   wrk1  89204 5791422                  app.frontend_session - Connection flags: direct paid 3 4 
+   info 2023-11-09 05:46:50.377      front   wrk1  89204 5791422                  app.frontend_session - Remote version: 8.0.5
+warning 2023-11-09 05:46:50.380      front   wrk2  89204 5791423                  app.frontend_session - Remote asked for a volatile token, but we have none.
+   info 2023-11-09 05:46:55.123       lsvc   main  89206 5791409   28                      app.session - 3: Session granted.
+   info 2023-11-09 05:46:55.123       lsvc   main  89206 5791409   28                      app.session - Login token set. Updating session stats.
+warning 2023-11-09 05:46:55.123       lsvc   main  89206 5791409   28                      anynet.conn - Could not send login token. unavailable (15).
+   info 2023-11-09 05:46:55.123       lsvc   main  89206 5791409   28                      app.session - 4: Waiting for the frontend to be ready.
+   info 2023-11-09 05:46:55.124      front   ctrl  89204 5791420                  app.frontend_session - Starting connect session.
+   info 2023-11-09 05:46:55.127      front   ctrl  89204 5791420                          memory_arena - Reserving arena of 256 MB
+   info 2023-11-09 05:46:55.127      front   ctrl  89204 5791420                          memory_arena - Reserving arena of 128 MB
+   info 2023-11-09 05:46:55.132      front   ctrl  89204 5791420             desk_rt.display_component - Startup.
+   info 2023-11-09 05:46:55.132      front   ctrl  89204 5791420                      app.clipbrd_comp - Engaging clipboard.
+   info 2023-11-09 05:46:55.133      front   ctrl  89204 5791420                      app.clipbrd_comp - Ready.
+   info 2023-11-09 05:46:55.141      front   ctrl  89204 5791420                  app.frontend_session - Enabling screen capturing.
+   info 2023-11-09 05:46:55.141      front   ctrl  89204 5791420                  app.frontend_session - Session started.
+   info 2023-11-09 05:46:55.141       lsvc   main  89206 5791409   28                      app.session - 4: Frontend ready.
+   info 2023-11-09 05:46:55.141       lsvc   main  89206 5791409   28                      app.session - 5: Entering processing loop.
+   info 2023-11-09 05:46:55.141       lsvc   main  89206 5791409   28         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-09 05:46:55.142       lsvc   main  89206 5791409   28         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-09 05:46:55.142      front   wrk2  89204 5791423                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 41, 42
+   info 2023-11-09 05:46:55.142      front   wrk2  89204 5791423                  app.frontend_session - Received new remote feature map: 67.
+   info 2023-11-09 05:46:55.164      front   wrk1  89204 5791422             desk_rt.display_component - Received monitor info. Monitor count: 1.
+   info 2023-11-09 05:46:55.164      front   wrk2  89204 5791423                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.164      front   wrk3  89204 5791424                  app.frontend_session - Received new audio permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.164      front   wrk0  89204 5791421                  app.frontend_session - Updating clipboard permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.164      front   wrk0  89204 5791421                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.188      front   wrk1  89204 5791422                                glwrap - Initializing OpenGL: 2.1 Metal - 86
+   info 2023-11-09 05:46:55.190      front   wrk2  89204 5791423                  app.frontend_session - Received new permissions to block input: (allowed supported)
+   info 2023-11-09 05:46:55.194      front   wrk3  89204 5791424                  app.frontend_session - Received new sas permissions: (allowed supported)
+   info 2023-11-09 05:46:55.199      front   wrk0  89204 5791421                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.200      front   wrk1  89204 5791422                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2023-11-09 05:46:55.211      front   wrk3  89204 5791424                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2023-11-09 05:46:55.215      front   wrk1  89204 5791422                  app.frontend_session - Received new whiteboard permissions: (allowed supported)
+   info 2023-11-09 05:46:55.219      front   wrk3  89204 5791424                  app.frontend_session - Received new TCP tunneling permissions: (enabled forbidden supported)
+   info 2023-11-09 05:46:55.225      front   wrk3  89204 5791424                  app.frontend_session - Received new VPN permissions: (enabled forbidden unsupported)
+   info 2023-11-09 05:46:55.229      front   wrk3  89204 5791424                  app.frontend_session - Received new privacy feature permissions: (disabled forbidden supported)
+   info 2023-11-09 05:46:55.229      front   wrk1  89204 5791422                  app.frontend_session - Updating clipboard_files permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.229      front   wrk1  89204 5791422                  app.frontend_session - Received new clipboard_files permissions: (enabled allowed supported)
+   info 2023-11-09 05:46:55.232      front   wrk3  89204 5791424                  app.frontend_session - Received new permission to restart: (allowed supported)
+   info 2023-11-09 05:46:55.236      front   wrk1  89204 5791422                  app.frontend_session - Received new permission to sysinfo: (enabled allowed supported)
+   info 2023-11-09 05:46:55.239      front   wrk3  89204 5791424                  app.frontend_session - Received new permission to mouse_pointer: (allowed supported)
+   info 2023-11-09 05:46:55.242      front   wrk1  89204 5791422                  app.frontend_session - Received new permission to modify_forbidden_windows: (forbidden supported)
+   info 2023-11-09 05:46:55.245      front   wrk3  89204 5791424                  app.frontend_session - Keyboard layouts differ (l:unknown != r:unknown). Auto-mode is Translate, user-mode is 0.
+   info 2023-11-09 05:46:55.267      front   wrk1  89204 5791422             desk_rt.display_component - Remote resolution changed: Monitor 0 (1920x1080)
+   info 2023-11-09 05:46:55.267      front   wrk1  89204 5791422                  desk_rt.gl_view.port - Created back texture 1920x1080
+   info 2023-11-09 05:46:55.267      front   wrk1  89204 5791422                  desk_rt.gl_view.port - Initialized (1920x1080, X8R8G8B8).
+   info 2023-11-09 05:46:55.570      front   wrk1  89204 5791422                  app.frontend_session - Keyboard layouts differ (l:unknown != r:es). Auto-mode is Translate, user-mode is 0.
+   info 2023-11-09 05:46:56.510      front   wrk0  89204 5791421                  app.frontend_session - Requesting a new thumbnail.
+   info 2023-11-09 05:46:56.511      front   wrk0  89204 5791421             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.fwd.local.1385719658.
+   info 2023-11-09 05:46:56.511      front   wrk0  89204 5791421             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.bwd.local.1385719658.
+   info 2023-11-09 05:46:56.511       lsvc   main  89206 5791409   28            app.tcp_tunnel.config - deserialized rules 2
+   info 2023-11-09 05:46:56.511       lsvc   main  89206 5791409   28            app.tcp_tunnel.config - Forward rules:
+   info 2023-11-09 05:47:04.020       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+   info 2023-11-09 05:47:04.021       lsvc   main  89206 5791409   33           anynet.punch_connector - [177.228.177.53:7070] Connection failed (result_timeout)).
+   info 2023-11-09 05:47:04.021       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 33 (parent: 31) terminated.
+   info 2023-11-09 05:47:04.021       lsvc   main  89206 5791409   34           anynet.punch_connector - [177.228.177.53:7070] Connection failed (result_timeout)).
+   info 2023-11-09 05:47:04.021       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 34 (parent: 31) terminated.
+   info 2023-11-09 05:47:04.275       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 1).
+   info 2023-11-09 05:47:09.416       lsvc   main  89206 5791409    3            anynet.connection_mgr - Cleaned up 0/1 managed client connections.
+   info 2023-11-09 05:47:09.416       lsvc   main  89206 5791409    3            anynet.connection_mgr - Cleaned up 0/1 supplemental relay connections.
+   info 2023-11-09 05:47:19.281       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+   info 2023-11-09 05:47:19.533       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 2).
+   info 2023-11-09 05:47:34.538       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+   info 2023-11-09 05:47:34.788       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connecting (lport 55043, attempt 3).
+   info 2023-11-09 05:47:49.789       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Connect failed (result_timeout)).
+  error 2023-11-09 05:47:49.789       lsvc   main  89206 5791409   32           anynet.punch_connector - [177.228.177.53:48726] Too many retries.
+   info 2023-11-09 05:47:49.789       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 32 (parent: 31) terminated.
+   info 2023-11-09 05:47:49.789       lsvc   main  89206 5791409   31           anynet.punch_connector - All connect fibers have failed.
+   info 2023-11-09 05:47:54.792       lsvc   main  89206 5791409   31           anynet.punch_connector - Quit timeout has expired. Connect failed.
+   info 2023-11-09 05:47:54.792       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 31 (parent: 30) terminated.
+  error 2023-11-09 05:47:54.793       lsvc   main  89206 5791409   30       anynet.managed_client_conn - Connect error (result_unknown).
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409   30            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409   30       anynet.managed_client_conn - Managed client connection failed.
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 30 terminated.
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409    3            anynet.connection_mgr - Managed client connection with d1208da70290164f5d889f8c6305f88be77c26fd failed (result_unknown).
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409    3            anynet.connection_mgr - Cleaned up 1/1 managed client connections.
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409    3            anynet.connection_mgr - Cleaned up 0/1 supplemental relay connections.
+   info 2023-11-09 05:47:54.793       lsvc   main  89206 5791409   29                anynet.any_socket - Direct connection closed (result_unknown).
+   info 2023-11-09 06:05:46.849      front   wrk1  89204 5791422                      app.clipbrd_comp - Got a text offer (808 b).
+   info 2023-11-09 06:11:20.820      front   main  89204 5791373                  app.frontend_session - The user has requested a connection quit.
+   info 2023-11-09 06:11:20.825      front   ctrl  89204 5791420                  app.frontend_session - Stopping session.
+   info 2023-11-09 06:11:20.951      front   ctrl  89204 5791420             desk_rt.display_component - Stopping objects.
+   info 2023-11-09 06:11:20.967      front   ctrl  89204 5791420                      app.clipbrd_comp - Closing clipboard.
+   info 2023-11-09 06:11:20.968      front   ctrl  89204 5791420                      app.clipbrd_comp - Clipboard closed.
+   info 2023-11-09 06:11:20.968      front   ctrl  89204 5791420                  app.frontend_session - Session stopped.
+   info 2023-11-09 06:11:20.968      front   ctrl  89204 5791420                      mac_app.frontend - Session count: 0
+   info 2023-11-09 06:11:20.968       lsvc   main  89206 5791409   28                      app.session - IPC socket closed normally.
+   info 2023-11-09 06:11:20.969       lsvc   main  89206 5791409   28                      app.session - 5: Processing done.
+   info 2023-11-09 06:11:20.969      front   main  89204 5791373                  app.frontend_session - Deleting session.
+   info 2023-11-09 06:11:20.969       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 28 'ipc_connection' (parent: 1) requested quit of fiber 29.
+   info 2023-11-09 06:11:20.969       lsvc   main  89206 5791409   29                anynet.any_socket - Received quit.
+   info 2023-11-09 06:11:20.970       lsvc   main  89206 5791409   29                anynet.any_socket - Connect fiber stopped.
+   info 2023-11-09 06:11:20.970       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 29 terminated.
+   info 2023-11-09 06:11:20.970       lsvc   main  89206 5791409    3            anynet.connection_mgr - Scheduling cleanup in 30 seconds.
+   info 2023-11-09 06:11:20.970       lsvc   main  89206 5791409   28                      app.service - Fiber exit (ipc).
+   info 2023-11-09 06:11:20.970       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 28 'ipc_connection' (parent: 1) terminated.
+   info 2023-11-09 06:11:20.971       lsvc   main  89206 5791409   10                      app.service - Stop monitoring 1385719658.
+  error 2023-11-09 06:11:20.986      front   main  89204 5791373         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-09 06:11:20.989       lsvc   main  89206 5791409   10                  fiber.scheduler - Spawning root fiber 35 'online_monitor'.
+   info 2023-11-09 06:11:20.989       lsvc   main  89206 5791409   35               app.online_monitor - Online state monitor started.
+   info 2023-11-09 06:11:20.995      front   main  89204 5791373                     gui.display_panel - Deleting.
+   info 2023-11-09 06:11:20.997      front   main  89204 5791373                  desk_rt.gl_view.port - Deleted
+   info 2023-11-09 06:11:20.998      front   main  89204 5791373                          desk_rt.view - View deleted.
+   info 2023-11-09 06:11:20.999      front   main  89204 5791373              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2023-11-09 06:11:20.999      front   timr  89204 5828273          base.signal.local.timer_impl - Timer wants to quit.
+   info 2023-11-09 06:11:20.999      front   timr  89204 5828272          base.signal.local.timer_impl - Timer wants to quit.
+   info 2023-11-09 06:11:27.224       lsvc   main  89206 5791409    3            anynet.connection_mgr - Closing main relay connection.
+   info 2023-11-09 06:11:27.224       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 3 'connection_mgr' requested quit of fiber 4 'main_relay_conn'.
+   info 2023-11-09 06:11:27.224       lsvc   main  89206 5791409    4           anynet.main_relay_conn - Main relay connection closed.
+   info 2023-11-09 06:11:27.226       lsvc   main  89206 5791409    4            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-09 06:11:27.226       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 4 'main_relay_conn' requested quit of fiber 15.
+   info 2023-11-09 06:11:27.228       lsvc   main  89206 5791409   15                      fiber.fiber - Received quit.
+   info 2023-11-09 06:11:27.228       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 15 terminated.
+  error 2023-11-09 06:11:27.228       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (close_msg_t)
+   info 2023-11-09 06:11:27.228       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 4 'main_relay_conn' requested quit of fiber 14.
+   info 2023-11-09 06:11:27.229       lsvc   main  89206 5791409   14                      fiber.fiber - Received quit.
+   info 2023-11-09 06:11:27.229       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 14 terminated.
+   info 2023-11-09 06:11:27.232       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 4 'main_relay_conn' terminated.
+   info 2023-11-09 06:11:27.232       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 3 'connection_mgr' requested quit of fiber 20.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409   20           anynet.supp_relay_conn - Supplementary relay connection stopped.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409   20            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 20 requested quit of fiber 24.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409   24                      fiber.fiber - Received quit.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 24 terminated.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 20 requested quit of fiber 23.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409   23                      fiber.fiber - Received quit.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 23 terminated.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 20 terminated.
+   info 2023-11-09 06:11:27.233       lsvc   main  89206 5791409    3            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2023-11-09 06:11:38.698       lsvc   main  89206 5791409   35                      anynet.conn - Request on closed connection.
+   info 2023-11-09 06:11:38.698       lsvc   main  89206 5791409   35               app.online_monitor - Online state monitor stopped.
+   info 2023-11-09 06:11:38.698       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 35 'online_monitor' terminated.
+   info 2023-11-09 16:47:51.601       lsvc   main  89206 5791409    3            anynet.connection_mgr - Resuming main relay connection.
+   info 2023-11-09 16:47:51.602       lsvc   main  89206 5791409    3                  fiber.scheduler - Spawning root fiber 36 'main_relay_conn'.
+   info 2023-11-09 16:47:51.602       lsvc   main  89206 5791409   36           anynet.main_relay_conn - Starting main relay connection.
+   info 2023-11-09 16:47:51.622       lsvc   main  89206 5791409   36                  fiber.scheduler - Spawning child fiber 37 'relay_connector' (parent: 36 'main_relay_conn').
+   info 2023-11-09 16:47:51.624       lsvc   main  89206 5791409   37           anynet.relay_connector - Relay connector started.
+   info 2023-11-09 16:47:51.624       lsvc   main  89206 5791409   37           anynet.relay_connector - Start proxy search.
+   info 2023-11-09 16:47:51.625       lsvc   main  89206 5791409   37           anynet.relay_connector - Connecting to relay relay-c4023f00.net.anydesk.com (1/2)
+   info 2023-11-09 16:47:51.625       lsvc   main  89206 5791409   37           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-11-09 16:47:51.625       lsvc   main  89206 5791409   37           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-11-09 16:47:51.625       lsvc   main  89206 5791409   37           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-11-09 16:47:51.885       lsvc   main  89206 5791409   37           anynet.relay_connector - Using IPv4: 212.102.40.164
+   info 2023-11-09 16:47:51.955       lsvc   main  89206 5791409   37                  fiber.scheduler - Spawning root fiber 38.
+   info 2023-11-09 16:47:52.036       lsvc   main  89206 5791409   37           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-11-09 16:47:52.036       lsvc   main  89206 5791409   37                  fiber.scheduler - Spawning root fiber 39.
+   info 2023-11-09 16:47:52.039       lsvc   main  89206 5791409   37                        handshake - Using protocol version 3.
+   info 2023-11-09 16:47:52.214       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 37 'relay_connector' (parent: 36 'main_relay_conn') requested quit of fiber 39.
+   info 2023-11-09 16:47:52.217       lsvc   main  89206 5791409   39                      fiber.fiber - Received quit.
+   info 2023-11-09 16:47:52.217       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 39 terminated.
+   info 2023-11-09 16:47:52.217       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 37 'relay_connector' (parent: 36 'main_relay_conn') requested quit of fiber 38.
+   info 2023-11-09 16:47:52.217       lsvc   main  89206 5791409   38                      fiber.fiber - Received quit.
+   info 2023-11-09 16:47:52.217       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 38 terminated.
+   info 2023-11-09 16:47:52.218       lsvc   main  89206 5791409   37           anynet.relay_connector - Connection terminated: anynet_relay_full
+   info 2023-11-09 16:47:52.218       lsvc   main  89206 5791409   37           anynet.relay_connector - Received a new server list (6 servers)
+   info 2023-11-09 16:47:52.218       lsvc   main  89206 5791409   37           anynet.relay_connector - Connecting to relay relay-2b09fc0a.net.anydesk.com (1/6)
+   info 2023-11-09 16:47:52.218       lsvc   main  89206 5791409   37           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-11-09 16:47:52.218       lsvc   main  89206 5791409   37           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-11-09 16:47:52.218       lsvc   main  89206 5791409   37           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-11-09 16:47:52.234       lsvc   main  89206 5791409   37           anynet.relay_connector - Using IPv4: 74.63.224.34
+   info 2023-11-09 16:47:52.264       lsvc   main  89206 5791409   37                  fiber.scheduler - Spawning root fiber 40.
+   info 2023-11-09 16:47:52.335       lsvc   main  89206 5791409   37           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-11-09 16:47:52.335       lsvc   main  89206 5791409   37                  fiber.scheduler - Spawning root fiber 41.
+   info 2023-11-09 16:47:52.338       lsvc   main  89206 5791409   37                        handshake - Using protocol version 3.
+   info 2023-11-09 16:47:52.527       lsvc   main  89206 5791409   37           anynet.relay_connector - Connection established.
+   info 2023-11-09 16:47:52.527       lsvc   main  89206 5791409   37           anynet.relay_connector - Relay connector stopped.
+   info 2023-11-09 16:47:52.527       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 37 'relay_connector' (parent: 36 'main_relay_conn') terminated.
+   info 2023-11-09 16:47:52.530       lsvc   main  89206 5791409   36           anynet.main_relay_conn - Network ID: main
+   info 2023-11-09 16:47:52.531       lsvc   main  89206 5791409   36                anynet.relay_conn - External address: 189.145.44.177:58173.
+   info 2023-11-09 16:47:52.532       lsvc   main  89206 5791409   36           anynet.main_relay_conn - Main relay ID: 2b09fc0a
+   info 2023-11-09 16:47:52.610       lsvc   main  89206 5791409   36           anynet.main_relay_conn - Detected 2 new networks.
+  error 2023-11-09 16:47:52.611       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (license_msg_t)
+  error 2023-11-09 16:47:52.611       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (connect_msg_t)
+  error 2023-11-09 16:47:52.611       lsvc   main  89206 5791409    2          license_service_adapter - Unhandled message. (user_data_msg_t)
+   info 2023-11-09 16:47:52.611       lsvc   main  89206 5791409    3            anynet.connection_mgr - Main relay connection established.
+   info 2023-11-09 16:47:52.611       lsvc   main  89206 5791409    3            anynet.connection_mgr - New user data. Client-ID: 1785815465.
+warning 2023-11-09 16:47:52.612       lsvc   main  89206 5791409   36                      anynet.conn - Could not send login token. unavailable (47).
+   info 2023-11-09 16:49:30.462      front   main  89204 5791373                             url_query - append
+   info 2023-11-09 16:49:30.462      front   main  89204 5791373                             url_query - append
+   info 2023-11-09 16:49:30.462      front   main  89204 5791373                             url_query - append
+  error 2023-11-09 16:49:30.553      front   main  89204 5791373         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-09 16:49:30.560       lsvc   main  89206 5791409   10                  fiber.scheduler - Spawning root fiber 42 'online_monitor'.
+   info 2023-11-09 16:49:30.561       lsvc   main  89206 5791409   42               app.online_monitor - Online state monitor started.
+   info 2023-11-09 16:49:36.184      front   main  89204 5791373                           AppDelegate - Nothing detected (0).
+   info 2023-11-09 16:49:36.186      front   main  89204 5791373                      mac_app.frontend - Terminating the service
+   info 2023-11-09 16:49:36.186      front   ctrl  89204 5791420                      mac_app.frontend - Frontend shutdown.
+   info 2023-11-09 16:49:36.188       lsvc   main  89206 5791409    1                      app.service - Process stop: 89204.
+   info 2023-11-09 16:49:36.188       lsvc   main  89206 5791409    1           anynet.relay_connector - Short timeouts disabled.
+   info 2023-11-09 16:49:36.189       lsvc   main  89206 5791409   10                      app.service - Terminating the service.
+   info 2023-11-09 16:49:36.191       lsvc   main  89206 5791409   10                  fiber.scheduler - Quitting scheduler (0).
+   info 2023-11-09 16:49:36.191       lsvc   main  89206 5791409                       fiber.scheduler - Quitting all fibers.
+   info 2023-11-09 16:49:36.192       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 1 requested quit of fiber 2 'license_adapter' (parent: 1).
+   info 2023-11-09 16:49:36.193       lsvc   main  89206 5791409    2                      fiber.fiber - Received quit.
+   info 2023-11-09 16:49:36.193       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 2 'license_adapter' (parent: 1) terminated.
+   info 2023-11-09 16:49:36.193       lsvc   main  89206 5791409    5              anynet.tcp_acceptor - Received quit.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 5 'tcp_acceptor' terminated.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409    6                anynet.any_socket - Listen fiber stopped.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 6 terminated.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409   16                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409   16                    app.discovery - Discovery fiber stopped.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 16 'discovery' terminated.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409    3            anynet.connection_mgr - Connection manager fiber quit.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 3 'connection_mgr' terminated.
+   info 2023-11-09 16:49:36.194       lsvc   main  89206 5791409   36           anynet.main_relay_conn - Main relay connection closed.
+   info 2023-11-09 16:49:36.195       lsvc   main  89206 5791409   36            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-09 16:49:36.195       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 36 'main_relay_conn' requested quit of fiber 41.
+   info 2023-11-09 16:49:36.195      front   ctrl  89204 5791420                      mac_app.frontend - Frontend shutdown complete.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409   40                      fiber.fiber - Received quit.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 40 terminated.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409   41                      fiber.fiber - Received quit.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 41 terminated.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409   42               app.online_monitor - Online state monitor stopped.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 42 'online_monitor' terminated.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409    1                      app.service - Service shutdown.
+   info 2023-11-09 16:49:36.196       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 1 requested quit of fiber 7 'wol_service' (parent: 1).
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 36 'main_relay_conn' terminated.
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409    7                      fiber.fiber - Received quit.
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 7 'wol_service' (parent: 1) terminated.
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 1 requested quit of fiber 8 'invitation_service' (parent: 1).
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409    8                      fiber.fiber - Received quit.
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 8 'invitation_service' (parent: 1) terminated.
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 1 requested quit of fiber 10 'ipc_connection' (parent: 1).
+   info 2023-11-09 16:49:36.198       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 10 'ipc_connection' (parent: 1) requested quit of fiber 11 'account_adapter' (parent: 10 'ipc_connection').
+   info 2023-11-09 16:49:36.199       lsvc   main  89206 5791409   11                      fiber.fiber - Received quit.
+   info 2023-11-09 16:49:36.199       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 11 'account_adapter' (parent: 10 'ipc_connection') terminated.
+   info 2023-11-09 16:49:37.980       lsvc   main  89206 5791409   10                      app.service - Fiber exit (ipc).
+   info 2023-11-09 16:49:37.980       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 10 'ipc_connection' (parent: 1) terminated.
+   info 2023-11-09 16:49:37.980       lsvc   main  89206 5791409    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2023-11-09 16:49:37.981       lsvc   main  89206 5791409    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2023-11-09 16:49:37.981       lsvc   main  89206 5791409                       fiber.scheduler - Fiber 1 terminated.
+   info 2023-11-09 16:49:37.981       lsvc   main  89206 5791409                       fiber.scheduler - All fibers terminated.
+   info 2023-11-09 16:49:37.981       lsvc   main  89206 5791409                       fiber.scheduler - Scheduler stopped (0).
+   info 2023-11-09 16:49:37.984       lsvc   main  89206 5791409                      main.run_service - Exiting
+ * * * * * * * * * * * * * * * * * *
+   info 2023-11-14 23:54:56.527      front   main   5446  53036                                  main - * AnyDesk MAC Startup *
+   info 2023-11-14 23:54:56.528      front   main   5446  53036                                  main - * Version 7.0.1 (mac_release_7.0.1 7920a93bbfda05e2897f5a97c7a8ce848c49d4f3)
+   info 2023-11-14 23:54:56.528      front   main   5446  53036                                  main - * Build 20230123180253
+   info 2023-11-14 23:54:56.528      front   main   5446  53036                                  main - * Prefix ad
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - * OS Version 14.0 (Build 23A344)
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - * Launch path /Applications/AnyDesk.app
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - 
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - ppid: 1 uid: 501
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - process maxfiles 256 : -1
+   info 2023-11-14 23:54:56.533      front   main   5446  53036                                  main - raising RLIMIT_NOFILE to 10240
+   info 2023-11-14 23:54:56.534      front   main   5446  53036                         impl_selector - using neon
+  error 2023-11-14 23:54:56.621      front   main   5446  53036         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-14 23:54:56.621      front   main   5446  53036                   fiber.ipc_namespace - Global: no
+   info 2023-11-14 23:54:56.621      front   main   5446  53036                           AppDelegate - Starting a local service.
+warning 2023-11-14 23:54:56.622      front   main   5446  53036                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2023-11-14 23:54:56.630       lsvc   main   5447  53055                                  main - * AnyDesk MAC Startup *
+   info 2023-11-14 23:54:56.630       lsvc   main   5447  53055                                  main - * Version 7.0.1 (mac_release_7.0.1 7920a93bbfda05e2897f5a97c7a8ce848c49d4f3)
+   info 2023-11-14 23:54:56.630       lsvc   main   5447  53055                                  main - * Build 20230123180253
+   info 2023-11-14 23:54:56.630       lsvc   main   5447  53055                                  main - * Prefix ad
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                                  main - * OS Version 14.0 (Build 23A344)
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                                  main - * Launch path /Applications/AnyDesk.app
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                                  main - 
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                                  main - ppid: 5446 uid: 501
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                                  main - process maxfiles 10240 : -1
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                         impl_selector - using neon
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                       app.common_path - initialized user = /Users/sebastianramirez/.anydesk, system = /Users/sebastianramirez/.anydesk
+   info 2023-11-14 23:54:56.632       lsvc   main   5447  53055                      main.run_service - Starting local service.
+   info 2023-11-14 23:54:56.633       lsvc   main   5447  53055          base.data.config_application - Adding GPO defaults layer.
+   info 2023-11-14 23:54:56.633       lsvc   main   5447  53055          base.data.config_application - Adding GPO overrides layer.
+   info 2023-11-14 23:54:56.633       lsvc   main   5447  53055                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-14 23:54:56.633       lsvc   main   5447  53055                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055                       fiber.scheduler - Spawning root fiber 1.
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055                       fiber.scheduler - Scheduler started.
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1                      app.service - Opening the IPC namespace.
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1              fiber.ipc_namespace - Global: no
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1                      app.service - Logging into the IPC namespace.
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning child fiber 2 'license_adapter' (parent: 1).
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1                      app.service - Starting to supervise the IPC namespace.
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1                      app.service - Starting the connector.
+   info 2023-11-14 23:54:56.634       lsvc   main   5447  53055    1            anynet.connection_mgr - Importing certificate and key.
+   info 2023-11-14 23:54:56.635       lsvc   main   5447  53055    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2023-11-14 23:54:56.635       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning root fiber 3 'connection_mgr'.
+   info 2023-11-14 23:54:56.635       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning root fiber 4 'main_relay_conn'.
+   info 2023-11-14 23:54:56.635       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning root fiber 5 'tcp_acceptor'.
+   info 2023-11-14 23:54:56.635       lsvc   main   5447  53055    1                      app.service - Setting up the listen sockets.
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning root fiber 6.
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1                      app.service - Service startup completed.
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1            app.discovery_manager - Starting Discovery.
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1                   ad.wol_service - Starting WOL service.
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning child fiber 7 'wol_service' (parent: 1).
+   info 2023-11-14 23:54:56.636       lsvc   main   5447  53055    1               statistics_service - cid changed - resetting consents for the system.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning child fiber 8 'invitation_service' (parent: 1).
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    1                      app.service - Waiting for messages.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    3            anynet.connection_mgr - Starting connection manager fiber.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    4           anynet.main_relay_conn - Starting main relay connection.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    4                  fiber.scheduler - Spawning child fiber 9 'relay_connector' (parent: 4 'main_relay_conn').
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    5              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    6                anynet.any_socket - Listen fiber started.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    7                      anynet.conn - Request before connect. Queueing.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    9           anynet.relay_connector - Relay connector started.
+   info 2023-11-14 23:54:56.637       lsvc   main   5447  53055    9           anynet.relay_connector - Start proxy search.
+   info 2023-11-14 23:54:56.638       lsvc   main   5447  53055    9           anynet.relay_connector - Connecting to relay relay-2b09fc0a.net.anydesk.com (1/2)
+   info 2023-11-14 23:54:56.638       lsvc   main   5447  53055    9           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-11-14 23:54:56.638       lsvc   main   5447  53055    9           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-11-14 23:54:56.638       lsvc   main   5447  53055    9           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-11-14 23:54:56.700       lsvc   main   5447  53055    9           anynet.relay_connector - Using IPv4: 74.63.224.34
+   info 2023-11-14 23:54:56.723      front   main   5446  53036                       app.common_path - initialized user = /Users/sebastianramirez/.anydesk, system = /Users/sebastianramirez/.anydesk
+   info 2023-11-14 23:54:56.723      front   main   5446  53036                           AppDelegate - Starting frontend (6).
+   info 2023-11-14 23:54:56.724      front   main   5446  53036          base.data.config_application - Adding GPO defaults layer.
+   info 2023-11-14 23:54:56.724      front   main   5446  53036          base.data.config_application - Adding GPO overrides layer.
+   info 2023-11-14 23:54:56.724      front   main   5446  53036                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-14 23:54:56.725      front   main   5446  53036                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-14 23:54:56.725      front   main   5446  53036                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2023-11-14 23:54:56.725      front   main   5446  53036                           gui.gui_app - Using high-resolution bitmaps.
+warning 2023-11-14 23:54:56.726      front   main   5446  53036                          account_info - Could not read account info from config.
+warning 2023-11-14 23:54:56.726      front   main   5446  53036                          account_info - Could not read account info from config.
+   info 2023-11-14 23:54:56.726      front   main   5446  53036                       base.signal.hub - 4 threads.
+   info 2023-11-14 23:54:56.742       lsvc   main   5447  53055    9                  fiber.scheduler - Spawning root fiber 10.
+   info 2023-11-14 23:54:56.754      front   timr   5446  53061          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-14 23:54:56.754      front   ctrl   5446  53062                      mac_app.frontend - Frontend startup.
+   info 2023-11-14 23:54:56.754      front   ctrl   5446  53062                      mac_app.frontend - Logging the frontend in.
+   info 2023-11-14 23:54:56.754       lsvc   main   5447  53055    1                      app.service - Process start: 5446 (frontend).
+   info 2023-11-14 23:54:56.754       lsvc   main   5447  53055    1           anynet.relay_connector - Short timeouts enabled.
+   info 2023-11-14 23:54:56.775       lsvc   main   5447  53055    1                      app.service - New IPC connection.
+   info 2023-11-14 23:54:56.775       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning child fiber 11 'ipc_connection' (parent: 1).
+   info 2023-11-14 23:54:56.775       lsvc   main   5447  53055   11                      app.service - Creating an IPC accept socket.
+   info 2023-11-14 23:54:56.776       lsvc   main   5447  53055   11                      app.service - Connected to 5446 (frontend).
+   info 2023-11-14 23:54:56.776       lsvc   main   5447  53055   11                      app.service - Process login detected.
+   info 2023-11-14 23:54:56.776       lsvc   main   5447  53055   11                  fiber.scheduler - Spawning child fiber 12 'account_adapter' (parent: 11 'ipc_connection').
+   info 2023-11-14 23:54:56.776       lsvc   main   5447  53055   11                      app.service - 5 Unexpected: packet_msg_t.
+warning 2023-11-14 23:54:56.776      front   wrk1   5446  53064                                   sif - Dropping out of date license response.
+   info 2023-11-14 23:54:56.776      front   wrk2   5446  53065                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-11-14 23:54:56.787      front   ctrl   5446  53062                     base.monitor_info - 1 active monitor(s) found.
+   info 2023-11-14 23:54:56.834      front   main   5446  53036                             url_query - append
+   info 2023-11-14 23:54:56.834      front   main   5446  53036                             url_query - append
+   info 2023-11-14 23:54:56.834      front   main   5446  53036                             url_query - append
+   info 2023-11-14 23:54:56.844       lsvc   main   5447  53055    9           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-11-14 23:54:56.844       lsvc   main   5447  53055    9                  fiber.scheduler - Spawning root fiber 13.
+   info 2023-11-14 23:54:56.848       lsvc   main   5447  53055    9                        handshake - Using protocol version 3.
+  error 2023-11-14 23:54:56.886      front   main   5446  53036         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-14 23:54:56.888       lsvc   main   5447  53055   11                  fiber.scheduler - Spawning root fiber 14 'online_monitor'.
+   info 2023-11-14 23:54:56.888       lsvc   main   5447  53055   14               app.online_monitor - Online state monitor started.
+   info 2023-11-14 23:54:56.888       lsvc   main   5447  53055   14                      anynet.conn - Request before connect. Queueing.
+   info 2023-11-14 23:54:57.090       lsvc   main   5447  53055    9           anynet.relay_connector - Connection established.
+   info 2023-11-14 23:54:57.090       lsvc   main   5447  53055    9           anynet.relay_connector - Relay connector stopped.
+   info 2023-11-14 23:54:57.090       lsvc   main   5447  53055                       fiber.scheduler - Fiber 9 'relay_connector' (parent: 4 'main_relay_conn') terminated.
+   info 2023-11-14 23:54:57.092       lsvc   main   5447  53055    4           anynet.main_relay_conn - Network ID: main
+   info 2023-11-14 23:54:57.093       lsvc   main   5447  53055    4                anynet.relay_conn - External address: 187.190.56.49:52249.
+   info 2023-11-14 23:54:57.093       lsvc   main   5447  53055    4           anynet.main_relay_conn - Main relay ID: 2b09fc0a
+   info 2023-11-14 23:54:57.166       lsvc   main   5447  53055    4           anynet.main_relay_conn - Detected 2 new networks.
+  error 2023-11-14 23:54:57.166       lsvc   main   5447  53055    2          license_service_adapter - Unhandled message. (license_msg_t)
+  error 2023-11-14 23:54:57.166       lsvc   main   5447  53055    2          license_service_adapter - Unhandled message. (connect_msg_t)
+  error 2023-11-14 23:54:57.166       lsvc   main   5447  53055    2          license_service_adapter - Unhandled message. (user_data_msg_t)
+   info 2023-11-14 23:54:57.166       lsvc   main   5447  53055    3            anynet.connection_mgr - Main relay connection established.
+   info 2023-11-14 23:54:57.166       lsvc   main   5447  53055    3            anynet.connection_mgr - New user data. Client-ID: 1785815465.
+warning 2023-11-14 23:54:57.166       lsvc   main   5447  53055    4                      anynet.conn - Could not send login token. unavailable (66).
+warning 2023-11-14 23:54:57.166       lsvc   main   5447  53055    4                      anynet.conn - Could not send login token. unavailable (47).
+   info 2023-11-14 23:54:57.384       lsvc   main   5447  53055    1                    app.discovery - Starting.
+   info 2023-11-14 23:54:57.384       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning root fiber 15 'discovery'.
+   info 2023-11-14 23:54:57.384       lsvc   main   5447  53055   15                    app.discovery - Current Discovery revision: 0
+   info 2023-11-14 23:54:57.385       lsvc   main   5447  53055   15                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2023-11-14 23:54:57.385       lsvc   main   5447  53055   15                    app.discovery - Bound to port: 50001
+   info 2023-11-14 23:54:57.385       lsvc   main   5447  53055   15                anynet.udp_socket - Multicast loop option set to 0
+   info 2023-11-14 23:54:57.390       lsvc   main   5447  53055   15                    app.discovery - Discovery fiber started.
+   info 2023-11-14 23:54:57.392       lsvc   main   5447  53055    1                      app.service - License backend service status changed (0->1)
+   info 2023-11-14 23:54:57.392      front   wrk2   5446  53065                      mac_app.frontend - Received new license info
+  error 2023-11-14 23:54:57.403      front   wrk1   5446  53064         mac_app.helper_tool_interface - Global files not found.
+  error 2023-11-14 23:54:57.414      front   wrk2   5446  53065         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-14 23:55:00.312      front   main   5446  53036                      mac_app.frontend - Sending a connection request for address 1385719658.
+   info 2023-11-14 23:55:00.313      front   timr   5446  53120          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-14 23:55:00.313      front   timr   5446  53121          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-11-14 23:55:00.314       lsvc   main   5447  53055    1                      app.service - New IPC connection.
+   info 2023-11-14 23:55:00.315       lsvc   main   5447  53055    1                  fiber.scheduler - Spawning child fiber 16 'ipc_connection' (parent: 1).
+   info 2023-11-14 23:55:00.315       lsvc   main   5447  53055   16                      app.service - Creating an IPC accept socket.
+   info 2023-11-14 23:55:00.315       lsvc   main   5447  53055   16                      app.service - Connected to 5446 (frontend).
+   info 2023-11-14 23:55:00.361      front   main   5446  53036                      mac_app.frontend - preventing sleep for frontend user
+   info 2023-11-14 23:55:00.665      front   main   5446  53036                      mac_app.frontend - Session count: 1
+   info 2023-11-14 23:55:00.665      front   ctrl   5446  53062                  app.frontend_session - Requesting session.
+   info 2023-11-14 23:55:00.665       lsvc   main   5447  53055   16                      app.service - Received outgoing connection request for address 1385719658 (direct).
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   16                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   16                      app.service - Creating remote control session.
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   16         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   16                anynet.any_socket - Keepalive is disabled
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   16                      app.session - 1: Connecting to "1385719658"
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   16                  fiber.scheduler - Spawning root fiber 17.
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   17                anynet.any_socket - Connect fiber spawned.
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   17                anynet.any_socket - Connecting to 1385719658.
+   info 2023-11-14 23:55:00.667       lsvc   main   5447  53055   17                anynet.any_socket - Retrieving client information.
+warning 2023-11-14 23:55:00.667       lsvc   main   5447  53055    4                      anynet.conn - Could not send login token. unavailable (6).
+   info 2023-11-14 23:55:00.927       lsvc   main   5447  53055   17                anynet.any_socket - Client-ID: 1385719658 (FPR: d1208da70290).
+   info 2023-11-14 23:55:00.927       lsvc   main   5447  53055   17                anynet.any_socket - Logged in from 177.228.178.173:2431 on relay 2b09fc0a.
+   info 2023-11-14 23:55:00.927       lsvc   main   5447  53055   17            anynet.connection_mgr - Making a new connection to client d1208da70290164f5d889f8c6305f88be77c26fd.
+   info 2023-11-14 23:55:00.927       lsvc   main   5447  53055   17                  fiber.scheduler - Spawning root fiber 18.
+   info 2023-11-14 23:55:00.927       lsvc   main   5447  53055   17                anynet.any_socket - Sending a connect request (on the clients relay).
+   info 2023-11-14 23:55:00.927       lsvc   main   5447  53055   17            anynet.connection_mgr - Re-using connection to main relay 2b09fc0a.
+warning 2023-11-14 23:55:00.928       lsvc   main   5447  53055    4                      anynet.conn - Could not send login token. unavailable (8).
+   info 2023-11-14 23:55:00.928       lsvc   main   5447  53055   18                  fiber.scheduler - Spawning child fiber 19 (parent: 18).
+  error 2023-11-14 23:55:01.407      front   wrk1   5446  53064         mac_app.helper_tool_interface - Global files not found.
+   info 2023-11-14 23:55:01.625       lsvc   main   5447  53055    4                anynet.relay_conn - Punch socket set up on port 51685.
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   17                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   17                anynet.any_socket - Local vport: 10, Remote vport: 13, SID: 1690781138342863
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   17                anynet.any_socket - Sending 0 queued blobs.
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   17                anynet.any_socket - Initiating the managed connection.
+warning 2023-11-14 23:55:01.626       lsvc   main   5447  53055   17                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19           anynet.punch_connector - Spawning fibers for 3 potential connect addresses.
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19           anynet.punch_connector - -> Spawning: 177.228.178.173:2431 (0).
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19                  fiber.scheduler - Spawning child fiber 20 (parent: 19).
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19           anynet.punch_connector - -> Spawning: 177.228.178.173:7070 (1).
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19                  fiber.scheduler - Spawning child fiber 21 (parent: 19).
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19           anynet.punch_connector - -> Spawning: 177.228.178.173:7070 (2).
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   19                  fiber.scheduler - Spawning child fiber 22 (parent: 19).
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   16                      app.session - 1: Net connection established.
+   info 2023-11-14 23:55:01.626       lsvc   main   5447  53055   16                      app.session - 2: Requesting a session.
+   info 2023-11-14 23:55:01.627       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connecting (lport 51685, attempt 0).
+   info 2023-11-14 23:55:01.627       lsvc   main   5447  53055   21           anynet.punch_connector - [177.228.178.173:7070] Connecting
+   info 2023-11-14 23:55:01.627       lsvc   main   5447  53055   22           anynet.punch_connector - [177.228.178.173:7070] Connecting
+   info 2023-11-14 23:55:03.350       lsvc   main   5447  53055   16                      app.session - Using protocol version 4.
+   info 2023-11-14 23:55:03.350       lsvc   main   5447  53055   16                      app.session - 2: Session acknowledged.
+   info 2023-11-14 23:55:03.351       lsvc   main   5447  53055   16                      app.session - 3: Authentication.
+   info 2023-11-14 23:55:03.351      front   wrk1   5446  53064                  app.frontend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 41, 42
+   info 2023-11-14 23:55:03.351       lsvc   main   5447  53055   16                      app.session - Forwarding wait for accept challenge (0).
+   info 2023-11-14 23:55:03.351      front   wrk1   5446  53064                  app.frontend_session - Remote OS: Windows
+   info 2023-11-14 23:55:03.351      front   wrk1   5446  53064                  app.frontend_session - Connection flags: direct paid 3 4 
+   info 2023-11-14 23:55:03.351      front   wrk2   5446  53065                  app.frontend_session - Received wait for accept request.
+   info 2023-11-14 23:55:03.351      front   wrk1   5446  53064                  app.frontend_session - Remote version: 8.0.6
+warning 2023-11-14 23:55:03.352      front   wrk2   5446  53065                  app.frontend_session - Remote asked for a volatile token, but we have none.
+   info 2023-11-14 23:55:08.952       lsvc   main   5447  53055   16                      app.session - 3: Session granted.
+   info 2023-11-14 23:55:08.952       lsvc   main   5447  53055   16                      app.session - Login token set. Updating session stats.
+warning 2023-11-14 23:55:08.952       lsvc   main   5447  53055   16                      anynet.conn - Could not send login token. unavailable (15).
+   info 2023-11-14 23:55:08.952       lsvc   main   5447  53055   16                      app.session - 4: Waiting for the frontend to be ready.
+   info 2023-11-14 23:55:08.953      front   ctrl   5446  53062                  app.frontend_session - Starting connect session.
+   info 2023-11-14 23:55:08.953      front   ctrl   5446  53062                          memory_arena - Reserving arena of 256 MB
+   info 2023-11-14 23:55:08.954      front   ctrl   5446  53062                          memory_arena - Reserving arena of 128 MB
+   info 2023-11-14 23:55:08.955      front   ctrl   5446  53062             desk_rt.display_component - Startup.
+   info 2023-11-14 23:55:08.955      front   ctrl   5446  53062                      app.clipbrd_comp - Engaging clipboard.
+   info 2023-11-14 23:55:08.956      front   ctrl   5446  53062                      app.clipbrd_comp - Ready.
+   info 2023-11-14 23:55:09.023      front   ctrl   5446  53062                  app.frontend_session - Enabling screen capturing.
+   info 2023-11-14 23:55:09.023       lsvc   main   5447  53055   16                      app.session - 4: Frontend ready.
+   info 2023-11-14 23:55:09.023      front   ctrl   5446  53062                  app.frontend_session - Session started.
+   info 2023-11-14 23:55:09.023       lsvc   main   5447  53055   16                      app.session - 5: Entering processing loop.
+   info 2023-11-14 23:55:09.023       lsvc   main   5447  53055   16         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-14 23:55:09.024       lsvc   main   5447  53055   16         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2023-11-14 23:55:09.024      front   wrk2   5446  53065                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 41, 42
+   info 2023-11-14 23:55:09.024      front   wrk2   5446  53065                  app.frontend_session - Received new remote feature map: 67.
+   info 2023-11-14 23:55:09.024      front   wrk3   5446  53066                  app.frontend_session - Keyboard layouts differ (l:unknown != r:unknown). Auto-mode is Translate, user-mode is 0.
+   info 2023-11-14 23:55:09.024      front   wrk3   5446  53066             desk_rt.display_component - Received monitor info. Monitor count: 1.
+   info 2023-11-14 23:55:09.597      front   wrk0   5446  53063                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.608      front   wrk1   5446  53064                  app.frontend_session - Received new audio permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.610      front   wrk2   5446  53065                  app.frontend_session - Updating clipboard permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.610      front   wrk2   5446  53065                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.617      front   wrk0   5446  53063                  app.frontend_session - Received new permissions to block input: (allowed supported)
+   info 2023-11-14 23:55:09.620      front   wrk3   5446  53066                                glwrap - Initializing OpenGL: 2.1 Metal - 86
+   info 2023-11-14 23:55:09.639      front   wrk1   5446  53064                  app.frontend_session - Received new sas permissions: (allowed supported)
+   info 2023-11-14 23:55:09.644      front   wrk2   5446  53065                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.649      front   wrk0   5446  53063                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2023-11-14 23:55:09.649      front   wrk3   5446  53066                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2023-11-14 23:55:09.659      front   wrk1   5446  53064                  app.frontend_session - Received new whiteboard permissions: (allowed supported)
+   info 2023-11-14 23:55:09.661      front   wrk2   5446  53065                  app.frontend_session - Received new TCP tunneling permissions: (enabled forbidden supported)
+   info 2023-11-14 23:55:09.664      front   wrk3   5446  53066                  app.frontend_session - Received new VPN permissions: (enabled forbidden unsupported)
+   info 2023-11-14 23:55:09.666      front   wrk1   5446  53064                  app.frontend_session - Received new privacy feature permissions: (disabled forbidden supported)
+   info 2023-11-14 23:55:09.667      front   wrk2   5446  53065                  app.frontend_session - Updating clipboard_files permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.667      front   wrk2   5446  53065                  app.frontend_session - Received new clipboard_files permissions: (enabled allowed supported)
+   info 2023-11-14 23:55:09.669      front   wrk3   5446  53066                  app.frontend_session - Received new permission to restart: (allowed supported)
+   info 2023-11-14 23:55:09.670      front   wrk1   5446  53064                  app.frontend_session - Received new permission to sysinfo: (enabled allowed supported)
+   info 2023-11-14 23:55:09.670      front   wrk0   5446  53063                  app.frontend_session - Received new permission to mouse_pointer: (allowed supported)
+   info 2023-11-14 23:55:09.672      front   wrk2   5446  53065                  app.frontend_session - Received new permission to modify_forbidden_windows: (forbidden supported)
+   info 2023-11-14 23:55:09.673      front   wrk3   5446  53066             desk_rt.display_component - Remote resolution changed: Monitor 0 (1920x1080)
+   info 2023-11-14 23:55:09.674      front   wrk3   5446  53066                  desk_rt.gl_view.port - Created back texture 1920x1080
+   info 2023-11-14 23:55:09.674      front   wrk3   5446  53066                  desk_rt.gl_view.port - Initialized (1920x1080, X8R8G8B8).
+   info 2023-11-14 23:55:09.962      front   wrk0   5446  53063                  app.frontend_session - Keyboard layouts differ (l:unknown != r:es). Auto-mode is Translate, user-mode is 0.
+   info 2023-11-14 23:55:10.043      front   wrk1   5446  53064                  app.frontend_session - Requesting a new thumbnail.
+   info 2023-11-14 23:55:10.043      front   wrk1   5446  53064             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.fwd.local.1385719658.
+   info 2023-11-14 23:55:10.043      front   wrk1   5446  53064             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.bwd.local.1385719658.
+   info 2023-11-14 23:55:10.043       lsvc   main   5447  53055   16            app.tcp_tunnel.config - deserialized rules 2
+   info 2023-11-14 23:55:10.043       lsvc   main   5447  53055   16            app.tcp_tunnel.config - Forward rules:
+   info 2023-11-14 23:55:16.631       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connect failed (result_timeout)).
+   info 2023-11-14 23:55:16.632       lsvc   main   5447  53055   21           anynet.punch_connector - [177.228.178.173:7070] Connection failed (result_timeout)).
+   info 2023-11-14 23:55:16.632       lsvc   main   5447  53055                       fiber.scheduler - Fiber 21 (parent: 19) terminated.
+   info 2023-11-14 23:55:16.632       lsvc   main   5447  53055   22           anynet.punch_connector - [177.228.178.173:7070] Connection failed (result_timeout)).
+   info 2023-11-14 23:55:16.632       lsvc   main   5447  53055                       fiber.scheduler - Fiber 22 (parent: 19) terminated.
+   info 2023-11-14 23:55:16.887       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connecting (lport 51685, attempt 1).
+   info 2023-11-14 23:55:31.891       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connect failed (result_timeout)).
+   info 2023-11-14 23:55:32.147       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connecting (lport 51685, attempt 2).
+   info 2023-11-14 23:55:47.151       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connect failed (result_timeout)).
+   info 2023-11-14 23:55:47.408       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connecting (lport 51685, attempt 3).
+   info 2023-11-14 23:56:02.412       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Connect failed (result_timeout)).
+  error 2023-11-14 23:56:02.412       lsvc   main   5447  53055   20           anynet.punch_connector - [177.228.178.173:2431] Too many retries.
+   info 2023-11-14 23:56:02.412       lsvc   main   5447  53055                       fiber.scheduler - Fiber 20 (parent: 19) terminated.
+   info 2023-11-14 23:56:02.412       lsvc   main   5447  53055   19           anynet.punch_connector - All connect fibers have failed.
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055   19           anynet.punch_connector - Quit timeout has expired. Connect failed.
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055                       fiber.scheduler - Fiber 19 (parent: 18) terminated.
+  error 2023-11-14 23:56:07.417       lsvc   main   5447  53055   18       anynet.managed_client_conn - Connect error (result_unknown).
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055   18            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055   18       anynet.managed_client_conn - Managed client connection failed.
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055                       fiber.scheduler - Fiber 18 terminated.
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055    3            anynet.connection_mgr - Managed client connection with d1208da70290164f5d889f8c6305f88be77c26fd failed (result_unknown).
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055    3            anynet.connection_mgr - Cleaned up 1/1 managed client connections.
+   info 2023-11-14 23:56:07.417       lsvc   main   5447  53055   17                anynet.any_socket - Direct connection closed (result_unknown).
+   info 2023-11-14 23:57:13.980      front   wrk1   5446  53064                   audio.device_render - Starting render, queue full.
+   info 2023-11-15 00:03:25.540      front   wrk1   5446  53064                      app.clipbrd_comp - Got a text offer (488 b).
+   info 2023-11-15 00:03:25.995      front   wrk1   5446  53064                      app.clipbrd_comp - Got a text offer (488 b).
+   info 2023-11-15 00:05:53.021      front   wrk0   5446  53063                      app.clipbrd_comp - Got a text offer (274 b).
+   info 2023-11-15 00:11:05.325      front   wrk1   5446  53064                      app.clipbrd_comp - Got a text offer (134 b).
+   info 2023-11-15 00:12:46.029      front   wrk1   5446  53064                      app.clipbrd_comp - Got a text offer (28 b).
+   info 2023-11-15 00:13:33.199      front   wrk1   5446  53064                      app.clipbrd_comp - Got a text offer (40 b).
+   info 2023-11-15 00:13:33.200      front   wrk1   5446  53064                      app.clipbrd_comp - Got a text offer (40 b).
+   info 2023-11-15 00:28:04.130      front   main   5446  53036                  app.frontend_session - The user has requested a connection quit.
+   info 2023-11-15 00:28:04.133      front   ctrl   5446  53062                  app.frontend_session - Stopping session.
+  error 2023-11-15 00:28:04.245      front   wrk1   5446  53064              base.prot.packet_factory - Invalid packet received (type=18, 332 bytes).
+   info 2023-11-15 00:28:04.246      front   ctrl   5446  53062             desk_rt.display_component - Stopping objects.
+  error 2023-11-15 00:28:04.264      front   wrk1   5446  53064              base.prot.packet_factory - Invalid packet received (type=18, 332 bytes).
+   info 2023-11-15 00:28:04.264      front   ctrl   5446  53062                      app.clipbrd_comp - Closing clipboard.
+   info 2023-11-15 00:28:04.264      front   ctrl   5446  53062                      app.clipbrd_comp - Clipboard closed.
+   info 2023-11-15 00:28:04.264      front   ctrl   5446  53062                  app.frontend_session - Session stopped.
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055   16                      app.session - IPC socket closed normally.
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055   16                      app.session - 5: Processing done.
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055                       fiber.scheduler - Fiber 16 'ipc_connection' (parent: 1) requested quit of fiber 17.
+   info 2023-11-15 00:28:04.265      front   ctrl   5446  53062                      mac_app.frontend - Session count: 0
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055   17                anynet.any_socket - Received quit.
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055   17                anynet.any_socket - Connect fiber stopped.
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055                       fiber.scheduler - Fiber 17 terminated.
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055   16                      app.service - Fiber exit (ipc).
+   info 2023-11-15 00:28:04.265       lsvc   main   5447  53055                       fiber.scheduler - Fiber 16 'ipc_connection' (parent: 1) terminated.
+warning 2023-11-15 00:28:04.275       lsvc   main   5447  53055    4                      anynet.conn - Received data on invalid vport 10.
+warning 2023-11-15 00:28:04.281       lsvc   main   5447  53055    4                      anynet.conn - Received data on invalid vport 10.
+   info 2023-11-15 00:28:04.297      front   main   5446  53036                  app.frontend_session - Deleting session.
+   info 2023-11-15 00:28:04.297       lsvc   main   5447  53055   11                      app.service - Stop monitoring 1385719658.
+   info 2023-11-15 00:28:04.297      front   main   5446  53036                     gui.display_panel - Deleting.
+   info 2023-11-15 00:28:04.297      front   main   5446  53036                      mac_app.frontend - restoring idle sleep for frontend user
+   info 2023-11-15 00:28:04.298      front   main   5446  53036                  desk_rt.gl_view.port - Deleted
+   info 2023-11-15 00:28:04.298      front   main   5446  53036                          desk_rt.view - View deleted.
+   info 2023-11-15 00:28:04.298      front   main   5446  53036              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2023-11-15 00:28:04.298      front   timr   5446  53121          base.signal.local.timer_impl - Timer wants to quit.
+   info 2023-11-15 00:28:04.298      front   timr   5446  53120          base.signal.local.timer_impl - Timer wants to quit.
+warning 2023-11-15 00:28:04.303       lsvc   main   5447  53055    4                      anynet.conn - Received data on invalid vport 10.
+warning 2023-11-15 00:28:04.313       lsvc   main   5447  53055    4                      anynet.conn - Received data on invalid vport 10.
+   info 2023-11-15 00:28:07.252      front   main   5446  53036                           AppDelegate - Nothing detected (0).
+   info 2023-11-15 00:28:07.254      front   main   5446  53036                      mac_app.frontend - Terminating the service
+   info 2023-11-15 00:28:07.254      front   ctrl   5446  53062                      mac_app.frontend - Frontend shutdown.
+   info 2023-11-15 00:28:07.254       lsvc   main   5447  53055   11                      app.service - Terminating the service.
+   info 2023-11-15 00:28:07.254       lsvc   main   5447  53055   11                  fiber.scheduler - Quitting scheduler (0).
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055    1                      app.service - Process stop: 5446.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055    1           anynet.relay_connector - Short timeouts disabled.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055                       fiber.scheduler - Quitting all fibers.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055                       fiber.scheduler - Fiber 1 requested quit of fiber 2 'license_adapter' (parent: 1).
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055    2                      fiber.fiber - Received quit.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055                       fiber.scheduler - Fiber 2 'license_adapter' (parent: 1) terminated.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055    3            anynet.connection_mgr - Connection manager fiber quit.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055                       fiber.scheduler - Fiber 3 'connection_mgr' terminated.
+   info 2023-11-15 00:28:07.255       lsvc   main   5447  53055    4           anynet.main_relay_conn - Main relay connection closed.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055    4            anynet.connection_mgr - Forcing cleanup.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055                       fiber.scheduler - Fiber 4 'main_relay_conn' requested quit of fiber 13.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055    5              anynet.tcp_acceptor - Received quit.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055                       fiber.scheduler - Fiber 5 'tcp_acceptor' terminated.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055    6                anynet.any_socket - Listen fiber stopped.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055                       fiber.scheduler - Fiber 6 terminated.
+   info 2023-11-15 00:28:07.258       lsvc   main   5447  53055   10                      fiber.fiber - Received quit.
+   info 2023-11-15 00:28:07.262       lsvc   main   5447  53055                       fiber.scheduler - Fiber 10 terminated.
+   info 2023-11-15 00:28:07.263       lsvc   main   5447  53055   13                      fiber.fiber - Received quit.
+   info 2023-11-15 00:28:07.263       lsvc   main   5447  53055                       fiber.scheduler - Fiber 13 terminated.
+   info 2023-11-15 00:28:07.263       lsvc   main   5447  53055   14               app.online_monitor - Online state monitor stopped.
+   info 2023-11-15 00:28:07.263       lsvc   main   5447  53055                       fiber.scheduler - Fiber 14 'online_monitor' terminated.
+   info 2023-11-15 00:28:07.265       lsvc   main   5447  53055   15                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2023-11-15 00:28:07.265       lsvc   main   5447  53055   15                    app.discovery - Discovery fiber stopped.
+   info 2023-11-15 00:28:07.265       lsvc   main   5447  53055                       fiber.scheduler - Fiber 15 'discovery' terminated.
+   info 2023-11-15 00:28:07.265       lsvc   main   5447  53055    1                      app.service - Service shutdown.
+   info 2023-11-15 00:28:07.265       lsvc   main   5447  53055                       fiber.scheduler - Fiber 1 requested quit of fiber 7 'wol_service' (parent: 1).
+   info 2023-11-15 00:28:07.265       lsvc   main   5447  53055                       fiber.scheduler - Fiber 4 'main_relay_conn' terminated.
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055    7                      fiber.fiber - Received quit.
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055                       fiber.scheduler - Fiber 7 'wol_service' (parent: 1) terminated.
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055                       fiber.scheduler - Fiber 1 requested quit of fiber 8 'invitation_service' (parent: 1).
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055    8                      fiber.fiber - Received quit.
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055                       fiber.scheduler - Fiber 8 'invitation_service' (parent: 1) terminated.
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055                       fiber.scheduler - Fiber 1 requested quit of fiber 11 'ipc_connection' (parent: 1).
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055                       fiber.scheduler - Fiber 11 'ipc_connection' (parent: 1) requested quit of fiber 12 'account_adapter' (parent: 11 'ipc_connection').
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055   12                      fiber.fiber - Received quit.
+   info 2023-11-15 00:28:07.266       lsvc   main   5447  53055                       fiber.scheduler - Fiber 12 'account_adapter' (parent: 11 'ipc_connection') terminated.
+   info 2023-11-15 00:28:08.380       lsvc   main   5447  53055   11                      app.service - Fiber exit (ipc).
+   info 2023-11-15 00:28:08.380       lsvc   main   5447  53055                       fiber.scheduler - Fiber 11 'ipc_connection' (parent: 1) terminated.
+   info 2023-11-15 00:28:08.380       lsvc   main   5447  53055    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2023-11-15 00:28:08.380       lsvc   main   5447  53055    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2023-11-15 00:28:08.381       lsvc   main   5447  53055                       fiber.scheduler - Fiber 1 terminated.
+   info 2023-11-15 00:28:08.381       lsvc   main   5447  53055                       fiber.scheduler - All fibers terminated.
+   info 2023-11-15 00:28:08.381       lsvc   main   5447  53055                       fiber.scheduler - Scheduler stopped (0).
+   info 2023-11-15 00:28:08.382       lsvc   main   5447  53055                      main.run_service - Exiting
