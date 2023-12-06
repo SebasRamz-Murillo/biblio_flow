@@ -15,7 +15,7 @@
  * limitations under the License.
 -->
 <sdk:sdk-repository xmlns:common="http://schemas.android.com/repository/android/common/02" xmlns:generic="http://schemas.android.com/repository/android/generic/02" xmlns:sdk="http://schemas.android.com/sdk/android/repo/repository2/02" xmlns:sdk-common="http://schemas.android.com/sdk/android/repo/common/02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<!--Generated on 2023-11-09 20:19:53.161340 with ADRT.-->
+	<!--Generated on 2023-11-28 20:42:08.446178 with ADRT.-->
 	<license id="android-sdk-license" type="text">Terms and Conditions
 
 This is the Android Software Development Kit License Agreement
@@ -8309,7 +8309,7 @@ June 2014.</license>
 		</archives>
 	</remotePackage>
 	<remotePackage path="cmake;3.22.1">
-		<!--Generated from:cloud storage complete_src:/bigstore/ndk-kokoro-release-artifacts/prod/ndk/cmake/windows_release/3/20211215-131021/cmake-windows-3.22.1-2669b740-21e9-4d31-99f2-25f047c33f53-for-studio.zip, cloud storage complete_src:/bigstore/ndk-kokoro-release-artifacts/prod/ndk/cmake/linux_release/3/20211215-131017/cmake-linux-3.22.1-5826e278-fe23-46d2-98c8-f977cf104d17-for-studio.zip, cloud storage complete_src:/bigstore/ndk-kokoro-release-artifacts/prod/ndk/cmake/darwin_release/3/20211215-131219/cmake-darwin-3.22.1-610fb8e3-5633-41a6-b50b-ed5819f55cd6-for-studio.zip-->
+		<!--Generated from:cloud storage complete_src:/bigstore/ndk-kokoro-release-artifacts/prod/ndk/cmake/windows_release/3/20211215-131021/cmake-windows-3.22.1-2669b740-21e9-4d31-99f2-25f047c33f53-for-studio.zip, cloud storage complete_src:/bigstore/ndk-kokoro-release-artifacts/prod/ndk/cmake/darwin_release/3/20211215-131219/cmake-darwin-3.22.1-610fb8e3-5633-41a6-b50b-ed5819f55cd6-for-studio.zip, cloud storage complete_src:/bigstore/ndk-kokoro-release-artifacts/prod/ndk/cmake/linux_release/3/20211215-131017/cmake-linux-3.22.1-5826e278-fe23-46d2-98c8-f977cf104d17-for-studio.zip-->
 		<type-details xsi:type="generic:genericDetailsType"/>
 		<revision>
 			<major>3</major>
@@ -8350,7 +8350,7 @@ June 2014.</license>
 		</archives>
 	</remotePackage>
 	<remotePackage path="cmake;3.18.1">
-		<!--Generated from:kokoro bid:7c152593-afb9-48ee-859a-19fec5829740, kokoro bid:c80a9ea8-d15f-4c56-b61e-42feb5bfa3b9, kokoro bid:91fb4185-e1aa-4330-b28a-c23350f25ae3-->
+		<!--Generated from:kokoro bid:c80a9ea8-d15f-4c56-b61e-42feb5bfa3b9, kokoro bid:7c152593-afb9-48ee-859a-19fec5829740, kokoro bid:91fb4185-e1aa-4330-b28a-c23350f25ae3-->
 		<type-details xsi:type="generic:genericDetailsType"/>
 		<revision>
 			<major>3</major>
@@ -9477,43 +9477,43 @@ June 2014.</license>
 		</archives>
 	</remotePackage>
 	<remotePackage path="emulator">
-		<!--Generated from:ab bid:11042718 branch:aosp-emu-34-release-->
+		<!--Generated from:ab bid:11146273 branch:aosp-emu-34-release-->
 		<type-details xsi:type="generic:genericDetailsType"/>
 		<revision>
 			<major>34</major>
 			<minor>1</minor>
-			<micro>10</micro>
+			<micro>12</micro>
 		</revision>
 		<display-name>Android Emulator</display-name>
 		<uses-license ref="android-sdk-preview-license"/>
 		<channelRef ref="channel-3"/>
 		<archives>
 			<archive>
-				<!--Built on: Thu Nov  2 23:35:02 2023.-->
+				<!--Built on: Tue Nov 28 03:24:54 2023.-->
 				<complete>
-					<size>327515299</size>
-					<checksum type="sha1">8e0e0306231df5e88ec248f542d26db7625b9cef</checksum>
-					<url>emulator-darwin_x64-11042718.zip</url>
+					<size>327575479</size>
+					<checksum type="sha1">e2fd8b5ad547057303c8693cb5f853cd813e1b91</checksum>
+					<url>emulator-darwin_x64-11146273.zip</url>
 				</complete>
 				<host-os>macosx</host-os>
 				<host-arch>x64</host-arch>
 			</archive>
 			<archive>
-				<!--Built on: Thu Nov  2 23:35:00 2023.-->
+				<!--Built on: Tue Nov 28 03:24:53 2023.-->
 				<complete>
-					<size>254653790</size>
-					<checksum type="sha1">2e99f7692814077b6314dc72b187e6cf15490b02</checksum>
-					<url>emulator-linux_x64-11042718.zip</url>
+					<size>254817524</size>
+					<checksum type="sha1">0186eef58535eb1ac44107217373866b70d8f9fd</checksum>
+					<url>emulator-linux_x64-11146273.zip</url>
 				</complete>
 				<host-os>linux</host-os>
 				<host-arch>x64</host-arch>
 			</archive>
 			<archive>
-				<!--Built on: Thu Nov  2 23:35:06 2023.-->
+				<!--Built on: Tue Nov 28 03:24:56 2023.-->
 				<complete>
-					<size>367145768</size>
-					<checksum type="sha1">48ac8e2cb569c616af22e1b3b78b9117d89d7cfc</checksum>
-					<url>emulator-windows_x64-11042718.zip</url>
+					<size>367069450</size>
+					<checksum type="sha1">0178d459fc672f54ca9236a93f71329684f5bc22</checksum>
+					<url>emulator-windows_x64-11146273.zip</url>
 				</complete>
 				<host-os>windows</host-os>
 				<host-arch>x64</host-arch>
@@ -9521,43 +9521,43 @@ June 2014.</license>
 		</archives>
 	</remotePackage>
 	<remotePackage path="emulator">
-		<!--Generated from:ab bid:11009868 branch:aosp-emu-33-release-->
+		<!--Generated from:ab bid:11078245 branch:aosp-emu-33-release-->
 		<type-details xsi:type="generic:genericDetailsType"/>
 		<revision>
 			<major>33</major>
 			<minor>1</minor>
-			<micro>21</micro>
+			<micro>22</micro>
 		</revision>
 		<display-name>Android Emulator</display-name>
 		<uses-license ref="android-sdk-license"/>
 		<channelRef ref="channel-1"/>
 		<archives>
 			<archive>
-				<!--Built on: Thu Oct 26 21:12:34 2023.-->
+				<!--Built on: Sat Nov 11 23:06:53 2023.-->
 				<complete>
-					<size>323871768</size>
-					<checksum type="sha1">b7a02dc0ad9035e913aa655213d99dd2227b284d</checksum>
-					<url>emulator-darwin_x64-11009868.zip</url>
+					<size>323932015</size>
+					<checksum type="sha1">9b60f1d050cf38fb6ed5a22acd91bf1569abc254</checksum>
+					<url>emulator-darwin_x64-11078245.zip</url>
 				</complete>
 				<host-os>macosx</host-os>
 				<host-arch>x64</host-arch>
 			</archive>
 			<archive>
-				<!--Built on: Thu Oct 26 21:12:30 2023.-->
+				<!--Built on: Sat Nov 11 23:06:51 2023.-->
 				<complete>
-					<size>252551984</size>
-					<checksum type="sha1">bf9a1fc2dc79bd52f445c6917ef2179168e27172</checksum>
-					<url>emulator-linux_x64-11009868.zip</url>
+					<size>252615367</size>
+					<checksum type="sha1">2b8d488442abcddd3864400436e16feb5fd8567f</checksum>
+					<url>emulator-linux_x64-11078245.zip</url>
 				</complete>
 				<host-os>linux</host-os>
 				<host-arch>x64</host-arch>
 			</archive>
 			<archive>
-				<!--Built on: Thu Oct 26 21:12:37 2023.-->
+				<!--Built on: Sat Nov 11 23:06:56 2023.-->
 				<complete>
-					<size>366405699</size>
-					<checksum type="sha1">242a2e39c925fb0b0d4c208aad461bed66c8ffee</checksum>
-					<url>emulator-windows_x64-11009868.zip</url>
+					<size>366434133</size>
+					<checksum type="sha1">147cfdc915ac0dd6c24044d75ba74198cf47a1a1</checksum>
+					<url>emulator-windows_x64-11078245.zip</url>
 				</complete>
 				<host-os>windows</host-os>
 				<host-arch>x64</host-arch>
@@ -9696,23 +9696,23 @@ June 2014.</license>
 		</archives>
 	</remotePackage>
 	<remotePackage path="emulator">
-		<!--Generated from:ab bid:11009868 branch:aosp-emu-33-release-->
+		<!--Generated from:ab bid:11078245 branch:aosp-emu-33-release-->
 		<type-details xsi:type="generic:genericDetailsType"/>
 		<revision>
 			<major>33</major>
 			<minor>1</minor>
-			<micro>21</micro>
+			<micro>22</micro>
 		</revision>
 		<display-name>Android Emulator</display-name>
 		<uses-license ref="android-sdk-license"/>
 		<channelRef ref="channel-1"/>
 		<archives>
 			<archive>
-				<!--Built on: Thu Oct 26 21:25:32 2023.-->
+				<!--Built on: Mon Nov 20 22:19:22 2023.-->
 				<complete>
-					<size>272589693</size>
-					<checksum type="sha1">7a0b147bfbd5a089674ed6b44ecd18bf6010d67b</checksum>
-					<url>emulator-darwin_aarch64-11009868.zip</url>
+					<size>272612276</size>
+					<checksum type="sha1">e8d912e66c1e02a6e7bc09c658e91f7486de341b</checksum>
+					<url>emulator-darwin_aarch64-11078245.zip</url>
 				</complete>
 				<host-os>macosx</host-os>
 				<host-arch>aarch64</host-arch>
@@ -9720,23 +9720,23 @@ June 2014.</license>
 		</archives>
 	</remotePackage>
 	<remotePackage path="emulator">
-		<!--Generated from:ab bid:11042718 branch:aosp-emu-34-release-->
+		<!--Generated from:ab bid:11146273 branch:aosp-emu-34-release-->
 		<type-details xsi:type="generic:genericDetailsType"/>
 		<revision>
 			<major>34</major>
 			<minor>1</minor>
-			<micro>10</micro>
+			<micro>12</micro>
 		</revision>
 		<display-name>Android Emulator</display-name>
 		<uses-license ref="android-sdk-preview-license"/>
 		<channelRef ref="channel-3"/>
 		<archives>
 			<archive>
-				<!--Built on: Thu Nov  2 23:44:14 2023.-->
+				<!--Built on: Tue Nov 28 03:40:28 2023.-->
 				<complete>
-					<size>275192621</size>
-					<checksum type="sha1">309c64bd5ab866bb9b6a5c7b6e4f92f5ad9b84f1</checksum>
-					<url>emulator-darwin_aarch64-11042718.zip</url>
+					<size>275280630</size>
+					<checksum type="sha1">87caf7fcecb004bc5ca652c97b40ec4b37091390</checksum>
+					<url>emulator-darwin_aarch64-11146273.zip</url>
 				</complete>
 				<host-os>macosx</host-os>
 				<host-arch>aarch64</host-arch>
